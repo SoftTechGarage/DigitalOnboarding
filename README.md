@@ -10,7 +10,7 @@ The preferred installation method is with [Swift Package Manager](https://swift.
 
 - Select **File ▸ Add Packages...**
 - Search for `https://github.com/SoftTechGarage/DigitalOnboarding` in the search bar.
-- Set the **Dependency Rule** to **Exact** with **1.0.0**. //Please contact Softtech to ask for your version.
+- Set the **Branch** to **release/v0.0.1**. //Please contact Softtech to ask for your version.
 - Make sure your project name is selected in **Add to Project**.
 - Then, **Add Package**.
 
