@@ -18,11 +18,11 @@
 		</data>
 		<key>ConfirmationPageViewController.nib/objects-13.0+.nib</key>
 		<data>
-		osz7kVm3jTtT0XA76HjKcNECRLY=
+		rCXkaB79KZgGkqCdUNhrld8iGlI=
 		</data>
 		<key>ConfirmationPageViewController.nib/runtime.nib</key>
 		<data>
-		aR4P0G0jW4n2RHSBjRToyhb5qLo=
+		280Wt5pOp566SYrt0+ZUl2xZZds=
 		</data>
 		<key>EmailActivationViewController.nib/objects-13.0+.nib</key>
 		<data>
@@ -98,7 +98,7 @@
 		</data>
 		<key>Modules/onboarding.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		zNb5A94aUe2ePoAt2MSRYPyYp3I=
+		tkJOHRxOKP/mnHl6AfTp3FDIM0c=
 		</data>
 		<key>Modules/onboarding.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -114,7 +114,7 @@
 		</data>
 		<key>Modules/onboarding.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		9cNbSY5iyJ0knlWiQjyi1lrkxDg=
+		aS477soZFN88fGK8+HaTAa/W6L4=
 		</data>
 		<key>NfcPageViewController.nib/objects-13.0+.nib</key>
 		<data>
@@ -408,14 +408,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			cpim9nyDZZ11V8cvLc+XGhOxYxfLnHw2SzGUM0AikY8=
+			xxKlfhKDhIif7zhUCe2zk1FKfVSJjaj/LHmSvTHi+PI=
 			</data>
 		</dict>
 		<key>ConfirmationPageViewController.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			BZIlsLVm0S0hw578oc9phwEgNKTVp6kdexIilaCtui4=
+			fhMNi69PqA3ICSc8HpiqiyHC8FHGD0ISGEUA6NdC6S4=
 			</data>
 		</dict>
 		<key>EmailActivationViewController.nib/objects-13.0+.nib</key>
@@ -541,7 +541,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			J/VKpWqTNdmyiO+dqH/vjj3xtrLj/RmIeHj+Qa/YaUg=
+			XVHDZrIG+Zq2VjUCmYSTP3Zk+PzBUrca+eh00K7512Q=
 			</data>
 		</dict>
 		<key>Modules/onboarding.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -569,7 +569,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			UpMWLKXoF2F3sifv7jnlF8Du+2+jmm3Sl8PqrczeznE=
+			PYXuO1RLTfzVjRFqGtRukMa+4C4zUIJyr198aCqKxvE=
 			</data>
 		</dict>
 		<key>NfcPageViewController.nib/objects-13.0+.nib</key>
