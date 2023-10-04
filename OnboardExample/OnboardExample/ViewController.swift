@@ -21,23 +21,19 @@ class ViewController: UIViewController, OnboardingDelegate {
                                              width: width,
                                              height: 40))
         openBtn.setTitle("Open SDK", for: .normal)
-        openBtn.addTarget(self, action: #selector(openOnboarding), for: .allEvents)
+        openBtn.addTarget(self, action: #selector(openOnboarding), for: .touchUpInside)
         openBtn.setTitleColor(UIColor.blue, for: .normal)
         view.addSubview(openBtn)
     }
 
     @objc func openOnboarding(){
         
-        let nav = UINavigationController()
-        
-        Onboarding(vc: nav)
+        Onboarding(vc: self.navigationController!)
             .setLanguage(language: "tr")
             .setEndpoint(endPoint: "http://YOUR_ENDPOINT")
             .setPredefined(predefined: "YOUR_ID")
             .setExternalKey(externalKey: "YOUR_EXTERNAL_KEY") //optional
             .start()
-        
-        present(nav, animated: true)
     }
     
     func onOnboardingResult(resultCode: onboarding.OnboardingResult, code: String, message: String, processId: String) {
