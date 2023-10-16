@@ -58,7 +58,7 @@
 		</data>
 		<key>Headers/onboarding-Swift.h</key>
 		<data>
-		6Ja4X7MORSD4wXEupb5yx13iZlM=
+		W7umy5LH1XNB9LmX8w2TGREgTlY=
 		</data>
 		<key>Headers/onboarding.h</key>
 		<data>
@@ -66,7 +66,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		O01dMhr0Y88gpnf4kp3d/G0mx/g=
+		x95qJ44dVLEohBxbD9Q1UCIzUF8=
 		</data>
 		<key>InfographicPageViewController.nib/objects-13.0+.nib</key>
 		<data>
@@ -96,25 +96,45 @@
 		<data>
 		4vlN0kP9R718fG+Idre/Y16I7xs=
 		</data>
-		<key>Modules/onboarding.swiftmodule/arm64-apple-ios.abi.json</key>
+		<key>Modules/onboarding.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
 		zNb5A94aUe2ePoAt2MSRYPyYp3I=
 		</data>
-		<key>Modules/onboarding.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
+		<key>Modules/onboarding.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		pPsdssIeltFmevoi9rFuHdLabMo=
+		F55byWK8VAXVinnhPLcLR542H9k=
 		</data>
-		<key>Modules/onboarding.swiftmodule/arm64-apple-ios.swiftdoc</key>
+		<key>Modules/onboarding.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		CGSqu2rR2kexWIYqS0jUAkOMXC0=
+		Xe01xKzoaIap90fJpuVjtAcrdSo=
 		</data>
-		<key>Modules/onboarding.swiftmodule/arm64-apple-ios.swiftinterface</key>
+		<key>Modules/onboarding.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		pPsdssIeltFmevoi9rFuHdLabMo=
+		F55byWK8VAXVinnhPLcLR542H9k=
 		</data>
-		<key>Modules/onboarding.swiftmodule/arm64-apple-ios.swiftmodule</key>
+		<key>Modules/onboarding.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		9cNbSY5iyJ0knlWiQjyi1lrkxDg=
+		NntBGBFRRTjrFSpBjVIJ+Idp6UI=
+		</data>
+		<key>Modules/onboarding.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
+		<data>
+		zNb5A94aUe2ePoAt2MSRYPyYp3I=
+		</data>
+		<key>Modules/onboarding.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
+		<data>
+		MlYaGGykisAm14xWLStgpWetrs4=
+		</data>
+		<key>Modules/onboarding.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
+		<data>
+		xcfmtZhuHyPax0bvAC6yS7F7V9k=
+		</data>
+		<key>Modules/onboarding.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
+		<data>
+		MlYaGGykisAm14xWLStgpWetrs4=
+		</data>
+		<key>Modules/onboarding.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
+		<data>
+		y1Esx8HH93dl6IawpXc8ukWiL/o=
 		</data>
 		<key>NfcPageViewController.nib/objects-13.0+.nib</key>
 		<data>
@@ -478,7 +498,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			zcC+KMMJcbORvPHlCGxhL+XspXZ5VYKW/VfVHvx4nDg=
+			QIW4SFHrGXVzF6tJzwJS1hZ66E3a3nu5XnkkvdlvnQk=
 			</data>
 		</dict>
 		<key>Headers/onboarding.h</key>
@@ -537,39 +557,74 @@
 			hmzZD3a+VKfLeNKFQ+vVS6CgIgi/97W7roLUstUxWrM=
 			</data>
 		</dict>
-		<key>Modules/onboarding.swiftmodule/arm64-apple-ios.abi.json</key>
+		<key>Modules/onboarding.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			J/VKpWqTNdmyiO+dqH/vjj3xtrLj/RmIeHj+Qa/YaUg=
 			</data>
 		</dict>
-		<key>Modules/onboarding.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
+		<key>Modules/onboarding.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			lPMAWHU7F+Zc8JXAoYNa5Avsf1KZNVaTuO3VPYBVLGw=
+			0FRrnk9vOb2s70n2lT0eAvRiIe9ai7kX+yOj9BzcVVQ=
 			</data>
 		</dict>
-		<key>Modules/onboarding.swiftmodule/arm64-apple-ios.swiftdoc</key>
+		<key>Modules/onboarding.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			EA7P6yyhBYsmK7mpobuDKJY4ABPHD7hnHRsTuyLnPtc=
+			sFuS53CO3OtQ/jRVKZ4QloGXQsJvs531Vtuy5UHcyWQ=
 			</data>
 		</dict>
-		<key>Modules/onboarding.swiftmodule/arm64-apple-ios.swiftinterface</key>
+		<key>Modules/onboarding.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			lPMAWHU7F+Zc8JXAoYNa5Avsf1KZNVaTuO3VPYBVLGw=
+			0FRrnk9vOb2s70n2lT0eAvRiIe9ai7kX+yOj9BzcVVQ=
 			</data>
 		</dict>
-		<key>Modules/onboarding.swiftmodule/arm64-apple-ios.swiftmodule</key>
+		<key>Modules/onboarding.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			UpMWLKXoF2F3sifv7jnlF8Du+2+jmm3Sl8PqrczeznE=
+			mQBOHMdW+2iZvzXYhByC57CbXw6GncKC3og+Gz2peQc=
+			</data>
+		</dict>
+		<key>Modules/onboarding.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			J/VKpWqTNdmyiO+dqH/vjj3xtrLj/RmIeHj+Qa/YaUg=
+			</data>
+		</dict>
+		<key>Modules/onboarding.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			3cW+im/8dQdEuOWxiFADFs7Nk75r3y48PbfuQPkLIMo=
+			</data>
+		</dict>
+		<key>Modules/onboarding.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Hl2im4VWZIrSN3DpJKbphRndCbXORjN+Q+7dvltcwQc=
+			</data>
+		</dict>
+		<key>Modules/onboarding.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			3cW+im/8dQdEuOWxiFADFs7Nk75r3y48PbfuQPkLIMo=
+			</data>
+		</dict>
+		<key>Modules/onboarding.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			1SxZArrerkc/YAlEeWrC+c2H05RrtrEvLQ3QhCkWudc=
 			</data>
 		</dict>
 		<key>NfcPageViewController.nib/objects-13.0+.nib</key>
