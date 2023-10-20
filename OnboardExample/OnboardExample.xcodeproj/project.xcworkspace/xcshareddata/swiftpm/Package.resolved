@@ -1,15 +1,6 @@
 {
   "pins" : [
     {
-      "identity" : "digitalonboarding",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/SoftTechGarage/DigitalOnboarding.git",
-      "state" : {
-        "revision" : "3997c076760a8ca870c25098bf30199c8de7dbaa",
-        "version" : "0.0.33"
-      }
-    },
-    {
       "identity" : "giphy-ios-sdk",
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/Giphy/giphy-ios-sdk",
@@ -32,8 +23,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/jitsi/webrtc",
       "state" : {
-        "revision" : "6f4a40c81c84a0754ec66622d5fed68dce5bd4ec",
-        "version" : "106.0.1"
+        "branch" : "master",
+        "revision" : "3506c75e4c329236cc050172f8ed5572ec255786"
       }
     }
   ],
