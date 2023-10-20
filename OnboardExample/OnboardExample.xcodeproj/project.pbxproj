@@ -14,6 +14,7 @@
 		7888C0D52ACBF4F90024BD00 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7888C0D42ACBF4F90024BD00 /* Assets.xcassets */; };
 		7888C0D82ACBF4F90024BD00 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7888C0D62ACBF4F90024BD00 /* LaunchScreen.storyboard */; };
 		7888C0E52ACBF8C70024BD00 /* OnboardSPM in Frameworks */ = {isa = PBXBuildFile; productRef = 7888C0E42ACBF8C70024BD00 /* OnboardSPM */; };
+		A7392BDB2AE257B2004535E7 /* OnboardSPM in Frameworks */ = {isa = PBXBuildFile; productRef = A7392BDA2AE257B2004535E7 /* OnboardSPM */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,6 +35,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7888C0E52ACBF8C70024BD00 /* OnboardSPM in Frameworks */,
+				A7392BDB2AE257B2004535E7 /* OnboardSPM in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -105,6 +107,7 @@
 			name = OnboardExample;
 			packageProductDependencies = (
 				7888C0E42ACBF8C70024BD00 /* OnboardSPM */,
+				A7392BDA2AE257B2004535E7 /* OnboardSPM */,
 			);
 			productName = OnboardExample;
 			productReference = 7888C0C82ACBF4F70024BD00 /* OnboardExample.app */;
@@ -134,6 +137,9 @@
 				Base,
 			);
 			mainGroup = 7888C0BF2ACBF4F70024BD00;
+			packageReferences = (
+				A7392BD92AE257B2004535E7 /* XCRemoteSwiftPackageReference "DigitalOnboarding" */,
+			);
 			productRefGroup = 7888C0C92ACBF4F70024BD00 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -382,9 +388,25 @@
 		};
 /* End XCConfigurationList section */
 
+/* Begin XCRemoteSwiftPackageReference section */
+		A7392BD92AE257B2004535E7 /* XCRemoteSwiftPackageReference "DigitalOnboarding" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/SoftTechGarage/DigitalOnboarding.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 0.0.33;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
 /* Begin XCSwiftPackageProductDependency section */
 		7888C0E42ACBF8C70024BD00 /* OnboardSPM */ = {
 			isa = XCSwiftPackageProductDependency;
+			productName = OnboardSPM;
+		};
+		A7392BDA2AE257B2004535E7 /* OnboardSPM */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = A7392BD92AE257B2004535E7 /* XCRemoteSwiftPackageReference "DigitalOnboarding" */;
 			productName = OnboardSPM;
 		};
 /* End XCSwiftPackageProductDependency section */
