@@ -15,7 +15,6 @@ let package = Package(
         
     ],
     dependencies: [
-        .package(url: "https://github.com/jitsi/webrtc", branch: "master"),
         .package(url: "https://github.com/Giphy/giphy-ios-sdk", from: "2.2.6"),
     ],
     targets: [
@@ -25,10 +24,13 @@ let package = Package(
                 "JitsiMeetSDK",
                 "NFCReaderApple",
                 "onboarding",
+		"WebRTC",
                 "OpenSSL",
-                .product(name: "GiphyUISDK", package: "giphy-ios-sdk"),
-                .product(name: "WebRTC", package: "webrtc"),
+                .product(name: "GiphyUISDK", package: "giphy-ios-sdk")
             ]),
+        .binaryTarget(
+            name: "WebRTC",
+            path: "Sources/WebRTC.xcframework"),
         .binaryTarget(
             name: "JitsiMeetSDK",
             path: "Sources/JitsiMeetSDK.xcframework"),

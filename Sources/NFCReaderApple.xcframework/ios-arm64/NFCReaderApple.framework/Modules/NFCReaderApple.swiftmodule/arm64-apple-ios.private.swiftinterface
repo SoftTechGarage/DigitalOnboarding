@@ -1,5 +1,5 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)
+// swift-compiler-version: Apple Swift version 5.9 (swiftlang-5.9.0.128.108 clang-1500.0.40.1)
 // swift-module-flags: -target arm64-apple-ios13.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name NFCReaderApple
 // swift-module-flags-ignorable: -enable-bare-slash-regex
 import AVFoundation
@@ -17,6 +17,7 @@ import UIKit
 import Vision
 import _Concurrency
 import _StringProcessing
+import _SwiftConcurrencyShims
 @_hasMissingDesignatedInitializers @available(iOS 13, macOS 10.15, *)
 public class ChipAuthenticationPublicKeyInfo : NFCReaderApple.SecurityInfo {
   override public func getObjectIdentifier() -> Swift.String
@@ -132,7 +133,7 @@ public class NFCPassportModel {
   public var activeAuthenticationSignature: [Swift.UInt8] {
     get
   }
-  public var verificationErrors: [Swift.Error] {
+  public var verificationErrors: [any Swift.Error] {
     get
   }
   public var isPACESupported: Swift.Bool {
@@ -184,7 +185,7 @@ public protocol NFCReaderDelegate : AnyObject {
 @_hasMissingDesignatedInitializers public class CoreReader {
   open var lang: Swift.String
   public static let sharedInstace: NFCReaderApple.CoreReader
-  weak public var delegate: NFCReaderApple.NFCReaderDelegate?
+  weak public var delegate: (any NFCReaderApple.NFCReaderDelegate)?
   public func readChip(resulat: NFCReaderApple.MrzScanResult)
   @objc deinit
 }
@@ -398,7 +399,7 @@ public class PassportReader : ObjectiveC.NSObject {
 @available(iOS 13, *)
 extension NFCReaderApple.PassportReader : CoreNFC.NFCTagReaderSessionDelegate {
   public func tagReaderSessionDidBecomeActive(_ session: CoreNFC.NFCTagReaderSession)
-  public func tagReaderSession(_ session: CoreNFC.NFCTagReaderSession, didInvalidateWithError error: Swift.Error)
+  public func tagReaderSession(_ session: CoreNFC.NFCTagReaderSession, didInvalidateWithError error: any Swift.Error)
   public func tagReaderSession(_ session: CoreNFC.NFCTagReaderSession, didDetect tags: [CoreNFC.NFCTag])
 }
 @_hasMissingDesignatedInitializers @available(iOS 13, macOS 10.15, *)
@@ -891,14 +892,14 @@ public class NotImplementedDG : NFCReaderApple.DataGroup {
   }
   @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewDidAppear(_ animated: Swift.Bool)
   @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewWillDisappear(_ animated: Swift.Bool)
-  @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewWillTransition(to size: CoreFoundation.CGSize, with coordinator: UIKit.UIViewControllerTransitionCoordinator)
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewWillTransition(to size: CoreFoundation.CGSize, with coordinator: any UIKit.UIViewControllerTransitionCoordinator)
   @_Concurrency.MainActor(unsafe) @objc public func presentationControllerDidDismiss(_ presentationController: UIKit.UIPresentationController)
   @_Concurrency.MainActor(unsafe) @objc override dynamic public init(nibName nibNameOrNil: Swift.String?, bundle nibBundleOrNil: Foundation.Bundle?)
   @_Concurrency.MainActor(unsafe) @objc required dynamic public init?(coder: Foundation.NSCoder)
   @objc deinit
 }
 @_hasMissingDesignatedInitializers @objc @_Concurrency.MainActor(unsafe) public class CardAndPassportDetectionViewController : NFCReaderApple.BaseCardDetectionViewController {
-  @objc @_Concurrency.MainActor(unsafe) weak public var delegate: NFCReaderApple.CardAndPassportDetectionViewControllerDelegate?
+  @objc @_Concurrency.MainActor(unsafe) weak public var delegate: (any NFCReaderApple.CardAndPassportDetectionViewControllerDelegate)?
   @objc @_Concurrency.MainActor(unsafe) final public let settings: NFCReaderApple.CardAndPassportDetectionSettings
   @objc @_Concurrency.MainActor(unsafe) public init(settings: NFCReaderApple.CardAndPassportDetectionSettings)
   @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewDidLoad()
