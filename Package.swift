@@ -24,13 +24,10 @@ let package = Package(
                 "JitsiMeetSDK",
                 "NFCReaderApple",
                 "onboarding",
-		"WebRTC",
                 "OpenSSL",
-                .product(name: "GiphyUISDK", package: "giphy-ios-sdk")
+                "WebRTC",
+                .product(name: "GiphyUISDK", package: "giphy-ios-sdk"),
             ]),
-        .binaryTarget(
-            name: "WebRTC",
-            path: "Sources/WebRTC.xcframework"),
         .binaryTarget(
             name: "JitsiMeetSDK",
             path: "Sources/JitsiMeetSDK.xcframework"),
@@ -43,5 +40,10 @@ let package = Package(
         .binaryTarget(
             name: "OpenSSL",
             path: "Sources/OpenSSL.xcframework"),
+        .binaryTarget(
+            name: "WebRTC",
+            url: "https://github.com/jitsi/webrtc/releases/download/v111.0.2/WebRTC.xcframework.zip",
+            checksum: "5033f23040628e76baa3a9c83c28d89e86ce8127a5a83b5b7d077ede24182b07"
+        ),
     ]
 )
