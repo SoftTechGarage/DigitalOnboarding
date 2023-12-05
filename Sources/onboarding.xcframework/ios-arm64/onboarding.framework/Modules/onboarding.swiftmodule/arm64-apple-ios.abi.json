@@ -6072,385 +6072,378 @@
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/FaceDetectionPageViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 1784,
+      "offset": 1840,
       "length": 2,
       "value": "30"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/FaceDetectionPageViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 1810,
-      "length": 2,
-      "value": "30"
-    },
-    {
-      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/FaceDetectionPageViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1816,
+      "offset": 1846,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/FaceDetectionPageViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2038,
+      "offset": 1909,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/FaceDetectionPageViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2110,
+      "offset": 1980,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/FaceDetectionPageViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 2163,
+      "offset": 2033,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/FaceDetectionPageViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2398,
+      "offset": 2268,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/FaceDetectionPageViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2468,
+      "offset": 2338,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/FaceDetectionPageViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2546,
+      "offset": 2416,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/FaceDetectionPageViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 2606,
+      "offset": 2476,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/FaceDetectionPageViewController.swift",
       "kind": "StringLiteral",
-      "offset": 2830,
+      "offset": 2700,
       "length": 9,
       "value": "\"BoxFill\""
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/FaceDetectionPageViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 3076,
+      "offset": 2946,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/FaceDetectionPageViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 3563,
+      "offset": 3433,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/FaceDetectionPageViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 3569,
+      "offset": 3439,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/FaceDetectionPageViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 3798,
+      "offset": 3668,
       "length": 3,
       "value": "2.0"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/FaceDetectionPageViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 3885,
+      "offset": 3755,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/FaceDetectionPageViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 3927,
+      "offset": 3797,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/FaceDetectionPageViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 3996,
+      "offset": 3866,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/FaceDetectionPageViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 4083,
+      "offset": 3953,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/FaceDetectionPageViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 4125,
+      "offset": 3995,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/FaceDetectionPageViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 4263,
+      "offset": 4133,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/FaceDetectionPageViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 4305,
+      "offset": 4175,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/FaceDetectionPageViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 5097,
+      "offset": 4967,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/FaceDetectionPageViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 5103,
+      "offset": 4973,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/FaceDetectionPageViewController.swift",
       "kind": "StringLiteral",
-      "offset": 5442,
+      "offset": 5304,
       "length": 14,
       "value": "\"camera queue\""
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/FaceDetectionPageViewController.swift",
       "kind": "Dictionary",
-      "offset": 6617,
+      "offset": 6461,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/FaceDetectionPageViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 7278,
+      "offset": 7112,
       "length": 3,
       "value": "0.5"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/FaceDetectionPageViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 7878,
+      "offset": 7712,
       "length": 6,
       "value": "50000"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/FaceDetectionPageViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 7952,
+      "offset": 7786,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/FaceDetectionPageViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 8290,
+      "offset": 8124,
       "length": 3,
       "value": "1.5"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/FaceDetectionPageViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 8409,
+      "offset": 8243,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/FaceDetectionPageViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 8788,
+      "offset": 8622,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/FaceDetectionPageViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 9652,
+      "offset": 9486,
       "length": 4,
       "value": "0.25"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/FaceDetectionPageViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 9697,
+      "offset": 9531,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/FaceDetectionPageViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 9733,
+      "offset": 9567,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/FaceDetectionPageViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 9809,
+      "offset": 9643,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/FaceDetectionPageViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 9847,
+      "offset": 9681,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/FaceDetectionPageViewController.swift",
       "kind": "StringLiteral",
-      "offset": 10016,
+      "offset": 9850,
       "length": 3,
       "value": "\"+\""
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/FaceDetectionPageViewController.swift",
       "kind": "StringLiteral",
-      "offset": 10027,
+      "offset": 9861,
       "length": 5,
       "value": "\"%2B\""
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/FaceDetectionPageViewController.swift",
       "kind": "StringLiteral",
-      "offset": 10257,
+      "offset": 10091,
       "length": 11,
       "value": "\"leadPhoto\""
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/FaceDetectionPageViewController.swift",
       "kind": "StringLiteral",
-      "offset": 10758,
+      "offset": 10592,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/FaceDetectionPageViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 11073,
+      "offset": 10907,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/FaceDetectionPageViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 11077,
+      "offset": 10911,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/FaceDetectionPageViewController.swift",
       "kind": "StringLiteral",
-      "offset": 11122,
+      "offset": 10956,
       "length": 8,
       "value": "\"UYARI!\""
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/FaceDetectionPageViewController.swift",
       "kind": "StringLiteral",
-      "offset": 11145,
+      "offset": 10979,
       "length": 88,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/FaceDetectionPageViewController.swift",
       "kind": "StringLiteral",
-      "offset": 11185,
+      "offset": 11019,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/FaceDetectionPageViewController.swift",
       "kind": "StringLiteral",
-      "offset": 11188,
+      "offset": 11022,
       "length": 1,
       "value": "\"\nHata Kodu : \""
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/FaceDetectionPageViewController.swift",
       "kind": "StringLiteral",
-      "offset": 11228,
+      "offset": 11062,
       "length": 3,
       "value": "\"-\""
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/FaceDetectionPageViewController.swift",
       "kind": "StringLiteral",
-      "offset": 11232,
+      "offset": 11066,
       "length": 16,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/FaceDetectionPageViewController.swift",
       "kind": "StringLiteral",
-      "offset": 11247,
+      "offset": 11081,
       "length": 7,
       "value": "\"Tamam\""
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/FaceDetectionPageViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 11899,
+      "offset": 11721,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/FaceDetectionPageViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 11950,
+      "offset": 11772,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/FaceDetectionPageViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 11956,
+      "offset": 11778,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/FaceDetectionPageViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 12319,
+      "offset": 12141,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/FaceDetectionPageViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 12726,
+      "offset": 12548,
       "length": 4,
       "value": "true"
     },
@@ -14851,90 +14844,90 @@
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/InformationPageViewController.swift",
       "kind": "StringLiteral",
       "offset": 5033,
-      "length": 107,
-      "value": "\"Lütfen kimliğinizin ön yüzünü çerçeveye yerleştirin ve çizgiler yeşil oluncaya kadar bekleyin.\""
+      "length": 85,
+      "value": "\"Lütfen kimliği çerçeveye yerleştirin ve çizgiler yeşil oluncaya dek bekleyin\""
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/InformationPageViewController.swift",
       "kind": "StringLiteral",
-      "offset": 5288,
+      "offset": 5275,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/InformationPageViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 5355,
+      "offset": 5342,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/InformationPageViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 5371,
+      "offset": 5358,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/InformationPageViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 5430,
+      "offset": 5417,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/InformationPageViewController.swift",
       "kind": "Array",
-      "offset": 5581,
+      "offset": 5568,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/InformationPageViewController.swift",
       "kind": "Array",
-      "offset": 5665,
+      "offset": 5652,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/InformationPageViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 5735,
+      "offset": 5722,
       "length": 3,
       "value": "0.5"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/InformationPageViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 5810,
+      "offset": 5797,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/InformationPageViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 5826,
+      "offset": 5813,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/InformationPageViewController.swift",
       "kind": "StringLiteral",
-      "offset": 6280,
+      "offset": 6267,
       "length": 30,
       "value": "\"*****NFCReader Success******\""
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/InformationPageViewController.swift",
       "kind": "StringLiteral",
-      "offset": 6449,
+      "offset": 6436,
       "length": 23,
       "value": "\"*****NFCReader Cancel\""
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/InformationPageViewController.swift",
       "kind": "StringLiteral",
-      "offset": 6535,
+      "offset": 6522,
       "length": 31,
       "value": "\"*****NFCReader didFail ******\""
     },
@@ -16411,273 +16404,266 @@
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/VideoCallPageViewController.swift",
       "kind": "StringLiteral",
-      "offset": 2530,
+      "offset": 2498,
       "length": 7,
       "value": "\"https\""
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/VideoCallPageViewController.swift",
       "kind": "StringLiteral",
-      "offset": 2593,
+      "offset": 2561,
       "length": 8,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/VideoCallPageViewController.swift",
       "kind": "StringLiteral",
-      "offset": 2600,
+      "offset": 2568,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/VideoCallPageViewController.swift",
       "kind": "StringLiteral",
-      "offset": 2678,
+      "offset": 2646,
       "length": 16,
       "value": "\"https:\/\/\""
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/VideoCallPageViewController.swift",
       "kind": "StringLiteral",
-      "offset": 2693,
+      "offset": 2661,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/VideoCallPageViewController.swift",
       "kind": "StringLiteral",
-      "offset": 2875,
+      "offset": 2843,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/VideoCallPageViewController.swift",
       "kind": "StringLiteral",
-      "offset": 2906,
+      "offset": 2874,
       "length": 6,
       "value": "\"true\""
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/VideoCallPageViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 3385,
+      "offset": 3353,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/VideoCallPageViewController.swift",
       "kind": "StringLiteral",
-      "offset": 4710,
+      "offset": 4678,
       "length": 15,
       "value": "\"videocallpage\""
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/VideoCallPageViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 4810,
+      "offset": 4781,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/VideoCallPageViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 5230,
+      "offset": 5201,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/VideoCallPageViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 5606,
+      "offset": 5577,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/VideoCallPageViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 5610,
+      "offset": 5581,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/VideoCallPageViewController.swift",
       "kind": "StringLiteral",
-      "offset": 5659,
+      "offset": 5630,
       "length": 8,
       "value": "\"UYARI!\""
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/VideoCallPageViewController.swift",
       "kind": "StringLiteral",
-      "offset": 5682,
+      "offset": 5653,
       "length": 88,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/VideoCallPageViewController.swift",
       "kind": "StringLiteral",
-      "offset": 5722,
+      "offset": 5693,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/VideoCallPageViewController.swift",
       "kind": "StringLiteral",
-      "offset": 5725,
+      "offset": 5696,
       "length": 1,
       "value": "\"\nHata Kodu : \""
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/VideoCallPageViewController.swift",
       "kind": "StringLiteral",
-      "offset": 5765,
+      "offset": 5736,
       "length": 3,
       "value": "\"-\""
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/VideoCallPageViewController.swift",
       "kind": "StringLiteral",
-      "offset": 5769,
+      "offset": 5740,
       "length": 16,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/VideoCallPageViewController.swift",
       "kind": "StringLiteral",
-      "offset": 5784,
+      "offset": 5755,
       "length": 7,
       "value": "\"Tamam\""
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/VideoCallPageViewController.swift",
       "kind": "StringLiteral",
-      "offset": 6319,
+      "offset": 6290,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/VideoCallPageViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 6353,
+      "offset": 6324,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/VideoCallPageViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 6450,
+      "offset": 6421,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/VideoCallPageViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 6454,
+      "offset": 6425,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/VideoCallPageViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 6492,
+      "offset": 6463,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/VideoCallPageViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 6699,
+      "offset": 6670,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/VideoCallPageViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 7000,
+      "offset": 6971,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/VideoCallPageViewController.swift",
       "kind": "StringLiteral",
-      "offset": 7164,
+      "offset": 7135,
       "length": 17,
       "value": "\"videoCallStatus\""
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/VideoCallPageViewController.swift",
       "kind": "StringLiteral",
-      "offset": 7204,
+      "offset": 7175,
       "length": 20,
       "value": "\"cancelled_customer\""
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/VideoCallPageViewController.swift",
       "kind": "StringLiteral",
-      "offset": 7657,
+      "offset": 7626,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/VideoCallPageViewController.swift",
       "kind": "StringLiteral",
-      "offset": 8481,
+      "offset": 8450,
       "length": 43,
       "value": "\"https:\/\/meet.onboardinguat.onplateau.com\/\""
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/VideoCallPageViewController.swift",
       "kind": "StringLiteral",
-      "offset": 8553,
+      "offset": 8522,
       "length": 30,
       "value": "\"BigComponentsWrapPermanently\""
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/VideoCallPageViewController.swift",
       "kind": "StringLiteral",
-      "offset": 8713,
+      "offset": 8682,
       "length": 21,
       "value": "\"welcomepage.enabled\""
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/VideoCallPageViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 8747,
+      "offset": 8716,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/VideoCallPageViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 9658,
+      "offset": 9619,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/VideoCallPageViewController.swift",
       "kind": "StringLiteral",
-      "offset": 9766,
+      "offset": 9727,
       "length": 30,
       "value": "\"BigComponentsWrapPermanently\""
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/VideoCallPageViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 9824,
+      "offset": 9785,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/VideoCallPageViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 9975,
-      "length": 1,
-      "value": "2"
-    },
-    {
-      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/VideoCallPageViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 11022,
+      "offset": 10783,
       "length": 1,
       "value": "0"
     },

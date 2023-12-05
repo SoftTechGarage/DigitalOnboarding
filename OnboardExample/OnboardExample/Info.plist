@@ -2,26 +2,6 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>CFBundleURLTypes</key>
-	<array>
-		<dict>
-			<key>CFBundleTypeRole</key>
-			<string>Viewer</string>
-			<key>CFBundleURLName</key>
-			<string></string>
-			<key>CFBundleURLSchemes</key>
-			<array>
-				<string>onboarding</string>
-			</array>
-		</dict>
-	</array>
-	<key>NSAppTransportSecurity</key>
-	<dict>
-		<key>NSAllowsArbitraryLoads</key>
-		<true/>
-	</dict>
-	<key>SanalogiReaderToken</key>
-	<string>xxxxxxxxxxxxxxxxxxxxxxx</string>
 	<key>UIApplicationSceneManifest</key>
 	<dict>
 		<key>UIApplicationSupportsMultipleScenes</key>
@@ -41,15 +21,5 @@
 			</array>
 		</dict>
 	</dict>
-	<key>UIBackgroundModes</key>
-	<array>
-		<string>audio</string>
-		<string>voip</string>
-	</array>
-	<key>com.apple.developer.nfc.readersession.iso7816.select-identifiers</key>
-	<array>
-		<string>A0000002471001</string>
-		<string>00000000000000</string>
-	</array>
 </dict>
 </plist>
