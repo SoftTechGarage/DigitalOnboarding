@@ -30,10 +30,9 @@ class ViewController: UIViewController, OnboardingDelegate {
         
         Onboarding(vc: self.navigationController!)
             .setLanguage(language: "tr")
-            .setEndpoint(endPoint: "http://apigateway.onboardinguat.onplateau.com")
-            .setJson(json: "[{\"code\":\"createLeadParty_tckn\",\"value\":\"50167783254\"},{\"code\":\"createLeadParty_name\",\"value\":\"Salih\"},{\"code\":\"createLeadParty_surname\",\"value\":\"KIR\"},{\"code\":\"createLeadParty_phone\",\"value\":\"5079740808\"},{\"code\":\"createLeadParty_countryCode\",\"value\":\"+90\"},{\"code\":\"createLeadParty_email\",\"value\":\"cagri.ertek@softtech.com.tr\"},{\"code\":\"createLeadParty_primaryContactType\",\"value\":\"PHONE\"},{\"code\":\"createLeadParty_hasNFCPhone\",\"value\":\"true\"},{\"code\":\"createLeadParty_hasNewIdentityCard\",\"value\":\"true\"}]")
-            .setPredefined(predefined: "com.trademaster.mobile")
-            .setExternalKey(externalKey: "") //optional
+            .setEndpoint(endPoint: "http://YOUR_ENDPOINT")
+            .setPredefined(predefined: "YOUR_ID")
+            .setExternalKey(externalKey: "YOUR_EXTERNAL_KEY") //optional
             .start()
     }
     
