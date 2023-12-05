@@ -1,10 +1,12 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)
+// swift-compiler-version: Apple Swift version 5.9 (swiftlang-5.9.0.128.108 clang-1500.0.40.1)
 // swift-module-flags: -target arm64-apple-ios13.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name NFCReaderApple
 // swift-module-flags-ignorable: -enable-bare-slash-regex
 import AVFoundation
 import Accelerate
+import Combine
 import CommonCrypto
+import CoreGraphics
 import CoreMedia
 import CoreNFC
 import CryptoKit
@@ -17,12 +19,26 @@ import UIKit
 import Vision
 import _Concurrency
 import _StringProcessing
+import _SwiftConcurrencyShims
+import libtesseract
 @_hasMissingDesignatedInitializers @available(iOS 13, macOS 10.15, *)
 public class ChipAuthenticationPublicKeyInfo : NFCReaderApple.SecurityInfo {
   override public func getObjectIdentifier() -> Swift.String
   override public func getProtocolOIDString() -> Swift.String
   public func getKeyId() -> Swift.Int
   @objc deinit
+}
+extension NFCReaderApple.Tesseract {
+  @_functionBuilder public struct ConfigurationBuilder {
+    public static func buildBlock(_ configurations: (NFCReaderApple.TessBaseAPI) -> Swift.Void...) -> (NFCReaderApple.TessBaseAPI) -> Swift.Void
+  }
+}
+public func set(_ variable: NFCReaderApple.Tesseract.Variable, value: Swift.String) -> (NFCReaderApple.TessBaseAPI) -> Swift.Void
+extension Swift.String {
+  public static let `true`: Swift.String
+  public static let `false`: Swift.String
+  public static func integer<A>(_ value: A) -> Swift.String where A : Swift.BinaryInteger
+  public static func double(_ value: Swift.Double) -> Swift.String
 }
 public enum PassportAuthenticationStatus {
   case notDone
@@ -132,7 +148,7 @@ public class NFCPassportModel {
   public var activeAuthenticationSignature: [Swift.UInt8] {
     get
   }
-  public var verificationErrors: [Swift.Error] {
+  public var verificationErrors: [any Swift.Error] {
     get
   }
   public var isPACESupported: Swift.Bool {
@@ -168,6 +184,123 @@ extension CoreVideo.CVBuffer {
 extension CoreMedia.CMSampleBuffer {
   public func cgImage(withOrientation orientation: ImageIO.CGImagePropertyOrientation) -> CoreGraphics.CGImage?
 }
+public protocol LanguageModelDataSource {
+  var pathToTrainedData: Swift.String { get }
+}
+extension Foundation.Bundle : NFCReaderApple.LanguageModelDataSource {
+  public var pathToTrainedData: Swift.String {
+    get
+  }
+}
+public enum RecognitionLanguage {
+  case afrikaans
+  case albanian
+  case amharic
+  case arabic
+  case assamese
+  case azerbaijani
+  case azerbaijaniCyrillic
+  case basque
+  case belarusian
+  case bengali
+  case bosnian
+  case bulgarian
+  case burmese
+  case catalanAndValencian
+  case cebuano
+  case centralKhmer
+  case chineseSimplified
+  case chineseTraditional
+  case croatian
+  case czech
+  case cherokee
+  case danish
+  case dutchFlemish
+  case dzongkha
+  case english
+  case englishMiddle
+  case esperanto
+  case estonian
+  case finnish
+  case frankish
+  case french
+  case frenchMiddle
+  case galician
+  case georgian
+  case georgianOld
+  case german
+  case greekAncient
+  case greekModern
+  case guajarati
+  case haitian
+  case hebrew
+  case hindi
+  case hungarian
+  case icelandic
+  case inuktitut
+  case indonesian
+  case italian
+  case italianOld
+  case irish
+  case javanese
+  case japanese
+  case kannada
+  case kazakh
+  case korean
+  case kurdish
+  case kyrgyz
+  case lao
+  case latin
+  case lithuanian
+  case malayalam
+  case macedonian
+  case malay
+  case maltese
+  case marathi
+  case nepali
+  case norwegian
+  case oriya
+  case pashto
+  case persian
+  case polish
+  case portugese
+  case punjabi
+  case romanian
+  case russian
+  case sanskrit
+  case serbian
+  case serbianLatin
+  case sinhala
+  case slovak
+  case slovenian
+  case spanish
+  case spanishOld
+  case swahili
+  case swedish
+  case syriac
+  case tamil
+  case tagalog
+  case tajik
+  case telugu
+  case thai
+  case tibetan
+  case tigrinya
+  case turkish
+  case uighur
+  case ukrainian
+  case urdu
+  case uzbek
+  case uzbekCyrillic
+  case vietnamese
+  case welsh
+  case yiddish
+  case custom(Swift.String)
+}
+extension NFCReaderApple.RecognitionLanguage : Swift.CustomStringConvertible {
+  public var description: Swift.String {
+    get
+  }
+}
 @_hasMissingDesignatedInitializers @available(iOS 13, macOS 10.15, *)
 public class CardAccess {
   public var securityInfos: [NFCReaderApple.SecurityInfo] {
@@ -184,13 +317,69 @@ public protocol NFCReaderDelegate : AnyObject {
 @_hasMissingDesignatedInitializers public class CoreReader {
   open var lang: Swift.String
   public static let sharedInstace: NFCReaderApple.CoreReader
-  weak public var delegate: NFCReaderApple.NFCReaderDelegate?
+  weak public var delegate: (any NFCReaderApple.NFCReaderDelegate)?
   public func readChip(resulat: NFCReaderApple.MrzScanResult)
   @objc deinit
+}
+extension NFCReaderApple.Tesseract {
+  public func recognizedBlocks(from imageData: Foundation.Data, for levels: [NFCReaderApple.PageIteratorLevel]) -> Swift.Result<(Swift.String, [NFCReaderApple.PageIteratorLevel : [NFCReaderApple.RecognizedBlock]]), NFCReaderApple.Tesseract.Error>
+  public func recognizedBlocks(from imageData: Foundation.Data, for level: NFCReaderApple.PageIteratorLevel) -> Swift.Result<(Swift.String, [NFCReaderApple.RecognizedBlock]), NFCReaderApple.Tesseract.Error>
+}
+public struct RecognizedBlock {
+  public let text: Swift.String
+  public let boundingBox: NFCReaderApple.BoundingBox
+  public let confidence: Swift.Float
+}
+public struct BoundingBox {
+  public var left: Swift.Int32 {
+    get
+  }
+  public var top: Swift.Int32 {
+    get
+  }
+  public var right: Swift.Int32 {
+    get
+  }
+  public var bottom: Swift.Int32 {
+    get
+  }
+}
+extension NFCReaderApple.BoundingBox {
+  public var cgRect: CoreFoundation.CGRect {
+    get
+  }
+}
+extension NFCReaderApple.Tesseract.Error {
+  public static func iteratorLevelNotFoundInDictionary(_ level: NFCReaderApple.PageIteratorLevel) -> NFCReaderApple.Tesseract.Error
+}
+public typealias PageIteratorLevel = libtesseract.TessPageIteratorLevel
+extension libtesseract.TessPageIteratorLevel : Swift.Hashable {
+}
+extension libtesseract.TessPageIteratorLevel {
+  public static let block: libtesseract.TessPageIteratorLevel
+  public static let paragraph: libtesseract.TessPageIteratorLevel
+  public static let textline: libtesseract.TessPageIteratorLevel
+  public static let word: libtesseract.TessPageIteratorLevel
+  public static let symbol: libtesseract.TessPageIteratorLevel
 }
 @_hasMissingDesignatedInitializers @available(iOS 13, *)
 public class TagReader {
   @objc deinit
+}
+public typealias TessBaseAPI = Swift.OpaquePointer
+@_hasMissingDesignatedInitializers public class Tesseract {
+  convenience public init(languages: [NFCReaderApple.RecognitionLanguage], dataSource: any NFCReaderApple.LanguageModelDataSource = Bundle.main, engineMode: NFCReaderApple.EngineMode = .lstmOnly, @NFCReaderApple.Tesseract.ConfigurationBuilder configure: () -> (NFCReaderApple.TessBaseAPI) -> Swift.Void = { { _ in } })
+  convenience public init(language: NFCReaderApple.RecognitionLanguage, dataSource: any NFCReaderApple.LanguageModelDataSource = Bundle.main, engineMode: NFCReaderApple.EngineMode = .lstmOnly, @NFCReaderApple.Tesseract.ConfigurationBuilder configure: () -> (NFCReaderApple.TessBaseAPI) -> Swift.Void = { { _ in } })
+  @objc deinit
+  public func perform<A>(action: (NFCReaderApple.TessBaseAPI) -> A) -> A
+  public func configure(@NFCReaderApple.Tesseract.ConfigurationBuilder _ configure: () -> (NFCReaderApple.TessBaseAPI) -> Swift.Void)
+}
+public typealias EngineMode = libtesseract.TessOcrEngineMode
+extension libtesseract.TessOcrEngineMode {
+  public static let tesseractOnly: libtesseract.TessOcrEngineMode
+  public static let lstmOnly: libtesseract.TessOcrEngineMode
+  public static let tesseractLstmCombined: libtesseract.TessOcrEngineMode
+  public static let `default`: libtesseract.TessOcrEngineMode
 }
 @available(iOS 13, macOS 10.15, *)
 public struct DataGroupHash {
@@ -318,6 +507,15 @@ public class PerspectiveCorrectionParamsOperation : Foundation.Operation {
   @objc override dynamic public func main()
   @objc deinit
 }
+extension NFCReaderApple.Tesseract {
+  public func performOCR(on image: UIKit.UIImage) -> Swift.Result<Swift.String, NFCReaderApple.Tesseract.Error>
+  public func recognizedBlocks(from image: UIKit.UIImage, for levels: [NFCReaderApple.PageIteratorLevel]) -> Swift.Result<(Swift.String, [NFCReaderApple.PageIteratorLevel : [NFCReaderApple.RecognizedBlock]]), NFCReaderApple.Tesseract.Error>
+  public func recognizedBlocks(from image: UIKit.UIImage, for level: NFCReaderApple.PageIteratorLevel) -> Swift.Result<(Swift.String, [NFCReaderApple.RecognizedBlock]), NFCReaderApple.Tesseract.Error>
+}
+extension NFCReaderApple.Tesseract {
+  @available(iOS 13.0, *)
+  public func performOCRPublisher(on image: UIKit.UIImage) -> Combine.AnyPublisher<Swift.String, NFCReaderApple.Tesseract.Error>
+}
 @objc @_hasMissingDesignatedInitializers public class MrzScanResult : ObjectiveC.NSObject {
   final public let frontImgae: UIKit.UIImage
   final public let backImage: UIKit.UIImage
@@ -398,7 +596,7 @@ public class PassportReader : ObjectiveC.NSObject {
 @available(iOS 13, *)
 extension NFCReaderApple.PassportReader : CoreNFC.NFCTagReaderSessionDelegate {
   public func tagReaderSessionDidBecomeActive(_ session: CoreNFC.NFCTagReaderSession)
-  public func tagReaderSession(_ session: CoreNFC.NFCTagReaderSession, didInvalidateWithError error: Swift.Error)
+  public func tagReaderSession(_ session: CoreNFC.NFCTagReaderSession, didInvalidateWithError error: any Swift.Error)
   public func tagReaderSession(_ session: CoreNFC.NFCTagReaderSession, didDetect tags: [CoreNFC.NFCTag])
 }
 @_hasMissingDesignatedInitializers @available(iOS 13, macOS 10.15, *)
@@ -473,6 +671,9 @@ public class COM : NFCReaderApple.DataGroup {
     get
   }
   @objc deinit
+}
+extension NFCReaderApple.Tesseract {
+  public func performOCR(on data: Foundation.Data) -> Swift.Result<Swift.String, NFCReaderApple.Tesseract.Error>
 }
 @available(iOS 13, macOS 10.15, *)
 public class ASN1Item : Swift.CustomDebugStringConvertible {
@@ -689,6 +890,16 @@ public func DESDecrypt(key: [Swift.UInt8], message: [Swift.UInt8], iv: [Swift.UI
   @objc override dynamic public init()
   @objc deinit
 }
+extension NFCReaderApple.Tesseract {
+  public struct Error : Swift.Error, Swift.Equatable {
+    public let message: Swift.String
+    public init(_ message: Swift.String)
+    public static let imageConversionError: NFCReaderApple.Tesseract.Error
+    public static let unableToExtractTextFromImage: NFCReaderApple.Tesseract.Error
+    public static let unableToRetrieveIterator: NFCReaderApple.Tesseract.Error
+    public static func == (a: NFCReaderApple.Tesseract.Error, b: NFCReaderApple.Tesseract.Error) -> Swift.Bool
+  }
+}
 @_hasMissingDesignatedInitializers @available(iOS 13, macOS 10.15, *)
 public class OpenSSLUtils {
   public static func getOpenSSLError() -> Swift.String
@@ -744,6 +955,10 @@ public class DataGroup14 : NFCReaderApple.DataGroup {
     get
   }
   @objc deinit
+}
+extension NFCReaderApple.Tesseract {
+  @available(macOS 10.15, iOS 13.0, *)
+  public func performOCRPublisher(on data: Foundation.Data) -> Combine.AnyPublisher<Swift.String, NFCReaderApple.Tesseract.Error>
 }
 @_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers @available(iOS 13, macOS 10.15, *)
 public class DataGroup11 : NFCReaderApple.DataGroup {
@@ -880,6 +1095,27 @@ public class BACHandler {
   @objc convenience override dynamic public init()
   @objc deinit
 }
+extension NFCReaderApple.Tesseract {
+  public struct Variable : Swift.RawRepresentable {
+    public init(rawValue: Swift.String)
+    public init(_ rawValue: Swift.String)
+    public let rawValue: Swift.String
+    public typealias RawValue = Swift.String
+  }
+}
+extension NFCReaderApple.Tesseract.Variable : Swift.ExpressibleByStringLiteral {
+  public typealias StringLiteralType = Swift.String
+  public init(stringLiteral value: Swift.String)
+  public typealias ExtendedGraphemeClusterLiteralType = NFCReaderApple.Tesseract.Variable.StringLiteralType
+  public typealias UnicodeScalarLiteralType = NFCReaderApple.Tesseract.Variable.StringLiteralType
+}
+extension NFCReaderApple.Tesseract.Variable {
+  public static let allowlist: NFCReaderApple.Tesseract.Variable
+  public static let disallowlist: NFCReaderApple.Tesseract.Variable
+  public static let preserveInterwordSpaces: NFCReaderApple.Tesseract.Variable
+  public static let minimumCharacterHeight: NFCReaderApple.Tesseract.Variable
+  public static let oldCharacterHeight: NFCReaderApple.Tesseract.Variable
+}
 @_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers @available(iOS 13, macOS 10.15, *)
 public class NotImplementedDG : NFCReaderApple.DataGroup {
   @objc deinit
@@ -891,14 +1127,14 @@ public class NotImplementedDG : NFCReaderApple.DataGroup {
   }
   @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewDidAppear(_ animated: Swift.Bool)
   @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewWillDisappear(_ animated: Swift.Bool)
-  @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewWillTransition(to size: CoreFoundation.CGSize, with coordinator: UIKit.UIViewControllerTransitionCoordinator)
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewWillTransition(to size: CoreFoundation.CGSize, with coordinator: any UIKit.UIViewControllerTransitionCoordinator)
   @_Concurrency.MainActor(unsafe) @objc public func presentationControllerDidDismiss(_ presentationController: UIKit.UIPresentationController)
   @_Concurrency.MainActor(unsafe) @objc override dynamic public init(nibName nibNameOrNil: Swift.String?, bundle nibBundleOrNil: Foundation.Bundle?)
   @_Concurrency.MainActor(unsafe) @objc required dynamic public init?(coder: Foundation.NSCoder)
   @objc deinit
 }
 @_hasMissingDesignatedInitializers @objc @_Concurrency.MainActor(unsafe) public class CardAndPassportDetectionViewController : NFCReaderApple.BaseCardDetectionViewController {
-  @objc @_Concurrency.MainActor(unsafe) weak public var delegate: NFCReaderApple.CardAndPassportDetectionViewControllerDelegate?
+  @objc @_Concurrency.MainActor(unsafe) weak public var delegate: (any NFCReaderApple.CardAndPassportDetectionViewControllerDelegate)?
   @objc @_Concurrency.MainActor(unsafe) final public let settings: NFCReaderApple.CardAndPassportDetectionSettings
   @objc @_Concurrency.MainActor(unsafe) public init(settings: NFCReaderApple.CardAndPassportDetectionSettings)
   @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewDidLoad()
