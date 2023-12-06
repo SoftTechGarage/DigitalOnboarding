@@ -38,7 +38,7 @@
 		</data>
 		<key>Frameworks/NFCReaderApple.framework/NFCReaderApple</key>
 		<data>
-		fjJjKJ7+mpVhG1GN3Khi1yedMQM=
+		gH4qiYGoePzOnV8vhDp0zGlJTy4=
 		</data>
 		<key>Frameworks/NFCReaderApple.framework/Resource.bundle/Assets.car</key>
 		<data>
@@ -86,7 +86,7 @@
 		</data>
 		<key>Frameworks/libtesseract.framework/_CodeSignature/CodeDirectory</key>
 		<data>
-		mCll6bpNmqZmp52P9AzSXpmtVOc=
+		rCrmzidoNjRjnrlwEdfCXfOjsoA=
 		</data>
 		<key>Frameworks/libtesseract.framework/_CodeSignature/CodeRequirements</key>
 		<data>
@@ -94,7 +94,7 @@
 		</data>
 		<key>Frameworks/libtesseract.framework/_CodeSignature/CodeRequirements-1</key>
 		<data>
-		s6I34yzOt+deFRCApgPl+N7Uzpw=
+		ROZfeV0/BAuF3L8ilACnOf5cVMg=
 		</data>
 		<key>Frameworks/libtesseract.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -102,11 +102,11 @@
 		</data>
 		<key>Frameworks/libtesseract.framework/_CodeSignature/CodeSignature</key>
 		<data>
-		EZZtnWaE8r6wncmxuQLcSb54Npo=
+		jqt0XTqRoWzUM9qpSBpjcJS2bmo=
 		</data>
 		<key>Frameworks/libtesseract.framework/libtesseract</key>
 		<data>
-		Hc9KrzGxexgSTkXe+XJLI9JBXL8=
+		KTi8YBjK0ryQWfujWhkh2WWQfdQ=
 		</data>
 		<key>Headers/onboarding-Swift.h</key>
 		<data>
@@ -355,7 +355,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			GwL+70mrZFAs04TzZazTjz31LAEpjkWw75/85eSwDFk=
+			2LhZxjePryj8n1w23wZDlUu1GZs2jsy95OcG8voyxXw=
 			</data>
 		</dict>
 		<key>Frameworks/NFCReaderApple.framework/Resource.bundle/Assets.car</key>
@@ -439,7 +439,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			BMXb76TRIsVrBsb4dZ07+4g8ISq18d6rEeyDUkXx2Gk=
+			x26H/6zXkxYhHXqZBBxWIdmpffTXmQOElBf5b+AhxTg=
 			</data>
 		</dict>
 		<key>Frameworks/libtesseract.framework/_CodeSignature/CodeRequirements</key>
@@ -453,7 +453,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			6aWbFTLbuPN4D+H82N59IAfxk3+cRgl0o07fdw1on9w=
+			C3tbgbflIblhlJJQUpxk33nWdH4vNXeWPcLTsWtS6LM=
 			</data>
 		</dict>
 		<key>Frameworks/libtesseract.framework/_CodeSignature/CodeResources</key>
@@ -467,14 +467,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ueK7xzBPFqBO6FP+s2DD4yifaZLsnZARFY9pbGS0Nlg=
+			KJ+z7JAVWGcaQPtCUgOOmEbO4CKwamcvihHSHmARDcY=
 			</data>
 		</dict>
 		<key>Frameworks/libtesseract.framework/libtesseract</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			NZ9Uf92vM7ywzJD1zZQa0NrQ+q0yS8DdaeODjGOYQc8=
+			MQbBC+kcw3aDH8J/xSvLQ1kf3XU6bKrmtpavyWTDZKg=
 			</data>
 		</dict>
 		<key>Headers/onboarding-Swift.h</key>
