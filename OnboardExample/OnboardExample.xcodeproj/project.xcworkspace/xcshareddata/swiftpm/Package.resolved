@@ -32,8 +32,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/jitsi/webrtc",
       "state" : {
-        "branch" : "master",
-        "revision" : "83690c8ecfd2d745eb0a41c77de6c4e740c18b80"
+        "revision" : "6f4a40c81c84a0754ec66622d5fed68dce5bd4ec",
+        "version" : "106.0.1"
       }
     }
   ],
