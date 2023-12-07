@@ -18,7 +18,7 @@
 		</data>
 		<key>Modules/NFCReaderApple.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		dRiBmdEecZx9c9BWseG2D9FcmPc=
+		sEcdRv2U7MsSgHBhAaYMSPs8gNM=
 		</data>
 		<key>Modules/NFCReaderApple.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>Modules/NFCReaderApple.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		BLUWTz1leT7+ZIcxRNmz2u4c3JI=
+		3js0BcG2MQxxl7s3HHUjIjSN16M=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -74,7 +74,7 @@
 		</data>
 		<key>Resource.bundle/_CodeSignature/CodeSignature</key>
 		<data>
-		npbb1b0ZXM7YaH7A3snd8T3LGsc=
+		WaWiXVlm3gqvOGV3o/jJgFtRjpM=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -97,7 +97,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			F/8OvNFW2Fps5WS96Q6ua/2bBdkkbQEM5WeQDZSGjlY=
+			ACnWDDiKNI9Ds62MfFDg2M+MO3uN+VQOO8Rw74Tuy6M=
 			</data>
 		</dict>
 		<key>Modules/NFCReaderApple.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -125,7 +125,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Qf2eZnWt5kuo/0DIhAkJHtXfvV+qPSWQItTJgJkiSqo=
+			xJAxe6TQG3B/EtUcdNfa8cZSCom/kQson4AKjFk2lRU=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -195,7 +195,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ucr7CeZqoLqLWwI3AryVXxeOCTtSt72Ma8+pGnhStgQ=
+			mOR85OBpzWC3nmUx9WuBbH7+yxKz4vDx5fJwwSgsG+s=
 			</data>
 		</dict>
 	</dict>

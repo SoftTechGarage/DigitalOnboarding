@@ -58,11 +58,11 @@
 		</data>
 		<key>Frameworks/NFCReaderApple.framework/Info.plist</key>
 		<data>
-		iJgwVF/wyL6Ttz2gKow3jKu7Zhc=
+		fbtvdH/9a5Wc2Abh1MFHJ0x1nKs=
 		</data>
 		<key>Frameworks/NFCReaderApple.framework/NFCReaderApple</key>
 		<data>
-		ZvAqVCeG/Q9MZzTTvhAgqjsZ3/o=
+		B2EttZQTs841iK9H79dzCZl2ri0=
 		</data>
 		<key>Frameworks/NFCReaderApple.framework/Resource.bundle/Assets.car</key>
 		<data>
@@ -78,7 +78,7 @@
 		</data>
 		<key>Frameworks/NFCReaderApple.framework/Resource.bundle/Info.plist</key>
 		<data>
-		4bhszyTuWpHUlEQNreEZG7AftY4=
+		qsZ5wfBgFhwJlfVhRV8dggXkRJA=
 		</data>
 		<key>Frameworks/NFCReaderApple.framework/Resource.bundle/_CodeSignature/CodeDirectory</key>
 		<data>
@@ -102,7 +102,7 @@
 		</data>
 		<key>Frameworks/NFCReaderApple.framework/_CodeSignature/CodeResources</key>
 		<data>
-		msmUTJaxAwkFZP8iqBgBBrDKiLc=
+		6TsWMp2EdvM4zZgee9OMKlp0zFY=
 		</data>
 		<key>Headers/onboarding-Swift.h</key>
 		<data>
@@ -146,7 +146,7 @@
 		</data>
 		<key>Modules/onboarding.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		AzpmzYd7ciMeiKV/qjqdIRX7TOI=
+		OhjsTmwiLcanAUJksFNifnCU2VE=
 		</data>
 		<key>Modules/onboarding.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -166,7 +166,7 @@
 		</data>
 		<key>Modules/onboarding.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		AzpmzYd7ciMeiKV/qjqdIRX7TOI=
+		OhjsTmwiLcanAUJksFNifnCU2VE=
 		</data>
 		<key>Modules/onboarding.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -546,14 +546,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			41zrOJcTeqXrL/5X8lNKPnusaVCOwvGxpps/OZL+XRA=
+			d2oMuwu+a8JeTpjMa2iU5zO4mWXs/9AaU/ilsnvTydQ=
 			</data>
 		</dict>
 		<key>Frameworks/NFCReaderApple.framework/NFCReaderApple</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			UajQI8l26Pi0EnuLMh2b5GtUkpPwDBEGvZlX+QXji4g=
+			CT2/8tjGMF3tp+txzIN8NDDtEpJhWkJg/FdziwmYqa0=
 			</data>
 		</dict>
 		<key>Frameworks/NFCReaderApple.framework/Resource.bundle/Assets.car</key>
@@ -581,7 +581,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			2aB/yh+k1RInTP44tGoH3wMbPw6ol3ccROj6grxBy30=
+			ogQ/z9BiWa32ESy8YuT46ZdOm6UOpu6mpIcafBUZ1ko=
 			</data>
 		</dict>
 		<key>Frameworks/NFCReaderApple.framework/Resource.bundle/_CodeSignature/CodeDirectory</key>
@@ -623,7 +623,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Hn9AJA2EURjwfTX5GNpa8QPHuOJ7zbE1+kPkXX7Bj4k=
+			Iu6t7DpSWeEEsNXrS0GC/A6q/pg7sZejBlgjN5pf5bg=
 			</data>
 		</dict>
 		<key>Headers/onboarding-Swift.h</key>
@@ -693,7 +693,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			JxyL+/G/m2PbXmYYRh5CYWkSIVzXazWoyWHZEVvBHIw=
+			rs6T6P251ZiTdUH1qMesARlcQw6UDuLknv4dwtUX5wc=
 			</data>
 		</dict>
 		<key>Modules/onboarding.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -728,7 +728,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			JxyL+/G/m2PbXmYYRh5CYWkSIVzXazWoyWHZEVvBHIw=
+			rs6T6P251ZiTdUH1qMesARlcQw6UDuLknv4dwtUX5wc=
 			</data>
 		</dict>
 		<key>Modules/onboarding.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
