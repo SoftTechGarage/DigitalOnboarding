@@ -5841,49 +5841,49 @@
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/BaseViewController.swift",
       "kind": "StringLiteral",
-      "offset": 2468,
+      "offset": 2502,
       "length": 5,
       "value": "\"Try\""
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/BaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 3068,
+      "offset": 3120,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/BaseViewController.swift",
       "kind": "StringLiteral",
-      "offset": 3120,
+      "offset": 3172,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/BaseViewController.swift",
       "kind": "StringLiteral",
-      "offset": 3156,
+      "offset": 3208,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/BaseViewController.swift",
       "kind": "StringLiteral",
-      "offset": 3559,
+      "offset": 3611,
       "length": 5,
       "value": "\"ios\""
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/BaseViewController.swift",
       "kind": "StringLiteral",
-      "offset": 3636,
+      "offset": 3688,
       "length": 33,
       "value": "\"Apple,\""
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/BaseViewController.swift",
       "kind": "StringLiteral",
-      "offset": 3668,
+      "offset": 3720,
       "length": 1,
       "value": "\"\""
     },
