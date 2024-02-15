@@ -16,6 +16,7 @@ let package = Package(
     ],
     dependencies: [
         .package(url: "https://github.com/Giphy/giphy-ios-sdk", from: "2.2.6"),
+        .package(url: "https://github.com/SwiftyTesseract/libtesseract.git", from: "0.2.0"),
     ],
     targets: [
         .target(
@@ -26,6 +27,7 @@ let package = Package(
                 "onboarding",
                 "OpenSSL",
                 "WebRTC",
+                "libtesseract",
                 .product(name: "GiphyUISDK", package: "giphy-ios-sdk"),
             ]),
         .binaryTarget(
