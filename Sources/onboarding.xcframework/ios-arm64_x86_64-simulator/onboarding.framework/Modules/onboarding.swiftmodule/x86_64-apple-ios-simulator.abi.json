@@ -12190,210 +12190,266 @@
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/NfcPageViewController.swift",
       "kind": "StringLiteral",
-      "offset": 15143,
+      "offset": 14990,
+      "length": 11,
+      "value": "\"NFC_Start\""
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/NfcPageViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 15010,
+      "length": 13,
+      "value": "\"NFC_Started\""
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/NfcPageViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 15040,
+      "length": 13,
+      "value": "\"NFC_Started\""
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/NfcPageViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 15226,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/NfcPageViewController.swift",
       "kind": "StringLiteral",
-      "offset": 15237,
+      "offset": 15320,
       "length": 5,
       "value": "\"nfc\""
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/NfcPageViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 15254,
+      "offset": 15337,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/NfcPageViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 15258,
+      "offset": 15341,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/NfcPageViewController.swift",
       "kind": "StringLiteral",
-      "offset": 15318,
+      "offset": 15401,
       "length": 5,
       "value": "\"nfc\""
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/NfcPageViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 15326,
+      "offset": 15409,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/NfcPageViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 15367,
+      "offset": 15450,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/NfcPageViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 15371,
+      "offset": 15454,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/NfcPageViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 15400,
+      "offset": 15483,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/NfcPageViewController.swift",
       "kind": "StringLiteral",
-      "offset": 15509,
+      "offset": 15592,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/NfcPageViewController.swift",
       "kind": "StringLiteral",
-      "offset": 15573,
+      "offset": 15656,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/NfcPageViewController.swift",
       "kind": "StringLiteral",
-      "offset": 15641,
+      "offset": 15724,
       "length": 2,
       "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/NfcPageViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 15769,
+      "length": 13,
+      "value": "\"NFC_Success\""
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/NfcPageViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 15791,
+      "length": 13,
+      "value": "\"NFC_Success\""
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/NfcPageViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 15821,
+      "length": 13,
+      "value": "\"NFC_Success\""
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/NfcPageViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 15920,
+      "length": 15,
+      "value": "\"NFCPageDdFail\""
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/NfcPageViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 15968,
+      "length": 12,
+      "value": "\"NFCDidFail\""
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/NfcPageViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 15772,
+      "offset": 16002,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/NfcPageViewController.swift",
       "kind": "StringLiteral",
-      "offset": 15791,
+      "offset": 16021,
       "length": 18,
       "value": "\"NFCReader Failer\""
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/NfcPageViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 15868,
+      "offset": 16098,
       "length": 3,
       "value": "0.5"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/NfcPageViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 16338,
+      "offset": 16568,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/NfcPageViewController.swift",
       "kind": "StringLiteral",
-      "offset": 16498,
+      "offset": 16728,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/NfcPageViewController.swift",
       "kind": "StringLiteral",
-      "offset": 16531,
+      "offset": 16761,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/NfcPageViewController.swift",
       "kind": "StringLiteral",
-      "offset": 16566,
+      "offset": 16796,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/NfcPageViewController.swift",
       "kind": "StringLiteral",
-      "offset": 16647,
+      "offset": 16877,
       "length": 5,
       "value": "\"mrz\""
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/NfcPageViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 16664,
+      "offset": 16894,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/NfcPageViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 16668,
+      "offset": 16898,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/NfcPageViewController.swift",
       "kind": "StringLiteral",
-      "offset": 16723,
+      "offset": 16953,
       "length": 5,
       "value": "\"mrz\""
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/NfcPageViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 16731,
+      "offset": 16961,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/NfcPageViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 16767,
+      "offset": 16997,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/NfcPageViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 16771,
+      "offset": 17001,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/NfcPageViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 16795,
+      "offset": 17025,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/NfcPageViewController.swift",
       "kind": "StringLiteral",
-      "offset": 16935,
+      "offset": 17165,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/NfcPageViewController.swift",
       "kind": "StringLiteral",
-      "offset": 16999,
+      "offset": 17229,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/NfcPageViewController.swift",
       "kind": "StringLiteral",
-      "offset": 17067,
+      "offset": 17297,
       "length": 2,
       "value": "\"\""
     },
@@ -14927,14 +14983,77 @@
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/InformationPageViewController.swift",
       "kind": "StringLiteral",
-      "offset": 6449,
+      "offset": 6330,
+      "length": 13,
+      "value": "\"OCR_SUCCESS\""
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/InformationPageViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 6352,
+      "length": 13,
+      "value": "\"OCR_SUCCESS\""
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/InformationPageViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 6382,
+      "length": 13,
+      "value": "\"OCR_SUCCESS\""
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/InformationPageViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 6538,
+      "length": 12,
+      "value": "\"OCR_CANCEL\""
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/InformationPageViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 6559,
+      "length": 22,
+      "value": "\"Cancel button tapped\""
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/InformationPageViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 6598,
+      "length": 12,
+      "value": "\"OCR_CANCEL\""
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/InformationPageViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 6626,
       "length": 23,
       "value": "\"*****NFCReader Cancel\""
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/InformationPageViewController.swift",
       "kind": "StringLiteral",
-      "offset": 6535,
+      "offset": 6716,
+      "length": 10,
+      "value": "\"OCR_Fail\""
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/InformationPageViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 6735,
+      "length": 10,
+      "value": "\"OCR_Fail\""
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/InformationPageViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 6762,
+      "length": 10,
+      "value": "\"OCR_Fail\""
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/InformationPageViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 6788,
       "length": 31,
       "value": "\"*****NFCReader didFail ******\""
     },
