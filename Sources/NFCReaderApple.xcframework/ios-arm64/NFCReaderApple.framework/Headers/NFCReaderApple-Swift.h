@@ -444,6 +444,7 @@ SWIFT_CLASS("_TtC14NFCReaderApple31BaseCardDetectionViewController")
 
 
 
+
 /// Combined card and barcode detection settings
 /// since:
 /// 1.4.0
@@ -593,6 +594,9 @@ SWIFT_CLASS("_TtC14NFCReaderApple36PerspectiveCorrectionParamsOperation") SWIFT_
 - (nonnull instancetype)init SWIFT_UNAVAILABLE;
 + (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
 @end
+
+
+
 
 
 
