@@ -28,6 +28,7 @@
 		7888C0D92ACBF4F90024BD00 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		7888C0E22ACBF6300024BD00 /* OnboardSPM */ = {isa = PBXFileReference; lastKnownFileType = wrapper; name = OnboardSPM; path = ..; sourceTree = "<group>"; };
 		A76589972B7E0E6F00F1FD1C /* tessdata */ = {isa = PBXFileReference; lastKnownFileType = folder; path = tessdata; sourceTree = "<group>"; };
+		A76589992B7E0FCD00F1FD1C /* OnboardExample.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = OnboardExample.entitlements; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +64,7 @@
 		7888C0CA2ACBF4F70024BD00 /* OnboardExample */ = {
 			isa = PBXGroup;
 			children = (
+				A76589992B7E0FCD00F1FD1C /* OnboardExample.entitlements */,
 				A76589972B7E0E6F00F1FD1C /* tessdata */,
 				7888C0CB2ACBF4F70024BD00 /* AppDelegate.swift */,
 				7888C0CD2ACBF4F70024BD00 /* SceneDelegate.swift */,
@@ -312,6 +314,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = OnboardExample/OnboardExample.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = CWX3XD8XC2;
@@ -340,6 +343,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = OnboardExample/OnboardExample.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = CWX3XD8XC2;
