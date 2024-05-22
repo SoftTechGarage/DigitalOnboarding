@@ -14,7 +14,7 @@
 		7888C0D52ACBF4F90024BD00 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7888C0D42ACBF4F90024BD00 /* Assets.xcassets */; };
 		7888C0D82ACBF4F90024BD00 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7888C0D62ACBF4F90024BD00 /* LaunchScreen.storyboard */; };
 		7888C0E52ACBF8C70024BD00 /* OnboardSPM in Frameworks */ = {isa = PBXBuildFile; productRef = 7888C0E42ACBF8C70024BD00 /* OnboardSPM */; };
-		D4C2B39A2BFE652300FE3FC3 /* tessdata in Resources */ = {isa = PBXBuildFile; fileRef = D4C2B3992BFE652300FE3FC3 /* tessdata */; };
+		D4ED5A282BFE7C460029D77E /* tessdata in Resources */ = {isa = PBXBuildFile; fileRef = D4ED5A272BFE7C460029D77E /* tessdata */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,7 +28,7 @@
 		7888C0D92ACBF4F90024BD00 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		7888C0E22ACBF6300024BD00 /* OnboardSPM */ = {isa = PBXFileReference; lastKnownFileType = wrapper; name = OnboardSPM; path = ..; sourceTree = "<group>"; };
 		D40776782BFE3CD10004603D /* OnboardExample.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = OnboardExample.entitlements; sourceTree = "<group>"; };
-		D4C2B3992BFE652300FE3FC3 /* tessdata */ = {isa = PBXFileReference; lastKnownFileType = folder; name = tessdata; path = "../../../onboardingios-demo/DemoApp/onboardingtest/tessdata"; sourceTree = "<group>"; };
+		D4ED5A272BFE7C460029D77E /* tessdata */ = {isa = PBXFileReference; lastKnownFileType = folder; path = tessdata; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,7 +64,7 @@
 		7888C0CA2ACBF4F70024BD00 /* OnboardExample */ = {
 			isa = PBXGroup;
 			children = (
-				D4C2B3992BFE652300FE3FC3 /* tessdata */,
+				D4ED5A272BFE7C460029D77E /* tessdata */,
 				D40776782BFE3CD10004603D /* OnboardExample.entitlements */,
 				7888C0CB2ACBF4F70024BD00 /* AppDelegate.swift */,
 				7888C0CD2ACBF4F70024BD00 /* SceneDelegate.swift */,
@@ -154,7 +154,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7888C0D82ACBF4F90024BD00 /* LaunchScreen.storyboard in Resources */,
-				D4C2B39A2BFE652300FE3FC3 /* tessdata in Resources */,
+				D4ED5A282BFE7C460029D77E /* tessdata in Resources */,
 				7888C0D52ACBF4F90024BD00 /* Assets.xcassets in Resources */,
 				7888C0D32ACBF4F70024BD00 /* Main.storyboard in Resources */,
 			);
