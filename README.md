@@ -35,18 +35,8 @@ The preferred installation method is with [Swift Package Manager](https://swift.
 <key>NFCReaderUsageDescription</key>
 <string> We need to access NFC for scan passport.</string>
 
-
- 
 ```
-## 2: You must add the api key to the plist.
-
-```xml
-  <key>SanalogiReaderToken</key>
-  <string>LICENCEKEY</string>
-```
-
-
-## 3: Include NFC in your project
+## 2: Include NFC in your project
 Select "Signing & Capabilities -> Capability-> Near Field Communication Tag Reading" and then remove the first item from the "entitlements" file created under the project.
 
 ```
@@ -58,7 +48,7 @@ Item 1 (Near Field Communication Tag Reading Session Format) - NFC tag-specific 
 
 After doing that open entitlement as source code and add this line <string>NDEF</string> after <string>TAG</string> line.
 ```
-## 4: To open OnboardingExample Project -> tessdata
+## 3: To open OnboardingExample Project -> tessdata
 Open the project, save the file named tessdata in the project to your locale, and then add this tessdata file to your own project. When adding, select "Create folder reference" and add it to your project file.
 
 ## 5: To open OnboardingSDK
