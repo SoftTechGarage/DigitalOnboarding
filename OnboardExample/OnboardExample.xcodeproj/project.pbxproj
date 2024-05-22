@@ -14,9 +14,9 @@
 		7888C0D52ACBF4F90024BD00 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7888C0D42ACBF4F90024BD00 /* Assets.xcassets */; };
 		7888C0D82ACBF4F90024BD00 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7888C0D62ACBF4F90024BD00 /* LaunchScreen.storyboard */; };
 		7888C0E52ACBF8C70024BD00 /* OnboardSPM in Frameworks */ = {isa = PBXBuildFile; productRef = 7888C0E42ACBF8C70024BD00 /* OnboardSPM */; };
-		A7F528792B1DED3E00F0AB16 /* tessdata in Resources */ = {isa = PBXBuildFile; fileRef = A7F528782B1DED3E00F0AB16 /* tessdata */; };
 		D4C2B39F2BFE709200FE3FC3 /* FirebaseCrashlytics in Frameworks */ = {isa = PBXBuildFile; productRef = D4C2B39E2BFE709200FE3FC3 /* FirebaseCrashlytics */; };
 		D4C2B3A12BFE71AE00FE3FC3 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = D4C2B3A02BFE71AD00FE3FC3 /* GoogleService-Info.plist */; };
+		D4ED5A1D2BFE73D10029D77E /* tessdata in Resources */ = {isa = PBXBuildFile; fileRef = D4ED5A1C2BFE73D10029D77E /* tessdata */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,8 +29,8 @@
 		7888C0D72ACBF4F90024BD00 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7888C0D92ACBF4F90024BD00 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		7888C0E22ACBF6300024BD00 /* OnboardSPM */ = {isa = PBXFileReference; lastKnownFileType = wrapper; name = OnboardSPM; path = ..; sourceTree = "<group>"; };
-		A7F528782B1DED3E00F0AB16 /* tessdata */ = {isa = PBXFileReference; lastKnownFileType = folder; path = tessdata; sourceTree = "<group>"; };
 		D4C2B3A02BFE71AD00FE3FC3 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		D4ED5A1C2BFE73D10029D77E /* tessdata */ = {isa = PBXFileReference; lastKnownFileType = folder; path = tessdata; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,8 +67,8 @@
 		7888C0CA2ACBF4F70024BD00 /* OnboardExample */ = {
 			isa = PBXGroup;
 			children = (
+				D4ED5A1C2BFE73D10029D77E /* tessdata */,
 				D4C2B3A02BFE71AD00FE3FC3 /* GoogleService-Info.plist */,
-				A7F528782B1DED3E00F0AB16 /* tessdata */,
 				7888C0CB2ACBF4F70024BD00 /* AppDelegate.swift */,
 				7888C0CD2ACBF4F70024BD00 /* SceneDelegate.swift */,
 				7888C0CF2ACBF4F70024BD00 /* ViewController.swift */,
@@ -161,8 +161,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				7888C0D82ACBF4F90024BD00 /* LaunchScreen.storyboard in Resources */,
-				A7F528792B1DED3E00F0AB16 /* tessdata in Resources */,
 				D4C2B3A12BFE71AE00FE3FC3 /* GoogleService-Info.plist in Resources */,
+				D4ED5A1D2BFE73D10029D77E /* tessdata in Resources */,
 				7888C0D52ACBF4F90024BD00 /* Assets.xcassets in Resources */,
 				7888C0D32ACBF4F70024BD00 /* Main.storyboard in Resources */,
 			);
@@ -323,10 +323,11 @@
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_ENTITLEMENTS = "";
+				CODE_SIGN_ENTITLEMENTS = OnboardExample/OnboardExample.entitlements;
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				DEVELOPMENT_TEAM = 4ZBWZTPJSU;
 				EMBED_ASSET_PACKS_IN_PRODUCT_BUNDLE = NO;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -349,8 +350,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.0.11;
-				PRODUCT_BUNDLE_IDENTIFIER = com.softtech.onboardinguat;
+				MARKETING_VERSION = 2.0.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_EMIT_LOC_STRINGS = YES;
@@ -365,7 +365,7 @@
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_ENTITLEMENTS = "";
+				CODE_SIGN_ENTITLEMENTS = OnboardExample/OnboardExample.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 4ZBWZTPJSU;
@@ -390,8 +390,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.0.11;
-				PRODUCT_BUNDLE_IDENTIFIER = com.softtech.onboardinguat;
+				MARKETING_VERSION = 2.0.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;

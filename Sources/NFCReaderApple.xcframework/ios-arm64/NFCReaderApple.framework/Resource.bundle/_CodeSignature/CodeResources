@@ -6,15 +6,19 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		VYVnktYx9dz/OuuCER7nSPptCmY=
+		aQnyFH89A9Dd3Q3mO1b0Bn9z/rw=
 		</data>
 		<key>BarcodeDetectionViewController.nib</key>
 		<data>
 		RvXPTZ7M8DkHCs1I+Er2JQvsjOE=
 		</data>
-		<key>CardDetectionViewController.nib</key>
+		<key>CardDetectionViewController.nib/objects-14.0+.nib</key>
 		<data>
-		RdYYYHsOJB1Z+RH0W+k7mu6N1cc=
+		HkDQaT3UB7aWgaH2buHy0uIBtZc=
+		</data>
+		<key>CardDetectionViewController.nib/runtime.nib</key>
+		<data>
+		GRLyjbsxFPYmWhYKz7hy/ssd/gI=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -23,11 +27,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			VYVnktYx9dz/OuuCER7nSPptCmY=
+			aQnyFH89A9Dd3Q3mO1b0Bn9z/rw=
 			</data>
 			<key>hash2</key>
 			<data>
-			xNuX98jnRjhuC6XFoQCXYVxvBWnwoDVViM9HMhFB4bY=
+			fjBzggnPvk3qIHJ27yUmzWbi9kHWWbwIJ01DbwfwQE0=
 			</data>
 		</dict>
 		<key>BarcodeDetectionViewController.nib</key>
@@ -41,15 +45,26 @@
 			y8towzNHQ4PH2NFNv33IStqscU6p86DkC092tHq06b8=
 			</data>
 		</dict>
-		<key>CardDetectionViewController.nib</key>
+		<key>CardDetectionViewController.nib/objects-14.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			RdYYYHsOJB1Z+RH0W+k7mu6N1cc=
+			HkDQaT3UB7aWgaH2buHy0uIBtZc=
 			</data>
 			<key>hash2</key>
 			<data>
-			8HHEgIOD1FSk+HMwPR34QgOFEaAmUd08f/+DPLIprEU=
+			NrpNWW0Jw+d/jRpPFch/zOsyK8sBfslJJEasciTMvw0=
+			</data>
+		</dict>
+		<key>CardDetectionViewController.nib/runtime.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			GRLyjbsxFPYmWhYKz7hy/ssd/gI=
+			</data>
+			<key>hash2</key>
+			<data>
+			yJw+8dH6nl30/6EHSVdvIYDzQltSg7L+h3WdFcJGMlU=
 			</data>
 		</dict>
 	</dict>
