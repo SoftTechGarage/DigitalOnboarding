@@ -49,7 +49,7 @@ Item 1 (Near Field Communication Tag Reading Session Format) - NFC tag-specific 
 After doing that open entitlement as source code and add this line <string>NDEF</string> after <string>TAG</string> line.
 ```
 ## 3: To open OnboardingExample Project -> tessdata
-Open the project, save the file named tessdata in the project to your locale, and then add this tessdata file to your own project. When adding, select "Create folder reference" and add it to your project file.
+Open the project, save the file named tessdata in the project to your locale, and then add this tessdata file to your own project. When adding, select "mrz.traineddata", "Create folder reference" and add it to your project file.
 
 ## 4: To open OnboardingSDK
 
