@@ -20,8 +20,6 @@
 		<key>NSAllowsArbitraryLoads</key>
 		<true/>
 	</dict>
-	<key>SanalogiReaderToken</key>
-	<string>xxxxxxxxxxxxxxxxxxxxxxx</string>
 	<key>UIApplicationSceneManifest</key>
 	<dict>
 		<key>UIApplicationSupportsMultipleScenes</key>

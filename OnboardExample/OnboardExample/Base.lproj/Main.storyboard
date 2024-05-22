@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="22154" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="ntS-Ap-HKh">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="32700.99.1234" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="ntS-Ap-HKh">
     <device id="retina6_12" orientation="portrait" appearance="light"/>
     <dependencies>
         <deployment identifier="iOS"/>
-        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="22130"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="22685"/>
         <capability name="Safe area layout guides" minToolsVersion="9.0"/>
         <capability name="System colors in document resources" minToolsVersion="11.0"/>
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
@@ -16,10 +16,39 @@
                     <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
                         <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Zyx-re-00r">
+                                <rect key="frame" x="0.0" y="648" width="393" height="150"/>
+                                <subviews>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="uBD-tX-MhB">
+                                        <rect key="frame" x="0.0" y="0.0" width="393" height="150"/>
+                                        <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                        <nil key="textColor"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                </subviews>
+                                <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                                <constraints>
+                                    <constraint firstAttribute="bottom" secondItem="uBD-tX-MhB" secondAttribute="bottom" id="5dw-9O-pXm"/>
+                                    <constraint firstItem="uBD-tX-MhB" firstAttribute="leading" secondItem="Zyx-re-00r" secondAttribute="leading" id="HPf-eg-Ucl"/>
+                                    <constraint firstAttribute="height" constant="150" id="Y9f-xa-yz4"/>
+                                    <constraint firstAttribute="trailing" secondItem="uBD-tX-MhB" secondAttribute="trailing" id="f1h-Nl-W0A"/>
+                                    <constraint firstItem="uBD-tX-MhB" firstAttribute="top" secondItem="Zyx-re-00r" secondAttribute="top" id="g3C-hp-2eh"/>
+                                </constraints>
+                            </view>
+                        </subviews>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <constraints>
+                            <constraint firstItem="Zyx-re-00r" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="6Y2-GW-kdU"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="Zyx-re-00r" secondAttribute="bottom" constant="20" id="BOZ-Of-TYQ"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="Zyx-re-00r" secondAttribute="trailing" id="LKD-TJ-AZk"/>
+                        </constraints>
                     </view>
                     <navigationItem key="navigationItem" id="QXX-cc-5n7"/>
+                    <connections>
+                        <outlet property="label" destination="uBD-tX-MhB" id="LuU-P8-aWG"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>

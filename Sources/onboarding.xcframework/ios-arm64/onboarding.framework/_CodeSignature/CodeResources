@@ -6,35 +6,35 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		WXT6eJ9WD6oAGd8urN8Qy8C+Is4=
+		D54MoSUfuJx9Kymw7GXF/mhqIjE=
 		</data>
 		<key>CalendarPageViewController.nib</key>
 		<data>
-		O18ivKGCbzCPya+LOcUF9Lp3JPk=
+		3WxYEvD4iLwONqg9J1dUMUk3DdE=
 		</data>
 		<key>ConfirmationPageViewController.nib</key>
 		<data>
-		osz7kVm3jTtT0XA76HjKcNECRLY=
+		kpJChQ+7ZZ4/9vSRnJjXL25KM/Q=
 		</data>
 		<key>EmailActivationViewController.nib</key>
 		<data>
-		1vVaLDeTvxIZS3ssbFfSMPs7PG0=
+		0l9G/MoQ+MRnkjSgxxScPLp6eG4=
 		</data>
 		<key>EmailCodeViewController.nib</key>
 		<data>
-		p3NNOG1HAnLfJEgcgDyAtxJyRLg=
+		EIfYmR6TDaN718iRQZMXKsdIUIM=
 		</data>
 		<key>FaceDetectionPageViewController.nib</key>
 		<data>
-		Z7Cq0658qL4iylB64vTedRdXzGs=
+		etQQUioAmuKzbY+sF3oZsO9zgic=
 		</data>
 		<key>FormPageViewController.nib</key>
 		<data>
-		ZvFsPWKPoGtLoMN+ThQmjgTHNkI=
+		Vy0le8u1+k3/vnbtdeVENnnlj/4=
 		</data>
 		<key>Headers/onboarding-Swift.h</key>
 		<data>
-		6Ja4X7MORSD4wXEupb5yx13iZlM=
+		tEsC04Ai+xo1YzscuWHUzTgDbk4=
 		</data>
 		<key>Headers/onboarding.h</key>
 		<data>
@@ -42,171 +42,171 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		z+Z+81vFMAvWnq63Z2Yj93B4c6M=
+		ZW0W6Z9Yrv0Cm8AWpKQyZN9Gf5Y=
 		</data>
 		<key>InfographicPageViewController.nib</key>
 		<data>
-		jvMVzC5E/V1tyBduEF+Y1ivnoJU=
+		995T5vy5+o3GBN+ub6E/Weas0MQ=
 		</data>
 		<key>InformationPageViewController.nib</key>
 		<data>
-		jtdOPJMaSQDLAwz2rSbnBNLASQc=
+		iCPjLmRZx5Vu7T6P5sfHFE85xRY=
 		</data>
 		<key>MeetingPageViewController.nib</key>
 		<data>
-		aG47Gm/X2fQD1nAfXoJBbkFW4+w=
+		A1z0Ym9AAze2LlC+XYiM2N4dVas=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		4vlN0kP9R718fG+Idre/Y16I7xs=
+		YpYpieyPIk6g56d2Y5wQYR4C0wk=
 		</data>
 		<key>Modules/onboarding.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		i/ROIpzOe4baYjJxQ4tdJKoftjQ=
+		BxAavQytnva25/cWzArhJTmS1fI=
 		</data>
 		<key>Modules/onboarding.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		wCz6F4/yyGuH9fwOR9FaYujnUmU=
+		84lwq/jDjvf3/pp9UYHuWh7DeJU=
 		</data>
 		<key>Modules/onboarding.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		x792Dtlo0Vw/9/AaRyJLnJzYTww=
+		Eu62NWthp+gFeqhvBKs26brTEBM=
 		</data>
 		<key>Modules/onboarding.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		wCz6F4/yyGuH9fwOR9FaYujnUmU=
+		84lwq/jDjvf3/pp9UYHuWh7DeJU=
 		</data>
 		<key>Modules/onboarding.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		7oIQrS2DmSC0AWSPkeqp8Eaq1MM=
+		4dxT3V/zKe4DzW/b72IpOHrbwOU=
 		</data>
 		<key>NfcPageViewController.nib</key>
 		<data>
-		aXlNosAJ2Cyq1+mvq0nAQX1gH8A=
+		5a+TGO4Unl8nTu0EA0qVC8IF3j4=
 		</data>
 		<key>OnboardingBottomSheetDialog.nib</key>
 		<data>
-		cl+IVsRzUMTAcjA1zKSold5SBl8=
+		Qr031z/fgUMD7OXGzGm0sR1I46c=
 		</data>
 		<key>OnboardingBottomSheetDialogItem.nib</key>
 		<data>
-		uog0BDRtJ1CwJpmh5EANmWR+OiE=
+		VuBoNL+fAcbcWuSs1JwP1C+oNyc=
 		</data>
 		<key>OnboardingCheckbox.nib</key>
 		<data>
-		XSXgCiSsv4SVcuXJGuqCdWMw5H0=
+		JGH5jh6g1NTfraq9vnuDpCtk08E=
 		</data>
 		<key>OnboardingDate.nib</key>
 		<data>
-		GFsJeBQ8Cag8tNwbAqK105fQW6I=
+		8pMQYH6dKImIs+C1uAPsMB2aKiA=
 		</data>
 		<key>OnboardingFormCheckbox.nib</key>
 		<data>
-		jEkBTGiB9LuF3xRUsjrAm3jHh7A=
+		TN388fXGU/axixDag2DB4vnJyiU=
 		</data>
 		<key>OnboardingFormDropdown.nib</key>
 		<data>
-		xYJqXB0o7Y0ISYD+XaZJIcvVkKw=
+		lI+IL+j0POVZxmzOuu4JKnLGgsg=
 		</data>
 		<key>OnboardingFormNumber.nib</key>
 		<data>
-		h3EomOylG8eJMcDrt08AXeTIelI=
+		L7bf5/KPvMN4WE0H/Bu7zndvYGI=
 		</data>
 		<key>OnboardingFormRadio.nib</key>
 		<data>
-		cPqOkRh1h+54JG9Jll3844jSkmc=
+		u3AzBVzqcESgPzXQvUZzKzd8WUI=
 		</data>
 		<key>OnboardingFormRadioItem.nib</key>
 		<data>
-		k9YDPjc5nC7noII31ZLYWGb7ijA=
+		fY59sAN17KwA+TmsbRUTzAfeDpc=
 		</data>
 		<key>OnboardingFormText.nib</key>
 		<data>
-		pzeVf8OnhYcNuqbvW/as2RpwcEk=
+		bAYTti7SpxBgS5WEaNmvtf54JrU=
 		</data>
 		<key>OnboardingInfographicIconText.nib</key>
 		<data>
-		4+0FYln2Q8rkGYFVNGmag/fs0ec=
+		8oJ+fPxO5mUueeZLGTi8jq7+25Y=
 		</data>
 		<key>OnboardingLoading.nib</key>
 		<data>
-		aygIWJeQVUMJMtoK+bZE2GyvDIU=
+		pmxGd1VfhE/Zww++PjktgLUplN4=
 		</data>
 		<key>OnboardingProductOfferCheckBox.nib</key>
 		<data>
-		91HlBxAGoZTXXLlzSASEZmXS1eY=
+		ICFG9v+64m+2BF+0eQHaRfkBVJY=
 		</data>
 		<key>OnboardingQuestionnaireCheckbox.nib</key>
 		<data>
-		U4cjGwnnhiQ4grwyvBuKL/2nLvQ=
+		8rqm7iNZoYlc1u/FYkyrhsRoTEQ=
 		</data>
 		<key>OnboardingQuestionnaireCheckboxItem.nib</key>
 		<data>
-		P2BOjysrRgtIuODKHDRbYIvW1Vo=
+		CzPnlkJrbfY91N3VtJFUJmdNrm4=
 		</data>
 		<key>OnboardingQuestionnaireDropdown.nib</key>
 		<data>
-		VaJk74t2Q8IrHB+/C728vfy+KPs=
+		v2/dPj10+vi80gtv+eENT7OT9lw=
 		</data>
 		<key>OnboardingQuestionnaireRadio.nib</key>
 		<data>
-		VfL+DN1AmAN9CHo7bPcQWRh98b4=
+		F1U6y6EeFUdxSRsd+6bsyMbV39U=
 		</data>
 		<key>OnboardingQuestionnaireRadioItem.nib</key>
 		<data>
-		08XAQIJGDfwOAJtkfgGLKzEmErI=
+		r9IgjVrc0VujTAldjwYm/GFXiYY=
 		</data>
 		<key>OnboardingQuestionnaireTitle.nib</key>
 		<data>
-		Fi4/ipQDElpCUAvgpxnRKp6GGdI=
+		bkNi5meM1sewd9tbMhMERmuagXQ=
 		</data>
 		<key>OnboardingRadio.nib</key>
 		<data>
-		4m6PDTOjFRmEk7ZB7jw77k6exeE=
+		IMdBzigv1ytTi5/i9aIcYswdh44=
 		</data>
 		<key>OnboardingWarning.nib</key>
 		<data>
-		cAowJru6sZZ2tRP7IGcpzKLWTao=
+		HUlWACsqZYzRrzj4hLFuLdKLKZQ=
 		</data>
 		<key>ProcessPageViewController.nib</key>
 		<data>
-		GGPaUvlDCywbTjFtxlxEWkS1++k=
+		UIJ+zdh31Vxs3yd4V7UHpEBI3LI=
 		</data>
 		<key>ProductOfferViewController.nib</key>
 		<data>
-		msg0mutYTinpJEE4GrMG0SCgJa4=
+		mG+FXIQzlS0LfUzIGwi07JJ9y9Y=
 		</data>
 		<key>QuestionnairePageViewController.nib</key>
 		<data>
-		HcUb+O9MpwSY7j+qE1a0SH5tJqM=
+		deXwG917hjeMDbCIlC2/0KFE5Tc=
 		</data>
 		<key>SmsActivationViewController.nib</key>
 		<data>
-		iDPIPOeRGvChsu61rc9Hz1TT8DI=
+		zJxHjOWUyWxpqVaPmSqBvZYtbsU=
 		</data>
 		<key>SmsCodeViewController.nib</key>
 		<data>
-		9u9KQ8jmY3we6spbAnkRV9cb3do=
+		WCQnBC8J6PgDV31EN7nKzvUUy7A=
 		</data>
 		<key>StartPageViewController.nib</key>
 		<data>
-		Y0rOBU+Vizhn1tXN2lGSIVjbTyQ=
+		8CYEtH1fyxKTQ9gsryZ38a8yqkw=
 		</data>
 		<key>VideoCallPageViewController.nib</key>
 		<data>
-		4NAKz9J6smLk5GTLabeEblCsSoU=
+		YNgDzmSDCwDodn21nMlp4xg7/cg=
 		</data>
 		<key>WaitingPageViewController.nib</key>
 		<data>
-		BiJDBRWAw9hwRMUR+8Fo+HRmJTc=
+		A6w4ZL3sPhCKviExfNlhzjWLQ9c=
 		</data>
 		<key>WebPageViewController.nib</key>
 		<data>
-		jleLJydxh9f1OxVRavgKXwS5VRY=
+		uo81ZnyLDaN0H/qkXOROGyT8g0g=
 		</data>
 		<key>WelcomePageViewController.nib</key>
 		<data>
-		EOMh/jHtB3W2m009u+meHgbWC3k=
+		HV3pWWqluIMmZ7JlgcqjgkKdH98=
 		</data>
 		<key>source_sans_pro_bold.otf</key>
 		<data>
@@ -223,56 +223,56 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			2IQcWTDLTZNBAxa/CwyQJUKCvCC36Ze+JHnhUPVp6oM=
+			bjd1J3yMxRhZsSj8fmds088OTt42FWYeFggId0m4cfo=
 			</data>
 		</dict>
 		<key>CalendarPageViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			bTzzLAM8/DG14hWBRuXlwsQz5Z+unDqjq6oVSvXHZV4=
+			QRnVhkhOtMC3DhAScvJUr8mN+8WZrWfItGJb4n2UwUU=
 			</data>
 		</dict>
 		<key>ConfirmationPageViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			cpim9nyDZZ11V8cvLc+XGhOxYxfLnHw2SzGUM0AikY8=
+			khMKVBkwsBzxiTiOScCCcgFTZABq4bdNqg0RtI0SBUA=
 			</data>
 		</dict>
 		<key>EmailActivationViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			eEaCBIIvQXsH7u3jRuCW9u/Rq4uENJ8lm2R4WimawCg=
+			q3Urnt0ULwWxFBRrIat53OCtw7M4OFTlN4GVWeyjZRw=
 			</data>
 		</dict>
 		<key>EmailCodeViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			6a4iKXG1DfEvut0LDH5dBO6dP5l9u7XZOAa9bw6Z/Mo=
+			/3e/uGD50y7XjBbkyZzVhyJj3sMfCj8aN7T/TQ29lME=
 			</data>
 		</dict>
 		<key>FaceDetectionPageViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			HqhJZL+ixANH9ITIjPRlvyGcC+f6yX04OClZRnqYy0I=
+			G6qK+Y41gWf9XFxJKJpE/+ypijbKvLrkLHvglHRMMFo=
 			</data>
 		</dict>
 		<key>FormPageViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+G6sX5oA+NrMGZ+lCPdEdfbtLRhXxM3pgnuZdu5nkqg=
+			l7Kzn21JEYneF2f3N3CU6dM7w3vb1THugyfssCs8LXE=
 			</data>
 		</dict>
 		<key>Headers/onboarding-Swift.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			zcC+KMMJcbORvPHlCGxhL+XspXZ5VYKW/VfVHvx4nDg=
+			iULqbYUtyixJkRCobXpl7AV6l4/l5R0x8BrtD5c+DLw=
 			</data>
 		</dict>
 		<key>Headers/onboarding.h</key>
@@ -286,287 +286,287 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			wkvWwKmu0KnmbFgQxqzGJekEVXqtDAqoz/CdmDN4HNs=
+			CW/d++D7oR7DyQzSLAuJDID//F6UcCSi0VvR2TE9zzs=
 			</data>
 		</dict>
 		<key>InformationPageViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			FL5/igwFoVpGa5WaMDdz8nHxW5SHT1DxflybM0aJMAs=
+			4Bg080xmir/Z4/qSMyzjrI3KF3WS3UZ98e4RUT3jH6Y=
 			</data>
 		</dict>
 		<key>MeetingPageViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			lTvuVF2KuLIkIx6OMOyAG65MLXVmk4OjA7afxbSHlBk=
+			qTN7LG7AfOwIDrJrUpmCaW8zWBrJKRdlLN/nRkuMSf8=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			hmzZD3a+VKfLeNKFQ+vVS6CgIgi/97W7roLUstUxWrM=
+			aPnmnkdoqGv23w4heFhOQSVQr68L9Cpu6v8fDEne1f4=
 			</data>
 		</dict>
 		<key>Modules/onboarding.swiftmodule/arm64-apple-ios.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			d8Z74nGi/zQ1W6dDYMxtjBIXVt9QYLdFyoacDpF8TCY=
+			bm1bJqVCkgwNBgZq9HF+EJFAZej7jeC+ubkEpNRX4qs=
 			</data>
 		</dict>
 		<key>Modules/onboarding.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZP0qDw7tBbyqcc24g+3IRD+3Gwd7rFsL5Z4maB4ZUZU=
+			1yvsO4Ik091rbreaPaUiOn0jXdaAwCohhQimX8ljfRY=
 			</data>
 		</dict>
 		<key>Modules/onboarding.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZQ+FMIg53Hfmnd51SB3bYEQNeMgeUW6Sn4EjpFRitqY=
+			KQCFzw/enmZhp4/xKtugHq16JfeKcVbLdGiT62WLYks=
 			</data>
 		</dict>
 		<key>Modules/onboarding.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZP0qDw7tBbyqcc24g+3IRD+3Gwd7rFsL5Z4maB4ZUZU=
+			1yvsO4Ik091rbreaPaUiOn0jXdaAwCohhQimX8ljfRY=
 			</data>
 		</dict>
 		<key>Modules/onboarding.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			zghzBbK+XaqH6KaddV44zC8Dz6MMLUekZT0lbMiP/Dk=
+			qcXMKLYVi+cuswHczkbuvUc8ddaF4KWKM53N2QOXrjM=
 			</data>
 		</dict>
 		<key>NfcPageViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			FMN8BFNaZzoFxJN3AyhqbapTPXUIGda8KKINpMRycoA=
+			tpmzth94Zp+9r9Kq6gbAcs2fP/Gx2XZbsPf7O5ptT2s=
 			</data>
 		</dict>
 		<key>OnboardingBottomSheetDialog.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			P9404M6c0wy7yRMO/OMUrPUr/cODtHf6CiyxyBwp28U=
+			XdoqNFG4gAReyQHSsZx2PvKR+s0Opn2lwnsUCvUPi84=
 			</data>
 		</dict>
 		<key>OnboardingBottomSheetDialogItem.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			G3qiUz3mV/+nlyIk7TWgVUmqQCgL8CAhU2ZSE2eBLn0=
+			QKsA2P06hGhUl5HUwkJAhWH0HfOuFMIVa5ctqfU1qY8=
 			</data>
 		</dict>
 		<key>OnboardingCheckbox.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			0JUvE/4ca0j9Kq8mMRTR+ErTayqai0D/8k9sUdI5o6g=
+			+9+Rxh1itmD4b47R0K7i2ISc4lyvwfLJxgeSydb+PrA=
 			</data>
 		</dict>
 		<key>OnboardingDate.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Elc2p4zSxnKVJLkGNmeN5BKYm6nbq3eefu9xI9t03TI=
+			R7EAYwcRmStuC7oSKO/oaLvSQ97tFUnTHXBDy/5fZpg=
 			</data>
 		</dict>
 		<key>OnboardingFormCheckbox.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			sCM2uLXtsEoUFjB8XTFWuU9HvkFzuhMVvjyxGYHOyYI=
+			jsz5+RwkatnN4Pi6g80PoGdyCbG6J2ZmCpSaUfdM0og=
 			</data>
 		</dict>
 		<key>OnboardingFormDropdown.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			eQqBZlNoRG54X0N2plXCVYLU1othX03sZVt6/D0VPjk=
+			9pizUhu0TepfQcIU0+XrAISONrtHvDqLD/BhEavyOzE=
 			</data>
 		</dict>
 		<key>OnboardingFormNumber.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/HvriDCq+PkBNazpoo1Hb8uKGo4fG6oAfDT5GORUQDc=
+			rGwcWy0sAhD2EJ5m/QsgdzerVJlO8Df+7m5K8pO8t7k=
 			</data>
 		</dict>
 		<key>OnboardingFormRadio.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			2OQhEUBzeGPPK4C0f1EERJG9tSKy+FLgh1B151k+1uM=
+			ythRlzHa5C+sxHUPG8GlnV6FDxCIWZXm3Jsnia4edqM=
 			</data>
 		</dict>
 		<key>OnboardingFormRadioItem.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			eN6oj/pLyeMbgGUWojKYxvAumkDZmXCYyA30t9j20PE=
+			fpnLQ2/dRbFrwfBsSiVRBFogHJENgzzHCHtmem+BTOM=
 			</data>
 		</dict>
 		<key>OnboardingFormText.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			p9+q0zWvkS2jlvg4BtK6xE4GWCtygPKHo9WLra0l01A=
+			1Kv1njwZNXFCJLJWuSaIcx0MF9e0XnwSgVPEAvgS3iA=
 			</data>
 		</dict>
 		<key>OnboardingInfographicIconText.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			p7LRJKIf8fnqcIlidXkh3Q+TZWP5L2DXHDA/dKUlo2I=
+			TlAOV3HBlTC9t1dFUUifqNtex743rDR3Wx0Nrn7DVvk=
 			</data>
 		</dict>
 		<key>OnboardingLoading.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			jwprxCBko0YIYZvTJoNsgwspskMcL0buwBDxbQrAIbg=
+			uiRfi8tPp2uzW05+5U2fyoD4DSUoLoksOKPQqYXsMvE=
 			</data>
 		</dict>
 		<key>OnboardingProductOfferCheckBox.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			xIK4djkGsywZozkhlGwOjrTa2DxUdtnfFK/tlzm7G40=
+			676yTq8WssreyU4RjmePpESLFnKqhqGS99fKDiHlWbY=
 			</data>
 		</dict>
 		<key>OnboardingQuestionnaireCheckbox.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			AZYNRYOB/V0QSuneNhktNNhBrF3aJvG+hE54zZNai0M=
+			+IXj66llhNGIR3+goQoaxGfoqobgHzTa4bAxlDXo2Ok=
 			</data>
 		</dict>
 		<key>OnboardingQuestionnaireCheckboxItem.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			lzNOxnsoj6Fhej4CtA0w9Q9dRi/Qzadb+VQ1AKcfR9I=
+			z+7eGrptNNC+yTw2EBsHWFMwMzCzsBnUadHG9SA8ZpE=
 			</data>
 		</dict>
 		<key>OnboardingQuestionnaireDropdown.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			21UjtehxbE9JpBSg8DCQys6vB10C9aTBvGPFSFq0klo=
+			bw/0fXtcfkzwclV9bzALwAqmCKoqQk8HIqIx8ExSkts=
 			</data>
 		</dict>
 		<key>OnboardingQuestionnaireRadio.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			bLdpwjHa+56EUB6Z6kI0LUPAfgsQ3ofspc6v4+dtNz8=
+			AFdhxEJp/ObWBvSxM8SgPgnLpy74e14RXyqpRgjFo34=
 			</data>
 		</dict>
 		<key>OnboardingQuestionnaireRadioItem.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			JtDYy9tvUc+Z7QnjHaWDZgqoUOVp6B8BwlUKyMYan6c=
+			vf7sqcaIFxao1zid0HZm4LuRHbXxuilEZA2XhSjW02E=
 			</data>
 		</dict>
 		<key>OnboardingQuestionnaireTitle.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			pZae+XcEw6DJZ8mg3ZE+MjC/362pRfWmMpn443yHbDA=
+			SMs/HcMZSDkmNUoevyMAXtdywWsRM6JDYjWT9IZxgQY=
 			</data>
 		</dict>
 		<key>OnboardingRadio.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			lKpVIzMvZ77BaJvuQi7kkvHHL+jT2ui/ya6gBW56zr8=
+			MsctEity9Q1kjU72yrYfEm662+vn0USDDHxtfXnv7AE=
 			</data>
 		</dict>
 		<key>OnboardingWarning.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			36Nwz9D/UBu39iFSolfQf5OJ18KkaZL9IS0+W/6jwTY=
+			xkDEg5Wp/a9Eqng7tN9mDDns01gbqlgc0CPqRH1yXwQ=
 			</data>
 		</dict>
 		<key>ProcessPageViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			TSY3DACkSpCy4glNezaxTFap5ZqXJtZw2AYK7szvo9g=
+			CTPpk1LoBovf3tay1XkCPq0q+2nTCJX/m/b9dFmpfqE=
 			</data>
 		</dict>
 		<key>ProductOfferViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			lKvkGT9ht2SR6HsxKwKN2H2MnuCKZRqdaDqp3RzIeQw=
+			tix1j3b6WPGaUys9nel6a6txfqlqOac0zr1VySHOpFY=
 			</data>
 		</dict>
 		<key>QuestionnairePageViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			g1kWnJtxsBU2EGd2shc+CwxtcN5xstUX0iLl4JXLqtw=
+			ti7uPXUbu6ck4q4vbu0Gy47zb9gSvZebBZzfVMjBhhc=
 			</data>
 		</dict>
 		<key>SmsActivationViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			PHaKCOvBKY4GDkYKMDbO2rv3+1IVSpdbYDvYTwlmux4=
+			scb32iYHx1d6rvEyyO+7VvARZCB7+gjEGUZ6il8cC2I=
 			</data>
 		</dict>
 		<key>SmsCodeViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			a4a6wR8rzFeklth1ZQIqPNRk5Y6u0b5u15Fh9JzBpvY=
+			2CCHgUxRbRDOk/0g3NBr2XWifYZ20/kcdu3SpgvDOMU=
 			</data>
 		</dict>
 		<key>StartPageViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			2u5ryB6PsGTT4CxDnn0RZUJZp/Il4Kk/CMnu6tQZoP8=
+			i1wzVRYiG4FWwmQ6r/7K0FpDBtfTUkCVST8nTmZa4cw=
 			</data>
 		</dict>
 		<key>VideoCallPageViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			b/8FYyZ4nhDd6PgeC4kyi8A35qdEPqNVGJc2Cqhm7ak=
+			hbi1HNvIFn1vZQMe6gnVWbDkdXy7XKEjdtLBKr8QXvk=
 			</data>
 		</dict>
 		<key>WaitingPageViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			jYJMRIO4ve+VBQUDmrX5ADCvDPQFqzpF3z973GY6FPA=
+			V5KA3u4G1jBBxrDuMieiNqSYiceeRkbkEHHbSIvACSU=
 			</data>
 		</dict>
 		<key>WebPageViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			pt2sxrqSEUI+LPyyIcnmJTzgKpumoFry1N2EXfEtJp8=
+			vjPisWlVCfAovsz3aAe3kCwyDRUh1aWLxNO9kHrIX/c=
 			</data>
 		</dict>
 		<key>WelcomePageViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			AZRhaCM0saltprTP7W2JOgIiQEYMwix+PLYmH/RAV3E=
+			IFFlQxlooFhs7w12bkausJASDVH94O9q2ee66YYEwaE=
 			</data>
 		</dict>
 		<key>source_sans_pro_bold.otf</key>

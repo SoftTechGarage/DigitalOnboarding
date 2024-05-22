@@ -6,12 +6,14 @@
 
 import UIKit
 import onboarding
-
+import NFCReaderApple
 class ViewController: UIViewController, OnboardingDelegate {
 
+    @IBOutlet private weak var label: UILabel!
     override func viewDidLoad() {
         super.viewDidLoad()
-        
+        label.text = "Version \(CoreReader.getSDKVersion())"
+        label.textColor = .red
         Onboarding.delegate = self
         
         
