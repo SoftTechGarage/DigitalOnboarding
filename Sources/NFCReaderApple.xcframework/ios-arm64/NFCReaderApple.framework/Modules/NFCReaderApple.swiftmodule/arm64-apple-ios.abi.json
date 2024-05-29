@@ -31352,2989 +31352,2989 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/ChipAuthenticationPublicKeyInfo.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/ChipAuthenticationPublicKeyInfo.swift",
       "kind": "StringLiteral",
       "offset": 180,
       "length": 31,
       "value": "\"NFCReaderApple.ChipAuthenticationPublicKeyInfo\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/NFCPassportModel.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
       "offset": 416,
       "length": 6,
       "value": "\"5F03\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/NFCPassportModel.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
       "offset": 434,
       "length": 3,
       "value": "\"?\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/NFCPassportModel.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
       "offset": 543,
       "length": 6,
       "value": "\"5F03\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/NFCPassportModel.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
       "offset": 560,
       "length": 3,
       "value": "\"?\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/NFCPassportModel.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
       "offset": 661,
       "length": 4,
       "value": "\"5A\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/NFCPassportModel.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
       "offset": 670,
       "length": 3,
       "value": "\"?\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/NFCPassportModel.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
       "offset": 700,
       "length": 3,
       "value": "\"<\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/NFCPassportModel.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
       "offset": 711,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/NFCPassportModel.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
       "offset": 812,
       "length": 6,
       "value": "\"5F28\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/NFCPassportModel.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
       "offset": 823,
       "length": 3,
       "value": "\"?\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/NFCPassportModel.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
       "offset": 925,
       "length": 4,
       "value": "\"59\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/NFCPassportModel.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
       "offset": 934,
       "length": 3,
       "value": "\"?\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/NFCPassportModel.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
       "offset": 1029,
       "length": 6,
       "value": "\"5F57\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/NFCPassportModel.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
       "offset": 1040,
       "length": 3,
       "value": "\"?\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/NFCPassportModel.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
       "offset": 1130,
       "length": 6,
       "value": "\"5F35\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/NFCPassportModel.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
       "offset": 1141,
       "length": 3,
       "value": "\"?\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/NFCPassportModel.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
       "offset": 1236,
       "length": 6,
       "value": "\"5F2C\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/NFCPassportModel.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
       "offset": 1247,
       "length": 3,
       "value": "\"?\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/NFCPassportModel.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "IntegerLiteral",
       "offset": 1336,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/NFCPassportModel.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
       "offset": 1364,
       "length": 3,
       "value": "\"<\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/NFCPassportModel.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
       "offset": 1375,
       "length": 3,
       "value": "\" \""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/NFCPassportModel.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
       "offset": 1469,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/NFCPassportModel.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "IntegerLiteral",
       "offset": 1489,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/NFCPassportModel.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
       "offset": 1564,
       "length": 3,
       "value": "\"<\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/NFCPassportModel.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
       "offset": 1575,
       "length": 3,
       "value": "\" \""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/NFCPassportModel.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
       "offset": 1666,
       "length": 3,
       "value": "\" \""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/NFCPassportModel.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
       "offset": 1860,
       "length": 6,
       "value": "\"5F1F\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/NFCPassportModel.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
       "offset": 1871,
       "length": 11,
       "value": "\"NOT FOUND\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/NFCPassportModel.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
       "offset": 2109,
       "length": 4,
       "value": "\"<<\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/NFCPassportModel.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
       "offset": 2152,
       "length": 4,
       "value": "\"5B\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/NFCPassportModel.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
       "offset": 2161,
       "length": 3,
       "value": "\"?\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/NFCPassportModel.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
       "offset": 2190,
       "length": 4,
       "value": "\"<<\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/NFCPassportModel.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
       "offset": 3241,
       "length": 4,
       "value": "\"53\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/NFCPassportModel.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
       "offset": 3250,
       "length": 3,
       "value": "\"?\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/NFCPassportModel.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
       "offset": 3280,
       "length": 3,
       "value": "\"<\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/NFCPassportModel.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
       "offset": 3291,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/NFCPassportModel.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "StringLiteral",
       "offset": 3773,
       "length": 9,
       "value": "\"Unknown\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/NFCPassportModel.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "Array",
       "offset": 3963,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/NFCPassportModel.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "Dictionary",
       "offset": 4186,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/NFCPassportModel.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "BooleanLiteral",
       "offset": 4643,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/NFCPassportModel.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "BooleanLiteral",
       "offset": 4721,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/NFCPassportModel.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "BooleanLiteral",
       "offset": 4788,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/NFCPassportModel.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "BooleanLiteral",
       "offset": 4858,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/NFCPassportModel.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "Array",
       "offset": 4934,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/NFCPassportModel.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "Array",
       "offset": 5007,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/NFCPassportModel.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "Array",
       "offset": 5069,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/NFCPassportModel.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "Dictionary",
       "offset": 6633,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/NFCPassportModel.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "BooleanLiteral",
       "offset": 8774,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/NFCPassportModel.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/NFCPassportModel.swift",
       "kind": "BooleanLiteral",
       "offset": 11302,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/Network\/Responses\/NFCCheckResponse.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/Network\/Responses\/NFCCheckResponse.swift",
       "kind": "BooleanLiteral",
       "offset": 208,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/Network\/Responses\/NFCCheckResponse.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/Network\/Responses\/NFCCheckResponse.swift",
       "kind": "BooleanLiteral",
       "offset": 239,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/Network\/Responses\/NFCCheckResponse.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/Network\/Responses\/NFCCheckResponse.swift",
       "kind": "BooleanLiteral",
       "offset": 266,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/MrzParser\/MrzParser.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/MrzParser\/MrzParser.swift",
       "kind": "IntegerLiteral",
       "offset": 265,
       "length": 3,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/MrzParser\/MrzParser.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/MrzParser\/MrzParser.swift",
       "kind": "IntegerLiteral",
       "offset": 270,
       "length": 3,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/MrzParser\/MrzParser.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/MrzParser\/MrzParser.swift",
       "kind": "IntegerLiteral",
       "offset": 275,
       "length": 7,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/MrzParser\/MrzParser.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/MrzParser\/MrzParser.swift",
       "kind": "IntegerLiteral",
       "offset": 265,
       "length": 3,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/MrzParser\/MrzParser.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/MrzParser\/MrzParser.swift",
       "kind": "IntegerLiteral",
       "offset": 270,
       "length": 3,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/MrzParser\/MrzParser.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/MrzParser\/MrzParser.swift",
       "kind": "IntegerLiteral",
       "offset": 275,
       "length": 7,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/MrzParser\/MrzParser.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/MrzParser\/MrzParser.swift",
       "kind": "IntegerLiteral",
       "offset": 265,
       "length": 3,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/MrzParser\/MrzParser.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/MrzParser\/MrzParser.swift",
       "kind": "IntegerLiteral",
       "offset": 270,
       "length": 3,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/MrzParser\/MrzParser.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/MrzParser\/MrzParser.swift",
       "kind": "IntegerLiteral",
       "offset": 275,
       "length": 7,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/MrzParser\/MrzParser.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/MrzParser\/MrzParser.swift",
       "kind": "BooleanLiteral",
       "offset": 325,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/CoreReader.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/CoreReader.swift",
       "kind": "StringLiteral",
       "offset": 373,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/CoreReader.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/CoreReader.swift",
       "kind": "StringLiteral",
       "offset": 394,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/CoreReader.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/CoreReader.swift",
       "kind": "StringLiteral",
       "offset": 422,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/CoreReader.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/CoreReader.swift",
       "kind": "StringLiteral",
       "offset": 443,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/CoreReader.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/CoreReader.swift",
       "kind": "StringLiteral",
       "offset": 466,
       "length": 4,
       "value": "\"tr\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/SwiftyTesseract\/Tesseract+RecognizedBlock.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/SwiftyTesseract\/Tesseract+RecognizedBlock.swift",
       "kind": "IntegerLiteral",
       "offset": 4512,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/SwiftyTesseract\/Tesseract+RecognizedBlock.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/SwiftyTesseract\/Tesseract+RecognizedBlock.swift",
       "kind": "IntegerLiteral",
       "offset": 4660,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/SwiftyTesseract\/Tesseract+RecognizedBlock.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/SwiftyTesseract\/Tesseract+RecognizedBlock.swift",
       "kind": "IntegerLiteral",
       "offset": 4812,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/SwiftyTesseract\/Tesseract+RecognizedBlock.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/SwiftyTesseract\/Tesseract+RecognizedBlock.swift",
       "kind": "IntegerLiteral",
       "offset": 4966,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/TagReader.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/TagReader.swift",
       "kind": "IntegerLiteral",
       "offset": 339,
       "length": 4,
       "value": "0xA0"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/TagReader.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/TagReader.swift",
       "kind": "IntegerLiteral",
       "offset": 5208,
       "length": 3,
       "value": "256"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/Network\/Requests\/NFCCheckRequest.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/Network\/Requests\/NFCCheckRequest.swift",
       "kind": "StringLiteral",
       "offset": 301,
       "length": 41,
       "value": "\"https:\/\/login.nfcread.com\/api\/NFC\/check\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/Network\/Requests\/NFCCheckRequest.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/Network\/Requests\/NFCCheckRequest.swift",
       "kind": "Dictionary",
       "offset": 385,
       "length": 50,
       "value": "[(\"Content-Type\", \"application\/json\"), (\"Accept\", \"*\/*\")]"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/Network\/Requests\/NFCCheckRequest.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/Network\/Requests\/NFCCheckRequest.swift",
       "kind": "IntegerLiteral",
       "offset": 508,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/SwiftyTesseract\/Tesseract+ConfigurationBuilder.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/SwiftyTesseract\/Tesseract+ConfigurationBuilder.swift",
       "kind": "StringLiteral",
       "offset": 1113,
       "length": 3,
       "value": "\"1\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/SwiftyTesseract\/Tesseract+ConfigurationBuilder.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/SwiftyTesseract\/Tesseract+ConfigurationBuilder.swift",
       "kind": "StringLiteral",
       "offset": 1246,
       "length": 3,
       "value": "\"0\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/ObjectDetectionSessionHandler.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/ObjectDetectionSessionHandler.swift",
       "kind": "StringLiteral",
       "offset": 664,
       "length": 42,
       "value": "\"com.appliedrec.Ver-ID.RectangleDetection\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/ObjectDetectionSessionHandler.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/ObjectDetectionSessionHandler.swift",
       "kind": "Array",
       "offset": 720,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/ObjectDetectionSessionHandler.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/ObjectDetectionSessionHandler.swift",
       "kind": "IntegerLiteral",
       "offset": 881,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/Logging.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/Logging.swift",
       "kind": "IntegerLiteral",
       "offset": 279,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/Logging.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/Logging.swift",
       "kind": "IntegerLiteral",
       "offset": 298,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/Logging.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/Logging.swift",
       "kind": "IntegerLiteral",
       "offset": 316,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/Logging.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/Logging.swift",
       "kind": "IntegerLiteral",
       "offset": 337,
       "length": 1,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/Logging.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/Logging.swift",
       "kind": "IntegerLiteral",
       "offset": 356,
       "length": 1,
       "value": "4"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/Logging.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/Logging.swift",
       "kind": "IntegerLiteral",
       "offset": 374,
       "length": 1,
       "value": "5"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/Logging.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/Logging.swift",
       "kind": "IntegerLiteral",
       "offset": 279,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/Logging.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/Logging.swift",
       "kind": "IntegerLiteral",
       "offset": 298,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/Logging.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/Logging.swift",
       "kind": "IntegerLiteral",
       "offset": 316,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/Logging.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/Logging.swift",
       "kind": "IntegerLiteral",
       "offset": 337,
       "length": 1,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/Logging.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/Logging.swift",
       "kind": "IntegerLiteral",
       "offset": 356,
       "length": 1,
       "value": "4"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/Logging.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/Logging.swift",
       "kind": "IntegerLiteral",
       "offset": 374,
       "length": 1,
       "value": "5"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/Logging.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/Logging.swift",
       "kind": "IntegerLiteral",
       "offset": 279,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/Logging.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/Logging.swift",
       "kind": "IntegerLiteral",
       "offset": 298,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/Logging.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/Logging.swift",
       "kind": "IntegerLiteral",
       "offset": 316,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/Logging.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/Logging.swift",
       "kind": "IntegerLiteral",
       "offset": 337,
       "length": 1,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/Logging.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/Logging.swift",
       "kind": "IntegerLiteral",
       "offset": 356,
       "length": 1,
       "value": "4"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/Logging.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/Logging.swift",
       "kind": "IntegerLiteral",
       "offset": 374,
       "length": 1,
       "value": "5"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/Logging.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/Logging.swift",
       "kind": "BooleanLiteral",
       "offset": 482,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/Logging.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/Logging.swift",
       "kind": "BooleanLiteral",
       "offset": 612,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroup2.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroup2.swift",
       "kind": "IntegerLiteral",
       "offset": 243,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroup2.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroup2.swift",
       "kind": "IntegerLiteral",
       "offset": 295,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroup2.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroup2.swift",
       "kind": "IntegerLiteral",
       "offset": 348,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroup2.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroup2.swift",
       "kind": "IntegerLiteral",
       "offset": 407,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroup2.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroup2.swift",
       "kind": "IntegerLiteral",
       "offset": 468,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroup2.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroup2.swift",
       "kind": "IntegerLiteral",
       "offset": 522,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroup2.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroup2.swift",
       "kind": "IntegerLiteral",
       "offset": 567,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroup2.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroup2.swift",
       "kind": "IntegerLiteral",
       "offset": 614,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroup2.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroup2.swift",
       "kind": "IntegerLiteral",
       "offset": 662,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroup2.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroup2.swift",
       "kind": "IntegerLiteral",
       "offset": 712,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroup2.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroup2.swift",
       "kind": "IntegerLiteral",
       "offset": 761,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroup2.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroup2.swift",
       "kind": "IntegerLiteral",
       "offset": 809,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroup2.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroup2.swift",
       "kind": "IntegerLiteral",
       "offset": 868,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroup2.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroup2.swift",
       "kind": "IntegerLiteral",
       "offset": 920,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroup2.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroup2.swift",
       "kind": "IntegerLiteral",
       "offset": 972,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroup2.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroup2.swift",
       "kind": "IntegerLiteral",
       "offset": 1021,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroup2.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroup2.swift",
       "kind": "IntegerLiteral",
       "offset": 1071,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroup2.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroup2.swift",
       "kind": "IntegerLiteral",
       "offset": 1125,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroup2.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroup2.swift",
       "kind": "IntegerLiteral",
       "offset": 1174,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroup2.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroup2.swift",
       "kind": "IntegerLiteral",
       "offset": 1223,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroup2.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroup2.swift",
       "kind": "IntegerLiteral",
       "offset": 1269,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroup2.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroup2.swift",
       "kind": "Array",
       "offset": 1321,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/MrzParser\/Parsers\/TD3.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/MrzParser\/Parsers\/TD3.swift",
       "kind": "IntegerLiteral",
       "offset": 186,
       "length": 2,
       "value": "44"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/MrzParser\/Parsers\/TD3.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/MrzParser\/Parsers\/TD3.swift",
       "kind": "StringLiteral",
       "offset": 719,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/SOD.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/SOD.swift",
       "kind": "Array",
       "offset": 2156,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/DetectionOperations.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/DetectionOperations.swift",
       "kind": "StringLiteral",
       "offset": 238,
       "length": 36,
       "value": "\"NFCReaderApple.PerspectiveCorrectionParamsOperation\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/MrzScanResult.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/MrzScanResult.swift",
       "kind": "StringLiteral",
       "offset": 182,
       "length": 13,
       "value": "\"NFCReaderApple.MrzScanResult\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/X509Wrapper.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/X509Wrapper.swift",
       "kind": "StringLiteral",
       "offset": 344,
       "length": 25,
       "value": "\"Certificate fingerprint\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/X509Wrapper.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/X509Wrapper.swift",
       "kind": "StringLiteral",
       "offset": 392,
       "length": 8,
       "value": "\"Issuer\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/X509Wrapper.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/X509Wrapper.swift",
       "kind": "StringLiteral",
       "offset": 424,
       "length": 9,
       "value": "\"Subject\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/X509Wrapper.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/X509Wrapper.swift",
       "kind": "StringLiteral",
       "offset": 458,
       "length": 15,
       "value": "\"Serial number\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/X509Wrapper.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/X509Wrapper.swift",
       "kind": "StringLiteral",
       "offset": 504,
       "length": 21,
       "value": "\"Signature algorithm\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/X509Wrapper.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/X509Wrapper.swift",
       "kind": "StringLiteral",
       "offset": 556,
       "length": 22,
       "value": "\"Public key algorithm\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/X509Wrapper.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/X509Wrapper.swift",
       "kind": "StringLiteral",
       "offset": 600,
       "length": 12,
       "value": "\"Valid from\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/X509Wrapper.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/X509Wrapper.swift",
       "kind": "StringLiteral",
       "offset": 633,
       "length": 10,
       "value": "\"Valid to\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/X509Wrapper.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/X509Wrapper.swift",
       "kind": "StringLiteral",
       "offset": 344,
       "length": 25,
       "value": "\"Certificate fingerprint\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/X509Wrapper.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/X509Wrapper.swift",
       "kind": "StringLiteral",
       "offset": 392,
       "length": 8,
       "value": "\"Issuer\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/X509Wrapper.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/X509Wrapper.swift",
       "kind": "StringLiteral",
       "offset": 424,
       "length": 9,
       "value": "\"Subject\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/X509Wrapper.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/X509Wrapper.swift",
       "kind": "StringLiteral",
       "offset": 458,
       "length": 15,
       "value": "\"Serial number\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/X509Wrapper.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/X509Wrapper.swift",
       "kind": "StringLiteral",
       "offset": 504,
       "length": 21,
       "value": "\"Signature algorithm\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/X509Wrapper.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/X509Wrapper.swift",
       "kind": "StringLiteral",
       "offset": 556,
       "length": 22,
       "value": "\"Public key algorithm\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/X509Wrapper.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/X509Wrapper.swift",
       "kind": "StringLiteral",
       "offset": 600,
       "length": 12,
       "value": "\"Valid from\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/X509Wrapper.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/X509Wrapper.swift",
       "kind": "StringLiteral",
       "offset": 633,
       "length": 10,
       "value": "\"Valid to\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroup7.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroup7.swift",
       "kind": "Array",
       "offset": 253,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/PassportReader.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/PassportReader.swift",
       "kind": "Array",
       "offset": 650,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/PassportReader.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/PassportReader.swift",
       "kind": "BooleanLiteral",
       "offset": 689,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/PassportReader.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/PassportReader.swift",
       "kind": "BooleanLiteral",
       "offset": 732,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/PassportReader.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/PassportReader.swift",
       "kind": "BooleanLiteral",
       "offset": 762,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/PassportReader.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/PassportReader.swift",
       "kind": "BooleanLiteral",
       "offset": 795,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/PassportReader.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/PassportReader.swift",
       "kind": "StringLiteral",
       "offset": 975,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/PassportReader.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/PassportReader.swift",
       "kind": "BooleanLiteral",
       "offset": 1335,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/PassportReader.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/PassportReader.swift",
       "kind": "BooleanLiteral",
       "offset": 1573,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/PassportReader.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/PassportReader.swift",
       "kind": "Array",
       "offset": 2438,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/PassportReader.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/PassportReader.swift",
       "kind": "BooleanLiteral",
       "offset": 2470,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/PassportReader.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/PassportReader.swift",
       "kind": "BooleanLiteral",
       "offset": 2492,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/PassportReader.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/PassportReader.swift",
       "kind": "BooleanLiteral",
       "offset": 2517,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/PassportReader.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/PassportReader.swift",
       "kind": "StringLiteral",
       "offset": 237,
       "length": 14,
       "value": "\"NFCReaderApple.PassportReader\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/Strings.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/Strings.swift",
       "kind": "Dictionary",
       "offset": 215,
       "length": 6613,
       "value": "[(\"tr\", [(\"holdPassport\", \"Lütfen kimlik kartınızı telefonunuzun NFC alanına sabit tutarak bekleyin…\"), (\"authenticatingPassport\", \"Belge doğrulaması yapılıyor.....\"), (\"reading\", \"Okunuyor\"), (\"invalidTag\", \"NFC geçerli değil.\"), (\"moreThanOneTag\", \"1'den fazla etiket bulundu. Lütfen yalnızca 1 etiket sunun.\"), (\"connectionError\", \"Bağlantı hatası. Lütfen tekrar deneyin.\"), (\"invalidMRZ\", \"MRZ Anahtarı bu belge için geçerli değil.\"), (\"LicenseChecking\", \"Lisansınızı kontrol ediniz\"), (\"readingError\", \"Bağlantı hatası, lütfen tekrar deneyin. \"), (\"readingErrorTryAgain\", \"Üzgünüz, pasaportu okurken bir sorun oldu. Lütfen tekrar deneyin.\"), (\"readingSuccess\", \"Belge başarıyla okundu\"), (\"completeMrzScan\", \"Önce MRZ Taramasını tamamlamalısınız!\"), (\"holdPassportIpad\", \"Belgenizi bir NFC Terminalinin yakınında tutun.\"), (\"noConnectedTerminalFound\", \"Hata: Bağlı terminal bulunamadı\"), (\"connectNfcDevice\", \"Hata: Terminal Bulunamadı. Nfc cihazını bağladıktan sonra deneyin!\"), (\"managerNotFound\", \"Hata: Aygıt Bulunamadı: Sonlandırılıyor!\"), (\"terminalNotFound\", \"Hata: Terminal Bulunamadı: Sonlandırılıyor!\"), (\"deviceNotFound\", \"Hata: Aygıt Bulunamadı: Sonlandırılıyor!\"), (\"cardNotFound\", \"Hata: Kart Bulunamadı: Sonlandırılıyor!\"), (\"connectedToNfc\", \"NFC'ye bağlanıldı!\"), (\"bluetoothUpdating\", \"Güncelleme başlatılıyor. Lütfen Bluetooth hazır olana kadar bekleyin.\"), (\"deviceLowEnergy\", \"Bu cihaz Bluetooth düşük enerjiyi desteklemiyor.\"), (\"appLowEnergy\", \"Bu uygulamanın Bluetooth düşük enerjiyi kullanma yetkisi yok.\"), (\"turnOnBluetoth\", \"Okuyucuyu kullanmak için Ayarlar'da Bluetooth'u açmanız gerekir.\"), (\"scanCompleted\", \"Tarama Tamamlandı! Sonlandırılıyor!\"), (\"terminalFound\", \"Terminal Bulundu. NFC'ye bağlanmaya çalışılıyor! ..\"), (\"terminalScanning\", \"Terminal Tarama. Lütfen cihazın bağlı olduğundan emin olun!\"), (\"terminalNotFound2\", \"Terminal Bulunamadı. Lütfen cihaz bağlandıktan sonra tekrar deneyin!\"), (\"licenseInValid\", \"Geçersiz Lisans\"), (\"ok\", \"Tamam\"), (\"information\", \"Bilgi\"), (\"flipCard\", \"Kimliğin arka yüzünü okutun\"), (\"ReadSuccess\", \"Kimlik başarıyla okutuldu\"), (\"FirstOCR\", \" Tarama sonucu başarısız\"), (\"InvalidResponse\", \"Geçersiz Yanıt\"), (\"UnexpectedError\", \"Beklenmeyen Hata!\"), (\"NFCNotSupported\", \"NFC Desteklenmiyor\"), (\"InvalidResponseCheck\", \"Geçersiz Yanıt Kontrolü\"), (\"MissingMandatoryFields\", \"Zorunlu alanlar eksik\"), (\"UnsupportedDataGroup\", \"Desteklenmeyen Veri Grubu\"), (\"UnknownTag\", \"Bilinmeyen Etiket\"), (\"UnknownImageFormat\", \"Bilinmeyen Resim Formatı\"), (\"NotImplemented\", \"Implemente edilmemiş\"), (\"UserCanceled\", \"Kullanıcı iptal edildi\"), (\"InvalidMRZKEY\", \"Geçersiz MRZ\"), (\"InvalidHashAlgorithm\", \"Geçersiz Algoritma belirlendi\"), (\"NotYetSupported\", \"Henüz desteklenmiyor\")]), (\"en\", [(\"holdPassport\", \"Hold your İphone near an NFC\"), (\"authenticatingPassport\", \"Authenticating with passport.....\"), (\"reading\", \"Reading\"), (\"invalidTag\", \"Tag not valid.\"), (\"moreThanOneTag\", \"More than 1 tags was found. Please present only 1 tag.\"), (\"connectionError\", \"Connection error. Please try again.\"), (\"invalidMRZ\", \"MRZ Key not valid for this document.\"), (\"readingError\", \"Sorry, there was a problem reading the passport. \"), (\"readingErrorTryAgain\", \"Sorry, there was a problem reading the passport. Please try again\"), (\"readingSuccess\", \"Document read successfully\"), (\"completeMrzScan\", \"You must complete MRZ Scan First!\"), (\"holdPassportIpad\", \"Hold your document near an NFC Terminal.\"), (\"noConnectedTerminalFound\", \"Error:No connected terminal found\"), (\"connectNfcDevice\", \"Error:Terminal Not Found. Try after connect nfc device!\"), (\"managerNotFound\", \"Error:Manager Not Found: Terminating!\"), (\"terminalNotFound\", \"Error:Terminal Not Found: Terminating!\"), (\"deviceNotFound\", \"Error:Device Not Found: Terminating!\"), (\"cardNotFound\", \"Error:Card Not Found: Terminating!\"), (\"connectedToNfc\", \"Connected to NFC!\"), (\"LicenseChecking\", \"Checking License (Please wait...)\"), (\"bluetoothUpdating\", \"The update is being started. Please wait until Bluetooth is ready.\"), (\"deviceLowEnergy\", \"This device does not support Bluetooth low energy.\"), (\"appLowEnergy\", \"This app is not authorized to use Bluetooth low energy.\"), (\"turnOnBluetoth\", \"You must turn on Bluetooth in Settings in order to use the reader.\"), (\"scanCompleted\", \"Scan Completed! Terminating!\"), (\"terminalFound\", \"Terminal Found. Trying to connect NFC!..\"), (\"terminalScanning\", \"Terminal Scanning. Please be sure that device is connected!\"), (\"terminalNotFound2\", \"Terminal Not Found. Please try again after device connect!\"), (\"licenseInValid\", \"License invalid\"), (\"ok\", \"Ok\"), (\"information\", \"Information\"), (\"flipCard\", \"Flip your card\"), (\"ReadSuccess\", \"Passport read successfully\"), (\"FirstOCR\", \"Scan result can not be empty\"), (\"InvalidResponse\", \"Invalid Response\"), (\"UnexpectedError\", \"Unexpected Error\"), (\"NFCNotSupported\", \"NFC Not Supported\"), (\"InvalidResponseCheck\", \"Invalid Response Check \"), (\"MissingMandatoryFields\", \"Missing Mandatory Fields\"), (\"UnsupportedDataGroup\", \"Unsupported Data Group\"), (\"UnknownTag\", \"Unknown Tag\"), (\"UnknownImage Format\", \"Unknown Image Format\"), (\"NotImplemented\", \"Not Implemented\"), (\"UserCanceled\", \"User Canceled\"), (\"InvalidMRZKEY\", \"Invalid MRZ KEY\"), (\"InvalidHashAlgorithm Specified\", \"Invalid Hash Algorithm Specified\"), (\"NotYetSupported\", \"Not yet supported\")])]"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/AppConstants.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/AppConstants.swift",
       "kind": "BooleanLiteral",
       "offset": 709,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroup.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroup.swift",
       "kind": "Array",
       "offset": 290,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroup.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroup.swift",
       "kind": "Array",
       "offset": 435,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroup.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroup.swift",
       "kind": "IntegerLiteral",
       "offset": 457,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/PACEInfo.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/PACEInfo.swift",
       "kind": "IntegerLiteral",
       "offset": 450,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/PACEInfo.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/PACEInfo.swift",
       "kind": "IntegerLiteral",
       "offset": 498,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/PACEInfo.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/PACEInfo.swift",
       "kind": "IntegerLiteral",
       "offset": 546,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/PACEInfo.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/PACEInfo.swift",
       "kind": "IntegerLiteral",
       "offset": 598,
       "length": 1,
       "value": "8"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/PACEInfo.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/PACEInfo.swift",
       "kind": "IntegerLiteral",
       "offset": 655,
       "length": 1,
       "value": "9"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/PACEInfo.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/PACEInfo.swift",
       "kind": "IntegerLiteral",
       "offset": 707,
       "length": 2,
       "value": "10"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/PACEInfo.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/PACEInfo.swift",
       "kind": "IntegerLiteral",
       "offset": 765,
       "length": 2,
       "value": "11"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/PACEInfo.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/PACEInfo.swift",
       "kind": "IntegerLiteral",
       "offset": 818,
       "length": 2,
       "value": "12"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/PACEInfo.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/PACEInfo.swift",
       "kind": "IntegerLiteral",
       "offset": 876,
       "length": 2,
       "value": "13"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/PACEInfo.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/PACEInfo.swift",
       "kind": "IntegerLiteral",
       "offset": 934,
       "length": 2,
       "value": "14"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/PACEInfo.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/PACEInfo.swift",
       "kind": "IntegerLiteral",
       "offset": 987,
       "length": 2,
       "value": "15"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/PACEInfo.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/PACEInfo.swift",
       "kind": "IntegerLiteral",
       "offset": 1045,
       "length": 2,
       "value": "16"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/PACEInfo.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/PACEInfo.swift",
       "kind": "IntegerLiteral",
       "offset": 1103,
       "length": 2,
       "value": "17"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/PACEInfo.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/PACEInfo.swift",
       "kind": "IntegerLiteral",
       "offset": 1156,
       "length": 2,
       "value": "18"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/PACEInfo.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/PACEInfo.swift",
       "kind": "StringLiteral",
       "offset": 316,
       "length": 8,
       "value": "\"NFCReaderApple.PACEInfo\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/COM.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/COM.swift",
       "kind": "StringLiteral",
       "offset": 195,
       "length": 9,
       "value": "\"Unknown\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/COM.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/COM.swift",
       "kind": "StringLiteral",
       "offset": 259,
       "length": 9,
       "value": "\"Unknown\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/COM.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/COM.swift",
       "kind": "Array",
       "offset": 328,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/ChipAuthenticationHandler.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/ChipAuthenticationHandler.swift",
       "kind": "IntegerLiteral",
       "offset": 305,
       "length": 4,
       "value": "0x00"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/ChipAuthenticationHandler.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/ChipAuthenticationHandler.swift",
       "kind": "IntegerLiteral",
       "offset": 352,
       "length": 3,
       "value": "0x1"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/ChipAuthenticationHandler.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/ChipAuthenticationHandler.swift",
       "kind": "IntegerLiteral",
       "offset": 398,
       "length": 3,
       "value": "0x2"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/ChipAuthenticationHandler.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/ChipAuthenticationHandler.swift",
       "kind": "IntegerLiteral",
       "offset": 445,
       "length": 3,
       "value": "0x3"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/ChipAuthenticationHandler.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/ChipAuthenticationHandler.swift",
       "kind": "IntegerLiteral",
       "offset": 503,
       "length": 3,
       "value": "224"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/ChipAuthenticationHandler.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/ChipAuthenticationHandler.swift",
       "kind": "BooleanLiteral",
       "offset": 753,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/SimpleASN1DumpParser.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/SimpleASN1DumpParser.swift",
       "kind": "IntegerLiteral",
       "offset": 242,
       "length": 2,
       "value": "-1"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/SimpleASN1DumpParser.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/SimpleASN1DumpParser.swift",
       "kind": "IntegerLiteral",
       "offset": 267,
       "length": 2,
       "value": "-1"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/SimpleASN1DumpParser.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/SimpleASN1DumpParser.swift",
       "kind": "IntegerLiteral",
       "offset": 296,
       "length": 2,
       "value": "-1"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/SimpleASN1DumpParser.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/SimpleASN1DumpParser.swift",
       "kind": "IntegerLiteral",
       "offset": 322,
       "length": 2,
       "value": "-1"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/SimpleASN1DumpParser.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/SimpleASN1DumpParser.swift",
       "kind": "StringLiteral",
       "offset": 353,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/SimpleASN1DumpParser.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/SimpleASN1DumpParser.swift",
       "kind": "StringLiteral",
       "offset": 423,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/SimpleASN1DumpParser.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/SimpleASN1DumpParser.swift",
       "kind": "StringLiteral",
       "offset": 499,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/SimpleASN1DumpParser.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/SimpleASN1DumpParser.swift",
       "kind": "StringLiteral",
       "offset": 526,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/SwiftyTesseract\/Tesseract+Variable.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/SwiftyTesseract\/Tesseract+Variable.swift",
       "kind": "StringLiteral",
       "offset": 786,
       "length": 25,
       "value": "\"tessedit_char_whitelist\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/SwiftyTesseract\/Tesseract+Variable.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/SwiftyTesseract\/Tesseract+Variable.swift",
       "kind": "StringLiteral",
       "offset": 860,
       "length": 25,
       "value": "\"tessedit_char_blacklist\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/SwiftyTesseract\/Tesseract+Variable.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/SwiftyTesseract\/Tesseract+Variable.swift",
       "kind": "StringLiteral",
       "offset": 945,
       "length": 27,
       "value": "\"preserve_interword_spaces\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/SwiftyTesseract\/Tesseract+Variable.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/SwiftyTesseract\/Tesseract+Variable.swift",
       "kind": "StringLiteral",
       "offset": 1031,
       "length": 21,
       "value": "\"textord_min_xheight\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/SwiftyTesseract\/Tesseract+Variable.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/SwiftyTesseract\/Tesseract+Variable.swift",
       "kind": "StringLiteral",
       "offset": 1107,
       "length": 21,
       "value": "\"textord_old_xheight\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/MrzParser\/Parsers\/TD1.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/MrzParser\/Parsers\/TD1.swift",
       "kind": "IntegerLiteral",
       "offset": 186,
       "length": 2,
       "value": "30"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/MrzParser\/Parsers\/TD1.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/MrzParser\/Parsers\/TD1.swift",
       "kind": "StringLiteral",
       "offset": 716,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/MrzParser\/Parsers\/TD1.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/MrzParser\/Parsers\/TD1.swift",
       "kind": "StringLiteral",
       "offset": 760,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/Network\/Services\/BaseService.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/Network\/Services\/BaseService.swift",
       "kind": "StringLiteral",
       "offset": 193,
       "length": 5,
       "value": "\"GET\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/Network\/Services\/BaseService.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/Network\/Services\/BaseService.swift",
       "kind": "StringLiteral",
       "offset": 215,
       "length": 6,
       "value": "\"POST\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/Network\/Services\/BaseService.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/Network\/Services\/BaseService.swift",
       "kind": "StringLiteral",
       "offset": 237,
       "length": 5,
       "value": "\"PUT\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/Network\/Services\/BaseService.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/Network\/Services\/BaseService.swift",
       "kind": "StringLiteral",
       "offset": 261,
       "length": 8,
       "value": "\"DELETE\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/Network\/Services\/BaseService.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/Network\/Services\/BaseService.swift",
       "kind": "StringLiteral",
       "offset": 193,
       "length": 5,
       "value": "\"GET\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/Network\/Services\/BaseService.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/Network\/Services\/BaseService.swift",
       "kind": "StringLiteral",
       "offset": 215,
       "length": 6,
       "value": "\"POST\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/Network\/Services\/BaseService.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/Network\/Services\/BaseService.swift",
       "kind": "StringLiteral",
       "offset": 237,
       "length": 5,
       "value": "\"PUT\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/Network\/Services\/BaseService.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/Network\/Services\/BaseService.swift",
       "kind": "StringLiteral",
       "offset": 261,
       "length": 8,
       "value": "\"DELETE\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/Network\/Services\/BaseService.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/Network\/Services\/BaseService.swift",
       "kind": "StringLiteral",
       "offset": 524,
       "length": 27,
       "value": "\"An unknown error occured!\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/Network\/Services\/BaseService.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/Network\/Services\/BaseService.swift",
       "kind": "StringLiteral",
       "offset": 574,
       "length": 14,
       "value": "\"Bad Request!\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/Network\/Services\/BaseService.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/Network\/Services\/BaseService.swift",
       "kind": "StringLiteral",
       "offset": 609,
       "length": 34,
       "value": "\"The url you have typed not found\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/Network\/Services\/BaseService.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/Network\/Services\/BaseService.swift",
       "kind": "StringLiteral",
       "offset": 668,
       "length": 23,
       "value": "\"UnAuthorized Access!!\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/Network\/Services\/BaseService.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/Network\/Services\/BaseService.swift",
       "kind": "StringLiteral",
       "offset": 723,
       "length": 33,
       "value": "\"Internal Server Error occured!!\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/Network\/Services\/BaseService.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/Network\/Services\/BaseService.swift",
       "kind": "StringLiteral",
       "offset": 780,
       "length": 15,
       "value": "\"Invalid Data!\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/Network\/Services\/BaseService.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/Network\/Services\/BaseService.swift",
       "kind": "StringLiteral",
       "offset": 524,
       "length": 27,
       "value": "\"An unknown error occured!\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/Network\/Services\/BaseService.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/Network\/Services\/BaseService.swift",
       "kind": "StringLiteral",
       "offset": 574,
       "length": 14,
       "value": "\"Bad Request!\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/Network\/Services\/BaseService.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/Network\/Services\/BaseService.swift",
       "kind": "StringLiteral",
       "offset": 609,
       "length": 34,
       "value": "\"The url you have typed not found\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/Network\/Services\/BaseService.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/Network\/Services\/BaseService.swift",
       "kind": "StringLiteral",
       "offset": 668,
       "length": 23,
       "value": "\"UnAuthorized Access!!\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/Network\/Services\/BaseService.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/Network\/Services\/BaseService.swift",
       "kind": "StringLiteral",
       "offset": 723,
       "length": 33,
       "value": "\"Internal Server Error occured!!\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/Network\/Services\/BaseService.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/Network\/Services\/BaseService.swift",
       "kind": "StringLiteral",
       "offset": 780,
       "length": 15,
       "value": "\"Invalid Data!\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/Utils.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/Utils.swift",
       "kind": "Array",
       "offset": 1116,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/Utils.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/Utils.swift",
       "kind": "BooleanLiteral",
       "offset": 1265,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/Utils.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/Utils.swift",
       "kind": "IntegerLiteral",
       "offset": 2483,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/SecureMessagingSessionKeyGenerator.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/SecureMessagingSessionKeyGenerator.swift",
       "kind": "IntegerLiteral",
       "offset": 278,
       "length": 4,
       "value": "0x00"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/SecureMessagingSessionKeyGenerator.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/SecureMessagingSessionKeyGenerator.swift",
       "kind": "IntegerLiteral",
       "offset": 334,
       "length": 3,
       "value": "0x1"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/SecureMessagingSessionKeyGenerator.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/SecureMessagingSessionKeyGenerator.swift",
       "kind": "IntegerLiteral",
       "offset": 363,
       "length": 3,
       "value": "0x2"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/SecureMessagingSessionKeyGenerator.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/SecureMessagingSessionKeyGenerator.swift",
       "kind": "IntegerLiteral",
       "offset": 393,
       "length": 3,
       "value": "0x3"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/SecureMessagingSessionKeyGenerator.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/SecureMessagingSessionKeyGenerator.swift",
       "kind": "IntegerLiteral",
       "offset": 334,
       "length": 3,
       "value": "0x1"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/SecureMessagingSessionKeyGenerator.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/SecureMessagingSessionKeyGenerator.swift",
       "kind": "IntegerLiteral",
       "offset": 363,
       "length": 3,
       "value": "0x2"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/SecureMessagingSessionKeyGenerator.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/SecureMessagingSessionKeyGenerator.swift",
       "kind": "IntegerLiteral",
       "offset": 393,
       "length": 3,
       "value": "0x3"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/SecureMessagingSessionKeyGenerator.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/SecureMessagingSessionKeyGenerator.swift",
       "kind": "IntegerLiteral",
       "offset": 334,
       "length": 3,
       "value": "0x1"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/SecureMessagingSessionKeyGenerator.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/SecureMessagingSessionKeyGenerator.swift",
       "kind": "IntegerLiteral",
       "offset": 363,
       "length": 3,
       "value": "0x2"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/SecureMessagingSessionKeyGenerator.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/SecureMessagingSessionKeyGenerator.swift",
       "kind": "IntegerLiteral",
       "offset": 393,
       "length": 3,
       "value": "0x3"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/SwiftyTesseract\/Tesseract+Error.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/SwiftyTesseract\/Tesseract+Error.swift",
       "kind": "StringLiteral",
       "offset": 334,
       "length": 35,
       "value": "\"The image provided was unable to \""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/SwiftyTesseract\/Tesseract+Error.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/SwiftyTesseract\/Tesseract+Error.swift",
       "kind": "StringLiteral",
       "offset": 378,
       "length": 42,
       "value": "\"be converted to it's Data representation\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/SwiftyTesseract\/Tesseract+Error.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/SwiftyTesseract\/Tesseract+Error.swift",
       "kind": "StringLiteral",
       "offset": 493,
       "length": 59,
       "value": "\"Tesseract was unable to extract any text from the image. \""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/SwiftyTesseract\/Tesseract+Error.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/SwiftyTesseract\/Tesseract+Error.swift",
       "kind": "StringLiteral",
       "offset": 561,
       "length": 44,
       "value": "\"Make sure you have provided a valid image.\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/SwiftyTesseract\/Tesseract+Error.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/SwiftyTesseract\/Tesseract+Error.swift",
       "kind": "StringLiteral",
       "offset": 675,
       "length": 46,
       "value": "\"A result iterator was unable to be retrieved\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/SwiftyTesseract\/Tesseract+Error.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/SwiftyTesseract\/Tesseract+Error.swift",
       "kind": "StringLiteral",
       "offset": 770,
       "length": 64,
       "value": "\"SwiftyTesseract must be initialized with at least one language\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/SwiftyTesseract\/Tesseract+Error.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/SwiftyTesseract\/Tesseract+Error.swift",
       "kind": "StringLiteral",
       "offset": 879,
       "length": 48,
       "value": "\"Initialization of SwiftyTesseract has failed. \""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/SwiftyTesseract\/Tesseract+Error.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/SwiftyTesseract\/Tesseract+Error.swift",
       "kind": "StringLiteral",
       "offset": 934,
       "length": 85,
       "value": "\"Check that the tessdata folder has been added to the project as a folder reference \""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/SwiftyTesseract\/Tesseract+Error.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/SwiftyTesseract\/Tesseract+Error.swift",
       "kind": "StringLiteral",
       "offset": 1026,
       "length": 92,
       "value": "\"and contains the correct .traineddata files for the specified engine mode and language(s).\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/SwiftyTesseract\/Tesseract.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/SwiftyTesseract\/Tesseract.swift",
       "kind": "IntegerLiteral",
       "offset": 553,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/AES_3DES_DESEncryption.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/AES_3DES_DESEncryption.swift",
       "kind": "IntegerLiteral",
       "offset": 9295,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/AES_3DES_DESEncryption.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/AES_3DES_DESEncryption.swift",
       "kind": "IntegerLiteral",
       "offset": 11071,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/BaseCardDetectionViewController.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/BaseCardDetectionViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 743,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/BaseCardDetectionViewController.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/BaseCardDetectionViewController.swift",
       "kind": "Array",
       "offset": 920,
       "length": 28,
       "value": "[false, false, false, false]"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/BaseCardDetectionViewController.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/BaseCardDetectionViewController.swift",
       "kind": "Array",
       "offset": 1002,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/BaseCardDetectionViewController.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/BaseCardDetectionViewController.swift",
       "kind": "StringLiteral",
       "offset": 227,
       "length": 31,
       "value": "\"NFCReaderApple.BaseCardDetectionViewController\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/CardAndPassportDetectionSettings.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/CardAndPassportDetectionSettings.swift",
       "kind": "FloatLiteral",
       "offset": 568,
       "length": 3,
       "value": "0.1"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/CardAndPassportDetectionSettings.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/CardAndPassportDetectionSettings.swift",
       "kind": "BooleanLiteral",
       "offset": 613,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/CardAndPassportDetectionSettings.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/CardAndPassportDetectionSettings.swift",
       "kind": "StringLiteral",
       "offset": 659,
       "length": 10,
       "value": "\"Sanalogi\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/CardAndPassportDetectionSettings.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/CardAndPassportDetectionSettings.swift",
       "kind": "StringLiteral",
       "offset": 716,
       "length": 36,
       "value": "\"Scan the front of your Kimlik card\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/CardAndPassportDetectionSettings.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/CardAndPassportDetectionSettings.swift",
       "kind": "StringLiteral",
       "offset": 786,
       "length": 4,
       "value": "\"tr\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroupParser.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroupParser.swift",
       "kind": "Array",
       "offset": 187,
       "length": 145,
       "value": "[\"Common\", \"DG1\", \"DG2\", \"DG3\", \"DG4\", \"DG5\", \"DG6\", \"DG7\", \"DG8\", \"DG9\", \"DG10\", \"DG11\", \"DG12\", \"DG13\", \"DG14\", \"DG15\", \"DG16\", \"SecurityData\"]"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroupParser.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroupParser.swift",
       "kind": "Array",
       "offset": 365,
       "length": 108,
       "value": "[0x60, 0x61, 0x75, 0x63, 0x76, 0x65, 0x66, 0x67, 0x68, 0x69, 0x6A, 0x6B, 0x6C, 0x6D, 0x6E, 0x6F, 0x70, 0x77]"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/OpenSSLUtils.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/OpenSSLUtils.swift",
       "kind": "BooleanLiteral",
       "offset": 245,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/OpenSSLUtils.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/OpenSSLUtils.swift",
       "kind": "StringLiteral",
       "offset": 17203,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
       "kind": "IntegerLiteral",
       "offset": 261,
       "length": 4,
       "value": "0x60"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
       "kind": "IntegerLiteral",
       "offset": 281,
       "length": 4,
       "value": "0x61"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
       "kind": "IntegerLiteral",
       "offset": 301,
       "length": 4,
       "value": "0x75"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
       "kind": "IntegerLiteral",
       "offset": 321,
       "length": 4,
       "value": "0x63"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
       "kind": "IntegerLiteral",
       "offset": 341,
       "length": 4,
       "value": "0x76"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
       "kind": "IntegerLiteral",
       "offset": 361,
       "length": 4,
       "value": "0x65"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
       "kind": "IntegerLiteral",
       "offset": 381,
       "length": 4,
       "value": "0x66"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
       "kind": "IntegerLiteral",
       "offset": 401,
       "length": 4,
       "value": "0x67"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
       "kind": "IntegerLiteral",
       "offset": 421,
       "length": 4,
       "value": "0x68"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
       "kind": "IntegerLiteral",
       "offset": 441,
       "length": 4,
       "value": "0x69"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
       "kind": "IntegerLiteral",
       "offset": 462,
       "length": 4,
       "value": "0x6A"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
       "kind": "IntegerLiteral",
       "offset": 483,
       "length": 4,
       "value": "0x6B"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
       "kind": "IntegerLiteral",
       "offset": 504,
       "length": 4,
       "value": "0x6C"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
       "kind": "IntegerLiteral",
       "offset": 525,
       "length": 4,
       "value": "0x6D"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
       "kind": "IntegerLiteral",
       "offset": 546,
       "length": 4,
       "value": "0x6E"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
       "kind": "IntegerLiteral",
       "offset": 567,
       "length": 4,
       "value": "0x6F"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
       "kind": "IntegerLiteral",
       "offset": 588,
       "length": 4,
       "value": "0x70"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
       "kind": "IntegerLiteral",
       "offset": 608,
       "length": 4,
       "value": "0x77"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
       "kind": "IntegerLiteral",
       "offset": 632,
       "length": 4,
       "value": "0x00"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
       "kind": "IntegerLiteral",
       "offset": 261,
       "length": 4,
       "value": "0x60"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
       "kind": "IntegerLiteral",
       "offset": 281,
       "length": 4,
       "value": "0x61"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
       "kind": "IntegerLiteral",
       "offset": 301,
       "length": 4,
       "value": "0x75"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
       "kind": "IntegerLiteral",
       "offset": 321,
       "length": 4,
       "value": "0x63"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
       "kind": "IntegerLiteral",
       "offset": 341,
       "length": 4,
       "value": "0x76"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
       "kind": "IntegerLiteral",
       "offset": 361,
       "length": 4,
       "value": "0x65"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
       "kind": "IntegerLiteral",
       "offset": 381,
       "length": 4,
       "value": "0x66"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
       "kind": "IntegerLiteral",
       "offset": 401,
       "length": 4,
       "value": "0x67"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
       "kind": "IntegerLiteral",
       "offset": 421,
       "length": 4,
       "value": "0x68"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
       "kind": "IntegerLiteral",
       "offset": 441,
       "length": 4,
       "value": "0x69"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
       "kind": "IntegerLiteral",
       "offset": 462,
       "length": 4,
       "value": "0x6A"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
       "kind": "IntegerLiteral",
       "offset": 483,
       "length": 4,
       "value": "0x6B"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
       "kind": "IntegerLiteral",
       "offset": 504,
       "length": 4,
       "value": "0x6C"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
       "kind": "IntegerLiteral",
       "offset": 525,
       "length": 4,
       "value": "0x6D"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
       "kind": "IntegerLiteral",
       "offset": 546,
       "length": 4,
       "value": "0x6E"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
       "kind": "IntegerLiteral",
       "offset": 567,
       "length": 4,
       "value": "0x6F"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
       "kind": "IntegerLiteral",
       "offset": 588,
       "length": 4,
       "value": "0x70"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
       "kind": "IntegerLiteral",
       "offset": 608,
       "length": 4,
       "value": "0x77"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
       "kind": "IntegerLiteral",
       "offset": 632,
       "length": 4,
       "value": "0x00"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
       "kind": "IntegerLiteral",
       "offset": 261,
       "length": 4,
       "value": "0x60"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
       "kind": "IntegerLiteral",
       "offset": 281,
       "length": 4,
       "value": "0x61"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
       "kind": "IntegerLiteral",
       "offset": 301,
       "length": 4,
       "value": "0x75"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
       "kind": "IntegerLiteral",
       "offset": 321,
       "length": 4,
       "value": "0x63"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
       "kind": "IntegerLiteral",
       "offset": 341,
       "length": 4,
       "value": "0x76"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
       "kind": "IntegerLiteral",
       "offset": 361,
       "length": 4,
       "value": "0x65"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
       "kind": "IntegerLiteral",
       "offset": 381,
       "length": 4,
       "value": "0x66"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
       "kind": "IntegerLiteral",
       "offset": 401,
       "length": 4,
       "value": "0x67"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
       "kind": "IntegerLiteral",
       "offset": 421,
       "length": 4,
       "value": "0x68"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
       "kind": "IntegerLiteral",
       "offset": 441,
       "length": 4,
       "value": "0x69"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
       "kind": "IntegerLiteral",
       "offset": 462,
       "length": 4,
       "value": "0x6A"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
       "kind": "IntegerLiteral",
       "offset": 483,
       "length": 4,
       "value": "0x6B"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
       "kind": "IntegerLiteral",
       "offset": 504,
       "length": 4,
       "value": "0x6C"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
       "kind": "IntegerLiteral",
       "offset": 525,
       "length": 4,
       "value": "0x6D"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
       "kind": "IntegerLiteral",
       "offset": 546,
       "length": 4,
       "value": "0x6E"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
       "kind": "IntegerLiteral",
       "offset": 567,
       "length": 4,
       "value": "0x6F"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
       "kind": "IntegerLiteral",
       "offset": 588,
       "length": 4,
       "value": "0x70"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
       "kind": "IntegerLiteral",
       "offset": 608,
       "length": 4,
       "value": "0x77"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
       "kind": "IntegerLiteral",
       "offset": 632,
       "length": 4,
       "value": "0x00"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/SecurityInfo.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/SecurityInfo.swift",
       "kind": "StringLiteral",
       "offset": 250,
       "length": 16,
       "value": "\"2.23.136.1.1.5\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/SecurityInfo.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/SecurityInfo.swift",
       "kind": "StringLiteral",
       "offset": 410,
       "length": 23,
       "value": "\"0.4.0.127.0.7.1.1.4.1\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/SecurityInfo.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/SecurityInfo.swift",
       "kind": "StringLiteral",
       "offset": 498,
       "length": 4,
       "value": "\".1\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/SecurityInfo.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/SecurityInfo.swift",
       "kind": "StringLiteral",
       "offset": 614,
       "length": 4,
       "value": "\".2\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/SecurityInfo.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/SecurityInfo.swift",
       "kind": "StringLiteral",
       "offset": 732,
       "length": 4,
       "value": "\".3\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/SecurityInfo.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/SecurityInfo.swift",
       "kind": "StringLiteral",
       "offset": 850,
       "length": 4,
       "value": "\".4\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/SecurityInfo.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/SecurityInfo.swift",
       "kind": "StringLiteral",
       "offset": 968,
       "length": 4,
       "value": "\".5\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/SecurityInfo.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/SecurityInfo.swift",
       "kind": "StringLiteral",
       "offset": 1089,
       "length": 4,
       "value": "\".6\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/SecurityInfo.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/SecurityInfo.swift",
       "kind": "StringLiteral",
       "offset": 1223,
       "length": 23,
       "value": "\"0.4.0.127.0.7.2.2.1.1\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/SecurityInfo.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/SecurityInfo.swift",
       "kind": "StringLiteral",
       "offset": 1279,
       "length": 23,
       "value": "\"0.4.0.127.0.7.2.2.1.2\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/SecurityInfo.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/SecurityInfo.swift",
       "kind": "StringLiteral",
       "offset": 1383,
       "length": 25,
       "value": "\"0.4.0.127.0.7.2.2.3.1.1\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/SecurityInfo.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/SecurityInfo.swift",
       "kind": "StringLiteral",
       "offset": 1454,
       "length": 25,
       "value": "\"0.4.0.127.0.7.2.2.3.2.1\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/SecurityInfo.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/SecurityInfo.swift",
       "kind": "StringLiteral",
       "offset": 1527,
       "length": 25,
       "value": "\"0.4.0.127.0.7.2.2.3.1.2\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/SecurityInfo.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/SecurityInfo.swift",
       "kind": "StringLiteral",
       "offset": 1600,
       "length": 25,
       "value": "\"0.4.0.127.0.7.2.2.3.1.3\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/SecurityInfo.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/SecurityInfo.swift",
       "kind": "StringLiteral",
       "offset": 1673,
       "length": 25,
       "value": "\"0.4.0.127.0.7.2.2.3.1.4\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/SecurityInfo.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/SecurityInfo.swift",
       "kind": "StringLiteral",
       "offset": 1748,
       "length": 25,
       "value": "\"0.4.0.127.0.7.2.2.3.2.2\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/SecurityInfo.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/SecurityInfo.swift",
       "kind": "StringLiteral",
       "offset": 1823,
       "length": 25,
       "value": "\"0.4.0.127.0.7.2.2.3.2.3\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/SecurityInfo.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/SecurityInfo.swift",
       "kind": "StringLiteral",
       "offset": 1898,
       "length": 25,
       "value": "\"0.4.0.127.0.7.2.2.3.2.4\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/SecurityInfo.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/SecurityInfo.swift",
       "kind": "StringLiteral",
       "offset": 1971,
       "length": 15,
       "value": "\"0.4.0.127.0.7\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/SecurityInfo.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/SecurityInfo.swift",
       "kind": "StringLiteral",
       "offset": 2021,
       "length": 8,
       "value": "\".2.2.4\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/SecurityInfo.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/SecurityInfo.swift",
       "kind": "StringLiteral",
       "offset": 2071,
       "length": 4,
       "value": "\".1\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/SecurityInfo.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/SecurityInfo.swift",
       "kind": "StringLiteral",
       "offset": 2136,
       "length": 4,
       "value": "\".1\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/SecurityInfo.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/SecurityInfo.swift",
       "kind": "StringLiteral",
       "offset": 2261,
       "length": 4,
       "value": "\".2\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/SecurityInfo.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/SecurityInfo.swift",
       "kind": "StringLiteral",
       "offset": 2390,
       "length": 4,
       "value": "\".3\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/SecurityInfo.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/SecurityInfo.swift",
       "kind": "StringLiteral",
       "offset": 2519,
       "length": 4,
       "value": "\".4\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/SecurityInfo.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/SecurityInfo.swift",
       "kind": "StringLiteral",
       "offset": 2632,
       "length": 4,
       "value": "\".2\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/SecurityInfo.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/SecurityInfo.swift",
       "kind": "StringLiteral",
       "offset": 2701,
       "length": 4,
       "value": "\".1\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/SecurityInfo.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/SecurityInfo.swift",
       "kind": "StringLiteral",
       "offset": 2832,
       "length": 4,
       "value": "\".2\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/SecurityInfo.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/SecurityInfo.swift",
       "kind": "StringLiteral",
       "offset": 2967,
       "length": 4,
       "value": "\".3\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/SecurityInfo.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/SecurityInfo.swift",
       "kind": "StringLiteral",
       "offset": 3102,
       "length": 4,
       "value": "\".4\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/SecurityInfo.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/SecurityInfo.swift",
       "kind": "StringLiteral",
       "offset": 3215,
       "length": 4,
       "value": "\".3\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/SecurityInfo.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/SecurityInfo.swift",
       "kind": "StringLiteral",
       "offset": 3280,
       "length": 4,
       "value": "\".1\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/SecurityInfo.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/SecurityInfo.swift",
       "kind": "StringLiteral",
       "offset": 3405,
       "length": 4,
       "value": "\".2\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/SecurityInfo.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/SecurityInfo.swift",
       "kind": "StringLiteral",
       "offset": 3534,
       "length": 4,
       "value": "\".3\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/SecurityInfo.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/SecurityInfo.swift",
       "kind": "StringLiteral",
       "offset": 3663,
       "length": 4,
       "value": "\".4\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/SecurityInfo.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/SecurityInfo.swift",
       "kind": "StringLiteral",
       "offset": 3776,
       "length": 4,
       "value": "\".4\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/SecurityInfo.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/SecurityInfo.swift",
       "kind": "StringLiteral",
       "offset": 3845,
       "length": 4,
       "value": "\".1\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/SecurityInfo.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/SecurityInfo.swift",
       "kind": "StringLiteral",
       "offset": 3976,
       "length": 4,
       "value": "\".2\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/SecurityInfo.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/SecurityInfo.swift",
       "kind": "StringLiteral",
       "offset": 4111,
       "length": 4,
       "value": "\".3\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/SecurityInfo.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/SecurityInfo.swift",
       "kind": "StringLiteral",
       "offset": 4246,
       "length": 4,
       "value": "\".4\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/SecurityInfo.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/SecurityInfo.swift",
       "kind": "StringLiteral",
       "offset": 4362,
       "length": 4,
       "value": "\".6\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/SecurityInfo.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/SecurityInfo.swift",
       "kind": "StringLiteral",
       "offset": 4437,
       "length": 4,
       "value": "\".2\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/SecurityInfo.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/SecurityInfo.swift",
       "kind": "StringLiteral",
       "offset": 4575,
       "length": 4,
       "value": "\".3\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/SecurityInfo.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/SecurityInfo.swift",
       "kind": "StringLiteral",
       "offset": 4713,
       "length": 4,
       "value": "\".4\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/ActiveAuthenticationInfo.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/ActiveAuthenticationInfo.swift",
       "kind": "StringLiteral",
       "offset": 148,
       "length": 24,
       "value": "\"NFCReaderApple.ActiveAuthenticationInfo\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/MrzParser\/Parsers\/TD2.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/MrzParser\/Parsers\/TD2.swift",
       "kind": "IntegerLiteral",
       "offset": 186,
       "length": 2,
       "value": "36"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/MrzParser\/Parsers\/TD2.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/MrzParser\/Parsers\/TD2.swift",
       "kind": "StringLiteral",
       "offset": 715,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/MrzParser\/Parsers\/TD2.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/MrzParser\/Parsers\/TD2.swift",
       "kind": "StringLiteral",
       "offset": 759,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/PACEHandler.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/PACEHandler.swift",
       "kind": "IntegerLiteral",
       "offset": 833,
       "length": 4,
       "value": "0x01"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/PACEHandler.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/PACEHandler.swift",
       "kind": "IntegerLiteral",
       "offset": 894,
       "length": 4,
       "value": "0x02"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/PACEHandler.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/PACEHandler.swift",
       "kind": "IntegerLiteral",
       "offset": 982,
       "length": 4,
       "value": "0x03"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/PACEHandler.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/PACEHandler.swift",
       "kind": "IntegerLiteral",
       "offset": 1070,
       "length": 4,
       "value": "0x04"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/PACEHandler.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/PACEHandler.swift",
       "kind": "BooleanLiteral",
       "offset": 1199,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/PACEHandler.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/PACEHandler.swift",
       "kind": "StringLiteral",
       "offset": 1234,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/PACEHandler.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/PACEHandler.swift",
       "kind": "Array",
       "offset": 1297,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/PACEHandler.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/PACEHandler.swift",
       "kind": "IntegerLiteral",
       "offset": 1338,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/PACEHandler.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/PACEHandler.swift",
       "kind": "StringLiteral",
       "offset": 1375,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/PACEHandler.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/PACEHandler.swift",
       "kind": "IntegerLiteral",
       "offset": 1418,
       "length": 2,
       "value": "-1"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/PACEHandler.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/PACEHandler.swift",
       "kind": "StringLiteral",
       "offset": 1508,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/PACEHandler.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/PACEHandler.swift",
       "kind": "StringLiteral",
       "offset": 1548,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/PACEHandler.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/PACEHandler.swift",
       "kind": "StringLiteral",
       "offset": 1588,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/PACEHandler.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/PACEHandler.swift",
       "kind": "IntegerLiteral",
       "offset": 1625,
       "length": 2,
       "value": "-1"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/PACEHandler.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/PACEHandler.swift",
       "kind": "BooleanLiteral",
       "offset": 4441,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/ChipAuthenticationInfo.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/ChipAuthenticationInfo.swift",
       "kind": "StringLiteral",
       "offset": 171,
       "length": 22,
       "value": "\"NFCReaderApple.ChipAuthenticationInfo\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroup1.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/DataGroups\/DataGroup1.swift",
       "kind": "Dictionary",
       "offset": 428,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/MrzParser\/MrzFieldFormatter.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/MrzParser\/MrzFieldFormatter.swift",
       "kind": "StringLiteral",
       "offset": 343,
       "length": 10,
       "value": "\"yyyyMMdd\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/MrzParser\/MrzFieldFormatter.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/MrzParser\/MrzFieldFormatter.swift",
       "kind": "StringLiteral",
       "offset": 400,
       "length": 13,
       "value": "\"en_US_POSIX\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/MrzParser\/MrzFieldFormatter.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/MrzParser\/MrzFieldFormatter.swift",
       "kind": "StringLiteral",
       "offset": 467,
       "length": 10,
       "value": "\"GMT+0:00\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/MrzParser\/MrzFieldFormatter.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/MrzParser\/MrzFieldFormatter.swift",
       "kind": "BooleanLiteral",
       "offset": 743,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/MrzParser\/MrzFieldFormatter.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/MrzParser\/MrzFieldFormatter.swift",
       "kind": "Array",
       "offset": 6629,
       "length": 35,
       "value": "[\"O\", \"Q\", \"U\", \"D\", \"I\", \"Z\", \"B\"]"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/MrzParser\/MrzFieldFormatter.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/MrzParser\/MrzFieldFormatter.swift",
       "kind": "Array",
       "offset": 6715,
       "length": 20,
       "value": "[\"0\", \"1\", \"2\", \"8\"]"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/Network\/Requests\/NFCCountRequest.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/Network\/Requests\/NFCCountRequest.swift",
       "kind": "StringLiteral",
       "offset": 200,
       "length": 9,
       "value": "\"OCR_NFC\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/Network\/Requests\/NFCCountRequest.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/Network\/Requests\/NFCCountRequest.swift",
       "kind": "StringLiteral",
       "offset": 230,
       "length": 10,
       "value": "\"LIVENESS\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/Network\/Requests\/NFCCountRequest.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/Network\/Requests\/NFCCountRequest.swift",
       "kind": "StringLiteral",
       "offset": 265,
       "length": 15,
       "value": "\"FACE_MATCHING\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/Network\/Requests\/NFCCountRequest.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/Network\/Requests\/NFCCountRequest.swift",
       "kind": "StringLiteral",
       "offset": 200,
       "length": 9,
       "value": "\"OCR_NFC\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/Network\/Requests\/NFCCountRequest.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/Network\/Requests\/NFCCountRequest.swift",
       "kind": "StringLiteral",
       "offset": 230,
       "length": 10,
       "value": "\"LIVENESS\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/Network\/Requests\/NFCCountRequest.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/Network\/Requests\/NFCCountRequest.swift",
       "kind": "StringLiteral",
       "offset": 265,
       "length": 15,
       "value": "\"FACE_MATCHING\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/Network\/Requests\/NFCCountRequest.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/Network\/Requests\/NFCCountRequest.swift",
       "kind": "StringLiteral",
       "offset": 427,
       "length": 41,
       "value": "\"https:\/\/login.nfcread.com\/api\/NFC\/count\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/Network\/Requests\/NFCCountRequest.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/Network\/Requests\/NFCCountRequest.swift",
       "kind": "Dictionary",
       "offset": 511,
       "length": 50,
       "value": "[(\"Content-Type\", \"application\/json\"), (\"Accept\", \"*\/*\")]"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/Network\/Requests\/NFCCountRequest.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/Network\/Requests\/NFCCountRequest.swift",
       "kind": "IntegerLiteral",
       "offset": 634,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/Network\/Responses\/NFCServiceError.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/Network\/Responses\/NFCServiceError.swift",
       "kind": "IntegerLiteral",
       "offset": 211,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/Network\/Responses\/NFCServiceError.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/Network\/Responses\/NFCServiceError.swift",
       "kind": "StringLiteral",
       "offset": 231,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/Network\/Responses\/NFCServiceError.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/Network\/Responses\/NFCServiceError.swift",
       "kind": "BooleanLiteral",
       "offset": 251,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/Network\/Responses\/NFCServiceError.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/Network\/Responses\/NFCServiceError.swift",
       "kind": "BooleanLiteral",
       "offset": 273,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/Network\/Responses\/NFCServiceError.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/Network\/Responses\/NFCServiceError.swift",
       "kind": "BooleanLiteral",
       "offset": 304,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/Network\/Responses\/NFCServiceError.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/Network\/Responses\/NFCServiceError.swift",
       "kind": "BooleanLiteral",
       "offset": 331,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/BACHandler.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/BACHandler.swift",
       "kind": "Array",
       "offset": 258,
       "length": 9,
       "value": "[0, 0, 0, 1]"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/BACHandler.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/BACHandler.swift",
       "kind": "Array",
       "offset": 293,
       "length": 9,
       "value": "[0, 0, 0, 2]"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/BACHandler.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/BACHandler.swift",
       "kind": "Array",
       "offset": 341,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/BACHandler.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/BACHandler.swift",
       "kind": "Array",
       "offset": 377,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/BACHandler.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/BACHandler.swift",
       "kind": "Array",
       "offset": 409,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/BACHandler.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/BACHandler.swift",
       "kind": "Array",
       "offset": 440,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/NFCPassportReader\/BACHandler.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/NFCPassportReader\/BACHandler.swift",
       "kind": "Array",
       "offset": 475,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/CardDetectionSettings.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/CardDetectionSettings.swift",
       "kind": "FloatLiteral",
       "offset": 537,
       "length": 3,
       "value": "0.1"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/CardDetectionSettings.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/CardDetectionSettings.swift",
       "kind": "IntegerLiteral",
       "offset": 866,
       "length": 8,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/CardDetectionSettings.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/CardDetectionSettings.swift",
       "kind": "IntegerLiteral",
       "offset": 866,
       "length": 8,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/CardDetectionSettings.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/CardDetectionSettings.swift",
       "kind": "IntegerLiteral",
       "offset": 2085,
       "length": 1,
       "value": "5"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/ObjectDetectionViewController.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/ObjectDetectionViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 575,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/CardAndPassportDetectionViewController.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/CardAndPassportDetectionViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 672,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/CardAndPassportDetectionViewController.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/CardAndPassportDetectionViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 857,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/CardAndPassportDetectionViewController.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/CardAndPassportDetectionViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 904,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/CardAndPassportDetectionViewController.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/CardAndPassportDetectionViewController.swift",
       "kind": "StringLiteral",
       "offset": 1859,
       "length": 5,
       "value": "\"mrz\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/CardAndPassportDetectionViewController.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/CardAndPassportDetectionViewController.swift",
       "kind": "StringLiteral",
       "offset": 1917,
       "length": 39,
       "value": "\"QWERTYUIOPASDFGHJKLZXCVBNM<1234567890\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/CardAndPassportDetectionViewController.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/CardAndPassportDetectionViewController.swift",
       "kind": "StringLiteral",
       "offset": 317,
       "length": 38,
       "value": "\"NFCReaderApple.CardAndPassportDetectionViewController\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/Bundle+IDCardCamera.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/Bundle+IDCardCamera.swift",
       "kind": "StringLiteral",
       "offset": 332,
       "length": 10,
       "value": "\"Resource\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/Bundle+IDCardCamera.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/Bundle+IDCardCamera.swift",
       "kind": "StringLiteral",
       "offset": 359,
       "length": 8,
       "value": "\"bundle\""
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/BarcodeDetectionSettings.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/BarcodeDetectionSettings.swift",
       "kind": "FloatLiteral",
       "offset": 560,
       "length": 3,
       "value": "0.1"
     },
     {
-      "filePath": "\/Users\/anilpeker\/Desktop\/Workspace\/OnboardingNFCSDK-IOS\/NFCReaderApple\/BarcodeDetectionSettings.swift",
+      "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/BarcodeDetectionSettings.swift",
       "kind": "StringLiteral",
       "offset": 651,
       "length": 28,

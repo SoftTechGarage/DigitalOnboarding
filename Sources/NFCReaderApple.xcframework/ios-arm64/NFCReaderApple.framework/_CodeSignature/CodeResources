@@ -14,11 +14,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		g5s2DKEfzwnUgdvZwF04NxiWTOc=
+		48kBuuxf8IxSNlpT8x6Bhhgd05A=
 		</data>
 		<key>Modules/NFCReaderApple.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		ut0S/s0k5ma7++Y84ljPHCI5ABE=
+		b8K4N2cEIscj6I2e+np4CEqJ6ew=
 		</data>
 		<key>Modules/NFCReaderApple.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>Modules/NFCReaderApple.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		G4+0GZyrUTwI1eZubpEqtn910Ao=
+		wS7OwPOSOt/U1q7D+CunZlbwI1g=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -42,43 +42,19 @@
 		</data>
 		<key>Resource.bundle/Assets.car</key>
 		<data>
-		aQnyFH89A9Dd3Q3mO1b0Bn9z/rw=
+		XeL8Kpxu0dKMFHy3rm3Q/N6gUVk=
 		</data>
 		<key>Resource.bundle/BarcodeDetectionViewController.nib</key>
 		<data>
 		RvXPTZ7M8DkHCs1I+Er2JQvsjOE=
 		</data>
-		<key>Resource.bundle/CardDetectionViewController.nib/objects-14.0+.nib</key>
+		<key>Resource.bundle/CardDetectionViewController.nib</key>
 		<data>
-		HkDQaT3UB7aWgaH2buHy0uIBtZc=
-		</data>
-		<key>Resource.bundle/CardDetectionViewController.nib/runtime.nib</key>
-		<data>
-		GRLyjbsxFPYmWhYKz7hy/ssd/gI=
+		nD5N7+8vImUK+vWgRUHKqFmn+4s=
 		</data>
 		<key>Resource.bundle/Info.plist</key>
 		<data>
-		Ii/OJZ0IFOei2+pwNmKahJTM30I=
-		</data>
-		<key>Resource.bundle/_CodeSignature/CodeDirectory</key>
-		<data>
-		vG3Set/gmk1Q70nNYX5kssjCx0w=
-		</data>
-		<key>Resource.bundle/_CodeSignature/CodeRequirements</key>
-		<data>
-		/TeAVaSgSryfTST0Qn8l6KcNfe0=
-		</data>
-		<key>Resource.bundle/_CodeSignature/CodeRequirements-1</key>
-		<data>
-		v00bsXofxl++PLbUE7/CaWGz7q0=
-		</data>
-		<key>Resource.bundle/_CodeSignature/CodeResources</key>
-		<data>
-		1DlP4iK5cs27FyMOxP5QuVICScU=
-		</data>
-		<key>Resource.bundle/_CodeSignature/CodeSignature</key>
-		<data>
-		o32eJf4DfSKAqsKUnWlUS7W6bdU=
+		CuZtid554nsa2s4Jq2/0sApgHI0=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -101,7 +77,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			8PfOuVLbHz5V1lApRjRQwpij6UYns+ZTp2gZWYuaXRc=
+			gc5N/cl/7QAYhAJeEZmwqFrM7lhBPAbYdR1/KfQfMew=
 			</data>
 		</dict>
 		<key>Modules/NFCReaderApple.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -129,7 +105,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			beITwzP1Z+RtuKbCgzfSrUDYNVmRw0wEEKAPLmjmBRI=
+			EZGhn4bh+szHlJHcHJqa2bV2i+k4mBWrparUC2U8dKg=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -143,7 +119,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			fjBzggnPvk3qIHJ27yUmzWbi9kHWWbwIJ01DbwfwQE0=
+			nCYmfK31xrx9g3TKjY/SR4Y0Ac5cyywn9T4Z3nMa/AI=
 			</data>
 		</dict>
 		<key>Resource.bundle/BarcodeDetectionViewController.nib</key>
@@ -153,60 +129,18 @@
 			y8towzNHQ4PH2NFNv33IStqscU6p86DkC092tHq06b8=
 			</data>
 		</dict>
-		<key>Resource.bundle/CardDetectionViewController.nib/objects-14.0+.nib</key>
+		<key>Resource.bundle/CardDetectionViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			NrpNWW0Jw+d/jRpPFch/zOsyK8sBfslJJEasciTMvw0=
-			</data>
-		</dict>
-		<key>Resource.bundle/CardDetectionViewController.nib/runtime.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			yJw+8dH6nl30/6EHSVdvIYDzQltSg7L+h3WdFcJGMlU=
+			PcWGbX5ZrX77ZToVOJO3avJeiTemlvT+8N57U4OdNtQ=
 			</data>
 		</dict>
 		<key>Resource.bundle/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			dCC/NOr9vDfg0/2wnQBfPH3lvpbePsB5XExOKUjCLkg=
-			</data>
-		</dict>
-		<key>Resource.bundle/_CodeSignature/CodeDirectory</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			waBR0DOdvengXRKGkHp5Eo+dVsCfjpcDq5h+3ezweII=
-			</data>
-		</dict>
-		<key>Resource.bundle/_CodeSignature/CodeRequirements</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			TiWsTGrbRZpDTASWPb7SPwdLX71znEcsDX4zf/lzP8s=
-			</data>
-		</dict>
-		<key>Resource.bundle/_CodeSignature/CodeRequirements-1</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			UtRHRVYHCOTN1yOnMMYD1bffG/ZT3v3bKNUHWoTpCSs=
-			</data>
-		</dict>
-		<key>Resource.bundle/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			C3xAfTaNWRzEbXIC/92yhWK8X0KuVQW5thUNQPNad+k=
-			</data>
-		</dict>
-		<key>Resource.bundle/_CodeSignature/CodeSignature</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			niyHmwfDzE5Pqtv8U+rorWmjMhab5OvhO6ksyI8WtEA=
+			+cs8FzPsT7rmZudkJiB6fMtMvS/RJ1QZ22hoRAMxnB8=
 			</data>
 		</dict>
 	</dict>
