@@ -34070,14 +34070,14 @@
     {
       "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/MrzParser\/MrzFieldFormatter.swift",
       "kind": "Array",
-      "offset": 6629,
+      "offset": 6510,
       "length": 35,
       "value": "[\"O\", \"Q\", \"U\", \"D\", \"I\", \"Z\", \"B\"]"
     },
     {
       "filePath": "\/Users\/evrenyasar\/XCode\/NFCSDK\/SDK\/NFCReaderApple\/MrzParser\/MrzFieldFormatter.swift",
       "kind": "Array",
-      "offset": 6715,
+      "offset": 6596,
       "length": 20,
       "value": "[\"0\", \"1\", \"2\", \"8\"]"
     },

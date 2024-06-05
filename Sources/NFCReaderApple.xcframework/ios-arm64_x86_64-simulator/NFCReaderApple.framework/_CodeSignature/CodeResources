@@ -14,11 +14,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		v9/vZtzh3mtMVKiCg6jkAlEqd8I=
+		Y643hbqGSipYPsJ96wjKdrKjNLQ=
 		</data>
 		<key>Modules/NFCReaderApple.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		b8K4N2cEIscj6I2e+np4CEqJ6ew=
+		GlboJM/TnJ3qPi8EaEAQFl1b4eE=
 		</data>
 		<key>Modules/NFCReaderApple.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Modules/NFCReaderApple.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		b8K4N2cEIscj6I2e+np4CEqJ6ew=
+		GlboJM/TnJ3qPi8EaEAQFl1b4eE=
 		</data>
 		<key>Modules/NFCReaderApple.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -117,7 +117,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			gc5N/cl/7QAYhAJeEZmwqFrM7lhBPAbYdR1/KfQfMew=
+			nUzGMJgGMwj0yK+JRzm2Ew9vHPqyci8ZsnvIOgz1b7E=
 			</data>
 		</dict>
 		<key>Modules/NFCReaderApple.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -152,7 +152,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			gc5N/cl/7QAYhAJeEZmwqFrM7lhBPAbYdR1/KfQfMew=
+			nUzGMJgGMwj0yK+JRzm2Ew9vHPqyci8ZsnvIOgz1b7E=
 			</data>
 		</dict>
 		<key>Modules/NFCReaderApple.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
