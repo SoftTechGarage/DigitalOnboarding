@@ -553,6 +553,8 @@ SWIFT_PROTOCOL("_TtP14NFCReaderApple46CardAndPassportDetectionViewControllerDele
 - (NSNumber * _Nullable)qualityOfImage:(CGImageRef _Nonnull)image SWIFT_WARN_UNUSED_RESULT;
 @required
 - (void)didFailWithMessage:(NSString * _Nonnull)message;
+@optional
+- (void)getSDKDetailsWithData:(NSString * _Nonnull)data;
 @end
 
 

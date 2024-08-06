@@ -192,9 +192,6 @@ public protocol NFCReaderDelegate : AnyObject {
   public func readChip(resulat: NFCReaderApple.MrzScanResult)
   @objc deinit
 }
-extension NFCReaderApple.CoreReader {
-  public static func getSDKVersion() -> Swift.String
-}
 extension NFCReaderApple.Tesseract {
   public func recognizedBlocks(from imageData: Foundation.Data, for levels: [NFCReaderApple.PageIteratorLevel]) -> Swift.Result<(Swift.String, [NFCReaderApple.PageIteratorLevel : [NFCReaderApple.RecognizedBlock]]), NFCReaderApple.Tesseract.Error>
   public func recognizedBlocks(from imageData: Foundation.Data, for level: NFCReaderApple.PageIteratorLevel) -> Swift.Result<(Swift.String, [NFCReaderApple.RecognizedBlock]), NFCReaderApple.Tesseract.Error>
@@ -658,6 +655,7 @@ public struct ResponseAPDU {
   @objc optional func cardAndPassportDetectionViewControllerDidCancel(_ viewController: NFCReaderApple.CardAndPassportDetectionViewController)
   @objc optional func qualityOfImage(_ image: CoreGraphics.CGImage) -> Foundation.NSNumber?
   @objc func didFail(message: Swift.String)
+  @objc optional func getSDKDetails(data: Swift.String)
 }
 extension NFCReaderApple.Tesseract {
   public func performOCR(on data: Foundation.Data) -> Swift.Result<Swift.String, NFCReaderApple.Tesseract.Error>

@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/NFCReaderApple-Swift.h</key>
 		<data>
-		hqgLAURyntDIRqiOFEphFjeVW/8=
+		IydlvsmhZabxMAtjc9F7xkfQpAU=
 		</data>
 		<key>Headers/NFCReaderApple.h</key>
 		<data>
@@ -14,15 +14,15 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		Y643hbqGSipYPsJ96wjKdrKjNLQ=
+		R7HpantigHXT3yriyWCZTzOjgeI=
 		</data>
 		<key>Modules/NFCReaderApple.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		GlboJM/TnJ3qPi8EaEAQFl1b4eE=
+		vX++ZLDSDtcO3gQuiULuc8ggSz4=
 		</data>
 		<key>Modules/NFCReaderApple.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		Sezirl3uU2rKbcPRielubwbYUIg=
+		6y49DJ0A6h2W++cIyqIBxyAL0vk=
 		</data>
 		<key>Modules/NFCReaderApple.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -30,19 +30,19 @@
 		</data>
 		<key>Modules/NFCReaderApple.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		Sezirl3uU2rKbcPRielubwbYUIg=
+		6y49DJ0A6h2W++cIyqIBxyAL0vk=
 		</data>
 		<key>Modules/NFCReaderApple.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		blDxhGD+dRnbulnzY67/sJF6pGU=
+		+VDtwTLKAg00ABhin67XiyQfJhk=
 		</data>
 		<key>Modules/NFCReaderApple.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		GlboJM/TnJ3qPi8EaEAQFl1b4eE=
+		vX++ZLDSDtcO3gQuiULuc8ggSz4=
 		</data>
 		<key>Modules/NFCReaderApple.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		po5FB6apQacI8sFB+2IfBVUXcuw=
+		Mpua65nHWfTg9GszAOlpAIxm2D8=
 		</data>
 		<key>Modules/NFCReaderApple.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -50,11 +50,11 @@
 		</data>
 		<key>Modules/NFCReaderApple.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		po5FB6apQacI8sFB+2IfBVUXcuw=
+		Mpua65nHWfTg9GszAOlpAIxm2D8=
 		</data>
 		<key>Modules/NFCReaderApple.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		Hr4/pVr7zN2kS4MhsPhE4VvhxXQ=
+		ioGu/PxWN2d8/XQnXZoIa2ul0L4=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -62,7 +62,7 @@
 		</data>
 		<key>Resource.bundle/Assets.car</key>
 		<data>
-		XeL8Kpxu0dKMFHy3rm3Q/N6gUVk=
+		b0VOGXWYwbZ9n2iLsSrCDg8kXSI=
 		</data>
 		<key>Resource.bundle/BarcodeDetectionViewController.nib</key>
 		<data>
@@ -70,15 +70,15 @@
 		</data>
 		<key>Resource.bundle/CardDetectionViewController.nib</key>
 		<data>
-		nD5N7+8vImUK+vWgRUHKqFmn+4s=
+		3aAyEf03DnFzW8TFyuxoqRyZRhI=
 		</data>
 		<key>Resource.bundle/Info.plist</key>
 		<data>
-		vH1B+iURETauQcqrjDfXNXvS1Z4=
+		FH0+UjRQd7pJ5tpLUr9VzVElOdk=
 		</data>
 		<key>Resource.bundle/_CodeSignature/CodeDirectory</key>
 		<data>
-		UP2oc/IfvP6SDiFxF3d5Ec/4fBI=
+		Jrag/kxoX40B0KVwXcj5Q/DXXYw=
 		</data>
 		<key>Resource.bundle/_CodeSignature/CodeRequirements</key>
 		<data>
@@ -86,11 +86,11 @@
 		</data>
 		<key>Resource.bundle/_CodeSignature/CodeRequirements-1</key>
 		<data>
-		KSl4Tv2RPV5KFJx80BpUI+2rAXA=
+		Mlqd54wISqEEOkryOcbcdsjb00o=
 		</data>
 		<key>Resource.bundle/_CodeSignature/CodeResources</key>
 		<data>
-		9e041xQQD9n2+zbyBD5dBCHErj0=
+		5R1P4kdgvO5knyapPs3q2xJQSiA=
 		</data>
 		<key>Resource.bundle/_CodeSignature/CodeSignature</key>
 		<data>
@@ -103,7 +103,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			rGaab03IyEksmvgL/qlmxXOUbeD4OtsLodYcs5Hb82Y=
+			CCx2C8hx9Me19tM9kfEEIN3WK2DHY4OLwvLiOCAPsoA=
 			</data>
 		</dict>
 		<key>Headers/NFCReaderApple.h</key>
@@ -117,14 +117,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			nUzGMJgGMwj0yK+JRzm2Ew9vHPqyci8ZsnvIOgz1b7E=
+			KXpfpku8UYPms1dIucIOV2TQWUAzTZdd0s1CctreBLA=
 			</data>
 		</dict>
 		<key>Modules/NFCReaderApple.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Go+dFdWlPMgGVAzZ3AaGv0yv1kDqEwTLmYO0AG+06FY=
+			FeadVziagXsMmeVdbCuwfr2F/PTbuBXsD9oZc+IKMLE=
 			</data>
 		</dict>
 		<key>Modules/NFCReaderApple.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -138,28 +138,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Go+dFdWlPMgGVAzZ3AaGv0yv1kDqEwTLmYO0AG+06FY=
+			FeadVziagXsMmeVdbCuwfr2F/PTbuBXsD9oZc+IKMLE=
 			</data>
 		</dict>
 		<key>Modules/NFCReaderApple.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			HT1thFYTWGvAgRVngLC75PavWFgrzhtdlLTcmObwXEU=
+			kJQE2kSQuuN+btX7kvoR6W36xTK/JNXUrYPXUaAV4U4=
 			</data>
 		</dict>
 		<key>Modules/NFCReaderApple.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			nUzGMJgGMwj0yK+JRzm2Ew9vHPqyci8ZsnvIOgz1b7E=
+			KXpfpku8UYPms1dIucIOV2TQWUAzTZdd0s1CctreBLA=
 			</data>
 		</dict>
 		<key>Modules/NFCReaderApple.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			XyTsP5iu2D9OEO7IFysjQqLd/KiZuAjcFQvVvcIf5nY=
+			smp2F+Ii8Qau77UKRVkUl3P5whZ8djoAMtx0RkuE+8U=
 			</data>
 		</dict>
 		<key>Modules/NFCReaderApple.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -173,14 +173,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			XyTsP5iu2D9OEO7IFysjQqLd/KiZuAjcFQvVvcIf5nY=
+			smp2F+Ii8Qau77UKRVkUl3P5whZ8djoAMtx0RkuE+8U=
 			</data>
 		</dict>
 		<key>Modules/NFCReaderApple.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Wa11UBwMXaqdcHXoIhSYJMr5Po1QtKhGIKMY4pC0DZ8=
+			SHYiDBDf3/6iCo4IJGuaoRsdSQSt5auuhnfeVIFQbw0=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -194,7 +194,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			nCYmfK31xrx9g3TKjY/SR4Y0Ac5cyywn9T4Z3nMa/AI=
+			s95UHMACO5VUo4wThMj9Kv7/IcJ3bopdfBsc9I3uN6c=
 			</data>
 		</dict>
 		<key>Resource.bundle/BarcodeDetectionViewController.nib</key>
@@ -208,21 +208,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			PcWGbX5ZrX77ZToVOJO3avJeiTemlvT+8N57U4OdNtQ=
+			/L9qD1XaqcGXgHIpiH3IXRdm8SBmng1UAeM+gojsbcs=
 			</data>
 		</dict>
 		<key>Resource.bundle/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			C6cWm7sSOZxhmI+x0b47ff5ElQ5dvjB24T1bPq9fCLs=
+			RKk3RT2ESJpUAoBdAHQW4g6o8cJXe2EKfJWWlZyVqFI=
 			</data>
 		</dict>
 		<key>Resource.bundle/_CodeSignature/CodeDirectory</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/SYnP1o5ektexrioPbY3Y88bMYXM4LyMqxp6N9s8pmo=
+			2EJ19ZhVUb/ONYj+fkQ7XXKrsImxXm8HncwONUen9tg=
 			</data>
 		</dict>
 		<key>Resource.bundle/_CodeSignature/CodeRequirements</key>
@@ -236,14 +236,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			yACoccwEfyKrgrFFQdvAFkhlIEJpqm+UVyl8+UjCA9o=
+			5OuOkYOHKI2EpHchkGP9lHOEgYhpBMY9KrXFO5XDZI8=
 			</data>
 		</dict>
 		<key>Resource.bundle/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			eDRz3hPftSbJhPv3BrFyp6ujXYreS/ZKsbO0Y70w0uI=
+			jgza6UkgYvB1cfT8UIKD/jz5P0/+CAr7rcUimGK0EhU=
 			</data>
 		</dict>
 		<key>Resource.bundle/_CodeSignature/CodeSignature</key>
