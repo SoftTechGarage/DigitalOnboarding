@@ -14,15 +14,15 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		I8vDdKzzGBirD0xZWlzmC/zZ8do=
+		Q3bswIwaZy4uzL30xD2s2XmEAV4=
 		</data>
 		<key>Modules/NFCReaderApple.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		vX++ZLDSDtcO3gQuiULuc8ggSz4=
+		Wn6CHA+Zc4aADRxjg0QldO8GDco=
 		</data>
 		<key>Modules/NFCReaderApple.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		a1zF9x4bBEBZN2vKa/WlBkYjhNA=
+		W8yMcxEIXyVU+j0t/PQKIUioq70=
 		</data>
 		<key>Modules/NFCReaderApple.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -30,11 +30,11 @@
 		</data>
 		<key>Modules/NFCReaderApple.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		a1zF9x4bBEBZN2vKa/WlBkYjhNA=
+		W8yMcxEIXyVU+j0t/PQKIUioq70=
 		</data>
 		<key>Modules/NFCReaderApple.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		aogwIMVmoRom0bf8poqWyki+bLg=
+		IjdFhxUjoz/7SSmiUuY4V/mVStA=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -74,7 +74,7 @@
 		</data>
 		<key>Resource.bundle/_CodeSignature/CodeSignature</key>
 		<data>
-		kArKEuwG07V6hKwDXnoiCT9i6CU=
+		xGLs/QJkBSnEoC2NAm0QU39f19Y=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -97,14 +97,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			KXpfpku8UYPms1dIucIOV2TQWUAzTZdd0s1CctreBLA=
+			TsSGp3mbq+l7lUsVobtkhWdHHCIt417IznheBbnKbVA=
 			</data>
 		</dict>
 		<key>Modules/NFCReaderApple.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			xxxb3bxpTWbBCgd59mWyhq5YJ0GVL/Pthmbt/TWnF1g=
+			5j7gnnU3mi1ynoacBn6nHg6n0i6+8elkq7I20K2ya4g=
 			</data>
 		</dict>
 		<key>Modules/NFCReaderApple.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -118,14 +118,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			xxxb3bxpTWbBCgd59mWyhq5YJ0GVL/Pthmbt/TWnF1g=
+			5j7gnnU3mi1ynoacBn6nHg6n0i6+8elkq7I20K2ya4g=
 			</data>
 		</dict>
 		<key>Modules/NFCReaderApple.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			3GID3t8P6pp6e1Ht+oTp17w9YeHpni3/0sOsrEoqzLg=
+			+7QuaNQ3hpZ/pHk4DTLNKL43S5WRBcFFvpKtsSyv1nQ=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -195,7 +195,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			gwu82epDrz2BoJNGJrN3X7MymtKbirvra4jnja6oK7U=
+			6DZyQlji/SCbF2iVZQlV0SwkRjWbeb5kl/nWtDRTGGM=
 			</data>
 		</dict>
 	</dict>

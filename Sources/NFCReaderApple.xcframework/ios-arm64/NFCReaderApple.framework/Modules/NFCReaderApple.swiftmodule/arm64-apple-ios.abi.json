@@ -3047,6 +3047,29 @@
             ]
           },
           {
+            "kind": "Function",
+            "name": "getSDKVersion",
+            "printedName": "getSDKVersion()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:14NFCReaderApple10CoreReaderC13getSDKVersionSSyFZ",
+            "mangledName": "$s14NFCReaderApple10CoreReaderC13getSDKVersionSSyFZ",
+            "moduleName": "NFCReaderApple",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
             "kind": "Var",
             "name": "delegate",
             "printedName": "delegate",

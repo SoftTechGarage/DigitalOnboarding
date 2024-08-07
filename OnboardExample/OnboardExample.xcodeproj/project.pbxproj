@@ -323,7 +323,7 @@
 				EMBED_ASSET_PACKS_IN_PRODUCT_BUNDLE = NO;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = OnboardExample/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = Onboarding;
+				INFOPLIST_KEY_CFBundleDisplayName = "Onboarding - SDK";
 				INFOPLIST_KEY_NFCReaderUsageDescription = "Uygulamanın kimlik taraması yapmasına izin verisin mi ?";
 				INFOPLIST_KEY_NSBluetoothAlwaysUsageDescription = "OnboardExample would like to use Bluetooth to connect NFC readers.";
 				INFOPLIST_KEY_NSBluetoothPeripheralUsageDescription = "OnboardExample would like to use Bluetooth to connect NFC readers.";
@@ -341,7 +341,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 2.3.0;
+				MARKETING_VERSION = 2.3.2;
 				PRODUCT_BUNDLE_IDENTIFIER = com.softtech.onboardinguat23;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
@@ -364,7 +364,7 @@
 				EMBED_ASSET_PACKS_IN_PRODUCT_BUNDLE = NO;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = OnboardExample/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = Onboarding;
+				INFOPLIST_KEY_CFBundleDisplayName = "Onboarding - SDK";
 				INFOPLIST_KEY_NFCReaderUsageDescription = "Uygulamanın kimlik taraması yapmasına izin verisin mi ?";
 				INFOPLIST_KEY_NSBluetoothAlwaysUsageDescription = "OnboardExample would like to use Bluetooth to connect NFC readers.";
 				INFOPLIST_KEY_NSBluetoothPeripheralUsageDescription = "OnboardExample would like to use Bluetooth to connect NFC readers.";
@@ -382,7 +382,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 2.3.0;
+				MARKETING_VERSION = 2.3.2;
 				PRODUCT_BUNDLE_IDENTIFIER = com.softtech.onboardinguat23;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;

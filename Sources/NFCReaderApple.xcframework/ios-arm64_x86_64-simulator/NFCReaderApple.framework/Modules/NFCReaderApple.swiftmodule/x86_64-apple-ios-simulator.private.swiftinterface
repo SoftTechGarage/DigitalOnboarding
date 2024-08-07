@@ -188,6 +188,7 @@ public protocol NFCReaderDelegate : AnyObject {
 @_hasMissingDesignatedInitializers public class CoreReader {
   open var lang: Swift.String
   public static let sharedInstace: NFCReaderApple.CoreReader
+  public static func getSDKVersion() -> Swift.String
   weak public var delegate: (any NFCReaderApple.NFCReaderDelegate)?
   public func readChip(resulat: NFCReaderApple.MrzScanResult)
   @objc deinit
