@@ -457,7 +457,8 @@ SWIFT_CLASS("_TtC14NFCReaderApple32CardAndPassportDetectionSettings")
 @property (nonatomic) float torchLevel;
 @property (nonatomic) BOOL passportMode;
 @property (nonatomic, copy) NSString * _Nonnull titleString;
-@property (nonatomic, copy) NSString * _Nonnull descriptionString;
+@property (nonatomic, copy) NSString * _Nonnull frontDescriptionString;
+@property (nonatomic, copy) NSString * _Nonnull backDescriptionString;
 @property (nonatomic, copy) NSString * _Nonnull lang;
 /// Card detection settings (for the front side of the card)
 /// since:
@@ -1069,7 +1070,8 @@ SWIFT_CLASS("_TtC14NFCReaderApple32CardAndPassportDetectionSettings")
 @property (nonatomic) float torchLevel;
 @property (nonatomic) BOOL passportMode;
 @property (nonatomic, copy) NSString * _Nonnull titleString;
-@property (nonatomic, copy) NSString * _Nonnull descriptionString;
+@property (nonatomic, copy) NSString * _Nonnull frontDescriptionString;
+@property (nonatomic, copy) NSString * _Nonnull backDescriptionString;
 @property (nonatomic, copy) NSString * _Nonnull lang;
 /// Card detection settings (for the front side of the card)
 /// since:

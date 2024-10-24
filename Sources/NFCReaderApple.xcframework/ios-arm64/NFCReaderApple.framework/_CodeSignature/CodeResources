@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/NFCReaderApple-Swift.h</key>
 		<data>
-		GmpRXgNTV6UvoNGLPvjzF9Ckktg=
+		ICWTyGdi/UU8zkBOwDi3ebSdZX8=
 		</data>
 		<key>Headers/NFCReaderApple.h</key>
 		<data>
@@ -14,15 +14,15 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		Q3bswIwaZy4uzL30xD2s2XmEAV4=
+		rgOxEFl1yYc6w121XCSSR7soO8o=
 		</data>
 		<key>Modules/NFCReaderApple.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		Wn6CHA+Zc4aADRxjg0QldO8GDco=
+		dn40EB988K1Jkcskgi36Wpyc5vs=
 		</data>
 		<key>Modules/NFCReaderApple.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		W8yMcxEIXyVU+j0t/PQKIUioq70=
+		SxWPHeYJo0xGUO7MRKMOsDQwWGg=
 		</data>
 		<key>Modules/NFCReaderApple.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -30,11 +30,11 @@
 		</data>
 		<key>Modules/NFCReaderApple.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		W8yMcxEIXyVU+j0t/PQKIUioq70=
+		SxWPHeYJo0xGUO7MRKMOsDQwWGg=
 		</data>
 		<key>Modules/NFCReaderApple.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		IjdFhxUjoz/7SSmiUuY4V/mVStA=
+		qFxl0MwppqZ3r+fg2ao2sMQgCTY=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -42,7 +42,7 @@
 		</data>
 		<key>Resource.bundle/Assets.car</key>
 		<data>
-		b0VOGXWYwbZ9n2iLsSrCDg8kXSI=
+		XeL8Kpxu0dKMFHy3rm3Q/N6gUVk=
 		</data>
 		<key>Resource.bundle/BarcodeDetectionViewController.nib</key>
 		<data>
@@ -54,27 +54,27 @@
 		</data>
 		<key>Resource.bundle/Info.plist</key>
 		<data>
-		m6zz82h+qZQkO7jnty0wABicjEE=
+		H8inVK7fF86OuQMv4P4Q1LAL+4I=
 		</data>
 		<key>Resource.bundle/_CodeSignature/CodeDirectory</key>
 		<data>
-		Ps5RaIwm/gsfeqR02C3/C58Mz60=
+		86uuIPZPF6Wcptym0XgkwA9H8Mc=
 		</data>
 		<key>Resource.bundle/_CodeSignature/CodeRequirements</key>
 		<data>
-		B+aiMRMZIpr+2RS5bEmiyzOzFcc=
+		yrqH/dyIQhMErLSY7x0xZ8nsDDg=
 		</data>
 		<key>Resource.bundle/_CodeSignature/CodeRequirements-1</key>
 		<data>
-		0CnHJ01+gBUfwmSwUoe6nrx17is=
+		MbpZwyBFII1ZaG76JUyGBO7zVV0=
 		</data>
 		<key>Resource.bundle/_CodeSignature/CodeResources</key>
 		<data>
-		5R1P4kdgvO5knyapPs3q2xJQSiA=
+		tcI/u6S0ventpCR32YnfyI3DsUs=
 		</data>
 		<key>Resource.bundle/_CodeSignature/CodeSignature</key>
 		<data>
-		xGLs/QJkBSnEoC2NAm0QU39f19Y=
+		kC6crKjHUC+Xw7TOn2vVikojing=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -83,7 +83,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			H3NU6lDgdJFxidrrtTHCPAartc1XF4GE1tr/bcAV/v4=
+			psIeCaO/zSRYoZPuSbxhJlyt8hUYmRdGq6qUwHWI2fI=
 			</data>
 		</dict>
 		<key>Headers/NFCReaderApple.h</key>
@@ -97,14 +97,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			TsSGp3mbq+l7lUsVobtkhWdHHCIt417IznheBbnKbVA=
+			e5iIpQ+jn2NWG5md7SjIwwYqtSeQiKC9U0W6dn4Gdbw=
 			</data>
 		</dict>
 		<key>Modules/NFCReaderApple.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			5j7gnnU3mi1ynoacBn6nHg6n0i6+8elkq7I20K2ya4g=
+			5NgUGmGiWyNY2XN2m1GGOJ3PkMmxdbip11HaoDF0GAc=
 			</data>
 		</dict>
 		<key>Modules/NFCReaderApple.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -118,14 +118,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			5j7gnnU3mi1ynoacBn6nHg6n0i6+8elkq7I20K2ya4g=
+			5NgUGmGiWyNY2XN2m1GGOJ3PkMmxdbip11HaoDF0GAc=
 			</data>
 		</dict>
 		<key>Modules/NFCReaderApple.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+7QuaNQ3hpZ/pHk4DTLNKL43S5WRBcFFvpKtsSyv1nQ=
+			gLPKuO484Lb2NshYMNvNHSofGRDh6qe2iHSDa6fT4iM=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -139,7 +139,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			s95UHMACO5VUo4wThMj9Kv7/IcJ3bopdfBsc9I3uN6c=
+			nCYmfK31xrx9g3TKjY/SR4Y0Ac5cyywn9T4Z3nMa/AI=
 			</data>
 		</dict>
 		<key>Resource.bundle/BarcodeDetectionViewController.nib</key>
@@ -160,42 +160,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			sk/WOSqiHo7EsMl47mNBKZOzo+PNGsEFhzh7I3QyOzo=
+			rrYuXdkOocW9HIzyvIzIuOeXWHitKCizbIe9BoyJjRk=
 			</data>
 		</dict>
 		<key>Resource.bundle/_CodeSignature/CodeDirectory</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			rHNESoEOsa98883XgFcUzqZr0Zq5gDTs3qfUON6gH20=
+			qw2QsoQAp891h9TD+gAkvLi7wFyJOVQvlzIu5KT2G64=
 			</data>
 		</dict>
 		<key>Resource.bundle/_CodeSignature/CodeRequirements</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			HCIfIzrX5YJe2ozPwWBBIBneNvdLtP0TmdPh6vcbpWs=
+			Bxnc+8q0sjyrhHoA+WXDIeEdh+o6qzv/EC2NgRWpVhI=
 			</data>
 		</dict>
 		<key>Resource.bundle/_CodeSignature/CodeRequirements-1</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ps2OxwMQcHwHt9EDKchn5MbW3SLFawJumm8QSyhGicQ=
+			4ci+idkCUHADUnZHkIH++P/w2FsxFaC4wERlzydeIqU=
 			</data>
 		</dict>
 		<key>Resource.bundle/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			jgza6UkgYvB1cfT8UIKD/jz5P0/+CAr7rcUimGK0EhU=
+			ZAzHefbaQvm2e4IhFL1Lzri++UGnyJ9dl80Neifc5pg=
 			</data>
 		</dict>
 		<key>Resource.bundle/_CodeSignature/CodeSignature</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			6DZyQlji/SCbF2iVZQlV0SwkRjWbeb5kl/nWtDRTGGM=
+			IJ7zucuUfk7VMwFv2n+4GbFdPvzMTYgGPvgu3cXNDu0=
 			</data>
 		</dict>
 	</dict>

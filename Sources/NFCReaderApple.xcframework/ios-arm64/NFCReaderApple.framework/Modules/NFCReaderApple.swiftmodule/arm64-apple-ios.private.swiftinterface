@@ -797,7 +797,8 @@ public func DESDecrypt(key: [Swift.UInt8], message: [Swift.UInt8], iv: [Swift.UI
   @objc public var torchLevel: Swift.Float
   @objc public var passportMode: Swift.Bool
   @objc public var titleString: Swift.String
-  @objc public var descriptionString: Swift.String
+  @objc public var frontDescriptionString: Swift.String
+  @objc public var backDescriptionString: Swift.String
   @objc public var lang: Swift.String
   @objc final public let cardDetectionSettings: NFCReaderApple.BaseCardDetectionSettings
   @objc final public let barcodeDetectionSettings: NFCReaderApple.BaseBarcodeDetectionSettings
