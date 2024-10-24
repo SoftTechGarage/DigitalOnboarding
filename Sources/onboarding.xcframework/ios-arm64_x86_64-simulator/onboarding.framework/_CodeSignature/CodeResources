@@ -6,15 +6,15 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		D54MoSUfuJx9Kymw7GXF/mhqIjE=
+		J9WDVQjDHrbhMfeFrsIsWBKgGq0=
 		</data>
 		<key>CalendarPageViewController.nib</key>
 		<data>
-		3WxYEvD4iLwONqg9J1dUMUk3DdE=
+		ilI5L0lOWJ01HQMJv+iG8RgUbCg=
 		</data>
 		<key>ConfirmationPageViewController.nib</key>
 		<data>
-		kpJChQ+7ZZ4/9vSRnJjXL25KM/Q=
+		HNLnVq7IV0wEHfYE5SoC264nJTQ=
 		</data>
 		<key>EmailActivationViewController.nib</key>
 		<data>
@@ -26,15 +26,63 @@
 		</data>
 		<key>FaceDetectionPageViewController.nib</key>
 		<data>
-		etQQUioAmuKzbY+sF3oZsO9zgic=
+		KCRzL6b9yxGQ1byTjV0N3NwSwq0=
 		</data>
 		<key>FormPageViewController.nib</key>
 		<data>
-		Vy0le8u1+k3/vnbtdeVENnnlj/4=
+		5FPz4qjbnPeKY/xMARPm/FExVeY=
+		</data>
+		<key>Frameworks/NFCReaderApple.framework/Info.plist</key>
+		<data>
+		++MgXSGd0vN/aq4/e2eskNgOTvE=
+		</data>
+		<key>Frameworks/NFCReaderApple.framework/NFCReaderApple</key>
+		<data>
+		u8qcoNUbDuovEQD36fxov3p3SWM=
+		</data>
+		<key>Frameworks/NFCReaderApple.framework/Resource.bundle/Assets.car</key>
+		<data>
+		XeL8Kpxu0dKMFHy3rm3Q/N6gUVk=
+		</data>
+		<key>Frameworks/NFCReaderApple.framework/Resource.bundle/BarcodeDetectionViewController.nib</key>
+		<data>
+		RvXPTZ7M8DkHCs1I+Er2JQvsjOE=
+		</data>
+		<key>Frameworks/NFCReaderApple.framework/Resource.bundle/CardDetectionViewController.nib</key>
+		<data>
+		3aAyEf03DnFzW8TFyuxoqRyZRhI=
+		</data>
+		<key>Frameworks/NFCReaderApple.framework/Resource.bundle/Info.plist</key>
+		<data>
+		+d4VRN3zFx3GEZjjkFG6H0L7RkY=
+		</data>
+		<key>Frameworks/NFCReaderApple.framework/Resource.bundle/_CodeSignature/CodeDirectory</key>
+		<data>
+		lQdZHALn6UpaaO5juPumhHHYUBo=
+		</data>
+		<key>Frameworks/NFCReaderApple.framework/Resource.bundle/_CodeSignature/CodeRequirements</key>
+		<data>
+		OnX22wWFKRSOFN1+obRynMCeyXM=
+		</data>
+		<key>Frameworks/NFCReaderApple.framework/Resource.bundle/_CodeSignature/CodeRequirements-1</key>
+		<data>
+		ieX49D3qiEwTHLTUza5GHLdSvEM=
+		</data>
+		<key>Frameworks/NFCReaderApple.framework/Resource.bundle/_CodeSignature/CodeResources</key>
+		<data>
+		tcI/u6S0ventpCR32YnfyI3DsUs=
+		</data>
+		<key>Frameworks/NFCReaderApple.framework/Resource.bundle/_CodeSignature/CodeSignature</key>
+		<data>
+		2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+		</data>
+		<key>Frameworks/NFCReaderApple.framework/_CodeSignature/CodeResources</key>
+		<data>
+		LdUQH+s5cHvxNgpCM6/PAhlA5sg=
 		</data>
 		<key>Headers/onboarding-Swift.h</key>
 		<data>
-		L+Gc0ZNrmYCKYboGbZFUHxs2J14=
+		vs6E9Ml3LP2EYZZIANHXLYOwFNM=
 		</data>
 		<key>Headers/onboarding.h</key>
 		<data>
@@ -42,15 +90,15 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		Tr04nofzfYtD/28obWgSl/ImJDo=
+		N0yGvdI8V8up5CmqaPyuzF93roo=
 		</data>
 		<key>InfographicPageViewController.nib</key>
 		<data>
-		995T5vy5+o3GBN+ub6E/Weas0MQ=
+		dC1ks5gSmuL8vvI0nr4Nsn5CTkM=
 		</data>
 		<key>InformationPageViewController.nib</key>
 		<data>
-		iCPjLmRZx5Vu7T6P5sfHFE85xRY=
+		wW95a0HL2hZsoPxuZ+8bBCpvKqM=
 		</data>
 		<key>MeetingPageViewController.nib</key>
 		<data>
@@ -62,11 +110,11 @@
 		</data>
 		<key>Modules/onboarding.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		5nOz52L6w+Pxx1lIV8iy9N00tHw=
+		pJmSQR74MiDKrKtT2Rw0XPEcYUU=
 		</data>
 		<key>Modules/onboarding.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		tkY5fGvD3KOdiA6tjcmhmDW4sLs=
+		z2YOnFV3yMLmPbspbdL9x0LBUBE=
 		</data>
 		<key>Modules/onboarding.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -74,19 +122,19 @@
 		</data>
 		<key>Modules/onboarding.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		tkY5fGvD3KOdiA6tjcmhmDW4sLs=
+		z2YOnFV3yMLmPbspbdL9x0LBUBE=
 		</data>
 		<key>Modules/onboarding.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		IbiYoL5JfryG0kgOHmhzveeTHeQ=
+		1k1GLd1GvYNFVG+bQ0fUvwMseQs=
 		</data>
 		<key>Modules/onboarding.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		5nOz52L6w+Pxx1lIV8iy9N00tHw=
+		pJmSQR74MiDKrKtT2Rw0XPEcYUU=
 		</data>
 		<key>Modules/onboarding.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		t2M2yDjxHH2vYNLpB76vq6OZ9z4=
+		/Ce40j0wrQ/8ve7tPHuJjS7v0iM=
 		</data>
 		<key>Modules/onboarding.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -94,23 +142,39 @@
 		</data>
 		<key>Modules/onboarding.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		t2M2yDjxHH2vYNLpB76vq6OZ9z4=
+		/Ce40j0wrQ/8ve7tPHuJjS7v0iM=
 		</data>
 		<key>Modules/onboarding.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		Nv4H9eHqm7lyPbkfEx6zPs0pbE8=
+		JnydDxEW70C8Qz7T8OgnIHUCLbM=
 		</data>
 		<key>NfcPageViewController.nib</key>
 		<data>
-		5a+TGO4Unl8nTu0EA0qVC8IF3j4=
+		AvOjRQEs0kqiv3jFEnjtjTuC2HM=
+		</data>
+		<key>NunitoSans-Bold.ttf</key>
+		<data>
+		jr1Dw7HDbBrKy1xZvQh9oRDrR8c=
+		</data>
+		<key>NunitoSans-Regular.ttf</key>
+		<data>
+		BmDJqxsBigc+BtehOws5WZQO/7o=
+		</data>
+		<key>NunitoSans-SemiBold.ttf</key>
+		<data>
+		/FEVg2UMeFXPltd+9ck5+gWlY4o=
+		</data>
+		<key>OCRPageViewController.storyboardc/Info.plist</key>
+		<data>
+		GnMdGFfDuvwAuWJN7FS9ELLozY4=
 		</data>
 		<key>OnboardingBottomSheetDialog.nib</key>
 		<data>
-		Qr031z/fgUMD7OXGzGm0sR1I46c=
+		wG2Y4s5roWkWQUG78Yt8UVGwuxU=
 		</data>
 		<key>OnboardingBottomSheetDialogItem.nib</key>
 		<data>
-		VuBoNL+fAcbcWuSs1JwP1C+oNyc=
+		qC3ze+Zet4rkas4MlRViRwq5ZTM=
 		</data>
 		<key>OnboardingCheckbox.nib</key>
 		<data>
@@ -118,7 +182,7 @@
 		</data>
 		<key>OnboardingDate.nib</key>
 		<data>
-		8pMQYH6dKImIs+C1uAPsMB2aKiA=
+		zXTQDkytBVRmvphG5TSbaBXB1yM=
 		</data>
 		<key>OnboardingFormCheckbox.nib</key>
 		<data>
@@ -130,23 +194,23 @@
 		</data>
 		<key>OnboardingFormNumber.nib</key>
 		<data>
-		L7bf5/KPvMN4WE0H/Bu7zndvYGI=
+		CNlbDpavFyV+NlVE5bc4L5GLUjI=
 		</data>
 		<key>OnboardingFormRadio.nib</key>
 		<data>
-		u3AzBVzqcESgPzXQvUZzKzd8WUI=
+		WhF3fzfItu/etpZV3AmhMcSyl68=
 		</data>
 		<key>OnboardingFormRadioItem.nib</key>
 		<data>
-		fY59sAN17KwA+TmsbRUTzAfeDpc=
+		tW+Jjzdiaul3HIykkptwTxTkZnY=
 		</data>
 		<key>OnboardingFormText.nib</key>
 		<data>
-		bAYTti7SpxBgS5WEaNmvtf54JrU=
+		qGJ7N3mKMYKhetUbhPIXT1IB1rg=
 		</data>
 		<key>OnboardingInfographicIconText.nib</key>
 		<data>
-		8oJ+fPxO5mUueeZLGTi8jq7+25Y=
+		i3ALK4Ka/EJSc0qOXSKxr5QNfhw=
 		</data>
 		<key>OnboardingLoading.nib</key>
 		<data>
@@ -158,7 +222,7 @@
 		</data>
 		<key>OnboardingQuestionnaireCheckbox.nib</key>
 		<data>
-		8rqm7iNZoYlc1u/FYkyrhsRoTEQ=
+		75RJtaO5pkS/RCiyj2SAkbT1yu8=
 		</data>
 		<key>OnboardingQuestionnaireCheckboxItem.nib</key>
 		<data>
@@ -166,15 +230,15 @@
 		</data>
 		<key>OnboardingQuestionnaireDropdown.nib</key>
 		<data>
-		v2/dPj10+vi80gtv+eENT7OT9lw=
+		RXPu8d0dw7ReC1eUrz96mW9BiZo=
 		</data>
 		<key>OnboardingQuestionnaireRadio.nib</key>
 		<data>
-		F1U6y6EeFUdxSRsd+6bsyMbV39U=
+		+bq9827RNovraB/ZnlRdmQjvAsk=
 		</data>
 		<key>OnboardingQuestionnaireRadioItem.nib</key>
 		<data>
-		r9IgjVrc0VujTAldjwYm/GFXiYY=
+		HqVqcmAs7ytFCWxuH5wRW2IVRbQ=
 		</data>
 		<key>OnboardingQuestionnaireTitle.nib</key>
 		<data>
@@ -184,9 +248,17 @@
 		<data>
 		IMdBzigv1ytTi5/i9aIcYswdh44=
 		</data>
+		<key>OnboardingStepperView.nib</key>
+		<data>
+		5If0PMj2+nq32jbvb07Rgc8U9CE=
+		</data>
+		<key>OnboardingToolbarView.nib</key>
+		<data>
+		SBP6f58OE937pZTPH5JMOjrIkLw=
+		</data>
 		<key>OnboardingWarning.nib</key>
 		<data>
-		HUlWACsqZYzRrzj4hLFuLdKLKZQ=
+		UB8JN7KYt1wQLdS16fSAbBZL9xU=
 		</data>
 		<key>ProcessPageViewController.nib</key>
 		<data>
@@ -196,17 +268,21 @@
 		<data>
 		mG+FXIQzlS0LfUzIGwi07JJ9y9Y=
 		</data>
-		<key>QuestionnairePageViewController.nib</key>
+		<key>QuestionnairePageViewController.nib/objects-14.0+.nib</key>
 		<data>
-		deXwG917hjeMDbCIlC2/0KFE5Tc=
+		r011rh5ZR71nQE6+2ccbzVAJ0gY=
+		</data>
+		<key>QuestionnairePageViewController.nib/runtime.nib</key>
+		<data>
+		kiigYPO5mhIC0kMU5UwWXiEna3c=
 		</data>
 		<key>SmsActivationViewController.nib</key>
 		<data>
-		zJxHjOWUyWxpqVaPmSqBvZYtbsU=
+		ykvZzjjpXyhK9WY+K7VxbrkwTaI=
 		</data>
 		<key>SmsCodeViewController.nib</key>
 		<data>
-		WCQnBC8J6PgDV31EN7nKzvUUy7A=
+		8QLLIhjJH1aUGbGGQdPtCDV3CdY=
 		</data>
 		<key>StartPageViewController.nib</key>
 		<data>
@@ -214,19 +290,39 @@
 		</data>
 		<key>VideoCallPageViewController.nib</key>
 		<data>
-		YNgDzmSDCwDodn21nMlp4xg7/cg=
+		iJ1ZsqHz8VUfapqBBHOtwaHpzy4=
 		</data>
 		<key>WaitingPageViewController.nib</key>
 		<data>
-		A6w4ZL3sPhCKviExfNlhzjWLQ9c=
+		mwpIt+bzLaRZ79fpbEQa1DTl7BY=
 		</data>
 		<key>WebPageViewController.nib</key>
 		<data>
-		uo81ZnyLDaN0H/qkXOROGyT8g0g=
+		vng7l8Ggg0EA0CJWWViTJm/nEik=
 		</data>
 		<key>WelcomePageViewController.nib</key>
 		<data>
-		HV3pWWqluIMmZ7JlgcqjgkKdH98=
+		sjjKzCMjcTphZQe7Z/HAlTu/Cp4=
+		</data>
+		<key>animation-1.json</key>
+		<data>
+		mmTteLwDAgU+pY3xjT+9p/2fVcM=
+		</data>
+		<key>animation-2.json</key>
+		<data>
+		wsVNsbyoHHBRQmWt9j5LUUg1seI=
+		</data>
+		<key>animation-3.json</key>
+		<data>
+		MqnoWndS4elpcAihZf2qgn/yML8=
+		</data>
+		<key>animation-4.json</key>
+		<data>
+		UU8em/v0D5nR6/2RT+/hQrx5WTs=
+		</data>
+		<key>animation-5.json</key>
+		<data>
+		D9bL8P4NR1CGzKlwew1phzMzIqA=
 		</data>
 		<key>source_sans_pro_bold.otf</key>
 		<data>
@@ -243,21 +339,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			bjd1J3yMxRhZsSj8fmds088OTt42FWYeFggId0m4cfo=
+			WVStQvpKVz2240g/Eb1zRkqGghu0O7zfuOuhrY3dQoU=
 			</data>
 		</dict>
 		<key>CalendarPageViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			QRnVhkhOtMC3DhAScvJUr8mN+8WZrWfItGJb4n2UwUU=
+			G26/JFCKzgIj1w0n6/xqi154LI+Ql1FB1ziuoiwiDlg=
 			</data>
 		</dict>
 		<key>ConfirmationPageViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			khMKVBkwsBzxiTiOScCCcgFTZABq4bdNqg0RtI0SBUA=
+			0Ag1qv3mkCaYPT+OC3N9oaHftXj06llbAAr5o5Fnx5Y=
 			</data>
 		</dict>
 		<key>EmailActivationViewController.nib</key>
@@ -278,21 +374,105 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			G6qK+Y41gWf9XFxJKJpE/+ypijbKvLrkLHvglHRMMFo=
+			3/2B3LO1T94VY5ebiXjFBJGvqO60eDybvqHxBhbwXmY=
 			</data>
 		</dict>
 		<key>FormPageViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			l7Kzn21JEYneF2f3N3CU6dM7w3vb1THugyfssCs8LXE=
+			VpgM/oqgl9uaRIU1va0l28cbzDqq/JwuzmNkpVF3K2w=
+			</data>
+		</dict>
+		<key>Frameworks/NFCReaderApple.framework/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			fcCbSvitVn4SlGy9HwCXLXs9BjrUZjcCH0enG9NRAzE=
+			</data>
+		</dict>
+		<key>Frameworks/NFCReaderApple.framework/NFCReaderApple</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			uDS9yyhvjPCWvCm/RfddZrK1uXFW4fJxY9o6QBtxn1M=
+			</data>
+		</dict>
+		<key>Frameworks/NFCReaderApple.framework/Resource.bundle/Assets.car</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			nCYmfK31xrx9g3TKjY/SR4Y0Ac5cyywn9T4Z3nMa/AI=
+			</data>
+		</dict>
+		<key>Frameworks/NFCReaderApple.framework/Resource.bundle/BarcodeDetectionViewController.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			y8towzNHQ4PH2NFNv33IStqscU6p86DkC092tHq06b8=
+			</data>
+		</dict>
+		<key>Frameworks/NFCReaderApple.framework/Resource.bundle/CardDetectionViewController.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			/L9qD1XaqcGXgHIpiH3IXRdm8SBmng1UAeM+gojsbcs=
+			</data>
+		</dict>
+		<key>Frameworks/NFCReaderApple.framework/Resource.bundle/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			50wz9P+htBKVkf5KqR5mhvJp48so+6Y5n5TUnmzT7qM=
+			</data>
+		</dict>
+		<key>Frameworks/NFCReaderApple.framework/Resource.bundle/_CodeSignature/CodeDirectory</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			c9qpwn6En/sbpKVv2YEX2G7aF9ilV1uXfxkXGXCi5RU=
+			</data>
+		</dict>
+		<key>Frameworks/NFCReaderApple.framework/Resource.bundle/_CodeSignature/CodeRequirements</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			mHkgkE6rZQ51eIwFSqCwUk5qgL/HGqMt+NI3phdD+YY=
+			</data>
+		</dict>
+		<key>Frameworks/NFCReaderApple.framework/Resource.bundle/_CodeSignature/CodeRequirements-1</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			+pHcWzs1fT6EFbM0rvKxY3JyP97agUCPJgcD6+oq5g8=
+			</data>
+		</dict>
+		<key>Frameworks/NFCReaderApple.framework/Resource.bundle/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ZAzHefbaQvm2e4IhFL1Lzri++UGnyJ9dl80Neifc5pg=
+			</data>
+		</dict>
+		<key>Frameworks/NFCReaderApple.framework/Resource.bundle/_CodeSignature/CodeSignature</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=
+			</data>
+		</dict>
+		<key>Frameworks/NFCReaderApple.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			tYBLLjTl9fyfRgt3mKrkfZyaB3+SzyMnTJbO6e5Rp4s=
 			</data>
 		</dict>
 		<key>Headers/onboarding-Swift.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			mXPYg5HOTUdL+ijk2iiQGKFq0kOdK6wu/JAAbpVAM9A=
+			soio2WDGQCX1dR89JuTHB1DTJ9QWxpJepgbVl2oV+q0=
 			</data>
 		</dict>
 		<key>Headers/onboarding.h</key>
@@ -306,14 +486,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			CW/d++D7oR7DyQzSLAuJDID//F6UcCSi0VvR2TE9zzs=
+			3jor3cHdcxhozWSE5NpUJLBurRA6jYG/NInLYvcs+/Q=
 			</data>
 		</dict>
 		<key>InformationPageViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			4Bg080xmir/Z4/qSMyzjrI3KF3WS3UZ98e4RUT3jH6Y=
+			lyOTTAWLFh++7XOFeXBVJZ8lW6zQ1b9BMyhrw18EONI=
 			</data>
 		</dict>
 		<key>MeetingPageViewController.nib</key>
@@ -334,14 +514,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			NiJM4RN3PXko3Mvw7kb1bD3usF+QKtqpjHXoxvhCLk4=
+			xavwugRhJomzUiBkse8RgrNL+2mP3XcLlT/4OQEY7H0=
 			</data>
 		</dict>
 		<key>Modules/onboarding.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			SILv4zwZ8S5Todg/KKVrkF5o2OwjRQ4qIPizCWT/VXE=
+			C1s8OXsf492xwZFD+/d7bVsfXVR6WCd7ax4TiDumSOM=
 			</data>
 		</dict>
 		<key>Modules/onboarding.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -355,28 +535,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			SILv4zwZ8S5Todg/KKVrkF5o2OwjRQ4qIPizCWT/VXE=
+			C1s8OXsf492xwZFD+/d7bVsfXVR6WCd7ax4TiDumSOM=
 			</data>
 		</dict>
 		<key>Modules/onboarding.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			UJwfr8tcSpyrvrTNGutZPn+RcqWHruKNvF4NGuJxWIY=
+			N3Am2tiQmYT17ApQEkM9zh5F84C9mP5/Q5axoRHA/zs=
 			</data>
 		</dict>
 		<key>Modules/onboarding.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			NiJM4RN3PXko3Mvw7kb1bD3usF+QKtqpjHXoxvhCLk4=
+			xavwugRhJomzUiBkse8RgrNL+2mP3XcLlT/4OQEY7H0=
 			</data>
 		</dict>
 		<key>Modules/onboarding.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			elMInl5o0AMYW9jhpg6uCgH9fPaZW7RTAhlVPA4bRtk=
+			2u56cjJU01HFbJkTRG7iXVIv6Pa7UYYCA9oOHePitSY=
 			</data>
 		</dict>
 		<key>Modules/onboarding.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -390,35 +570,63 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			elMInl5o0AMYW9jhpg6uCgH9fPaZW7RTAhlVPA4bRtk=
+			2u56cjJU01HFbJkTRG7iXVIv6Pa7UYYCA9oOHePitSY=
 			</data>
 		</dict>
 		<key>Modules/onboarding.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			j7JkYIQm78ewJs6yiu3EiW4vTVuAbNys1JFBP4f7MM8=
+			d5GcK+w2sii8gKXt6PDnGaJDBsUatAZsjQitzP46fx0=
 			</data>
 		</dict>
 		<key>NfcPageViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			tpmzth94Zp+9r9Kq6gbAcs2fP/Gx2XZbsPf7O5ptT2s=
+			2fNJ/jvH3yzckdDI2x5A0ZcAlM4RKLj/w63mKWKdeaM=
+			</data>
+		</dict>
+		<key>NunitoSans-Bold.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ujWNKVdscnp7pJ4lfCXHrJ9bst1BEAD0faXHop6yRuk=
+			</data>
+		</dict>
+		<key>NunitoSans-Regular.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			OVrEyBB5+sFx+3UZY8TgMR4Gb2bSoZlF5i3IYaV7g/k=
+			</data>
+		</dict>
+		<key>NunitoSans-SemiBold.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			1UutpnUdKat1daLEwe2waqszOe+kyQwFigqqm0n3MXA=
+			</data>
+		</dict>
+		<key>OCRPageViewController.storyboardc/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			9gq+m2SfIqZdO4RnP+Q5bwx0h1nftPpvwkJZZ8jBiZE=
 			</data>
 		</dict>
 		<key>OnboardingBottomSheetDialog.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			XdoqNFG4gAReyQHSsZx2PvKR+s0Opn2lwnsUCvUPi84=
+			eRKoGvFNIbg/fCaczyH/NIrdTlL6hr3lK3XlA5oXXT4=
 			</data>
 		</dict>
 		<key>OnboardingBottomSheetDialogItem.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			QKsA2P06hGhUl5HUwkJAhWH0HfOuFMIVa5ctqfU1qY8=
+			Zy+JC7IizHfc6qcD72a3U3+Yn8g0j9BM+fZCeXXAeSI=
 			</data>
 		</dict>
 		<key>OnboardingCheckbox.nib</key>
@@ -432,7 +640,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			R7EAYwcRmStuC7oSKO/oaLvSQ97tFUnTHXBDy/5fZpg=
+			rC8qfyzf7Msg+rTaeDOy1tQ9QsJSi2x+hsHs2FwIJ6k=
 			</data>
 		</dict>
 		<key>OnboardingFormCheckbox.nib</key>
@@ -453,35 +661,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			rGwcWy0sAhD2EJ5m/QsgdzerVJlO8Df+7m5K8pO8t7k=
+			sC5/YtJANqFTt+MTf37SXl4heuAyR4Els0NeQFArr40=
 			</data>
 		</dict>
 		<key>OnboardingFormRadio.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ythRlzHa5C+sxHUPG8GlnV6FDxCIWZXm3Jsnia4edqM=
+			tCNjXXk/UpJT59AGNoTiRjOwKpYLB7oT3GLUcuMwJqY=
 			</data>
 		</dict>
 		<key>OnboardingFormRadioItem.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			fpnLQ2/dRbFrwfBsSiVRBFogHJENgzzHCHtmem+BTOM=
+			2V670Yt2h9UwfK/PP/ZyC7+cwxP4c59t3aAiO02P/D4=
 			</data>
 		</dict>
 		<key>OnboardingFormText.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			1Kv1njwZNXFCJLJWuSaIcx0MF9e0XnwSgVPEAvgS3iA=
+			piZ3JHRoZVOWaOPwmaaJeHLybQoLv3+IgVKchjhD/fM=
 			</data>
 		</dict>
 		<key>OnboardingInfographicIconText.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			TlAOV3HBlTC9t1dFUUifqNtex743rDR3Wx0Nrn7DVvk=
+			DF3C9qDpRblEPkZxiHLOC2dqq0GtNsU7OlpHKyged4c=
 			</data>
 		</dict>
 		<key>OnboardingLoading.nib</key>
@@ -502,7 +710,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			+IXj66llhNGIR3+goQoaxGfoqobgHzTa4bAxlDXo2Ok=
+			xYVEUt3Lq8yDNnKEIR3fEF7l7CQx5s5OJm5b1xP7I9Q=
 			</data>
 		</dict>
 		<key>OnboardingQuestionnaireCheckboxItem.nib</key>
@@ -516,21 +724,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			bw/0fXtcfkzwclV9bzALwAqmCKoqQk8HIqIx8ExSkts=
+			gPU3l7w1UNJXCplxnclTfG9/BZIKUli7MzzEJzmErj8=
 			</data>
 		</dict>
 		<key>OnboardingQuestionnaireRadio.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			AFdhxEJp/ObWBvSxM8SgPgnLpy74e14RXyqpRgjFo34=
+			gonMIjTx7HK+ZHBg84LuhlB5ysd2tA3XmYKOQTvP4nc=
 			</data>
 		</dict>
 		<key>OnboardingQuestionnaireRadioItem.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			vf7sqcaIFxao1zid0HZm4LuRHbXxuilEZA2XhSjW02E=
+			4aPx4BEur8d3w9h/qTdkLOt2y+QQznlSs1tKgHtoXf0=
 			</data>
 		</dict>
 		<key>OnboardingQuestionnaireTitle.nib</key>
@@ -547,11 +755,25 @@
 			MsctEity9Q1kjU72yrYfEm662+vn0USDDHxtfXnv7AE=
 			</data>
 		</dict>
+		<key>OnboardingStepperView.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			4vKAFYmuOHkpjuNNVWRX+wcCxAXvEKKg0cqk/Fgr+nI=
+			</data>
+		</dict>
+		<key>OnboardingToolbarView.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			2seDW2j4fSwe6Jbt32GFKifuq4/v7FLIuN/sZ8WZxKw=
+			</data>
+		</dict>
 		<key>OnboardingWarning.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			xkDEg5Wp/a9Eqng7tN9mDDns01gbqlgc0CPqRH1yXwQ=
+			pshzezQLIPbrbGBHX7Yf2Oavz/5fkPiSANRlUvRYkxQ=
 			</data>
 		</dict>
 		<key>ProcessPageViewController.nib</key>
@@ -568,25 +790,32 @@
 			tix1j3b6WPGaUys9nel6a6txfqlqOac0zr1VySHOpFY=
 			</data>
 		</dict>
-		<key>QuestionnairePageViewController.nib</key>
+		<key>QuestionnairePageViewController.nib/objects-14.0+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ti7uPXUbu6ck4q4vbu0Gy47zb9gSvZebBZzfVMjBhhc=
+			ECNrtQthQwecpZNFfRzN90sORb0CIOJmvsE09SeaSZk=
+			</data>
+		</dict>
+		<key>QuestionnairePageViewController.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ol7IcVeOLd0bl8VwKiT7AshMNFWm7veEoPOM5L08Ndg=
 			</data>
 		</dict>
 		<key>SmsActivationViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			scb32iYHx1d6rvEyyO+7VvARZCB7+gjEGUZ6il8cC2I=
+			qSkVWxjBBfnqVK8CtbcnTB4WkIhmGSRJGUq4Z9NblcA=
 			</data>
 		</dict>
 		<key>SmsCodeViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			2CCHgUxRbRDOk/0g3NBr2XWifYZ20/kcdu3SpgvDOMU=
+			5Q4GvCmDdEKWzgSGnSYjFyDiCDMTbheJ+mIRWo+IC1A=
 			</data>
 		</dict>
 		<key>StartPageViewController.nib</key>
@@ -600,28 +829,63 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			hbi1HNvIFn1vZQMe6gnVWbDkdXy7XKEjdtLBKr8QXvk=
+			8mGtYaQjiZssFtN03nEbnJFd+mDUF3KnNg5lWk9WrXg=
 			</data>
 		</dict>
 		<key>WaitingPageViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			V5KA3u4G1jBBxrDuMieiNqSYiceeRkbkEHHbSIvACSU=
+			2BtzgY+1azwTHPR4OvytaLZ6BOeihh74RhJyZaZoHWA=
 			</data>
 		</dict>
 		<key>WebPageViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			vjPisWlVCfAovsz3aAe3kCwyDRUh1aWLxNO9kHrIX/c=
+			lqABUHNUd6/3IY0bsQvFS27hPZhMOD4UUiJKejQroxM=
 			</data>
 		</dict>
 		<key>WelcomePageViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			IFFlQxlooFhs7w12bkausJASDVH94O9q2ee66YYEwaE=
+			lf3yUXPq+LDmp16gZxSkARmZPvkovWUnwqKHonvnRwI=
+			</data>
+		</dict>
+		<key>animation-1.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			9F1yW2bAHIJ6lMGsIC/lTipa1wU9jtTCXsnzvxUKpeM=
+			</data>
+		</dict>
+		<key>animation-2.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			q25f9Ss8m4UWsJivURd3M+bGJtOU8qkvF8ApH5+G2zI=
+			</data>
+		</dict>
+		<key>animation-3.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			JYeUoppUhKTvThAp76mXewLh3sGsGEpMcVDmMFaZPUc=
+			</data>
+		</dict>
+		<key>animation-4.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			SO4i5J/Sq0G1Vyy4NP+S1IvfGx45QFtAxH5wabcSXhQ=
+			</data>
+		</dict>
+		<key>animation-5.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			eNyS1nTqkunTJqVJvTngWSZJ3twAIUbKTHiPESA2mFU=
 			</data>
 		</dict>
 		<key>source_sans_pro_bold.otf</key>
