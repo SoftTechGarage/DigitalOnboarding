@@ -3,7 +3,7 @@
     <device id="retina6_12" orientation="portrait" appearance="light"/>
     <dependencies>
         <deployment identifier="iOS"/>
-        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="22685"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="22684"/>
         <capability name="Safe area layout guides" minToolsVersion="9.0"/>
         <capability name="System colors in document resources" minToolsVersion="11.0"/>
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
@@ -17,6 +17,24 @@
                         <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="fOD-kr-MOv">
+                                <rect key="frame" x="145" y="443" width="103" height="35"/>
+                                <state key="normal" title="Button"/>
+                                <buttonConfiguration key="configuration" style="plain" title="Open SDK"/>
+                                <connections>
+                                    <action selector="openOnboarding:" destination="BYZ-38-t0r" eventType="touchUpInside" id="6jj-W9-e0V"/>
+                                </connections>
+                            </button>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="mwg-dQ-IkD">
+                                <rect key="frame" x="10" y="335" width="373" height="100"/>
+                                <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="100" id="iOb-lY-eGR"/>
+                                </constraints>
+                                <color key="textColor" systemColor="labelColor"/>
+                                <fontDescription key="fontDescription" name=".AppleSystemUIFont" family=".AppleSystemUIFont" pointSize="14"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Zyx-re-00r">
                                 <rect key="frame" x="0.0" y="648" width="393" height="150"/>
                                 <subviews>
@@ -42,11 +60,18 @@
                         <constraints>
                             <constraint firstItem="Zyx-re-00r" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="6Y2-GW-kdU"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="Zyx-re-00r" secondAttribute="bottom" constant="20" id="BOZ-Of-TYQ"/>
+                            <constraint firstItem="fOD-kr-MOv" firstAttribute="top" secondItem="mwg-dQ-IkD" secondAttribute="bottom" constant="8" symbolic="YES" id="KKk-Ah-TcT"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="Zyx-re-00r" secondAttribute="trailing" id="LKD-TJ-AZk"/>
+                            <constraint firstItem="mwg-dQ-IkD" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="10" id="gnv-KB-ZQX"/>
+                            <constraint firstItem="fOD-kr-MOv" firstAttribute="centerY" secondItem="6Tk-OE-BBY" secondAttribute="centerY" id="hYp-Pp-czp"/>
+                            <constraint firstItem="mwg-dQ-IkD" firstAttribute="centerX" secondItem="fOD-kr-MOv" secondAttribute="centerX" id="iYl-Zx-85a"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="mwg-dQ-IkD" secondAttribute="trailing" constant="10" id="lci-zS-l2k"/>
+                            <constraint firstItem="fOD-kr-MOv" firstAttribute="centerX" secondItem="6Tk-OE-BBY" secondAttribute="centerX" id="vYx-a1-3Lj"/>
                         </constraints>
                     </view>
                     <navigationItem key="navigationItem" id="QXX-cc-5n7"/>
                     <connections>
+                        <outlet property="deeplinkTextField" destination="mwg-dQ-IkD" id="32B-Ys-H7g"/>
                         <outlet property="label" destination="uBD-tX-MhB" id="LuU-P8-aWG"/>
                     </connections>
                 </viewController>
@@ -74,6 +99,9 @@
         </scene>
     </scenes>
     <resources>
+        <systemColor name="labelColor">
+            <color white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
         <systemColor name="systemBackgroundColor">
             <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
         </systemColor>
