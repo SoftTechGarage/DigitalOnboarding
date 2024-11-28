@@ -208,6 +208,16 @@
       },
       {
         "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "onboarding",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
         "name": "UIKit",
         "printedName": "UIKit",
         "declKind": "Import",
@@ -272,6 +282,13 @@
         "declAttributes": [
           "RawDocComment"
         ]
+      },
+      {
+        "kind": "Import",
+        "name": "NFCReaderApple",
+        "printedName": "NFCReaderApple",
+        "declKind": "Import",
+        "moduleName": "onboarding"
       },
       {
         "kind": "Import",
@@ -736,13 +753,6 @@
         "name": "UIKit",
         "printedName": "UIKit",
         "declKind": "Import",
-        "moduleName": "onboarding"
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
         "moduleName": "onboarding",
         "declAttributes": [
           "RawDocComment"
@@ -772,12 +782,183 @@
         "kind": "TypeDecl",
         "name": "ThemeManager",
         "printedName": "ThemeManager",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "shared",
+            "printedName": "shared",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "ThemeManager",
+                "printedName": "onboarding.ThemeManager",
+                "usr": "s:10onboarding12ThemeManagerC"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:10onboarding12ThemeManagerC6sharedACvpZ",
+            "mangledName": "$s10onboarding12ThemeManagerC6sharedACvpZ",
+            "moduleName": "onboarding",
+            "static": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ThemeManager",
+                    "printedName": "onboarding.ThemeManager",
+                    "usr": "s:10onboarding12ThemeManagerC"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10onboarding12ThemeManagerC6sharedACvgZ",
+                "mangledName": "$s10onboarding12ThemeManagerC6sharedACvgZ",
+                "moduleName": "onboarding",
+                "static": true,
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ThemeManager",
+                    "printedName": "onboarding.ThemeManager",
+                    "usr": "s:10onboarding12ThemeManagerC"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10onboarding12ThemeManagerC6sharedACvsZ",
+                "mangledName": "$s10onboarding12ThemeManagerC6sharedACvsZ",
+                "moduleName": "onboarding",
+                "static": true,
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10onboarding12ThemeManagerC6sharedACvMZ",
+                "mangledName": "$s10onboarding12ThemeManagerC6sharedACvMZ",
+                "moduleName": "onboarding",
+                "static": true,
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "setStyle",
+            "printedName": "setStyle(style:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIUserInterfaceStyle",
+                "printedName": "UIKit.UIUserInterfaceStyle",
+                "usr": "c:@E@UIUserInterfaceStyle"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:10onboarding12ThemeManagerC8setStyle5styleySo015UIUserInterfaceE0V_tF",
+            "mangledName": "$s10onboarding12ThemeManagerC8setStyle5styleySo015UIUserInterfaceE0V_tF",
+            "moduleName": "onboarding",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "getStyle",
+            "printedName": "getStyle()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UIUserInterfaceStyle",
+                "printedName": "UIKit.UIUserInterfaceStyle",
+                "usr": "c:@E@UIUserInterfaceStyle"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:10onboarding12ThemeManagerC8getStyleSo015UIUserInterfaceE0VyF",
+            "mangledName": "$s10onboarding12ThemeManagerC8getStyleSo015UIUserInterfaceE0VyF",
+            "moduleName": "onboarding",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "isLightMode",
+            "printedName": "isLightMode()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:10onboarding12ThemeManagerC11isLightModeSbyF",
+            "mangledName": "$s10onboarding12ThemeManagerC11isLightModeSbyF",
+            "moduleName": "onboarding",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
         "declKind": "Class",
         "usr": "s:10onboarding12ThemeManagerC",
         "mangledName": "$s10onboarding12ThemeManagerC",
         "moduleName": "onboarding",
         "declAttributes": [
-          "AccessControl"
+          "AccessControl",
+          "RawDocComment"
         ],
         "hasMissingDesignatedInitializers": true
       },
@@ -1204,6 +1385,13 @@
         "declAttributes": [
           "RawDocComment"
         ]
+      },
+      {
+        "kind": "Import",
+        "name": "NFCReaderApple",
+        "printedName": "NFCReaderApple",
+        "declKind": "Import",
+        "moduleName": "onboarding"
       },
       {
         "kind": "Import",
@@ -6027,14 +6215,14 @@
     {
       "filePath": "\/Users\/hakanyildizay\/Documents\/Projects\/Onboarding\/SDK\/onboarding\/screen\/StartPageViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 323,
+      "offset": 345,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/hakanyildizay\/Documents\/Projects\/Onboarding\/SDK\/onboarding\/screen\/BaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 2202,
+      "offset": 2183,
       "length": 5,
       "value": "false"
     },
@@ -6172,149 +6360,142 @@
       "value": "false"
     },
     {
-      "filePath": "\/Users\/hakanyildizay\/Documents\/Projects\/Onboarding\/SDK\/onboarding\/util\/ThemeManager.swift",
-      "kind": "BooleanLiteral",
-      "offset": 246,
-      "length": 4,
-      "value": "true"
-    },
-    {
       "filePath": "\/Users\/hakanyildizay\/Documents\/Projects\/Onboarding\/SDK\/onboarding\/screen\/InfoPageOnboarding\/ContentViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 576,
+      "offset": 625,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/hakanyildizay\/Documents\/Projects\/Onboarding\/SDK\/onboarding\/screen\/InfoPageOnboarding\/ContentViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 606,
+      "offset": 655,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/hakanyildizay\/Documents\/Projects\/Onboarding\/SDK\/onboarding\/screen\/InfoPageOnboarding\/ContentViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 775,
+      "offset": 824,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/hakanyildizay\/Documents\/Projects\/Onboarding\/SDK\/onboarding\/screen\/InfoPageOnboarding\/ContentViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 1187,
+      "offset": 1236,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/hakanyildizay\/Documents\/Projects\/Onboarding\/SDK\/onboarding\/screen\/InfoPageOnboarding\/ContentViewController.swift",
       "kind": "StringLiteral",
-      "offset": 1556,
+      "offset": 1605,
       "length": 17,
       "value": "\"NunitoSans-Bold\""
     },
     {
       "filePath": "\/Users\/hakanyildizay\/Documents\/Projects\/Onboarding\/SDK\/onboarding\/screen\/InfoPageOnboarding\/ContentViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 1581,
+      "offset": 1630,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/hakanyildizay\/Documents\/Projects\/Onboarding\/SDK\/onboarding\/screen\/InfoPageOnboarding\/ContentViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 1691,
+      "offset": 1740,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/hakanyildizay\/Documents\/Projects\/Onboarding\/SDK\/onboarding\/screen\/InfoPageOnboarding\/ContentViewController.swift",
       "kind": "StringLiteral",
-      "offset": 1751,
+      "offset": 1800,
       "length": 9,
       "value": "\"#0D47A1\""
     },
     {
       "filePath": "\/Users\/hakanyildizay\/Documents\/Projects\/Onboarding\/SDK\/onboarding\/screen\/InfoPageOnboarding\/ContentViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 1897,
+      "offset": 1946,
       "length": 4,
       "value": "1.25"
     },
     {
       "filePath": "\/Users\/hakanyildizay\/Documents\/Projects\/Onboarding\/SDK\/onboarding\/screen\/InfoPageOnboarding\/ContentViewController.swift",
       "kind": "StringLiteral",
-      "offset": 2009,
+      "offset": 2058,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/hakanyildizay\/Documents\/Projects\/Onboarding\/SDK\/onboarding\/screen\/InfoPageOnboarding\/ContentViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 2065,
+      "offset": 2114,
       "length": 3,
       "value": "0.4"
     },
     {
       "filePath": "\/Users\/hakanyildizay\/Documents\/Projects\/Onboarding\/SDK\/onboarding\/screen\/InfoPageOnboarding\/ContentViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2095,
+      "offset": 2144,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/hakanyildizay\/Documents\/Projects\/Onboarding\/SDK\/onboarding\/screen\/InfoPageOnboarding\/ContentViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2235,
+      "offset": 2284,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/hakanyildizay\/Documents\/Projects\/Onboarding\/SDK\/onboarding\/screen\/InfoPageOnboarding\/ContentViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 2535,
+      "offset": 2584,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/hakanyildizay\/Documents\/Projects\/Onboarding\/SDK\/onboarding\/screen\/InfoPageOnboarding\/ContentViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2693,
+      "offset": 2742,
       "length": 2,
       "value": "14"
     },
     {
       "filePath": "\/Users\/hakanyildizay\/Documents\/Projects\/Onboarding\/SDK\/onboarding\/screen\/InfoPageOnboarding\/ContentViewController.swift",
       "kind": "StringLiteral",
-      "offset": 2729,
+      "offset": 2778,
       "length": 13,
       "value": "\"Nunito Sans\""
     },
     {
       "filePath": "\/Users\/hakanyildizay\/Documents\/Projects\/Onboarding\/SDK\/onboarding\/screen\/InfoPageOnboarding\/ContentViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2750,
+      "offset": 2799,
       "length": 2,
       "value": "14"
     },
     {
       "filePath": "\/Users\/hakanyildizay\/Documents\/Projects\/Onboarding\/SDK\/onboarding\/screen\/InfoPageOnboarding\/ContentViewController.swift",
       "kind": "StringLiteral",
-      "offset": 2796,
+      "offset": 2845,
       "length": 9,
       "value": "\"#616161\""
     },
     {
       "filePath": "\/Users\/hakanyildizay\/Documents\/Projects\/Onboarding\/SDK\/onboarding\/screen\/InfoPageOnboarding\/ContentViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 2864,
+      "offset": 2913,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/hakanyildizay\/Documents\/Projects\/Onboarding\/SDK\/onboarding\/screen\/InfoPageOnboarding\/ContentViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2934,
+      "offset": 2983,
       "length": 1,
       "value": "0"
     },
@@ -6384,133 +6565,133 @@
     {
       "filePath": "\/Users\/hakanyildizay\/Documents\/Projects\/Onboarding\/SDK\/onboarding\/screen\/FaceDetectionPageViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 2035,
+      "offset": 2084,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/hakanyildizay\/Documents\/Projects\/Onboarding\/SDK\/onboarding\/screen\/FaceDetectionPageViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2065,
+      "offset": 2114,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/hakanyildizay\/Documents\/Projects\/Onboarding\/SDK\/onboarding\/screen\/FaceDetectionPageViewController.swift",
       "kind": "StringLiteral",
-      "offset": 2206,
+      "offset": 2255,
       "length": 13,
       "value": "\"animation-3\""
     },
     {
       "filePath": "\/Users\/hakanyildizay\/Documents\/Projects\/Onboarding\/SDK\/onboarding\/screen\/FaceDetectionPageViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 2287,
+      "offset": 2336,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/hakanyildizay\/Documents\/Projects\/Onboarding\/SDK\/onboarding\/screen\/FaceDetectionPageViewController.swift",
       "kind": "StringLiteral",
-      "offset": 2610,
+      "offset": 2659,
       "length": 17,
       "value": "\"NunitoSans-Bold\""
     },
     {
       "filePath": "\/Users\/hakanyildizay\/Documents\/Projects\/Onboarding\/SDK\/onboarding\/screen\/FaceDetectionPageViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2635,
+      "offset": 2684,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/hakanyildizay\/Documents\/Projects\/Onboarding\/SDK\/onboarding\/screen\/FaceDetectionPageViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2745,
+      "offset": 2794,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/hakanyildizay\/Documents\/Projects\/Onboarding\/SDK\/onboarding\/screen\/FaceDetectionPageViewController.swift",
       "kind": "StringLiteral",
-      "offset": 2778,
+      "offset": 2827,
       "length": 20,
       "value": "\"Lütfen Bekleyiniz\""
     },
     {
       "filePath": "\/Users\/hakanyildizay\/Documents\/Projects\/Onboarding\/SDK\/onboarding\/screen\/FaceDetectionPageViewController.swift",
       "kind": "StringLiteral",
-      "offset": 2836,
+      "offset": 2885,
       "length": 9,
       "value": "\"#0D47A1\""
     },
     {
       "filePath": "\/Users\/hakanyildizay\/Documents\/Projects\/Onboarding\/SDK\/onboarding\/screen\/FaceDetectionPageViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 2939,
+      "offset": 2988,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/hakanyildizay\/Documents\/Projects\/Onboarding\/SDK\/onboarding\/screen\/FaceDetectionPageViewController.swift",
       "kind": "StringLiteral",
-      "offset": 3062,
+      "offset": 3111,
       "length": 129,
       "value": "\"Yüz tanıma süreciniz başlatılacaktır. Son olarak sizi tanıyabilmemiz için lütfen fotoğraf çekilene kadar bekleyiniz.\""
     },
     {
       "filePath": "\/Users\/hakanyildizay\/Documents\/Projects\/Onboarding\/SDK\/onboarding\/screen\/FaceDetectionPageViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 3237,
+      "offset": 3286,
       "length": 2,
       "value": "14"
     },
     {
       "filePath": "\/Users\/hakanyildizay\/Documents\/Projects\/Onboarding\/SDK\/onboarding\/screen\/FaceDetectionPageViewController.swift",
       "kind": "StringLiteral",
-      "offset": 3273,
+      "offset": 3322,
       "length": 13,
       "value": "\"Nunito Sans\""
     },
     {
       "filePath": "\/Users\/hakanyildizay\/Documents\/Projects\/Onboarding\/SDK\/onboarding\/screen\/FaceDetectionPageViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 3294,
+      "offset": 3343,
       "length": 2,
       "value": "14"
     },
     {
       "filePath": "\/Users\/hakanyildizay\/Documents\/Projects\/Onboarding\/SDK\/onboarding\/screen\/FaceDetectionPageViewController.swift",
       "kind": "StringLiteral",
-      "offset": 3340,
+      "offset": 3389,
       "length": 9,
       "value": "\"#616161\""
     },
     {
       "filePath": "\/Users\/hakanyildizay\/Documents\/Projects\/Onboarding\/SDK\/onboarding\/screen\/FaceDetectionPageViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 3408,
+      "offset": 3457,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/hakanyildizay\/Documents\/Projects\/Onboarding\/SDK\/onboarding\/screen\/FaceDetectionPageViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 3478,
+      "offset": 3527,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/hakanyildizay\/Documents\/Projects\/Onboarding\/SDK\/onboarding\/screen\/FaceDetectionPageViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 24189,
+      "offset": 24128,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/hakanyildizay\/Documents\/Projects\/Onboarding\/SDK\/onboarding\/screen\/FaceDetectionPageViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 24596,
+      "offset": 24535,
       "length": 4,
       "value": "true"
     },
@@ -7266,35 +7447,35 @@
     {
       "filePath": "\/Users\/hakanyildizay\/Documents\/Projects\/Onboarding\/SDK\/onboarding\/screen\/ConfirmationPageViewController.swift",
       "kind": "Array",
-      "offset": 620,
+      "offset": 642,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/hakanyildizay\/Documents\/Projects\/Onboarding\/SDK\/onboarding\/screen\/ConfirmationPageViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 656,
+      "offset": 678,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/hakanyildizay\/Documents\/Projects\/Onboarding\/SDK\/onboarding\/screen\/ConfirmationPageViewController.swift",
       "kind": "Array",
-      "offset": 683,
+      "offset": 705,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/hakanyildizay\/Documents\/Projects\/Onboarding\/SDK\/onboarding\/screen\/ConfirmationPageViewController.swift",
       "kind": "StringLiteral",
-      "offset": 734,
+      "offset": 805,
       "length": 18,
       "value": "\"ConfirmationPage\""
     },
     {
       "filePath": "\/Users\/hakanyildizay\/Documents\/Projects\/Onboarding\/SDK\/onboarding\/screen\/QuestionnairePageViewController.swift",
       "kind": "Array",
-      "offset": 792,
+      "offset": 840,
       "length": 2,
       "value": "[]"
     },
@@ -7714,7 +7895,7 @@
     {
       "filePath": "\/Users\/hakanyildizay\/Documents\/Projects\/Onboarding\/SDK\/onboarding\/ui\/OnboardingQuestionnaireRadio.swift",
       "kind": "IntegerLiteral",
-      "offset": 1603,
+      "offset": 1580,
       "length": 2,
       "value": "-1"
     },
@@ -7728,7 +7909,7 @@
     {
       "filePath": "\/Users\/hakanyildizay\/Documents\/Projects\/Onboarding\/SDK\/onboarding\/ui\/OnboardingFormRadio.swift",
       "kind": "IntegerLiteral",
-      "offset": 2699,
+      "offset": 2675,
       "length": 2,
       "value": "-1"
     },
@@ -7917,7 +8098,7 @@
     {
       "filePath": "\/Users\/hakanyildizay\/Documents\/Projects\/Onboarding\/SDK\/onboarding\/screen\/NfcPageViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 16421,
+      "offset": 16398,
       "length": 5,
       "value": "false"
     },
@@ -7938,7 +8119,7 @@
     {
       "filePath": "\/Users\/hakanyildizay\/Documents\/Projects\/Onboarding\/SDK\/onboarding\/dialog\/OnboardingBottomSheetDialogItem.swift",
       "kind": "BooleanLiteral",
-      "offset": 2755,
+      "offset": 2701,
       "length": 5,
       "value": "false"
     },
@@ -7994,35 +8175,35 @@
     {
       "filePath": "\/Users\/hakanyildizay\/Documents\/Projects\/Onboarding\/SDK\/onboarding\/screen\/CalendarPageViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 16119,
+      "offset": 15813,
       "length": 4,
       "value": "0.15"
     },
     {
       "filePath": "\/Users\/hakanyildizay\/Documents\/Projects\/Onboarding\/SDK\/onboarding\/screen\/CalendarPageViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 16146,
+      "offset": 15840,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/hakanyildizay\/Documents\/Projects\/Onboarding\/SDK\/onboarding\/screen\/CalendarPageViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 16170,
+      "offset": 15864,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/hakanyildizay\/Documents\/Projects\/Onboarding\/SDK\/onboarding\/screen\/CalendarPageViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 16197,
+      "offset": 15891,
       "length": 5,
       "value": "16.18"
     },
     {
       "filePath": "\/Users\/hakanyildizay\/Documents\/Projects\/Onboarding\/SDK\/onboarding\/screen\/CalendarPageViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 16230,
+      "offset": 15924,
       "length": 1,
       "value": "0"
     },
@@ -8071,49 +8252,49 @@
     {
       "filePath": "\/Users\/hakanyildizay\/Documents\/Projects\/Onboarding\/SDK\/onboarding\/ui\/OnboardingLoader.swift",
       "kind": "FloatLiteral",
-      "offset": 1942,
+      "offset": 1932,
       "length": 3,
       "value": "1.7"
     },
     {
       "filePath": "\/Users\/hakanyildizay\/Documents\/Projects\/Onboarding\/SDK\/onboarding\/ui\/OnboardingLoader.swift",
       "kind": "IntegerLiteral",
-      "offset": 1972,
+      "offset": 1962,
       "length": 2,
       "value": "80"
     },
     {
       "filePath": "\/Users\/hakanyildizay\/Documents\/Projects\/Onboarding\/SDK\/onboarding\/ui\/OnboardingLoader.swift",
       "kind": "IntegerLiteral",
-      "offset": 2016,
+      "offset": 2006,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/hakanyildizay\/Documents\/Projects\/Onboarding\/SDK\/onboarding\/ui\/OnboardingLoader.swift",
       "kind": "FloatLiteral",
-      "offset": 2390,
+      "offset": 2380,
       "length": 3,
       "value": "2.0"
     },
     {
       "filePath": "\/Users\/hakanyildizay\/Documents\/Projects\/Onboarding\/SDK\/onboarding\/ui\/OnboardingLoader.swift",
       "kind": "FloatLiteral",
-      "offset": 2414,
+      "offset": 2404,
       "length": 3,
       "value": "2.0"
     },
     {
       "filePath": "\/Users\/hakanyildizay\/Documents\/Projects\/Onboarding\/SDK\/onboarding\/ui\/OnboardingLoader.swift",
       "kind": "IntegerLiteral",
-      "offset": 2240,
+      "offset": 2230,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/hakanyildizay\/Documents\/Projects\/Onboarding\/SDK\/onboarding\/ui\/OnboardingLoader.swift",
       "kind": "IntegerLiteral",
-      "offset": 4599,
+      "offset": 4589,
       "length": 1,
       "value": "0"
     },
@@ -8204,7 +8385,7 @@
     {
       "filePath": "\/Users\/hakanyildizay\/Documents\/Projects\/Onboarding\/SDK\/onboarding\/ui\/MaximumPageControl.swift",
       "kind": "BooleanLiteral",
-      "offset": 3820,
+      "offset": 4074,
       "length": 5,
       "value": "false"
     },
@@ -8372,14 +8553,14 @@
     {
       "filePath": "\/Users\/hakanyildizay\/Documents\/Projects\/Onboarding\/SDK\/onboarding\/screen\/WaitingPageViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 2016,
+      "offset": 2001,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/hakanyildizay\/Documents\/Projects\/Onboarding\/SDK\/onboarding\/screen\/WaitingPageViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 3726,
+      "offset": 3711,
       "length": 5,
       "value": "false"
     },
