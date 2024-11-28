@@ -42,7 +42,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		N0yGvdI8V8up5CmqaPyuzF93roo=
+		WlPTZIfshdCb5I+q47u/9vsPIMs=
 		</data>
 		<key>InfographicPageViewController.nib</key>
 		<data>
@@ -62,7 +62,7 @@
 		</data>
 		<key>Modules/onboarding.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		btfF0xa6e1YE+m5S/xoT2m/UElM=
+		SWjiEboq06uyLD7oM61aYubFcUk=
 		</data>
 		<key>Modules/onboarding.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -78,11 +78,11 @@
 		</data>
 		<key>Modules/onboarding.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		+FZV6Da/ZS+iT3UlpJmZv35Yw+c=
+		A96rr1FAdzeZs6c1xHa6i8CDzBI=
 		</data>
 		<key>Modules/onboarding.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		btfF0xa6e1YE+m5S/xoT2m/UElM=
+		SWjiEboq06uyLD7oM61aYubFcUk=
 		</data>
 		<key>Modules/onboarding.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -98,7 +98,7 @@
 		</data>
 		<key>Modules/onboarding.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		i2RrpUHEP1XVY9i4DWAKeGnHCvA=
+		y53pw+fakF2e+LT1B/6wFvQEMNs=
 		</data>
 		<key>NfcPageViewController.nib</key>
 		<data>
@@ -382,7 +382,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			BUMuOaUiDPMG0+zUqrGtitO0Ymjqc5Wz9Axmiynoz6s=
+			rcOUQRbs+4kt8MifVv0A1gIGwOXZJ2C2dCijKZ1usVg=
 			</data>
 		</dict>
 		<key>Modules/onboarding.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -410,14 +410,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Pp4uibKcihDmmDLQDGTaF8J8mraCT5WQ2F1DcOPiISQ=
+			1AvmDR8qqJ1pp433TixJ2niCiJ/DgkvniwuDLml6DCI=
 			</data>
 		</dict>
 		<key>Modules/onboarding.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			BUMuOaUiDPMG0+zUqrGtitO0Ymjqc5Wz9Axmiynoz6s=
+			rcOUQRbs+4kt8MifVv0A1gIGwOXZJ2C2dCijKZ1usVg=
 			</data>
 		</dict>
 		<key>Modules/onboarding.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -445,7 +445,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3OLTqwSDPhWdqNBeRPVtUrqbcpW+lI8Amv/uDZUGq/g=
+			KVvPNi+2hm47U1aUYk3PqzpcEzqfYTgGTOaRAyWsIKg=
 			</data>
 		</dict>
 		<key>NfcPageViewController.nib</key>
