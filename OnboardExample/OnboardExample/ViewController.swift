@@ -9,7 +9,6 @@ import onboarding
 import NFCReaderApple
 class ViewController: UIViewController, OnboardingDelegate {
     
-
     @IBOutlet weak var deeplinkTextField: UITextView!
     @IBOutlet private weak var label: UILabel!
     
