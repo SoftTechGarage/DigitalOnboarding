@@ -43,7 +43,7 @@
                                     </label>
                                 </subviews>
                             </stackView>
-                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" text="Deeplink Test" translatesAutoresizingMaskIntoConstraints="NO" id="mwg-dQ-IkD">
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="mwg-dQ-IkD">
                                 <rect key="frame" x="10" y="335.33333333333331" width="373" height="100"/>
                                 <color key="backgroundColor" systemColor="systemGrayColor"/>
                                 <constraints>
@@ -72,10 +72,17 @@
                                     <constraint firstItem="uBD-tX-MhB" firstAttribute="top" secondItem="Zyx-re-00r" secondAttribute="top" id="g3C-hp-2eh"/>
                                 </constraints>
                             </view>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Deeplink Test" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="JbL-7K-sbh">
+                                <rect key="frame" x="16" y="310" width="103" height="20.333333333333314"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                         <constraints>
+                            <constraint firstItem="mwg-dQ-IkD" firstAttribute="top" secondItem="JbL-7K-sbh" secondAttribute="bottom" constant="5" id="4t3-Tx-Nrs"/>
                             <constraint firstItem="Zyx-re-00r" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="6Y2-GW-kdU"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="Zyx-re-00r" secondAttribute="bottom" constant="20" id="BOZ-Of-TYQ"/>
                             <constraint firstItem="fOD-kr-MOv" firstAttribute="top" secondItem="mwg-dQ-IkD" secondAttribute="bottom" constant="8" symbolic="YES" id="KKk-Ah-TcT"/>
@@ -86,6 +93,7 @@
                             <constraint firstItem="mwg-dQ-IkD" firstAttribute="centerX" secondItem="fOD-kr-MOv" secondAttribute="centerX" id="iYl-Zx-85a"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="mwg-dQ-IkD" secondAttribute="trailing" constant="10" id="lci-zS-l2k"/>
                             <constraint firstItem="AEJ-iP-0og" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="10" id="rC6-9R-i0Y"/>
+                            <constraint firstItem="JbL-7K-sbh" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="16" id="v4d-LQ-kms"/>
                             <constraint firstItem="fOD-kr-MOv" firstAttribute="centerX" secondItem="6Tk-OE-BBY" secondAttribute="centerX" id="vYx-a1-3Lj"/>
                         </constraints>
                     </view>
