@@ -3070,6 +3070,29 @@
             "funcSelfKind": "NonMutating"
           },
           {
+            "kind": "Function",
+            "name": "isNFCSupported",
+            "printedName": "isNFCSupported()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:14NFCReaderApple10CoreReaderC14isNFCSupportedSbyFZ",
+            "mangledName": "$s14NFCReaderApple10CoreReaderC14isNFCSupportedSbyFZ",
+            "moduleName": "NFCReaderApple",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
             "kind": "Var",
             "name": "delegate",
             "printedName": "delegate",

@@ -18,11 +18,11 @@
 		</data>
 		<key>Modules/NFCReaderApple.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		dn40EB988K1Jkcskgi36Wpyc5vs=
+		0Ml4ndVtBgMWKh831odN/KotIGc=
 		</data>
 		<key>Modules/NFCReaderApple.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		SxWPHeYJo0xGUO7MRKMOsDQwWGg=
+		ayJtGkLkOZCSm3d+kFUCLTgOS7c=
 		</data>
 		<key>Modules/NFCReaderApple.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -30,11 +30,11 @@
 		</data>
 		<key>Modules/NFCReaderApple.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		SxWPHeYJo0xGUO7MRKMOsDQwWGg=
+		ayJtGkLkOZCSm3d+kFUCLTgOS7c=
 		</data>
 		<key>Modules/NFCReaderApple.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		qFxl0MwppqZ3r+fg2ao2sMQgCTY=
+		+GmPbl+ptNwO5wjZKwt1YHgNMAU=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -74,7 +74,7 @@
 		</data>
 		<key>Resource.bundle/_CodeSignature/CodeSignature</key>
 		<data>
-		kC6crKjHUC+Xw7TOn2vVikojing=
+		SsywF5/uPtfltKPw1WZMoH53hzM=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -97,14 +97,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			e5iIpQ+jn2NWG5md7SjIwwYqtSeQiKC9U0W6dn4Gdbw=
+			JYADVFQ9ieVzct8e6BZ0B0/4YaehWsVlG3zew974nZA=
 			</data>
 		</dict>
 		<key>Modules/NFCReaderApple.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			5NgUGmGiWyNY2XN2m1GGOJ3PkMmxdbip11HaoDF0GAc=
+			hMSash9bdZcgS+4x3a9UfbACgvkNhCxS93ca8kcJuNc=
 			</data>
 		</dict>
 		<key>Modules/NFCReaderApple.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -118,14 +118,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			5NgUGmGiWyNY2XN2m1GGOJ3PkMmxdbip11HaoDF0GAc=
+			hMSash9bdZcgS+4x3a9UfbACgvkNhCxS93ca8kcJuNc=
 			</data>
 		</dict>
 		<key>Modules/NFCReaderApple.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			gLPKuO484Lb2NshYMNvNHSofGRDh6qe2iHSDa6fT4iM=
+			l13cmFXUfDn1WH/+CGC27cUXuzYbaLJgtxdcrc8GbE8=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -195,7 +195,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			IJ7zucuUfk7VMwFv2n+4GbFdPvzMTYgGPvgu3cXNDu0=
+			3iGIymP5GmfIT2g5B6PYt4HDe+sFDTwn1l4YdHK2q/Y=
 			</data>
 		</dict>
 	</dict>

@@ -35,6 +35,10 @@ public protocol OnboardingBottomSheetDialogDelegate {
   @objc deinit
 }
 @_hasMissingDesignatedInitializers public class ThemeManager {
+  public static var shared: onboarding.ThemeManager
+  public func setStyle(style: UIKit.UIUserInterfaceStyle)
+  public func getStyle() -> UIKit.UIUserInterfaceStyle
+  public func isLightMode() -> Swift.Bool
   @objc deinit
 }
 public class OnboardingTheme {
