@@ -18,16 +18,34 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="fOD-kr-MOv">
-                                <rect key="frame" x="145" y="443" width="103" height="35"/>
+                                <rect key="frame" x="145" y="443.33333333333331" width="103" height="34.333333333333314"/>
+                                <color key="backgroundColor" systemColor="systemGrayColor"/>
                                 <state key="normal" title="Button"/>
                                 <buttonConfiguration key="configuration" style="plain" title="Open SDK"/>
                                 <connections>
                                     <action selector="openOnboarding:" destination="BYZ-38-t0r" eventType="touchUpInside" id="6jj-W9-e0V"/>
                                 </connections>
                             </button>
-                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="mwg-dQ-IkD">
-                                <rect key="frame" x="10" y="335" width="373" height="100"/>
-                                <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                            <stackView opaque="NO" contentMode="scaleToFill" spacing="34" translatesAutoresizingMaskIntoConstraints="NO" id="AEJ-iP-0og">
+                                <rect key="frame" x="10" y="254.33333333333337" width="166.66666666666666" height="31"/>
+                                <subviews>
+                                    <switch opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="Hme-ku-2Uq">
+                                        <rect key="frame" x="0.0" y="0.0" width="51" height="31"/>
+                                        <connections>
+                                            <action selector="switchChange:" destination="BYZ-38-t0r" eventType="valueChanged" id="kFq-xq-e8Q"/>
+                                        </connections>
+                                    </switch>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Dark Mode" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="FRh-kD-thZ">
+                                        <rect key="frame" x="83" y="0.0" width="83.666666666666686" height="31"/>
+                                        <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                        <color key="textColor" systemColor="linkColor"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                </subviews>
+                            </stackView>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" text="Deeplink Test" translatesAutoresizingMaskIntoConstraints="NO" id="mwg-dQ-IkD">
+                                <rect key="frame" x="10" y="335.33333333333331" width="373" height="100"/>
+                                <color key="backgroundColor" systemColor="systemGrayColor"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="100" id="iOb-lY-eGR"/>
                                 </constraints>
@@ -62,10 +80,12 @@
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="Zyx-re-00r" secondAttribute="bottom" constant="20" id="BOZ-Of-TYQ"/>
                             <constraint firstItem="fOD-kr-MOv" firstAttribute="top" secondItem="mwg-dQ-IkD" secondAttribute="bottom" constant="8" symbolic="YES" id="KKk-Ah-TcT"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="Zyx-re-00r" secondAttribute="trailing" id="LKD-TJ-AZk"/>
+                            <constraint firstItem="mwg-dQ-IkD" firstAttribute="top" secondItem="AEJ-iP-0og" secondAttribute="bottom" constant="50" id="b1w-ft-TUd"/>
                             <constraint firstItem="mwg-dQ-IkD" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="10" id="gnv-KB-ZQX"/>
                             <constraint firstItem="fOD-kr-MOv" firstAttribute="centerY" secondItem="6Tk-OE-BBY" secondAttribute="centerY" id="hYp-Pp-czp"/>
                             <constraint firstItem="mwg-dQ-IkD" firstAttribute="centerX" secondItem="fOD-kr-MOv" secondAttribute="centerX" id="iYl-Zx-85a"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="mwg-dQ-IkD" secondAttribute="trailing" constant="10" id="lci-zS-l2k"/>
+                            <constraint firstItem="AEJ-iP-0og" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="10" id="rC6-9R-i0Y"/>
                             <constraint firstItem="fOD-kr-MOv" firstAttribute="centerX" secondItem="6Tk-OE-BBY" secondAttribute="centerX" id="vYx-a1-3Lj"/>
                         </constraints>
                     </view>
@@ -73,6 +93,8 @@
                     <connections>
                         <outlet property="deeplinkTextField" destination="mwg-dQ-IkD" id="32B-Ys-H7g"/>
                         <outlet property="label" destination="uBD-tX-MhB" id="LuU-P8-aWG"/>
+                        <outlet property="modeInfoLabel" destination="FRh-kD-thZ" id="6ud-VD-sRD"/>
+                        <outlet property="switchToggle" destination="Hme-ku-2Uq" id="UBj-hr-rEf"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
@@ -102,8 +124,14 @@
         <systemColor name="labelColor">
             <color white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
         </systemColor>
+        <systemColor name="linkColor">
+            <color red="0.0" green="0.47843137250000001" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </systemColor>
         <systemColor name="systemBackgroundColor">
             <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+        <systemColor name="systemGrayColor">
+            <color red="0.5568627451" green="0.5568627451" blue="0.57647058819999997" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
         </systemColor>
     </resources>
 </document>

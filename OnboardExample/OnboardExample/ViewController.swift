@@ -13,11 +13,22 @@ class ViewController: UIViewController, OnboardingDelegate {
     @IBOutlet weak var deeplinkTextField: UITextView!
     @IBOutlet private weak var label: UILabel!
     
+    @IBOutlet private weak var switchToggle: UISwitch!
+    
+    @IBOutlet private weak var modeInfoLabel: UILabel!
     override func viewDidLoad() {
         super.viewDidLoad()
         label.text = "Version \(CoreReader.getSDKVersion())"
         label.textColor = .red
         Onboarding.delegate = self
+        navigationController?.isNavigationBarHidden = true
+        if  ThemeManager.shared.getStyle() == .dark {
+            switchToggle.isOn = true
+            modeInfoLabel.text = "Dark Mode"
+        } else {
+            switchToggle.isOn = false
+            modeInfoLabel.text = "Light Mode"
+        }
         
     }
 
@@ -52,10 +63,13 @@ class ViewController: UIViewController, OnboardingDelegate {
                 .start()
         }
         
-        
-        
-        
     }
+    
+    @IBAction func switchChange(_ sender: Any) {
+        ThemeManager.shared.setStyle(style: switchToggle.isOn ? .dark : .light)
+        modeInfoLabel.text = switchToggle.isOn ? "Dark Mode" : "Light Mode"
+    }
+    
         
     func onOnboardingResult(resultCode: onboarding.OnboardingResult, code: String, message: String, processId: String) {
         
