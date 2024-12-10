@@ -78,6 +78,13 @@ class ViewController: UIViewController, OnboardingDelegate {
     
     //Start sdk
     func startOnboarding() {
+
+	// Get current mode (.dark or .light)
+	// ThemeManager.shared.getStyle()
+
+	// Set the current style to dark mode
+	ThemeManager.shared.setStyle(style: .dark) 
+
         Onboarding(vc:self.navigationController)
             .setLanguage(language: "tr")
             .setEndpoint(endPoint: "http://YOUR_ENDPOINT")
