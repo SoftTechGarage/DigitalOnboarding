@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		hXpl6H6oe0W/MHBl6gnGHIiL+ng=
+		oSeGUjSL55WRSflc20HxXG2Xm54=
 		</data>
 		<key>CalendarPageViewController.nib</key>
 		<data>
@@ -32,9 +32,57 @@
 		<data>
 		5FPz4qjbnPeKY/xMARPm/FExVeY=
 		</data>
+		<key>Frameworks/NFCReaderApple.framework/Info.plist</key>
+		<data>
+		zz7eAWrivBbE8nEehEnL1ucmFrc=
+		</data>
+		<key>Frameworks/NFCReaderApple.framework/NFCReaderApple</key>
+		<data>
+		ZrqacV3WFdgfrJGMdZzEaE9Gdv8=
+		</data>
+		<key>Frameworks/NFCReaderApple.framework/Resource.bundle/Assets.car</key>
+		<data>
+		rsC0/TzcFI9J9zQgZsoxsV/xpiI=
+		</data>
+		<key>Frameworks/NFCReaderApple.framework/Resource.bundle/BarcodeDetectionViewController.nib</key>
+		<data>
+		RvXPTZ7M8DkHCs1I+Er2JQvsjOE=
+		</data>
+		<key>Frameworks/NFCReaderApple.framework/Resource.bundle/CardDetectionViewController.nib</key>
+		<data>
+		OY4b6ff0uvgFc7Cq5TWepIQw0rk=
+		</data>
+		<key>Frameworks/NFCReaderApple.framework/Resource.bundle/Info.plist</key>
+		<data>
+		AS2WahpxfCWlZ61IvlLIhOZOfzM=
+		</data>
+		<key>Frameworks/NFCReaderApple.framework/Resource.bundle/_CodeSignature/CodeDirectory</key>
+		<data>
+		b07+c1X2yRzIW7hDbd282ZV08tM=
+		</data>
+		<key>Frameworks/NFCReaderApple.framework/Resource.bundle/_CodeSignature/CodeRequirements</key>
+		<data>
+		OnX22wWFKRSOFN1+obRynMCeyXM=
+		</data>
+		<key>Frameworks/NFCReaderApple.framework/Resource.bundle/_CodeSignature/CodeRequirements-1</key>
+		<data>
+		Zf0g8poarkEK9uyvNLTvy/cXAew=
+		</data>
+		<key>Frameworks/NFCReaderApple.framework/Resource.bundle/_CodeSignature/CodeResources</key>
+		<data>
+		CXJARK/mu8SDqhiXOm8fch1WJiQ=
+		</data>
+		<key>Frameworks/NFCReaderApple.framework/Resource.bundle/_CodeSignature/CodeSignature</key>
+		<data>
+		2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+		</data>
+		<key>Frameworks/NFCReaderApple.framework/_CodeSignature/CodeResources</key>
+		<data>
+		+cn1z88HH9ISQGJRdI6crNhZw88=
+		</data>
 		<key>Headers/onboarding-Swift.h</key>
 		<data>
-		vs6E9Ml3LP2EYZZIANHXLYOwFNM=
+		22dQ2elW0cwNpzwA7RlNW2NA+RI=
 		</data>
 		<key>Headers/onboarding.h</key>
 		<data>
@@ -42,7 +90,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		WlPTZIfshdCb5I+q47u/9vsPIMs=
+		7TDPbpPZLrsvKZNQNzZgdLvATG8=
 		</data>
 		<key>InfographicPageViewController.nib</key>
 		<data>
@@ -62,47 +110,47 @@
 		</data>
 		<key>Modules/onboarding.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		SWjiEboq06uyLD7oM61aYubFcUk=
+		WlicO1n3a0iwWfOTt6MvF516Ne8=
 		</data>
 		<key>Modules/onboarding.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		edIeyubAv+zQSYT48yK0vfo0EJg=
+		aBO7uX/fvX/752QzZtAYbcxMeZE=
 		</data>
 		<key>Modules/onboarding.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		9KW+EDYm7+tZH+GzSXggWng6fQ4=
+		07uj2tFJiVWgNwIdjZKPPipO//8=
 		</data>
 		<key>Modules/onboarding.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		edIeyubAv+zQSYT48yK0vfo0EJg=
+		aBO7uX/fvX/752QzZtAYbcxMeZE=
 		</data>
 		<key>Modules/onboarding.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		A96rr1FAdzeZs6c1xHa6i8CDzBI=
+		VRegR+CWY+HJJZ+QkDKtdmZ1Nss=
 		</data>
 		<key>Modules/onboarding.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		SWjiEboq06uyLD7oM61aYubFcUk=
+		WlicO1n3a0iwWfOTt6MvF516Ne8=
 		</data>
 		<key>Modules/onboarding.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		TE668LfNdzPKOZyBkIYZeL0olBw=
+		GAOvGC+KKjuKVahqbvvHRKGkMk0=
 		</data>
 		<key>Modules/onboarding.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		GJ9xhg+hNUrE7KlaWRx8o2Bgq10=
+		tvKdoMtsVI+MOb2Nmi8Ow+h70Ao=
 		</data>
 		<key>Modules/onboarding.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		TE668LfNdzPKOZyBkIYZeL0olBw=
+		GAOvGC+KKjuKVahqbvvHRKGkMk0=
 		</data>
 		<key>Modules/onboarding.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		y53pw+fakF2e+LT1B/6wFvQEMNs=
+		XO5W/pg8l/rbmEXDZpUMQBNgewE=
 		</data>
 		<key>NfcPageViewController.nib</key>
 		<data>
-		1uzs5/YuqC/+Ws6TOb3J1TKrL24=
+		Kvwx6inGfERZQAkub7M9GOdJJO8=
 		</data>
 		<key>NunitoSans-Bold.ttf</key>
 		<data>
@@ -226,7 +274,7 @@
 		</data>
 		<key>QuestionnairePageViewController.nib/runtime.nib</key>
 		<data>
-		kiigYPO5mhIC0kMU5UwWXiEna3c=
+		Vb8sjWoAmmnBB5MjbSMzpBSTfCs=
 		</data>
 		<key>SmsActivationViewController.nib</key>
 		<data>
@@ -250,7 +298,7 @@
 		</data>
 		<key>WebPageViewController.nib</key>
 		<data>
-		vng7l8Ggg0EA0CJWWViTJm/nEik=
+		1cCYQtK9JqUumFjYdG3+4nDHKVE=
 		</data>
 		<key>WelcomePageViewController.nib</key>
 		<data>
@@ -291,7 +339,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			wRltrflC4ehvH2qN5+veIU5b5EBV4ngU845lGJ88l7k=
+			VWYYAQT+svIEhbUSPhxbc7yu9SvuPkfHBxZCTqLiwuY=
 			</data>
 		</dict>
 		<key>CalendarPageViewController.nib</key>
@@ -336,11 +384,95 @@
 			VpgM/oqgl9uaRIU1va0l28cbzDqq/JwuzmNkpVF3K2w=
 			</data>
 		</dict>
+		<key>Frameworks/NFCReaderApple.framework/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			jvr9uG6xoHhTSECL8xY9l/h5XOPEVXqyqO+LMWRUQEo=
+			</data>
+		</dict>
+		<key>Frameworks/NFCReaderApple.framework/NFCReaderApple</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			f+gzWfeRy3Yln1DUI5oq/0n5EeVJG8C9exo/YdJZoGA=
+			</data>
+		</dict>
+		<key>Frameworks/NFCReaderApple.framework/Resource.bundle/Assets.car</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			c1la4p6BUCcZ0bl30DYFnkrHyz9VPwE6a3Ba/RvlhzI=
+			</data>
+		</dict>
+		<key>Frameworks/NFCReaderApple.framework/Resource.bundle/BarcodeDetectionViewController.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			y8towzNHQ4PH2NFNv33IStqscU6p86DkC092tHq06b8=
+			</data>
+		</dict>
+		<key>Frameworks/NFCReaderApple.framework/Resource.bundle/CardDetectionViewController.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			HENAcLlt0e7T/XU4hPQoLvHQbRpTaZ3ksLHOadMQDbE=
+			</data>
+		</dict>
+		<key>Frameworks/NFCReaderApple.framework/Resource.bundle/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			d2A8c5YfXbsC9Qy5qZlVhGvVtkU3Rcu37C5ujep7JmY=
+			</data>
+		</dict>
+		<key>Frameworks/NFCReaderApple.framework/Resource.bundle/_CodeSignature/CodeDirectory</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			CrtCQOEngvo4jB1WSz6rj/GczlKPMul7hrGb/cJA5Gs=
+			</data>
+		</dict>
+		<key>Frameworks/NFCReaderApple.framework/Resource.bundle/_CodeSignature/CodeRequirements</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			mHkgkE6rZQ51eIwFSqCwUk5qgL/HGqMt+NI3phdD+YY=
+			</data>
+		</dict>
+		<key>Frameworks/NFCReaderApple.framework/Resource.bundle/_CodeSignature/CodeRequirements-1</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Sy4dZoN5n+UjXDNBQrpo1XJ0A/dx2mxZOMUZAakzs0M=
+			</data>
+		</dict>
+		<key>Frameworks/NFCReaderApple.framework/Resource.bundle/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			gDXmx8nAFweuhi2U80DpHhAXAzhBP8Evk+W6UpB5LXk=
+			</data>
+		</dict>
+		<key>Frameworks/NFCReaderApple.framework/Resource.bundle/_CodeSignature/CodeSignature</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=
+			</data>
+		</dict>
+		<key>Frameworks/NFCReaderApple.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			+BgxQneLYTK3jiDvRa7fYPsms3rfBL1GEmX/zPETO6I=
+			</data>
+		</dict>
 		<key>Headers/onboarding-Swift.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			soio2WDGQCX1dR89JuTHB1DTJ9QWxpJepgbVl2oV+q0=
+			dxT/HaA/TEq0pKaKLtBxRWsbCecxH4nVHi5Dic839g4=
 			</data>
 		</dict>
 		<key>Headers/onboarding.h</key>
@@ -382,77 +514,77 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			rcOUQRbs+4kt8MifVv0A1gIGwOXZJ2C2dCijKZ1usVg=
+			5JciuY+387UXj4pvHXrQHbzqqbV84yOY2EO66RrZ8dM=
 			</data>
 		</dict>
 		<key>Modules/onboarding.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			iYnl1Vy7BJRi6h6wLdCvGR8+Ds1eswzXIIRoisqcWTk=
+			DC94a4M55PXm+Gvcv6LlBehTEMbbWy6KIPSOzuUp5ZE=
 			</data>
 		</dict>
 		<key>Modules/onboarding.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			C/LtQqtgdGpRLQMAaLaXzEjGXEsVxxsr3D+g7sOXy+4=
+			HopksAw15+uC2zk4+crvByynf/No/ui32UVfglnmDlk=
 			</data>
 		</dict>
 		<key>Modules/onboarding.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			iYnl1Vy7BJRi6h6wLdCvGR8+Ds1eswzXIIRoisqcWTk=
+			DC94a4M55PXm+Gvcv6LlBehTEMbbWy6KIPSOzuUp5ZE=
 			</data>
 		</dict>
 		<key>Modules/onboarding.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			1AvmDR8qqJ1pp433TixJ2niCiJ/DgkvniwuDLml6DCI=
+			H6tUFq4ehi5sdO8Xa3YGzkaFOn+CFVDqoAnBqzJKPZw=
 			</data>
 		</dict>
 		<key>Modules/onboarding.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			rcOUQRbs+4kt8MifVv0A1gIGwOXZJ2C2dCijKZ1usVg=
+			5JciuY+387UXj4pvHXrQHbzqqbV84yOY2EO66RrZ8dM=
 			</data>
 		</dict>
 		<key>Modules/onboarding.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			YRKo4lMjoJK/hwZUUF9U40MZhHW4iT1zKKwD8c1LjGM=
+			CoKoSmlIYmeNtsHqLeCZWaA2zgRUvfzl+K4SGG0C5X0=
 			</data>
 		</dict>
 		<key>Modules/onboarding.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			PeT0snOFZoLxOVSzE/igz0/fwxl49xCgAM5rik/oOuU=
+			S3tL27GAmzynvgw8ruD3EOXvZ07OPcL/hdy7BptjCIk=
 			</data>
 		</dict>
 		<key>Modules/onboarding.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			YRKo4lMjoJK/hwZUUF9U40MZhHW4iT1zKKwD8c1LjGM=
+			CoKoSmlIYmeNtsHqLeCZWaA2zgRUvfzl+K4SGG0C5X0=
 			</data>
 		</dict>
 		<key>Modules/onboarding.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			KVvPNi+2hm47U1aUYk3PqzpcEzqfYTgGTOaRAyWsIKg=
+			O8w/TcosZXyg8wN9HpSd2ZHaIijZURcxOrgJDcQL60w=
 			</data>
 		</dict>
 		<key>NfcPageViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			XCiujIWnzVJGxeyg+RUcTrQ6oBsJgZt+E3309UiYU10=
+			tGDTxzSaQ4T68RBwdibDAZLUVKAKuP1a+yvffy4bYjM=
 			</data>
 		</dict>
 		<key>NunitoSans-Bold.ttf</key>
@@ -669,7 +801,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ol7IcVeOLd0bl8VwKiT7AshMNFWm7veEoPOM5L08Ndg=
+			GgwgsYn6Sdm4m+Lp1lZowCdGBSyTep4gX2W9lSq46nM=
 			</data>
 		</dict>
 		<key>SmsActivationViewController.nib</key>
@@ -711,7 +843,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			lqABUHNUd6/3IY0bsQvFS27hPZhMOD4UUiJKejQroxM=
+			2VTkC/dF4Ozg8GETcNSjysJ0eoQGgGs21g1WktgZRVo=
 			</data>
 		</dict>
 		<key>WelcomePageViewController.nib</key>

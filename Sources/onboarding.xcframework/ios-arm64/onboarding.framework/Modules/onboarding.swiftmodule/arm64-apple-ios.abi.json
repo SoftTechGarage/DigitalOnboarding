@@ -1,8 +1,8 @@
 {
   "ABIRoot": {
     "kind": "Root",
-    "name": "TopLevel",
-    "printedName": "TopLevel",
+    "name": "onboarding",
+    "printedName": "onboarding",
     "children": [
       {
         "kind": "Import",
@@ -174,6 +174,22 @@
         "moduleName": "onboarding",
         "declAttributes": [
           "AccessControl"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          }
         ]
       },
       {
@@ -309,13 +325,6 @@
         "declAttributes": [
           "RawDocComment"
         ]
-      },
-      {
-        "kind": "Import",
-        "name": "NFCReaderApple",
-        "printedName": "NFCReaderApple",
-        "declKind": "Import",
-        "moduleName": "onboarding"
       },
       {
         "kind": "Import",
@@ -736,7 +745,23 @@
         "declAttributes": [
           "AccessControl"
         ],
-        "hasMissingDesignatedInitializers": true
+        "hasMissingDesignatedInitializers": true,
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
+        ]
       },
       {
         "kind": "Import",
@@ -960,7 +985,23 @@
           "AccessControl",
           "RawDocComment"
         ],
-        "hasMissingDesignatedInitializers": true
+        "hasMissingDesignatedInitializers": true,
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
+        ]
       },
       {
         "kind": "Import",
@@ -1374,6 +1415,22 @@
         "moduleName": "onboarding",
         "declAttributes": [
           "AccessControl"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
         ]
       },
       {
@@ -1486,6 +1543,22 @@
         "moduleName": "onboarding",
         "declAttributes": [
           "AccessControl"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          }
         ]
       },
       {
@@ -1696,6 +1769,35 @@
         ]
       },
       {
+        "kind": "TypeDecl",
+        "name": "ConstantManager",
+        "printedName": "ConstantManager",
+        "declKind": "Enum",
+        "usr": "s:10onboarding15ConstantManagerO",
+        "mangledName": "$s10onboarding15ConstantManagerO",
+        "moduleName": "onboarding",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
+        ]
+      },
+      {
         "kind": "Import",
         "name": "UIKit",
         "printedName": "UIKit",
@@ -1736,13 +1838,6 @@
         "kind": "Import",
         "name": "Vision",
         "printedName": "Vision",
-        "declKind": "Import",
-        "moduleName": "onboarding"
-      },
-      {
-        "kind": "Import",
-        "name": "OpenSSL",
-        "printedName": "OpenSSL",
         "declKind": "Import",
         "moduleName": "onboarding"
       },
@@ -1832,6 +1927,32 @@
         "moduleName": "onboarding",
         "declAttributes": [
           "AccessControl"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "onboarding",
+        "declAttributes": [
+          "RawDocComment"
         ]
       },
       {
@@ -1878,20 +1999,6 @@
         "kind": "Import",
         "name": "NFCReaderApple",
         "printedName": "NFCReaderApple",
-        "declKind": "Import",
-        "moduleName": "onboarding"
-      },
-      {
-        "kind": "Import",
-        "name": "Vision",
-        "printedName": "Vision",
-        "declKind": "Import",
-        "moduleName": "onboarding"
-      },
-      {
-        "kind": "Import",
-        "name": "OpenSSL",
-        "printedName": "OpenSSL",
         "declKind": "Import",
         "moduleName": "onboarding"
       },
@@ -1983,6 +2090,22 @@
         "declAttributes": [
           "AccessControl",
           "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          }
         ]
       },
       {
@@ -2208,6 +2331,20 @@
         "conformances": [
           {
             "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
             "name": "Equatable",
             "printedName": "Equatable",
             "usr": "s:SQ",
@@ -2301,8 +2438,8 @@
       },
       {
         "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
+        "name": "UIKit",
+        "printedName": "UIKit",
         "declKind": "Import",
         "moduleName": "onboarding",
         "declAttributes": [
@@ -2311,8 +2448,8 @@
       },
       {
         "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
+        "name": "NFCReaderApple",
+        "printedName": "NFCReaderApple",
         "declKind": "Import",
         "moduleName": "onboarding"
       },
@@ -3109,6 +3246,22 @@
         "moduleName": "onboarding",
         "declAttributes": [
           "AccessControl"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
         ]
       },
       {
@@ -3149,30 +3302,6 @@
         "kind": "Import",
         "name": "Vision",
         "printedName": "Vision",
-        "declKind": "Import",
-        "moduleName": "onboarding"
-      },
-      {
-        "kind": "Import",
-        "name": "OpenSSL",
-        "printedName": "OpenSSL",
-        "declKind": "Import",
-        "moduleName": "onboarding"
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "onboarding",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
         "declKind": "Import",
         "moduleName": "onboarding"
       },
@@ -3225,7 +3354,20 @@
         "name": "JitsiMeetSDK",
         "printedName": "JitsiMeetSDK",
         "declKind": "Import",
-        "moduleName": "onboarding"
+        "moduleName": "onboarding",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Lottie",
+        "printedName": "Lottie",
+        "declKind": "Import",
+        "moduleName": "onboarding",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
       },
       {
         "kind": "Import",
@@ -3361,6 +3503,7 @@
               "HasInitialValue",
               "Final",
               "HasStorage",
+              "Preconcurrency",
               "Custom"
             ],
             "isFromExtension": true,
@@ -3414,6 +3557,7 @@
               "HasInitialValue",
               "Final",
               "HasStorage",
+              "Preconcurrency",
               "Custom"
             ],
             "isFromExtension": true,
@@ -3454,6 +3598,7 @@
         "intro_iOS": "2.0",
         "objc_name": "UIDevice",
         "declAttributes": [
+          "Preconcurrency",
           "Available",
           "ObjC",
           "NonSendable",
@@ -3467,6 +3612,20 @@
           "ObjectiveC.NSObject"
         ],
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
           {
             "kind": "Conformance",
             "name": "Equatable",
@@ -3548,6 +3707,7 @@
             "mangledName": "$sSo6UIViewC10onboardingE15loadViewFromNibABSgyF",
             "moduleName": "onboarding",
             "declAttributes": [
+              "Preconcurrency",
               "Custom"
             ],
             "isFromExtension": true,
@@ -3575,6 +3735,7 @@
             "mangledName": "$sSo6UIViewC10onboardingE13fillSuperview4withy12CoreGraphics7CGFloatV_tF",
             "moduleName": "onboarding",
             "declAttributes": [
+              "Preconcurrency",
               "Custom"
             ],
             "isFromExtension": true,
@@ -3608,6 +3769,7 @@
             "mangledName": "$sSo6UIViewC10onboardingE13fillSuperview17horizontalPadding08verticalF0y12CoreGraphics7CGFloatV_AItF",
             "moduleName": "onboarding",
             "declAttributes": [
+              "Preconcurrency",
               "Custom"
             ],
             "isFromExtension": true,
@@ -3636,6 +3798,7 @@
             "mangledName": "$sSo6UIViewC10onboardingE13fillSuperview4withySo12UIEdgeInsetsV_tF",
             "moduleName": "onboarding",
             "declAttributes": [
+              "Preconcurrency",
               "Custom"
             ],
             "isFromExtension": true,
@@ -3664,6 +3827,7 @@
             "mangledName": "$sSo6UIViewC10onboardingE12fillSafeArea4withySo12UIEdgeInsetsV_tF",
             "moduleName": "onboarding",
             "declAttributes": [
+              "Preconcurrency",
               "Custom"
             ],
             "isFromExtension": true,
@@ -3780,6 +3944,7 @@
             "mangledName": "$sSo6UIViewC10onboardingE6anchor3top7leading6bottom8trailing0D7Padding0eH00fH00gH04sizeySo19NSLayoutYAxisAnchorCSg_So0j5XAxisL0CSgApS12CoreGraphics7CGFloatVA3VSo6CGSizeVtF",
             "moduleName": "onboarding",
             "declAttributes": [
+              "Preconcurrency",
               "Custom"
             ],
             "isFromExtension": true,
@@ -3831,6 +3996,7 @@
             "mangledName": "$sSo6UIViewC10onboardingE10sizeAnchor5width6heighty12CoreGraphics7CGFloatVSg_AJtF",
             "moduleName": "onboarding",
             "declAttributes": [
+              "Preconcurrency",
               "Custom"
             ],
             "isFromExtension": true,
@@ -3858,6 +4024,7 @@
             "mangledName": "$sSo6UIViewC10onboardingE6aspect5ratioy12CoreGraphics7CGFloatV_tF",
             "moduleName": "onboarding",
             "declAttributes": [
+              "Preconcurrency",
               "Custom"
             ],
             "isFromExtension": true,
@@ -3923,6 +4090,7 @@
             "mangledName": "$sSo6UIViewC10onboardingE12centerAnchor0C1Y0C1X1x1yySo013NSLayoutYAxisD0CSg_So0e5XAxisD0CSg12CoreGraphics7CGFloatVAQtF",
             "moduleName": "onboarding",
             "declAttributes": [
+              "Preconcurrency",
               "Custom"
             ],
             "isFromExtension": true,
@@ -3964,6 +4132,7 @@
             "mangledName": "$sSo6UIViewC10onboardingE13centerYAnchor2to10multiplier8constantyAB_12CoreGraphics7CGFloatVAJtF",
             "moduleName": "onboarding",
             "declAttributes": [
+              "Preconcurrency",
               "Custom"
             ],
             "isFromExtension": true,
@@ -4005,6 +4174,7 @@
             "mangledName": "$sSo6UIViewC10onboardingE13centerXAnchor2to10multiplier8constantyAB_12CoreGraphics7CGFloatVAJtF",
             "moduleName": "onboarding",
             "declAttributes": [
+              "Preconcurrency",
               "Custom"
             ],
             "isFromExtension": true,
@@ -4026,6 +4196,7 @@
             "mangledName": "$sSo6UIViewC10onboardingE22alignCenterToSuperViewyyF",
             "moduleName": "onboarding",
             "declAttributes": [
+              "Preconcurrency",
               "Custom"
             ],
             "isFromExtension": true,
@@ -4047,6 +4218,7 @@
             "mangledName": "$sSo6UIViewC10onboardingE23alignCenterYToSuperViewyyF",
             "moduleName": "onboarding",
             "declAttributes": [
+              "Preconcurrency",
               "Custom"
             ],
             "isFromExtension": true,
@@ -4068,6 +4240,7 @@
             "mangledName": "$sSo6UIViewC10onboardingE23alignCenterXToSuperViewyyF",
             "moduleName": "onboarding",
             "declAttributes": [
+              "Preconcurrency",
               "Custom"
             ],
             "isFromExtension": true,
@@ -4102,6 +4275,71 @@
             "mangledName": "$sSo6UIViewC10onboardingE10equalWidth4with2toy12CoreGraphics7CGFloatV_ABtF",
             "moduleName": "onboarding",
             "declAttributes": [
+              "Preconcurrency",
+              "Custom"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "applyShadow",
+            "printedName": "applyShadow(color:alpha:x:y:blur:spread:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIColor",
+                "printedName": "UIKit.UIColor",
+                "hasDefaultArg": true,
+                "usr": "c:objc(cs)UIColor"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Float",
+                "printedName": "Swift.Float",
+                "hasDefaultArg": true,
+                "usr": "s:Sf"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "hasDefaultArg": true,
+                "usr": "s:14CoreFoundation7CGFloatV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "hasDefaultArg": true,
+                "usr": "s:14CoreFoundation7CGFloatV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "hasDefaultArg": true,
+                "usr": "s:14CoreFoundation7CGFloatV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "hasDefaultArg": true,
+                "usr": "s:14CoreFoundation7CGFloatV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:So6UIViewC10onboardingE11applyShadow5color5alpha1x1y4blur6spreadySo7UIColorC_Sf14CoreFoundation7CGFloatVA3OtF",
+            "mangledName": "$sSo6UIViewC10onboardingE11applyShadow5color5alpha1x1y4blur6spreadySo7UIColorC_Sf12CoreGraphics7CGFloatVA3OtF",
+            "moduleName": "onboarding",
+            "declAttributes": [
+              "Preconcurrency",
               "Custom"
             ],
             "isFromExtension": true,
@@ -4124,6 +4362,7 @@
             "mangledName": "$sSo6UIViewC10onboardingE17safeAreaTopAnchorSo013NSLayoutYAxisF0Cvp",
             "moduleName": "onboarding",
             "declAttributes": [
+              "Preconcurrency",
               "Custom"
             ],
             "isFromExtension": true,
@@ -4166,6 +4405,7 @@
             "mangledName": "$sSo6UIViewC10onboardingE21safeAreaLeadingAnchorSo013NSLayoutXAxisF0Cvp",
             "moduleName": "onboarding",
             "declAttributes": [
+              "Preconcurrency",
               "Custom"
             ],
             "isFromExtension": true,
@@ -4208,6 +4448,7 @@
             "mangledName": "$sSo6UIViewC10onboardingE22safeAreaTrailingAnchorSo013NSLayoutXAxisF0Cvp",
             "moduleName": "onboarding",
             "declAttributes": [
+              "Preconcurrency",
               "Custom"
             ],
             "isFromExtension": true,
@@ -4250,6 +4491,7 @@
             "mangledName": "$sSo6UIViewC10onboardingE20safeAreaBottomAnchorSo013NSLayoutYAxisF0Cvp",
             "moduleName": "onboarding",
             "declAttributes": [
+              "Preconcurrency",
               "Custom"
             ],
             "isFromExtension": true,
@@ -4283,6 +4525,7 @@
         "intro_iOS": "2.0",
         "objc_name": "UIView",
         "declAttributes": [
+          "Preconcurrency",
           "Available",
           "ObjC",
           "NonSendable",
@@ -4299,121 +4542,18 @@
         "conformances": [
           {
             "kind": "Conformance",
-            "name": "Equatable",
-            "printedName": "Equatable",
-            "usr": "s:SQ",
-            "mangledName": "$sSQ"
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
           },
           {
             "kind": "Conformance",
-            "name": "Hashable",
-            "printedName": "Hashable",
-            "usr": "s:SH",
-            "mangledName": "$sSH"
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
           },
-          {
-            "kind": "Conformance",
-            "name": "CVarArg",
-            "printedName": "CVarArg",
-            "usr": "s:s7CVarArgP",
-            "mangledName": "$ss7CVarArgP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "_KeyValueCodingAndObservingPublishing",
-            "printedName": "_KeyValueCodingAndObservingPublishing",
-            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
-            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "_KeyValueCodingAndObserving",
-            "printedName": "_KeyValueCodingAndObserving",
-            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
-            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CustomStringConvertible",
-            "printedName": "CustomStringConvertible",
-            "usr": "s:s23CustomStringConvertibleP",
-            "mangledName": "$ss23CustomStringConvertibleP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CustomDebugStringConvertible",
-            "printedName": "CustomDebugStringConvertible",
-            "usr": "s:s28CustomDebugStringConvertibleP",
-            "mangledName": "$ss28CustomDebugStringConvertibleP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "UITraitChangeObservable",
-            "printedName": "UITraitChangeObservable",
-            "usr": "s:5UIKit23UITraitChangeObservableP",
-            "mangledName": "$s5UIKit23UITraitChangeObservableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "__DefaultCustomPlaygroundQuickLookable",
-            "printedName": "__DefaultCustomPlaygroundQuickLookable",
-            "usr": "s:s38__DefaultCustomPlaygroundQuickLookableP",
-            "mangledName": "$ss38__DefaultCustomPlaygroundQuickLookableP"
-          }
-        ]
-      },
-      {
-        "kind": "TypeDecl",
-        "name": "UIButton",
-        "printedName": "UIButton",
-        "children": [
-          {
-            "kind": "Function",
-            "name": "makeRounded",
-            "printedName": "makeRounded()",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:So8UIButtonC10onboardingE11makeRoundedyyF",
-            "mangledName": "$sSo8UIButtonC10onboardingE11makeRoundedyyF",
-            "moduleName": "onboarding",
-            "isOpen": true,
-            "declAttributes": [
-              "Custom",
-              "AccessControl"
-            ],
-            "isFromExtension": true,
-            "funcSelfKind": "NonMutating"
-          }
-        ],
-        "declKind": "Class",
-        "usr": "c:objc(cs)UIButton",
-        "moduleName": "UIKit",
-        "isOpen": true,
-        "intro_iOS": "2.0",
-        "objc_name": "UIButton",
-        "declAttributes": [
-          "Available",
-          "ObjC",
-          "NonSendable",
-          "Custom",
-          "Dynamic"
-        ],
-        "superclassUsr": "c:objc(cs)UIControl",
-        "isExternal": true,
-        "inheritsConvenienceInitializers": true,
-        "superclassNames": [
-          "UIKit.UIControl",
-          "UIKit.UIView",
-          "UIKit.UIResponder",
-          "ObjectiveC.NSObject"
-        ],
-        "conformances": [
           {
             "kind": "Conformance",
             "name": "Equatable",
@@ -4476,13 +4616,6 @@
             "printedName": "__DefaultCustomPlaygroundQuickLookable",
             "usr": "s:s38__DefaultCustomPlaygroundQuickLookableP",
             "mangledName": "$ss38__DefaultCustomPlaygroundQuickLookableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Sendable",
-            "printedName": "Sendable",
-            "usr": "s:s8SendableP",
-            "mangledName": "$ss8SendableP"
           }
         ]
       }
@@ -6180,21 +6313,21 @@
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/WebPageViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 519,
+      "offset": 540,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/WebPageViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 557,
+      "offset": 578,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/WebPageViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 599,
+      "offset": 615,
       "length": 1,
       "value": "0"
     },
@@ -6215,14 +6348,14 @@
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/StartPageViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 345,
+      "offset": 374,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/BaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 2183,
+      "offset": 1356,
       "length": 5,
       "value": "false"
     },
@@ -6502,198 +6635,177 @@
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/FaceDetectionPageViewController.swift",
       "kind": "Array",
-      "offset": 633,
+      "offset": 871,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/FaceDetectionPageViewController.swift",
       "kind": "StringLiteral",
-      "offset": 894,
+      "offset": 959,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/FaceDetectionPageViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 1005,
+      "offset": 1094,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/FaceDetectionPageViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 1038,
+      "offset": 1135,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/FaceDetectionPageViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 1068,
+      "offset": 1173,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/FaceDetectionPageViewController.swift",
       "kind": "Array",
-      "offset": 1110,
+      "offset": 1223,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/FaceDetectionPageViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 1211,
+      "offset": 1348,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/FaceDetectionPageViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 1275,
+      "offset": 1428,
       "length": 4,
       "value": "50.0"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/FaceDetectionPageViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 1583,
+      "offset": 1688,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/FaceDetectionPageViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 2084,
+      "offset": 2153,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/FaceDetectionPageViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2114,
+      "offset": 2183,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/FaceDetectionPageViewController.swift",
       "kind": "StringLiteral",
-      "offset": 2255,
+      "offset": 2328,
       "length": 13,
       "value": "\"animation-3\""
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/FaceDetectionPageViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 2336,
+      "offset": 2409,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/FaceDetectionPageViewController.swift",
       "kind": "StringLiteral",
-      "offset": 2659,
+      "offset": 2732,
       "length": 17,
       "value": "\"NunitoSans-Bold\""
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/FaceDetectionPageViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2684,
+      "offset": 2757,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/FaceDetectionPageViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2794,
+      "offset": 2867,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/FaceDetectionPageViewController.swift",
       "kind": "StringLiteral",
-      "offset": 2827,
+      "offset": 2900,
       "length": 20,
       "value": "\"Lütfen Bekleyiniz\""
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/FaceDetectionPageViewController.swift",
       "kind": "StringLiteral",
-      "offset": 2885,
+      "offset": 2958,
       "length": 9,
       "value": "\"#0D47A1\""
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/FaceDetectionPageViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 2988,
+      "offset": 3061,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/FaceDetectionPageViewController.swift",
       "kind": "StringLiteral",
-      "offset": 3111,
+      "offset": 3184,
       "length": 129,
       "value": "\"Yüz tanıma süreciniz başlatılacaktır. Son olarak sizi tanıyabilmemiz için lütfen fotoğraf çekilene kadar bekleyiniz.\""
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/FaceDetectionPageViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 3286,
-      "length": 2,
-      "value": "14"
-    },
-    {
-      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/FaceDetectionPageViewController.swift",
       "kind": "StringLiteral",
-      "offset": 3322,
-      "length": 13,
-      "value": "\"Nunito Sans\""
+      "offset": 3346,
+      "length": 21,
+      "value": "\"NunitoSans-SemiBold\""
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/FaceDetectionPageViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 3343,
+      "offset": 3375,
       "length": 2,
-      "value": "14"
+      "value": "16"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/FaceDetectionPageViewController.swift",
       "kind": "StringLiteral",
-      "offset": 3389,
+      "offset": 3421,
       "length": 9,
       "value": "\"#616161\""
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/FaceDetectionPageViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 3457,
+      "offset": 3489,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/FaceDetectionPageViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 3527,
+      "offset": 3559,
       "length": 1,
       "value": "0"
-    },
-    {
-      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/FaceDetectionPageViewController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 24128,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/FaceDetectionPageViewController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 24535,
-      "length": 4,
-      "value": "true"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/ui\/OnboardingCheckbox.swift",
@@ -6705,7 +6817,7 @@
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/EmailCodeViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 526,
+      "offset": 624,
       "length": 1,
       "value": "0"
     },
@@ -7445,37 +7557,772 @@
       "value": "1.0"
     },
     {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 2514,
+      "length": 5,
+      "value": "239.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 2520,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 2534,
+      "length": 5,
+      "value": "242.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 2540,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 2553,
+      "length": 5,
+      "value": "247.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 2559,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 2573,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 2633,
+      "length": 5,
+      "value": "207.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 2639,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 2653,
+      "length": 5,
+      "value": "216.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 2659,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 2672,
+      "length": 5,
+      "value": "232.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 2678,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 2692,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 2756,
+      "length": 5,
+      "value": "239.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 2762,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 2776,
+      "length": 5,
+      "value": "242.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 2782,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 2795,
+      "length": 5,
+      "value": "247.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 2801,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 2815,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 2895,
+      "length": 4,
+      "value": "30.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 2900,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 2914,
+      "length": 5,
+      "value": "180.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 2920,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 2933,
+      "length": 5,
+      "value": "225.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 2939,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 2953,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 3017,
+      "length": 4,
+      "value": "30.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 3022,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 3036,
+      "length": 5,
+      "value": "180.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 3042,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 3055,
+      "length": 5,
+      "value": "225.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 3061,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 3075,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 3143,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 3147,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 3161,
+      "length": 5,
+      "value": "180.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 3167,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 3180,
+      "length": 5,
+      "value": "227.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 3186,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 3200,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 3288,
+      "length": 5,
+      "value": "252.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 3294,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 3308,
+      "length": 4,
+      "value": "82.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 3313,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 3326,
+      "length": 4,
+      "value": "31.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 3331,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 3345,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 3413,
+      "length": 4,
+      "value": "31.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 3418,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 3432,
+      "length": 4,
+      "value": "39.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 3437,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 3450,
+      "length": 4,
+      "value": "51.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 3455,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 3469,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 3549,
+      "length": 5,
+      "value": "239.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 3555,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 3569,
+      "length": 5,
+      "value": "242.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 3575,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 3588,
+      "length": 5,
+      "value": "247.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 3594,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 3608,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 3686,
+      "length": 5,
+      "value": "239.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 3692,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 3706,
+      "length": 5,
+      "value": "242.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 3712,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 3725,
+      "length": 5,
+      "value": "247.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 3731,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 3745,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 3813,
+      "length": 3,
+      "value": "6.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 3817,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 3831,
+      "length": 4,
+      "value": "54.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 3836,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 3849,
+      "length": 5,
+      "value": "156.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 3855,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 3869,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 3951,
+      "length": 4,
+      "value": "31.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 3956,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 3970,
+      "length": 4,
+      "value": "39.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 3975,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 3988,
+      "length": 4,
+      "value": "51.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 3993,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 4007,
+      "length": 4,
+      "value": "0.25"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 4098,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 4102,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 4116,
+      "length": 5,
+      "value": "180.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 4122,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 4135,
+      "length": 5,
+      "value": "227.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 4141,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 4155,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 4235,
+      "length": 5,
+      "value": "239.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 4241,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 4255,
+      "length": 5,
+      "value": "242.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 4261,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 4274,
+      "length": 5,
+      "value": "247.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 4280,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 4294,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 4364,
+      "length": 4,
+      "value": "31.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 4369,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 4383,
+      "length": 4,
+      "value": "39.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 4388,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 4401,
+      "length": 4,
+      "value": "51.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 4406,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 4420,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/ConfirmationPageViewController.swift",
       "kind": "Array",
-      "offset": 642,
+      "offset": 660,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/ConfirmationPageViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 678,
+      "offset": 704,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/ConfirmationPageViewController.swift",
       "kind": "Array",
-      "offset": 705,
+      "offset": 739,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/ConfirmationPageViewController.swift",
       "kind": "StringLiteral",
-      "offset": 805,
+      "offset": 847,
       "length": 18,
       "value": "\"ConfirmationPage\""
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/QuestionnairePageViewController.swift",
       "kind": "Array",
-      "offset": 840,
+      "offset": 918,
       "length": 2,
       "value": "[]"
     },
@@ -7499,6 +8346,20 @@
       "offset": 538,
       "length": 2,
       "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/UIImageExtension.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1361,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/UIImageExtension.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1768,
+      "length": 4,
+      "value": "true"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/ui\/OnboardingFormRadioItem.swift",
@@ -7832,21 +8693,21 @@
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/MeetingPageViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 561,
+      "offset": 639,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/MeetingPageViewController.swift",
       "kind": "Array",
-      "offset": 591,
+      "offset": 677,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/MeetingPageViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 3989,
+      "offset": 715,
       "length": 2,
       "value": "-1"
     },
@@ -7991,6 +8852,41 @@
       "value": "1.0"
     },
     {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/UIViewExtension.swift",
+      "kind": "FloatLiteral",
+      "offset": 5929,
+      "length": 4,
+      "value": "0.15"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/UIViewExtension.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5969,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/UIViewExtension.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6006,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/UIViewExtension.swift",
+      "kind": "FloatLiteral",
+      "offset": 6046,
+      "length": 5,
+      "value": "16.18"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/UIViewExtension.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6092,
+      "length": 1,
+      "value": "0"
+    },
+    {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/InfoPageOnboarding\/InfoPageWalkingVC.swift",
       "kind": "StringLiteral",
       "offset": 459,
@@ -8054,6 +8950,83 @@
       "value": "\"Son olarak sizi tanıyabilmemiz için lütfen fotoğraf çekilene kadar bekleyiniz.\""
     },
     {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/ConstantManager\/ConstantManager.swift",
+      "kind": "StringLiteral",
+      "offset": 212,
+      "length": 19,
+      "value": "\"Kimlik Doğrulama\""
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/ConstantManager\/ConstantManager.swift",
+      "kind": "StringLiteral",
+      "offset": 275,
+      "length": 113,
+      "value": "\"Lütfen kimliğinizin ön yüzünü çerçeve içine yerleştirerek çizgiler yeşil oluncaya kadar bekleyiniz.\""
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/ConstantManager\/ConstantManager.swift",
+      "kind": "StringLiteral",
+      "offset": 431,
+      "length": 114,
+      "value": "\"Lütfen kimliğinizin arka yüzünü çerçeve içine yerleştirerek çizgiler yeşil oluncaya kadar bekleyiniz.\""
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/ConstantManager\/ConstantManager.swift",
+      "kind": "StringLiteral",
+      "offset": 624,
+      "length": 13,
+      "value": "\"OCR_SUCCESS\""
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/ConstantManager\/ConstantManager.swift",
+      "kind": "StringLiteral",
+      "offset": 669,
+      "length": 13,
+      "value": "\"OCR_STARTED\""
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/ConstantManager\/ConstantManager.swift",
+      "kind": "StringLiteral",
+      "offset": 715,
+      "length": 12,
+      "value": "\"OCR_CANCEL\""
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/ConstantManager\/ConstantManager.swift",
+      "kind": "StringLiteral",
+      "offset": 759,
+      "length": 11,
+      "value": "\"OCR_ERROR\""
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/ConstantManager\/ConstantManager.swift",
+      "kind": "StringLiteral",
+      "offset": 833,
+      "length": 13,
+      "value": "\"NFC_SUCCESS\""
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/ConstantManager\/ConstantManager.swift",
+      "kind": "StringLiteral",
+      "offset": 878,
+      "length": 13,
+      "value": "\"NFC_STARTED\""
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/ConstantManager\/ConstantManager.swift",
+      "kind": "StringLiteral",
+      "offset": 924,
+      "length": 12,
+      "value": "\"NFC_CANCEL\""
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/ConstantManager\/ConstantManager.swift",
+      "kind": "StringLiteral",
+      "offset": 968,
+      "length": 11,
+      "value": "\"NFC_ERROR\""
+    },
+    {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/ui\/OnboardingQuestionnaireDropdown.swift",
       "kind": "IntegerLiteral",
       "offset": 687,
@@ -8063,42 +9036,42 @@
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/NfcPageViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 846,
+      "offset": 916,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/NfcPageViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 931,
+      "offset": 957,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/NfcPageViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 965,
+      "offset": 991,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/NfcPageViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 998,
+      "offset": 1024,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/NfcPageViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 1320,
+      "offset": 1198,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/NfcPageViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 16398,
+      "offset": 1416,
       "length": 5,
       "value": "false"
     },
@@ -8126,105 +9099,70 @@
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/OCRPageViewController\/OCRPageViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 427,
+      "offset": 416,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/CalendarPageViewController.swift",
       "kind": "Array",
-      "offset": 1142,
+      "offset": 1314,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/CalendarPageViewController.swift",
       "kind": "Dictionary",
-      "offset": 1193,
+      "offset": 1373,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/CalendarPageViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 1256,
+      "offset": 1452,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/CalendarPageViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 1282,
+      "offset": 1485,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/CalendarPageViewController.swift",
       "kind": "Array",
-      "offset": 1554,
+      "offset": 1757,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/CalendarPageViewController.swift",
       "kind": "Array",
-      "offset": 1649,
+      "offset": 1801,
       "length": 2,
       "value": "[]"
-    },
-    {
-      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/CalendarPageViewController.swift",
-      "kind": "FloatLiteral",
-      "offset": 15813,
-      "length": 4,
-      "value": "0.15"
-    },
-    {
-      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/CalendarPageViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 15840,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/CalendarPageViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 15864,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/CalendarPageViewController.swift",
-      "kind": "FloatLiteral",
-      "offset": 15891,
-      "length": 5,
-      "value": "16.18"
-    },
-    {
-      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/CalendarPageViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 15924,
-      "length": 1,
-      "value": "0"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/ProductOfferViewContoller.swift",
       "kind": "IntegerLiteral",
-      "offset": 599,
+      "offset": 770,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/ProductOfferViewContoller.swift",
       "kind": "StringLiteral",
-      "offset": 711,
+      "offset": 884,
       "length": 18,
       "value": "\"selectedProducts\""
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/ProductOfferViewContoller.swift",
       "kind": "StringLiteral",
-      "offset": 784,
+      "offset": 957,
       "length": 26,
       "value": "\"notSuitableButtonClicked\""
     },
@@ -8241,13 +9179,6 @@
       "offset": 528,
       "length": 2,
       "value": "80"
-    },
-    {
-      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/ui\/OnboardingLoader.swift",
-      "kind": "StringLiteral",
-      "offset": 184,
-      "length": 16,
-      "value": "\"onboarding.OnboardingLoader\""
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/ui\/OnboardingLoader.swift",
@@ -8293,6 +9224,34 @@
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/ui\/OnboardingLoader.swift",
+      "kind": "FloatLiteral",
+      "offset": 3103,
+      "length": 3,
+      "value": "2.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/ui\/OnboardingLoader.swift",
+      "kind": "FloatLiteral",
+      "offset": 3134,
+      "length": 3,
+      "value": "2.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/ui\/OnboardingLoader.swift",
+      "kind": "FloatLiteral",
+      "offset": 3305,
+      "length": 3,
+      "value": "2.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/ui\/OnboardingLoader.swift",
+      "kind": "FloatLiteral",
+      "offset": 3414,
+      "length": 3,
+      "value": "2.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/ui\/OnboardingLoader.swift",
       "kind": "IntegerLiteral",
       "offset": 4589,
       "length": 1,
@@ -8300,24 +9259,24 @@
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/ProcessPageViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 634,
+      "length": 2,
+      "value": "-1"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/ProcessPageViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 555,
+      "offset": 667,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/ProcessPageViewController.swift",
       "kind": "Array",
-      "offset": 585,
+      "offset": 705,
       "length": 2,
       "value": "[]"
-    },
-    {
-      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/ProcessPageViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 4214,
-      "length": 2,
-      "value": "-1"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/ui\/MaximumPageControl.swift",
@@ -8406,14 +9365,14 @@
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/InformationPageViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 715,
+      "offset": 819,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/InfographicPageViewController.swift",
       "kind": "Array",
-      "offset": 739,
+      "offset": 917,
       "length": 2,
       "value": "[]"
     },
@@ -8448,126 +9407,133 @@
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/conn\/ApiRequest.swift",
       "kind": "StringLiteral",
-      "offset": 527,
+      "offset": 423,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/conn\/ApiRequest.swift",
       "kind": "StringLiteral",
-      "offset": 710,
+      "offset": 455,
       "length": 24,
       "value": "\"\/api\/task\/completetask\""
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/conn\/ApiRequest.swift",
       "kind": "StringLiteral",
-      "offset": 766,
+      "offset": 511,
       "length": 27,
       "value": "\"\/api\/task\/getmyactivetask\""
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/conn\/ApiRequest.swift",
       "kind": "StringLiteral",
-      "offset": 820,
+      "offset": 565,
       "length": 20,
       "value": "\"\/api\/document\/list\""
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/conn\/ApiRequest.swift",
       "kind": "StringLiteral",
-      "offset": 868,
+      "offset": 613,
       "length": 19,
       "value": "\"\/api\/otp\/checkOtp\""
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/conn\/ApiRequest.swift",
       "kind": "StringLiteral",
-      "offset": 927,
+      "offset": 672,
       "length": 37,
       "value": "\"\/api\/process\/startselfprocessbyname\""
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/conn\/ApiRequest.swift",
       "kind": "StringLiteral",
-      "offset": 1005,
+      "offset": 750,
       "length": 47,
       "value": "\"http:\/\/apigateway.onboardinguat.onplateau.com\""
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/conn\/ApiRequest.swift",
       "kind": "StringLiteral",
-      "offset": 1081,
+      "offset": 826,
       "length": 32,
       "value": "\"\/api\/preference\/getthemebycode\""
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/conn\/ApiRequest.swift",
       "kind": "StringLiteral",
-      "offset": 1135,
+      "offset": 880,
       "length": 10,
       "value": "\"\/api\/log\""
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/conn\/ApiRequest.swift",
       "kind": "StringLiteral",
-      "offset": 14200,
+      "offset": 914,
+      "length": 16,
+      "value": "\"\/api\/log\/error\""
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/conn\/ApiRequest.swift",
+      "kind": "StringLiteral",
+      "offset": 17036,
       "length": 18,
       "value": "\"onboardingThemes\""
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/VideoCallPageViewController.swift",
       "kind": "StringLiteral",
-      "offset": 496,
+      "offset": 826,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/VideoCallPageViewController.swift",
       "kind": "StringLiteral",
-      "offset": 530,
+      "offset": 860,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/VideoCallPageViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 557,
+      "offset": 887,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/VideoCallPageViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 911,
+      "offset": 967,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/WaitingPageViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 731,
+      "offset": 875,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/WaitingPageViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 2001,
+      "offset": 1068,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/WaitingPageViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 3711,
+      "offset": 1180,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/FormPageViewController.swift",
       "kind": "Array",
-      "offset": 636,
+      "offset": 756,
       "length": 2,
       "value": "[]"
     },
@@ -8581,7 +9547,7 @@
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/SmsCodeViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 1266,
+      "offset": 1291,
       "length": 1,
       "value": "0"
     },
