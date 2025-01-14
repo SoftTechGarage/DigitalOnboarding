@@ -38,7 +38,7 @@
 		</data>
 		<key>Frameworks/NFCReaderApple.framework/NFCReaderApple</key>
 		<data>
-		ZrqacV3WFdgfrJGMdZzEaE9Gdv8=
+		LQUqFcGr66EvAgjoeNyKAiqT3mE=
 		</data>
 		<key>Frameworks/NFCReaderApple.framework/Resource.bundle/Assets.car</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Frameworks/NFCReaderApple.framework/Resource.bundle/Info.plist</key>
 		<data>
-		AS2WahpxfCWlZ61IvlLIhOZOfzM=
+		WUFXGczK8bZSKmqf8jtloRusBV4=
 		</data>
 		<key>Frameworks/NFCReaderApple.framework/Resource.bundle/_CodeSignature/CodeDirectory</key>
 		<data>
@@ -78,7 +78,7 @@
 		</data>
 		<key>Frameworks/NFCReaderApple.framework/_CodeSignature/CodeResources</key>
 		<data>
-		+cn1z88HH9ISQGJRdI6crNhZw88=
+		ENQXMNXYDmTpHw/fEe/K+W66IVg=
 		</data>
 		<key>Headers/onboarding-Swift.h</key>
 		<data>
@@ -90,7 +90,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		WSAByJE3QHoAK+F5t70YZcI+Yqk=
+		LlY/sBc/g8ZpmKoqXjIgaY6/s8U=
 		</data>
 		<key>InfographicPageViewController.nib</key>
 		<data>
@@ -98,7 +98,7 @@
 		</data>
 		<key>InformationPageViewController.nib</key>
 		<data>
-		wW95a0HL2hZsoPxuZ+8bBCpvKqM=
+		K8G54aH3Uz+YQisIVldZq0yfIDs=
 		</data>
 		<key>MeetingPageViewController.nib</key>
 		<data>
@@ -110,7 +110,7 @@
 		</data>
 		<key>Modules/onboarding.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		zW32w/V3no5/UxkueA5mNY0orLs=
+		UBq9h6LvbGXYpKA126fqvixPUPw=
 		</data>
 		<key>Modules/onboarding.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -126,11 +126,11 @@
 		</data>
 		<key>Modules/onboarding.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		PKyxWRc9mkw1bddpfpONVVZUtDA=
+		N8Ub7EJuuboDYO0kh697dOuiyNI=
 		</data>
 		<key>Modules/onboarding.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		zW32w/V3no5/UxkueA5mNY0orLs=
+		UBq9h6LvbGXYpKA126fqvixPUPw=
 		</data>
 		<key>Modules/onboarding.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -146,7 +146,7 @@
 		</data>
 		<key>Modules/onboarding.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		hn7hSIvu2w41j+w7BDud5TaU8xE=
+		5QoMZHe+abeljf+9sSXtJBvgJaw=
 		</data>
 		<key>NfcPageViewController.nib</key>
 		<data>
@@ -395,7 +395,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			f+gzWfeRy3Yln1DUI5oq/0n5EeVJG8C9exo/YdJZoGA=
+			BAm8HV8SFGjYoBcF3hVJyAuK8TWX5dGHrCHqaHfFCLY=
 			</data>
 		</dict>
 		<key>Frameworks/NFCReaderApple.framework/Resource.bundle/Assets.car</key>
@@ -423,7 +423,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			d2A8c5YfXbsC9Qy5qZlVhGvVtkU3Rcu37C5ujep7JmY=
+			KO0ZOYZ9jWbOPssvhPQgdXeN3TDGBWlhim+t5le+LtA=
 			</data>
 		</dict>
 		<key>Frameworks/NFCReaderApple.framework/Resource.bundle/_CodeSignature/CodeDirectory</key>
@@ -465,7 +465,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			+BgxQneLYTK3jiDvRa7fYPsms3rfBL1GEmX/zPETO6I=
+			Eaz4jJM+wbvusS2M09Px8o7xD+/ASuCJ9nWyx+SMuwE=
 			</data>
 		</dict>
 		<key>Headers/onboarding-Swift.h</key>
@@ -493,7 +493,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			lyOTTAWLFh++7XOFeXBVJZ8lW6zQ1b9BMyhrw18EONI=
+			lYoRs9H7oATJqM5y7I6Iu5h6Zs6a1c5a6xPgDIYJefc=
 			</data>
 		</dict>
 		<key>MeetingPageViewController.nib</key>
@@ -514,7 +514,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			lC0zTyv8iENwwTNuG4x9FLiDJgs1oYnVKn4xGJ4GgQk=
+			J9cLx8TwJl09+ct/C6ypnKBR9WipuetZWMySK5Tzs68=
 			</data>
 		</dict>
 		<key>Modules/onboarding.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -542,14 +542,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			t6DRmiy5pNVPKL/ZibiUJWNH2cmo91AS3SPEGAL7vvY=
+			aricjhJj9vAXYzKHtEoKnqIPUXfS8lGHmx+6qnhAUlA=
 			</data>
 		</dict>
 		<key>Modules/onboarding.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			lC0zTyv8iENwwTNuG4x9FLiDJgs1oYnVKn4xGJ4GgQk=
+			J9cLx8TwJl09+ct/C6ypnKBR9WipuetZWMySK5Tzs68=
 			</data>
 		</dict>
 		<key>Modules/onboarding.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -577,7 +577,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			RJXRy2Lz3OhyuYiEQ2puRk8aX5V1HyFrkTcjLJkHr94=
+			BCRcO5JyJfhPBbSidLFeqvhHwAVdXsGxa3B/cLeGBTY=
 			</data>
 		</dict>
 		<key>NfcPageViewController.nib</key>
