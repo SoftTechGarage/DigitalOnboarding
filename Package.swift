@@ -15,9 +15,9 @@ let package = Package(
         
     ],
     dependencies: [
-        .package(url: "https://github.com/jitsi/webrtc", from: "106.0.0"),
-        .package(url: "https://github.com/Giphy/giphy-ios-sdk", exact: "2.2.6"),
-        .package(url: "https://github.com/SwiftyTesseract/libtesseract.git", exact: "0.2.0"),
+        .package(url: "https://github.com/jitsi/webrtc.git", exact: "106.0.1"),
+        .package(url: "https://github.com/Giphy/giphy-ios-sdk.git", exact: "2.2.6"),
+        .package(url: "https://github.com/SwiftyTesseract/libtesseract.git", exact: "0.2.0")
     ],
     targets: [
         .target(
