@@ -31417,6 +31417,7 @@
         "moduleName": "libtesseract",
         "declAttributes": [
           "SynthesizedProtocol",
+          "SynthesizedProtocol",
           "SynthesizedProtocol"
         ],
         "isExternal": true,
@@ -32387,6 +32388,7 @@
         "moduleName": "libtesseract",
         "declAttributes": [
           "SynthesizedProtocol",
+          "SynthesizedProtocol",
           "SynthesizedProtocol"
         ],
         "isExternal": true,
@@ -32404,6 +32406,13 @@
             "printedName": "Escapable",
             "usr": "s:s9EscapableP",
             "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
           },
           {
             "kind": "Conformance",

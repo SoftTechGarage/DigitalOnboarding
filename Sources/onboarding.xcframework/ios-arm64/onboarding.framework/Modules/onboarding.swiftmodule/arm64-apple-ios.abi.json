@@ -1,8 +1,8 @@
 {
   "ABIRoot": {
     "kind": "Root",
-    "name": "TopLevel",
-    "printedName": "TopLevel",
+    "name": "onboarding",
+    "printedName": "onboarding",
     "children": [
       {
         "kind": "Import",
@@ -174,6 +174,22 @@
         "moduleName": "onboarding",
         "declAttributes": [
           "AccessControl"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          }
         ]
       },
       {
@@ -729,7 +745,23 @@
         "declAttributes": [
           "AccessControl"
         ],
-        "hasMissingDesignatedInitializers": true
+        "hasMissingDesignatedInitializers": true,
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
+        ]
       },
       {
         "kind": "Import",
@@ -953,7 +985,23 @@
           "AccessControl",
           "RawDocComment"
         ],
-        "hasMissingDesignatedInitializers": true
+        "hasMissingDesignatedInitializers": true,
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
+        ]
       },
       {
         "kind": "Import",
@@ -1367,6 +1415,22 @@
         "moduleName": "onboarding",
         "declAttributes": [
           "AccessControl"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
         ]
       },
       {
@@ -1479,6 +1543,22 @@
         "moduleName": "onboarding",
         "declAttributes": [
           "AccessControl"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          }
         ]
       },
       {
@@ -1699,6 +1779,22 @@
         "declAttributes": [
           "AccessControl",
           "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
         ]
       },
       {
@@ -1831,6 +1927,22 @@
         "moduleName": "onboarding",
         "declAttributes": [
           "AccessControl"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          }
         ]
       },
       {
@@ -1978,6 +2090,22 @@
         "declAttributes": [
           "AccessControl",
           "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          }
         ]
       },
       {
@@ -2201,6 +2329,20 @@
           "AccessControl"
         ],
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
           {
             "kind": "Conformance",
             "name": "Equatable",
@@ -3104,6 +3246,22 @@
         "moduleName": "onboarding",
         "declAttributes": [
           "AccessControl"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
         ]
       },
       {
@@ -3345,6 +3503,7 @@
               "HasInitialValue",
               "Final",
               "HasStorage",
+              "Preconcurrency",
               "Custom"
             ],
             "isFromExtension": true,
@@ -3398,6 +3557,7 @@
               "HasInitialValue",
               "Final",
               "HasStorage",
+              "Preconcurrency",
               "Custom"
             ],
             "isFromExtension": true,
@@ -3438,6 +3598,7 @@
         "intro_iOS": "2.0",
         "objc_name": "UIDevice",
         "declAttributes": [
+          "Preconcurrency",
           "Available",
           "ObjC",
           "NonSendable",
@@ -3451,6 +3612,20 @@
           "ObjectiveC.NSObject"
         ],
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
           {
             "kind": "Conformance",
             "name": "Equatable",
@@ -3532,6 +3707,7 @@
             "mangledName": "$sSo6UIViewC10onboardingE15loadViewFromNibABSgyF",
             "moduleName": "onboarding",
             "declAttributes": [
+              "Preconcurrency",
               "Custom"
             ],
             "isFromExtension": true,
@@ -3559,6 +3735,7 @@
             "mangledName": "$sSo6UIViewC10onboardingE13fillSuperview4withy12CoreGraphics7CGFloatV_tF",
             "moduleName": "onboarding",
             "declAttributes": [
+              "Preconcurrency",
               "Custom"
             ],
             "isFromExtension": true,
@@ -3592,6 +3769,7 @@
             "mangledName": "$sSo6UIViewC10onboardingE13fillSuperview17horizontalPadding08verticalF0y12CoreGraphics7CGFloatV_AItF",
             "moduleName": "onboarding",
             "declAttributes": [
+              "Preconcurrency",
               "Custom"
             ],
             "isFromExtension": true,
@@ -3620,6 +3798,7 @@
             "mangledName": "$sSo6UIViewC10onboardingE13fillSuperview4withySo12UIEdgeInsetsV_tF",
             "moduleName": "onboarding",
             "declAttributes": [
+              "Preconcurrency",
               "Custom"
             ],
             "isFromExtension": true,
@@ -3648,6 +3827,7 @@
             "mangledName": "$sSo6UIViewC10onboardingE12fillSafeArea4withySo12UIEdgeInsetsV_tF",
             "moduleName": "onboarding",
             "declAttributes": [
+              "Preconcurrency",
               "Custom"
             ],
             "isFromExtension": true,
@@ -3764,6 +3944,7 @@
             "mangledName": "$sSo6UIViewC10onboardingE6anchor3top7leading6bottom8trailing0D7Padding0eH00fH00gH04sizeySo19NSLayoutYAxisAnchorCSg_So0j5XAxisL0CSgApS12CoreGraphics7CGFloatVA3VSo6CGSizeVtF",
             "moduleName": "onboarding",
             "declAttributes": [
+              "Preconcurrency",
               "Custom"
             ],
             "isFromExtension": true,
@@ -3815,6 +3996,7 @@
             "mangledName": "$sSo6UIViewC10onboardingE10sizeAnchor5width6heighty12CoreGraphics7CGFloatVSg_AJtF",
             "moduleName": "onboarding",
             "declAttributes": [
+              "Preconcurrency",
               "Custom"
             ],
             "isFromExtension": true,
@@ -3842,6 +4024,7 @@
             "mangledName": "$sSo6UIViewC10onboardingE6aspect5ratioy12CoreGraphics7CGFloatV_tF",
             "moduleName": "onboarding",
             "declAttributes": [
+              "Preconcurrency",
               "Custom"
             ],
             "isFromExtension": true,
@@ -3907,6 +4090,7 @@
             "mangledName": "$sSo6UIViewC10onboardingE12centerAnchor0C1Y0C1X1x1yySo013NSLayoutYAxisD0CSg_So0e5XAxisD0CSg12CoreGraphics7CGFloatVAQtF",
             "moduleName": "onboarding",
             "declAttributes": [
+              "Preconcurrency",
               "Custom"
             ],
             "isFromExtension": true,
@@ -3948,6 +4132,7 @@
             "mangledName": "$sSo6UIViewC10onboardingE13centerYAnchor2to10multiplier8constantyAB_12CoreGraphics7CGFloatVAJtF",
             "moduleName": "onboarding",
             "declAttributes": [
+              "Preconcurrency",
               "Custom"
             ],
             "isFromExtension": true,
@@ -3989,6 +4174,7 @@
             "mangledName": "$sSo6UIViewC10onboardingE13centerXAnchor2to10multiplier8constantyAB_12CoreGraphics7CGFloatVAJtF",
             "moduleName": "onboarding",
             "declAttributes": [
+              "Preconcurrency",
               "Custom"
             ],
             "isFromExtension": true,
@@ -4010,6 +4196,7 @@
             "mangledName": "$sSo6UIViewC10onboardingE22alignCenterToSuperViewyyF",
             "moduleName": "onboarding",
             "declAttributes": [
+              "Preconcurrency",
               "Custom"
             ],
             "isFromExtension": true,
@@ -4031,6 +4218,7 @@
             "mangledName": "$sSo6UIViewC10onboardingE23alignCenterYToSuperViewyyF",
             "moduleName": "onboarding",
             "declAttributes": [
+              "Preconcurrency",
               "Custom"
             ],
             "isFromExtension": true,
@@ -4052,6 +4240,7 @@
             "mangledName": "$sSo6UIViewC10onboardingE23alignCenterXToSuperViewyyF",
             "moduleName": "onboarding",
             "declAttributes": [
+              "Preconcurrency",
               "Custom"
             ],
             "isFromExtension": true,
@@ -4086,6 +4275,7 @@
             "mangledName": "$sSo6UIViewC10onboardingE10equalWidth4with2toy12CoreGraphics7CGFloatV_ABtF",
             "moduleName": "onboarding",
             "declAttributes": [
+              "Preconcurrency",
               "Custom"
             ],
             "isFromExtension": true,
@@ -4149,6 +4339,7 @@
             "mangledName": "$sSo6UIViewC10onboardingE11applyShadow5color5alpha1x1y4blur6spreadySo7UIColorC_Sf12CoreGraphics7CGFloatVA3OtF",
             "moduleName": "onboarding",
             "declAttributes": [
+              "Preconcurrency",
               "Custom"
             ],
             "isFromExtension": true,
@@ -4171,6 +4362,7 @@
             "mangledName": "$sSo6UIViewC10onboardingE17safeAreaTopAnchorSo013NSLayoutYAxisF0Cvp",
             "moduleName": "onboarding",
             "declAttributes": [
+              "Preconcurrency",
               "Custom"
             ],
             "isFromExtension": true,
@@ -4213,6 +4405,7 @@
             "mangledName": "$sSo6UIViewC10onboardingE21safeAreaLeadingAnchorSo013NSLayoutXAxisF0Cvp",
             "moduleName": "onboarding",
             "declAttributes": [
+              "Preconcurrency",
               "Custom"
             ],
             "isFromExtension": true,
@@ -4255,6 +4448,7 @@
             "mangledName": "$sSo6UIViewC10onboardingE22safeAreaTrailingAnchorSo013NSLayoutXAxisF0Cvp",
             "moduleName": "onboarding",
             "declAttributes": [
+              "Preconcurrency",
               "Custom"
             ],
             "isFromExtension": true,
@@ -4297,6 +4491,7 @@
             "mangledName": "$sSo6UIViewC10onboardingE20safeAreaBottomAnchorSo013NSLayoutYAxisF0Cvp",
             "moduleName": "onboarding",
             "declAttributes": [
+              "Preconcurrency",
               "Custom"
             ],
             "isFromExtension": true,
@@ -4330,6 +4525,7 @@
         "intro_iOS": "2.0",
         "objc_name": "UIView",
         "declAttributes": [
+          "Preconcurrency",
           "Available",
           "ObjC",
           "NonSendable",
@@ -4344,6 +4540,20 @@
           "ObjectiveC.NSObject"
         ],
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
           {
             "kind": "Conformance",
             "name": "Equatable",
@@ -7375,6 +7585,741 @@
       "value": "1.0"
     },
     {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 2514,
+      "length": 5,
+      "value": "239.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 2520,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 2534,
+      "length": 5,
+      "value": "242.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 2540,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 2553,
+      "length": 5,
+      "value": "247.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 2559,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 2573,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 2633,
+      "length": 5,
+      "value": "207.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 2639,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 2653,
+      "length": 5,
+      "value": "216.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 2659,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 2672,
+      "length": 5,
+      "value": "232.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 2678,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 2692,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 2756,
+      "length": 5,
+      "value": "239.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 2762,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 2776,
+      "length": 5,
+      "value": "242.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 2782,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 2795,
+      "length": 5,
+      "value": "247.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 2801,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 2815,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 2895,
+      "length": 4,
+      "value": "30.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 2900,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 2914,
+      "length": 5,
+      "value": "180.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 2920,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 2933,
+      "length": 5,
+      "value": "225.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 2939,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 2953,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 3017,
+      "length": 4,
+      "value": "30.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 3022,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 3036,
+      "length": 5,
+      "value": "180.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 3042,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 3055,
+      "length": 5,
+      "value": "225.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 3061,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 3075,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 3143,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 3147,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 3161,
+      "length": 5,
+      "value": "180.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 3167,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 3180,
+      "length": 5,
+      "value": "227.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 3186,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 3200,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 3288,
+      "length": 5,
+      "value": "252.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 3294,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 3308,
+      "length": 4,
+      "value": "82.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 3313,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 3326,
+      "length": 4,
+      "value": "31.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 3331,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 3345,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 3413,
+      "length": 4,
+      "value": "31.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 3418,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 3432,
+      "length": 4,
+      "value": "39.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 3437,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 3450,
+      "length": 4,
+      "value": "51.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 3455,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 3469,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 3549,
+      "length": 5,
+      "value": "239.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 3555,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 3569,
+      "length": 5,
+      "value": "242.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 3575,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 3588,
+      "length": 5,
+      "value": "247.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 3594,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 3608,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 3686,
+      "length": 5,
+      "value": "239.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 3692,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 3706,
+      "length": 5,
+      "value": "242.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 3712,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 3725,
+      "length": 5,
+      "value": "247.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 3731,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 3745,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 3813,
+      "length": 3,
+      "value": "6.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 3817,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 3831,
+      "length": 4,
+      "value": "54.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 3836,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 3849,
+      "length": 5,
+      "value": "156.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 3855,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 3869,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 3951,
+      "length": 4,
+      "value": "31.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 3956,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 3970,
+      "length": 4,
+      "value": "39.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 3975,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 3988,
+      "length": 4,
+      "value": "51.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 3993,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 4007,
+      "length": 4,
+      "value": "0.25"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 4098,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 4102,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 4116,
+      "length": 5,
+      "value": "180.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 4122,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 4135,
+      "length": 5,
+      "value": "227.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 4141,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 4155,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 4235,
+      "length": 5,
+      "value": "239.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 4241,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 4255,
+      "length": 5,
+      "value": "242.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 4261,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 4274,
+      "length": 5,
+      "value": "247.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 4280,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 4294,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 4364,
+      "length": 4,
+      "value": "31.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 4369,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 4383,
+      "length": 4,
+      "value": "39.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 4388,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 4401,
+      "length": 4,
+      "value": "51.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 4406,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/util\/OnboardingTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 4420,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/screen\/ConfirmationPageViewController.swift",
       "kind": "Array",
       "offset": 660,
@@ -8265,13 +9210,6 @@
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/ui\/OnboardingLoader.swift",
-      "kind": "StringLiteral",
-      "offset": 184,
-      "length": 16,
-      "value": "\"onboarding.OnboardingLoader\""
-    },
-    {
-      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/ui\/OnboardingLoader.swift",
       "kind": "FloatLiteral",
       "offset": 1932,
       "length": 3,
@@ -8311,6 +9249,34 @@
       "offset": 2230,
       "length": 2,
       "value": "10"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/ui\/OnboardingLoader.swift",
+      "kind": "FloatLiteral",
+      "offset": 3103,
+      "length": 3,
+      "value": "2.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/ui\/OnboardingLoader.swift",
+      "kind": "FloatLiteral",
+      "offset": 3134,
+      "length": 3,
+      "value": "2.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/ui\/OnboardingLoader.swift",
+      "kind": "FloatLiteral",
+      "offset": 3305,
+      "length": 3,
+      "value": "2.0"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/ui\/OnboardingLoader.swift",
+      "kind": "FloatLiteral",
+      "offset": 3414,
+      "length": 3,
+      "value": "2.0"
     },
     {
       "filePath": "\/Users\/salih.kir\/onboardingios-demo\/SDK\/onboarding\/ui\/OnboardingLoader.swift",
