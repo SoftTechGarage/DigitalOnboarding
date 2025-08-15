@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		36AxcyKIbud3wmvUegHxCU5ZqWk=
+		0ne7GeNo8f4rQM6ZpPQGJy9+ffM=
 		</data>
 		<key>CalendarPageViewController.nib</key>
 		<data>
@@ -14,7 +14,7 @@
 		</data>
 		<key>ConfirmationPageViewController.nib</key>
 		<data>
-		HNLnVq7IV0wEHfYE5SoC264nJTQ=
+		QqG7pQrZRmu0iONkAhyEM+ngjdo=
 		</data>
 		<key>EmailActivationViewController.nib</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>Headers/onboarding-Swift.h</key>
 		<data>
-		wzhaIk1/AGCcaFwyCF2Ufk74inI=
+		Az0qKQcHZ+gFATLlA7sTtZ9eQ4Y=
 		</data>
 		<key>Headers/onboarding.h</key>
 		<data>
@@ -42,7 +42,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		iwDJbkCqBXCkvOY1s2Rv0/7x27M=
+		Xv7VdIfmUZip+SE8aENZPy3jPBM=
 		</data>
 		<key>InfographicPageViewController.nib</key>
 		<data>
@@ -62,43 +62,43 @@
 		</data>
 		<key>Modules/onboarding.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		UBq9h6LvbGXYpKA126fqvixPUPw=
+		ph2wgewhciBI+QzCQga9VlMnaUg=
 		</data>
 		<key>Modules/onboarding.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		n+Yf1vuRl7hww5o2qliVIir/n3w=
+		3e0/omtYsvm/XMJtB4vTcodBOmk=
 		</data>
 		<key>Modules/onboarding.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		kY7Py5vzHrEWl0OMpCNF6Xva+TI=
+		y7RSTwOm5IvzqBCrRF+bAQLX/vU=
 		</data>
 		<key>Modules/onboarding.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		n+Yf1vuRl7hww5o2qliVIir/n3w=
+		3e0/omtYsvm/XMJtB4vTcodBOmk=
 		</data>
 		<key>Modules/onboarding.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		t7lhShEDV1/XkxpdAcQ0uHsewZ0=
+		Q0LP+TCMmJDe+9nH8lD4ALCR3wI=
 		</data>
 		<key>Modules/onboarding.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		UBq9h6LvbGXYpKA126fqvixPUPw=
+		ph2wgewhciBI+QzCQga9VlMnaUg=
 		</data>
 		<key>Modules/onboarding.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		T+5YmRdL86m+3nyA9528JPrNYOM=
+		xkub4e/LVPjXa5yI7a4RGlA2Mdo=
 		</data>
 		<key>Modules/onboarding.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		GEHQFkigDA2gxROtELcu2RpfTdk=
+		awjNmgrhMVBBbs0GAcUS3x1Dc1I=
 		</data>
 		<key>Modules/onboarding.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		T+5YmRdL86m+3nyA9528JPrNYOM=
+		xkub4e/LVPjXa5yI7a4RGlA2Mdo=
 		</data>
 		<key>Modules/onboarding.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		gZ0NiyWys3YPtL+nOew5BC7GtJs=
+		vjWMQRYga6KcbfmLB6PVL3G+NHU=
 		</data>
 		<key>NfcPageViewController.nib</key>
 		<data>
@@ -210,7 +210,7 @@
 		</data>
 		<key>OnboardingWarning.nib</key>
 		<data>
-		UB8JN7KYt1wQLdS16fSAbBZL9xU=
+		KTR4Imu5PtzDwICbmUVTa8Ubo7g=
 		</data>
 		<key>ProcessPageViewController.nib</key>
 		<data>
@@ -250,7 +250,7 @@
 		</data>
 		<key>WebPageViewController.nib</key>
 		<data>
-		EBlFZDhW3F0Bz5xTe7uCtKXrVpY=
+		1cCYQtK9JqUumFjYdG3+4nDHKVE=
 		</data>
 		<key>WelcomePageViewController.nib</key>
 		<data>
@@ -291,7 +291,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			AGelHb59nTSy07y4tHOjI1/7rV9oIHQcHJPSiXcu9nk=
+			S807qTzaT26jNbq1KUfiMXeI6OSscYpTJokIzwCjLWA=
 			</data>
 		</dict>
 		<key>CalendarPageViewController.nib</key>
@@ -305,7 +305,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			0Ag1qv3mkCaYPT+OC3N9oaHftXj06llbAAr5o5Fnx5Y=
+			PTFET5erTbDSIWEN4uGuZu0trPQ/eWEfWLyYr3I6vw0=
 			</data>
 		</dict>
 		<key>EmailActivationViewController.nib</key>
@@ -340,7 +340,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			DLFoJPuY5F22boNe7kxjHEv8EaXSsQI/o89aRXtD4IE=
+			YdZn/Vp+mkg/xioWqo3XHog3eb3y7OBl6wbbg6G56bg=
 			</data>
 		</dict>
 		<key>Headers/onboarding.h</key>
@@ -382,70 +382,70 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			J9cLx8TwJl09+ct/C6ypnKBR9WipuetZWMySK5Tzs68=
+			/86U3mLGdxqQ7wQ/qWpqacP5E3+Mk5zcAv7X49dNgi8=
 			</data>
 		</dict>
 		<key>Modules/onboarding.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			EnuJdCjBBhlBPNbp5pam6+SDmyTDRMowIOLHQAMKqBA=
+			zlB/+XY7uDG4rXVyxJNUyUmdhlGE1lJ7C5kZPxJ6T1E=
 			</data>
 		</dict>
 		<key>Modules/onboarding.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7QD5Hpaa6qgeNTXuya6JpJNGqDDO/1wcYOwXm7auNs4=
+			oadXNe/L7gG9qM9ZBquBufHtwkQLAqI3QPmf/ClVCrE=
 			</data>
 		</dict>
 		<key>Modules/onboarding.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			EnuJdCjBBhlBPNbp5pam6+SDmyTDRMowIOLHQAMKqBA=
+			zlB/+XY7uDG4rXVyxJNUyUmdhlGE1lJ7C5kZPxJ6T1E=
 			</data>
 		</dict>
 		<key>Modules/onboarding.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			OExbDGOjKf6IF4okwI03L1w0IdqAWCFvndQXb+HFz8I=
+			2Tv2v4F6IoJu8Xqn2PZcGGr7lC3v/5IAnndP8JR8g6U=
 			</data>
 		</dict>
 		<key>Modules/onboarding.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			J9cLx8TwJl09+ct/C6ypnKBR9WipuetZWMySK5Tzs68=
+			/86U3mLGdxqQ7wQ/qWpqacP5E3+Mk5zcAv7X49dNgi8=
 			</data>
 		</dict>
 		<key>Modules/onboarding.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			0KrnHItEvlB9zJHfV2lnBM2WHBtj+zCeS/HL6F6rWss=
+			Ni17DMdA7hJxuPJEO+ZocnK0C3BynvBexP6lbVhIwZk=
 			</data>
 		</dict>
 		<key>Modules/onboarding.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			dXyB+37rpwYiCNLfCB7bd3k75Og44JgyZEeT3Ck2JwY=
+			MN285Ddhk6hLIKJRVJQQlMmEjgVz4YNsyaPxQPuUQVk=
 			</data>
 		</dict>
 		<key>Modules/onboarding.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			0KrnHItEvlB9zJHfV2lnBM2WHBtj+zCeS/HL6F6rWss=
+			Ni17DMdA7hJxuPJEO+ZocnK0C3BynvBexP6lbVhIwZk=
 			</data>
 		</dict>
 		<key>Modules/onboarding.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			3K8ZVwBe1bHX4a3s5A2yLV3z901pI5HSCx9Oim1RsxE=
+			FdK5D1FL7+eSh8iTwbGrO+7O6Lc8xQCP3A5QbgOiPmk=
 			</data>
 		</dict>
 		<key>NfcPageViewController.nib</key>
@@ -641,7 +641,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			pshzezQLIPbrbGBHX7Yf2Oavz/5fkPiSANRlUvRYkxQ=
+			Pq5DQHxKDvOpyQ+MV4CqsaspmUJoy+BDLZj64XpFSoU=
 			</data>
 		</dict>
 		<key>ProcessPageViewController.nib</key>
@@ -711,7 +711,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			dJRYOVEeY5Yc/nG7Ea5DO7DoWyTHuT5aa83GX43htts=
+			2VTkC/dF4Ozg8GETcNSjysJ0eoQGgGs21g1WktgZRVo=
 			</data>
 		</dict>
 		<key>WelcomePageViewController.nib</key>
