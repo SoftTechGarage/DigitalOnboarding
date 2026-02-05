@@ -1,8 +1,8 @@
 {
   "ABIRoot": {
     "kind": "Root",
-    "name": "TopLevel",
-    "printedName": "TopLevel",
+    "name": "JitsiMeetSDK",
+    "printedName": "JitsiMeetSDK",
     "children": [
       {
         "kind": "Import",
@@ -49,6 +49,22 @@
         "sugared_genericSig": "<Self : AnyObject>",
         "declAttributes": [
           "AccessControl"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          }
         ]
       },
       {
@@ -314,6 +330,20 @@
               "AccessControl"
             ],
             "conformances": [
+              {
+                "kind": "Conformance",
+                "name": "Copyable",
+                "printedName": "Copyable",
+                "usr": "s:s8CopyableP",
+                "mangledName": "$ss8CopyableP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Escapable",
+                "printedName": "Escapable",
+                "usr": "s:s9EscapableP",
+                "mangledName": "$ss9EscapableP"
+              },
               {
                 "kind": "Conformance",
                 "name": "Equatable",
@@ -604,7 +634,7 @@
               {
                 "kind": "TypeNominal",
                 "name": "WeakStorage",
-                "printedName": "JitsiMeetSDK.PiPViewCoordinatorDelegate?"
+                "printedName": "(any JitsiMeetSDK.PiPViewCoordinatorDelegate)?"
               }
             ],
             "declKind": "Var",
@@ -628,12 +658,12 @@
                   {
                     "kind": "TypeNominal",
                     "name": "Optional",
-                    "printedName": "JitsiMeetSDK.PiPViewCoordinatorDelegate?",
+                    "printedName": "(any JitsiMeetSDK.PiPViewCoordinatorDelegate)?",
                     "children": [
                       {
                         "kind": "TypeNominal",
                         "name": "PiPViewCoordinatorDelegate",
-                        "printedName": "JitsiMeetSDK.PiPViewCoordinatorDelegate",
+                        "printedName": "any JitsiMeetSDK.PiPViewCoordinatorDelegate",
                         "usr": "s:12JitsiMeetSDK26PiPViewCoordinatorDelegateP"
                       }
                     ],
@@ -660,12 +690,12 @@
                   {
                     "kind": "TypeNominal",
                     "name": "Optional",
-                    "printedName": "JitsiMeetSDK.PiPViewCoordinatorDelegate?",
+                    "printedName": "(any JitsiMeetSDK.PiPViewCoordinatorDelegate)?",
                     "children": [
                       {
                         "kind": "TypeNominal",
                         "name": "PiPViewCoordinatorDelegate",
-                        "printedName": "JitsiMeetSDK.PiPViewCoordinatorDelegate",
+                        "printedName": "any JitsiMeetSDK.PiPViewCoordinatorDelegate",
                         "usr": "s:12JitsiMeetSDK26PiPViewCoordinatorDelegateP"
                       }
                     ],
@@ -990,6 +1020,22 @@
         "declAttributes": [
           "AccessControl",
           "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
         ]
       },
       {

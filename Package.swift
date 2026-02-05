@@ -15,7 +15,7 @@ let package = Package(
         
     ],
     dependencies: [
-        .package(url: "https://github.com/jitsi/webrtc.git", exact: "106.0.1"),
+        .package(url: "https://github.com/jitsi/webrtc.git", exact: "124.0.2"),
         .package(url: "https://github.com/Giphy/giphy-ios-sdk.git", exact: "2.2.6"),
         .package(url: "https://github.com/SwiftyTesseract/libtesseract.git", exact: "0.2.0")
     ],
@@ -28,9 +28,13 @@ let package = Package(
                 "onboarding",
                 "OpenSSL",
                 "libtesseract",
+                "hermes",
                 .product(name: "GiphyUISDK", package: "giphy-ios-sdk"),
                 .product(name: "WebRTC", package: "webrtc"),
             ]),
+        .binaryTarget(
+            name: "hermes",
+            path: "Sources/hermes.xcframework"),
         .binaryTarget(
             name: "JitsiMeetSDK",
             path: "Sources/JitsiMeetSDK.xcframework"),

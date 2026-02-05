@@ -6,40 +6,43 @@
 	<dict>
 		<key>.DS_Store</key>
 		<data>
-		I/V7hTAonfARGt65vEJJwttOyNs=
+		jf9LWQkXjSVQYWvbhTEKqCE3sGI=
 		</data>
-		<key>ios-arm64/.DS_Store</key>
+		<key>ios-arm64/JitsiMeetSDK.framework/AppAuthCore_Privacy.bundle/Info.plist</key>
 		<data>
-		BRdGIIt+gbjnyz8DaablZMWDiWY=
+		5xtQbPNwGnvrFZm+ZLn5KKOCQmE=
 		</data>
-		<key>ios-arm64/JitsiMeetSDK.framework/.DS_Store</key>
+		<key>ios-arm64/JitsiMeetSDK.framework/AppAuthCore_Privacy.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
-		LVfnnX6sJzaaP9Zp2IrhT78hfkQ=
+		MCDRptixYfA+qALBX9b4uxq3rwo=
 		</data>
-		<key>ios-arm64/JitsiMeetSDK.framework/AccessibilityResources.bundle/Info.plist</key>
-		<data>
-		ROeu8RJxJLo/WEZmSZnrwtVsHpY=
-		</data>
-		<key>ios-arm64/JitsiMeetSDK.framework/AccessibilityResources.bundle/en.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			ha91OZw4TOgWUxuUT5BbsiwqaW0=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/CallKitIcon.png</key>
 		<data>
 		qU7OsCaFMpm2j24h/zSvv3VMZGY=
 		</data>
-		<key>ios-arm64/JitsiMeetSDK.framework/ComodoRsaDomainValidationCA.der</key>
+		<key>ios-arm64/JitsiMeetSDK.framework/GTMAppAuth_Privacy.bundle/Info.plist</key>
 		<data>
-		M5zdV8/VsUEWm2Ff8xQoeC0dpjk=
+		hnnZCG3oju1LeNoNSTH0TFylhNw=
+		</data>
+		<key>ios-arm64/JitsiMeetSDK.framework/GTMAppAuth_Privacy.bundle/PrivacyInfo.xcprivacy</key>
+		<data>
+		AL1dh5ctObXBjoBiabSJ86M3HQs=
+		</data>
+		<key>ios-arm64/JitsiMeetSDK.framework/GTMSessionFetcher_Core_Privacy.bundle/Info.plist</key>
+		<data>
+		Z9ig6wRE8A7IotzcucRhsMYsTE8=
+		</data>
+		<key>ios-arm64/JitsiMeetSDK.framework/GTMSessionFetcher_Core_Privacy.bundle/PrivacyInfo.xcprivacy</key>
+		<data>
+		GqeAMkwbcNQeG0K4qQhQh2vHhHo=
 		</data>
 		<key>ios-arm64/JitsiMeetSDK.framework/GoogleSignIn.bundle/Info.plist</key>
 		<data>
-		VfAD5xBqJYevVSrRacIuAkU+zOY=
+		4X9E+GrCjbA5ARRaYaH0QXnbez4=
+		</data>
+		<key>ios-arm64/JitsiMeetSDK.framework/GoogleSignIn.bundle/PrivacyInfo.xcprivacy</key>
+		<data>
+		Bpn4ciS1QfdDGVc7S27q+o0IUEM=
 		</data>
 		<key>ios-arm64/JitsiMeetSDK.framework/GoogleSignIn.bundle/Roboto-Bold.ttf</key>
 		<data>
@@ -417,7 +420,7 @@
 		</data>
 		<key>ios-arm64/JitsiMeetSDK.framework/Headers/JitsiMeet.h</key>
 		<data>
-		pyCc533UjktYDvU4R0JnZnPc4l8=
+		gSTYgM6d7txTM53HA8yxkJgK94A=
 		</data>
 		<key>ios-arm64/JitsiMeetSDK.framework/Headers/JitsiMeetBaseLogHandler.h</key>
 		<data>
@@ -431,6 +434,10 @@
 		<data>
 		WwKeJCkm5XEcVUkq7O1te9iU1gQ=
 		</data>
+		<key>ios-arm64/JitsiMeetSDK.framework/Headers/JitsiMeetSDK-Swift.h</key>
+		<data>
+		h9YVVos6y9yE/HnOmJ34kRqwSWw=
+		</data>
 		<key>ios-arm64/JitsiMeetSDK.framework/Headers/JitsiMeetSDK.h</key>
 		<data>
 		W7tTj8SY6XXATSHr993DnPNtnws=
@@ -441,43 +448,91 @@
 		</data>
 		<key>ios-arm64/JitsiMeetSDK.framework/Headers/JitsiMeetView.h</key>
 		<data>
-		ohgfCLP68iy8Z1T7UrjXNZ0mYB4=
+		sJvNEG01h5TORklPa/BpRMZOr2o=
 		</data>
 		<key>ios-arm64/JitsiMeetSDK.framework/Headers/JitsiMeetViewDelegate.h</key>
 		<data>
-		6YFSDcZCOmyU5MpLeZEF6O4kQnE=
+		TReUmJ5VfWkOupZjiID/j8baL1g=
 		</data>
 		<key>ios-arm64/JitsiMeetSDK.framework/Info.plist</key>
 		<data>
-		tfaKI/zggg4eZBZbV0EEvVmUMpk=
+		0qpjpV2gYtL3PKgRnUov9/ZSjOc=
 		</data>
 		<key>ios-arm64/JitsiMeetSDK.framework/JitsiMeetSDK</key>
 		<data>
-		vlNhG43eYPoSi7Djjop95e2GaFQ=
+		6fH2lBqGX7ZkqfQ/S0N9ieApK5U=
 		</data>
 		<key>ios-arm64/JitsiMeetSDK.framework/Modules/JitsiMeetSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		uVPjtE5tTqGvuGffTjLo5S1VEcA=
+		Gq3Wr6h8zO7s4alBT+PLxyeAFtA=
 		</data>
 		<key>ios-arm64/JitsiMeetSDK.framework/Modules/JitsiMeetSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		Wah7/u1bOeAenZjI1FvLvkpbcHM=
+		8Rcq3T9KLwTz1LIBWJxxLJQOikw=
 		</data>
 		<key>ios-arm64/JitsiMeetSDK.framework/Modules/JitsiMeetSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		kcbfoGiyWIRNMw9sJCsjHc6t+F0=
+		E5cXxKVd9xiJkWj6XDkjmu2v1Zg=
 		</data>
 		<key>ios-arm64/JitsiMeetSDK.framework/Modules/JitsiMeetSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		Wah7/u1bOeAenZjI1FvLvkpbcHM=
+		8Rcq3T9KLwTz1LIBWJxxLJQOikw=
 		</data>
 		<key>ios-arm64/JitsiMeetSDK.framework/Modules/module.modulemap</key>
 		<data>
-		AQWoEreXXmrAdz/vCZTQYIfi6Fw=
+		weCgT6+zuQYvdnqNYOrkG1W5Gt0=
+		</data>
+		<key>ios-arm64/JitsiMeetSDK.framework/RCT-Folly_privacy.bundle/Info.plist</key>
+		<data>
+		varW9KlH/VRLD0p5NPuKPzz34EQ=
 		</data>
 		<key>ios-arm64/JitsiMeetSDK.framework/README.md</key>
 		<data>
 		hY/A0DqJnBqZgTgmITcGIvJrk28=
+		</data>
+		<key>ios-arm64/JitsiMeetSDK.framework/RNCAsyncStorage_resources.bundle/Info.plist</key>
+		<data>
+		YlhBK7UIBjkUI9wMbmW432D7vBA=
+		</data>
+		<key>ios-arm64/JitsiMeetSDK.framework/RNCAsyncStorage_resources.bundle/PrivacyInfo.xcprivacy</key>
+		<data>
+		sPDfyCwXVFwSP8cGRWRskpblWgM=
+		</data>
+		<key>ios-arm64/JitsiMeetSDK.framework/RNDeviceInfoPrivacyInfo.bundle/Info.plist</key>
+		<data>
+		jI8d+HBhxirARu20+TpB+cnaX9Q=
+		</data>
+		<key>ios-arm64/JitsiMeetSDK.framework/RNDeviceInfoPrivacyInfo.bundle/PrivacyInfo.xcprivacy</key>
+		<data>
+		m8aNKGgCLWHtBQWong4x8zsNang=
+		</data>
+		<key>ios-arm64/JitsiMeetSDK.framework/RNSVGFilters.bundle/Info.plist</key>
+		<data>
+		zTqpV4HrHQQiB/Q8+vv/MJD1b/Y=
+		</data>
+		<key>ios-arm64/JitsiMeetSDK.framework/RNSVGFilters.bundle/RNSVGArithmeticFilter.iphoneos.metallib</key>
+		<data>
+		+VLexPzHghS5+wGZ2o3Pb4hzkK4=
+		</data>
+		<key>ios-arm64/JitsiMeetSDK.framework/RNSVGFilters.bundle/RNSVGCompositeXor.iphoneos.metallib</key>
+		<data>
+		uBh9rD7P0EEOLBtlduH9X3cREsM=
+		</data>
+		<key>ios-arm64/JitsiMeetSDK.framework/React-Core_privacy.bundle/Info.plist</key>
+		<data>
+		jvZqG851L4TCLCAr0xKBWBMV7Xo=
+		</data>
+		<key>ios-arm64/JitsiMeetSDK.framework/React-Core_privacy.bundle/PrivacyInfo.xcprivacy</key>
+		<data>
+		ZahcOiTSEcJJdvNh0xqgAKPqbMs=
+		</data>
+		<key>ios-arm64/JitsiMeetSDK.framework/React-cxxreact_privacy.bundle/Info.plist</key>
+		<data>
+		hrxbY101KstAyeoSimiV89Dabzw=
+		</data>
+		<key>ios-arm64/JitsiMeetSDK.framework/React-cxxreact_privacy.bundle/PrivacyInfo.xcprivacy</key>
+		<data>
+		dxJQFdQ77efnBkB0VBZmuIamJ4g=
 		</data>
 		<key>ios-arm64/JitsiMeetSDK.framework/asked-unmute.mp3</key>
 		<data>
@@ -539,6 +594,10 @@
 		<data>
 		8kFG8Vv7Hfrw4yVcFrhUhbHieBA=
 		</data>
+		<key>ios-arm64/JitsiMeetSDK.framework/boost_privacy.bundle/Info.plist</key>
+		<data>
+		QJin24McDrt2Ursl0gJML90ZQVc=
+		</data>
 		<key>ios-arm64/JitsiMeetSDK.framework/e2eeOff.mp3</key>
 		<data>
 		vX0Vb0leIMyc1gcniQ56G8w+3Tc=
@@ -547,6 +606,22 @@
 		<data>
 		jqkhj9h3UOZw0cnIDtsHdfIBENs=
 		</data>
+		<key>ios-arm64/JitsiMeetSDK.framework/e2eeOff_fr.mp3</key>
+		<data>
+		Z0qVnx71rucbKiiOhjl4INdaWtE=
+		</data>
+		<key>ios-arm64/JitsiMeetSDK.framework/e2eeOff_fr.opus</key>
+		<data>
+		GSgbwQxczzEs9K4DujEFkXsMqp0=
+		</data>
+		<key>ios-arm64/JitsiMeetSDK.framework/e2eeOff_frCA.mp3</key>
+		<data>
+		Z0qVnx71rucbKiiOhjl4INdaWtE=
+		</data>
+		<key>ios-arm64/JitsiMeetSDK.framework/e2eeOff_frCA.opus</key>
+		<data>
+		GSgbwQxczzEs9K4DujEFkXsMqp0=
+		</data>
 		<key>ios-arm64/JitsiMeetSDK.framework/e2eeOn.mp3</key>
 		<data>
 		YaKS1bYLIKH3zJwWy/CbCMeUVEQ=
@@ -554,6 +629,26 @@
 		<key>ios-arm64/JitsiMeetSDK.framework/e2eeOn.opus</key>
 		<data>
 		sIY64oZqZ+Bsbjkmijud3TJnRQo=
+		</data>
+		<key>ios-arm64/JitsiMeetSDK.framework/e2eeOn_fr.mp3</key>
+		<data>
+		PtPeARUjJslBvAz17mh8PG/9L2M=
+		</data>
+		<key>ios-arm64/JitsiMeetSDK.framework/e2eeOn_fr.opus</key>
+		<data>
+		+KgqJAAS5r68wS+9gHESLc50Iow=
+		</data>
+		<key>ios-arm64/JitsiMeetSDK.framework/e2eeOn_frCA.mp3</key>
+		<data>
+		PtPeARUjJslBvAz17mh8PG/9L2M=
+		</data>
+		<key>ios-arm64/JitsiMeetSDK.framework/e2eeOn_frCA.opus</key>
+		<data>
+		+KgqJAAS5r68wS+9gHESLc50Iow=
+		</data>
+		<key>ios-arm64/JitsiMeetSDK.framework/glog_privacy.bundle/Info.plist</key>
+		<data>
+		zeNxjB970DjnO3PuQbgv3KeLMME=
 		</data>
 		<key>ios-arm64/JitsiMeetSDK.framework/image-resize@2x.png</key>
 		<data>
@@ -615,6 +710,22 @@
 		<data>
 		kK1MzhPKkqHYTASzLFqDezmWJQY=
 		</data>
+		<key>ios-arm64/JitsiMeetSDK.framework/liveStreamingOff_fr.mp3</key>
+		<data>
+		QrWLiJXHyAWIMFognlXPd8H1Z9o=
+		</data>
+		<key>ios-arm64/JitsiMeetSDK.framework/liveStreamingOff_fr.opus</key>
+		<data>
+		nFx7FRO6oXslputQ3prQATGd76c=
+		</data>
+		<key>ios-arm64/JitsiMeetSDK.framework/liveStreamingOff_frCA.mp3</key>
+		<data>
+		QrWLiJXHyAWIMFognlXPd8H1Z9o=
+		</data>
+		<key>ios-arm64/JitsiMeetSDK.framework/liveStreamingOff_frCA.opus</key>
+		<data>
+		nFx7FRO6oXslputQ3prQATGd76c=
+		</data>
 		<key>ios-arm64/JitsiMeetSDK.framework/liveStreamingOn.mp3</key>
 		<data>
 		xjd6Z0ElMLthzzCfw5OsZIj0JO4=
@@ -623,9 +734,25 @@
 		<data>
 		ES2j1+nMfJWKumQN3G2hyEHzhkw=
 		</data>
+		<key>ios-arm64/JitsiMeetSDK.framework/liveStreamingOn_fr.mp3</key>
+		<data>
+		cPy/LKlVtSFTOLnkn6fuBtrExkA=
+		</data>
+		<key>ios-arm64/JitsiMeetSDK.framework/liveStreamingOn_fr.opus</key>
+		<data>
+		t7ONHqdMSKLDV7FrGnA//CcJpLg=
+		</data>
+		<key>ios-arm64/JitsiMeetSDK.framework/liveStreamingOn_frCA.mp3</key>
+		<data>
+		cPy/LKlVtSFTOLnkn6fuBtrExkA=
+		</data>
+		<key>ios-arm64/JitsiMeetSDK.framework/liveStreamingOn_frCA.opus</key>
+		<data>
+		t7ONHqdMSKLDV7FrGnA//CcJpLg=
+		</data>
 		<key>ios-arm64/JitsiMeetSDK.framework/main.jsbundle</key>
 		<data>
-		PBKdpfahSYjwAjf1wsxxOazvlNE=
+		tsn2l7lRjPAmEM+gtAkZHVhPyR4=
 		</data>
 		<key>ios-arm64/JitsiMeetSDK.framework/noAudioSignal.mp3</key>
 		<data>
@@ -699,6 +826,14 @@
 		<data>
 		daagpK4Dh/Zg79OD/TvhWJCVi2o=
 		</data>
+		<key>ios-arm64/JitsiMeetSDK.framework/reactions-love.mp3</key>
+		<data>
+		Ato+8w55OunZiQzXhFWMhrWFps8=
+		</data>
+		<key>ios-arm64/JitsiMeetSDK.framework/reactions-love.opus</key>
+		<data>
+		tiqDmaQDTa6TIXFe9TXzwX0wlHE=
+		</data>
 		<key>ios-arm64/JitsiMeetSDK.framework/reactions-raised-hand.mp3</key>
 		<data>
 		9Z9tv5uYHIhZNFr1ApU4ZNTF4nc=
@@ -731,6 +866,22 @@
 		<data>
 		8DbnHNMXUlgmxWzZVJ99xlsCxiY=
 		</data>
+		<key>ios-arm64/JitsiMeetSDK.framework/recordingOff_fr.mp3</key>
+		<data>
+		hwsnAguuNQxzzKvmNcu2qEaaW9o=
+		</data>
+		<key>ios-arm64/JitsiMeetSDK.framework/recordingOff_fr.opus</key>
+		<data>
+		QOpU8oxfrRxHQjQxkDYZcCkDkgs=
+		</data>
+		<key>ios-arm64/JitsiMeetSDK.framework/recordingOff_frCA.mp3</key>
+		<data>
+		hwsnAguuNQxzzKvmNcu2qEaaW9o=
+		</data>
+		<key>ios-arm64/JitsiMeetSDK.framework/recordingOff_frCA.opus</key>
+		<data>
+		QOpU8oxfrRxHQjQxkDYZcCkDkgs=
+		</data>
 		<key>ios-arm64/JitsiMeetSDK.framework/recordingOn.mp3</key>
 		<data>
 		KPp2jEzKD9nL4R/c6GY3RGafGBk=
@@ -738,6 +889,22 @@
 		<key>ios-arm64/JitsiMeetSDK.framework/recordingOn.opus</key>
 		<data>
 		8bo3fQGV+/gcngckWX+rHVSq5bM=
+		</data>
+		<key>ios-arm64/JitsiMeetSDK.framework/recordingOn_fr.mp3</key>
+		<data>
+		AzBCiTaya/nvTIfBAK3BNR8MQss=
+		</data>
+		<key>ios-arm64/JitsiMeetSDK.framework/recordingOn_fr.opus</key>
+		<data>
+		PSQMwMHA3VK2razBAp3IegyOJoo=
+		</data>
+		<key>ios-arm64/JitsiMeetSDK.framework/recordingOn_frCA.mp3</key>
+		<data>
+		AzBCiTaya/nvTIfBAK3BNR8MQss=
+		</data>
+		<key>ios-arm64/JitsiMeetSDK.framework/recordingOn_frCA.opus</key>
+		<data>
+		PSQMwMHA3VK2razBAp3IegyOJoo=
 		</data>
 		<key>ios-arm64/JitsiMeetSDK.framework/rejected.mp3</key>
 		<data>
@@ -771,38 +938,41 @@
 		<data>
 		f080SaeV5boZEqynWfZfldv/b2g=
 		</data>
-		<key>ios-arm64_x86_64-simulator/.DS_Store</key>
+		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/AppAuthCore_Privacy.bundle/Info.plist</key>
 		<data>
-		cS1ixUe8CJcdE0yr96lhcu8ijgM=
+		YNEzLyagerIZURXWgqaEfb/SGqw=
 		</data>
-		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/.DS_Store</key>
+		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/AppAuthCore_Privacy.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
-		7N86zWv3/P7DZq6yN5kdqkySf1E=
+		MCDRptixYfA+qALBX9b4uxq3rwo=
 		</data>
-		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/AccessibilityResources.bundle/Info.plist</key>
-		<data>
-		hRbwH6pzVhgxKj5Br4WrVcn+RN8=
-		</data>
-		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/AccessibilityResources.bundle/en.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			ha91OZw4TOgWUxuUT5BbsiwqaW0=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/CallKitIcon.png</key>
 		<data>
 		qU7OsCaFMpm2j24h/zSvv3VMZGY=
 		</data>
-		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/ComodoRsaDomainValidationCA.der</key>
+		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/GTMAppAuth_Privacy.bundle/Info.plist</key>
 		<data>
-		M5zdV8/VsUEWm2Ff8xQoeC0dpjk=
+		vkgHlASnfagS8KWONzYypT8f8yU=
+		</data>
+		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/GTMAppAuth_Privacy.bundle/PrivacyInfo.xcprivacy</key>
+		<data>
+		AL1dh5ctObXBjoBiabSJ86M3HQs=
+		</data>
+		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/GTMSessionFetcher_Core_Privacy.bundle/Info.plist</key>
+		<data>
+		BgEI07xYP/RNmPFIMxqn/nIZ8Ak=
+		</data>
+		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/GTMSessionFetcher_Core_Privacy.bundle/PrivacyInfo.xcprivacy</key>
+		<data>
+		GqeAMkwbcNQeG0K4qQhQh2vHhHo=
 		</data>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/GoogleSignIn.bundle/Info.plist</key>
 		<data>
-		y+hZ1JJdh8okrlKhlXtbZ+pmkWs=
+		wCOM21UdI+1MNLenjYoFHmWkA2w=
+		</data>
+		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/GoogleSignIn.bundle/PrivacyInfo.xcprivacy</key>
+		<data>
+		Bpn4ciS1QfdDGVc7S27q+o0IUEM=
 		</data>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/GoogleSignIn.bundle/Roboto-Bold.ttf</key>
 		<data>
@@ -1180,7 +1350,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/Headers/JitsiMeet.h</key>
 		<data>
-		pyCc533UjktYDvU4R0JnZnPc4l8=
+		gSTYgM6d7txTM53HA8yxkJgK94A=
 		</data>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/Headers/JitsiMeetBaseLogHandler.h</key>
 		<data>
@@ -1194,6 +1364,10 @@
 		<data>
 		WwKeJCkm5XEcVUkq7O1te9iU1gQ=
 		</data>
+		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/Headers/JitsiMeetSDK-Swift.h</key>
+		<data>
+		y+RuI0OAp71WAAUca6qAmnMQKQ4=
+		</data>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/Headers/JitsiMeetSDK.h</key>
 		<data>
 		W7tTj8SY6XXATSHr993DnPNtnws=
@@ -1204,63 +1378,111 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/Headers/JitsiMeetView.h</key>
 		<data>
-		ohgfCLP68iy8Z1T7UrjXNZ0mYB4=
+		sJvNEG01h5TORklPa/BpRMZOr2o=
 		</data>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/Headers/JitsiMeetViewDelegate.h</key>
 		<data>
-		6YFSDcZCOmyU5MpLeZEF6O4kQnE=
+		TReUmJ5VfWkOupZjiID/j8baL1g=
 		</data>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/Info.plist</key>
 		<data>
-		5nZj2k7ZrWTsu+JY+U27hWISHFA=
+		8buQSqUNMa3m6PdWfpcNf9Npa2k=
 		</data>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/JitsiMeetSDK</key>
 		<data>
-		7CKKg3BT5Mf/38z712kuDBNzKtI=
+		BCpknyZBA9KUIBK28zBv9vHTewI=
 		</data>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/Modules/JitsiMeetSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		uVPjtE5tTqGvuGffTjLo5S1VEcA=
+		Gq3Wr6h8zO7s4alBT+PLxyeAFtA=
 		</data>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/Modules/JitsiMeetSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		p3Bq6VRWunF+aOe0GBhQU0KJJ2A=
+		mGFoBSrqZlkyavT3w7O3qLgeo2w=
 		</data>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/Modules/JitsiMeetSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		OoNZECyBLEfBHj7b3WWBpVfanw0=
+		FtBbJNrdaQjD0yYMPUxAmYmwAJo=
 		</data>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/Modules/JitsiMeetSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		p3Bq6VRWunF+aOe0GBhQU0KJJ2A=
+		mGFoBSrqZlkyavT3w7O3qLgeo2w=
 		</data>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/Modules/JitsiMeetSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		uVPjtE5tTqGvuGffTjLo5S1VEcA=
+		Gq3Wr6h8zO7s4alBT+PLxyeAFtA=
 		</data>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/Modules/JitsiMeetSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		jnxPhNaNuMxAQw74AjK13QnKdQc=
+		g+0PXgnajSjBGsxYOWTc+cJOAZQ=
 		</data>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/Modules/JitsiMeetSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		SH5UXVSOvvlk5Oit6WlBNQmW5qk=
+		mfNUOyoHCrIXYRQQl9o8C6VZOk4=
 		</data>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/Modules/JitsiMeetSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		jnxPhNaNuMxAQw74AjK13QnKdQc=
+		g+0PXgnajSjBGsxYOWTc+cJOAZQ=
 		</data>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/Modules/module.modulemap</key>
 		<data>
-		AQWoEreXXmrAdz/vCZTQYIfi6Fw=
+		weCgT6+zuQYvdnqNYOrkG1W5Gt0=
+		</data>
+		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/RCT-Folly_privacy.bundle/Info.plist</key>
+		<data>
+		e3SJV1wqY2JOgJ9yKjm7UYlN1uY=
 		</data>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/README.md</key>
 		<data>
 		hY/A0DqJnBqZgTgmITcGIvJrk28=
 		</data>
+		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/RNCAsyncStorage_resources.bundle/Info.plist</key>
+		<data>
+		mnWU/kS3H6FF/sz9CaxkYh51z4E=
+		</data>
+		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/RNCAsyncStorage_resources.bundle/PrivacyInfo.xcprivacy</key>
+		<data>
+		sPDfyCwXVFwSP8cGRWRskpblWgM=
+		</data>
+		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/RNDeviceInfoPrivacyInfo.bundle/Info.plist</key>
+		<data>
+		Zn1OyCWKMz7uMSrOXGEwrnCRXoI=
+		</data>
+		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/RNDeviceInfoPrivacyInfo.bundle/PrivacyInfo.xcprivacy</key>
+		<data>
+		m8aNKGgCLWHtBQWong4x8zsNang=
+		</data>
+		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/RNSVGFilters.bundle/Info.plist</key>
+		<data>
+		ADWTv2UOZKLYa5VEAySB00n32FQ=
+		</data>
+		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/RNSVGFilters.bundle/RNSVGArithmeticFilter.iphoneos.metallib</key>
+		<data>
+		+VLexPzHghS5+wGZ2o3Pb4hzkK4=
+		</data>
+		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/RNSVGFilters.bundle/RNSVGCompositeXor.iphoneos.metallib</key>
+		<data>
+		uBh9rD7P0EEOLBtlduH9X3cREsM=
+		</data>
+		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/React-Core_privacy.bundle/Info.plist</key>
+		<data>
+		uWkmZJkxtJTDRGBHuv0w/wbASek=
+		</data>
+		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/React-Core_privacy.bundle/PrivacyInfo.xcprivacy</key>
+		<data>
+		ZahcOiTSEcJJdvNh0xqgAKPqbMs=
+		</data>
+		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/React-cxxreact_privacy.bundle/Info.plist</key>
+		<data>
+		sU2b9zusoDwrwAGzZUOSe+IUAF8=
+		</data>
+		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/React-cxxreact_privacy.bundle/PrivacyInfo.xcprivacy</key>
+		<data>
+		dxJQFdQ77efnBkB0VBZmuIamJ4g=
+		</data>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/_CodeSignature/CodeResources</key>
 		<data>
-		86v6jI8D7x1/o84vtsuLRzLHYMc=
+		DDYfoqCrUKTOIkxWAgq5Oaczcqg=
 		</data>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/asked-unmute.mp3</key>
 		<data>
@@ -1322,6 +1544,10 @@
 		<data>
 		8kFG8Vv7Hfrw4yVcFrhUhbHieBA=
 		</data>
+		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/boost_privacy.bundle/Info.plist</key>
+		<data>
+		vAVt3x9qv8vRQeW+6f4izFR/0jk=
+		</data>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/e2eeOff.mp3</key>
 		<data>
 		vX0Vb0leIMyc1gcniQ56G8w+3Tc=
@@ -1330,6 +1556,22 @@
 		<data>
 		jqkhj9h3UOZw0cnIDtsHdfIBENs=
 		</data>
+		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/e2eeOff_fr.mp3</key>
+		<data>
+		Z0qVnx71rucbKiiOhjl4INdaWtE=
+		</data>
+		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/e2eeOff_fr.opus</key>
+		<data>
+		GSgbwQxczzEs9K4DujEFkXsMqp0=
+		</data>
+		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/e2eeOff_frCA.mp3</key>
+		<data>
+		Z0qVnx71rucbKiiOhjl4INdaWtE=
+		</data>
+		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/e2eeOff_frCA.opus</key>
+		<data>
+		GSgbwQxczzEs9K4DujEFkXsMqp0=
+		</data>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/e2eeOn.mp3</key>
 		<data>
 		YaKS1bYLIKH3zJwWy/CbCMeUVEQ=
@@ -1337,6 +1579,26 @@
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/e2eeOn.opus</key>
 		<data>
 		sIY64oZqZ+Bsbjkmijud3TJnRQo=
+		</data>
+		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/e2eeOn_fr.mp3</key>
+		<data>
+		PtPeARUjJslBvAz17mh8PG/9L2M=
+		</data>
+		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/e2eeOn_fr.opus</key>
+		<data>
+		+KgqJAAS5r68wS+9gHESLc50Iow=
+		</data>
+		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/e2eeOn_frCA.mp3</key>
+		<data>
+		PtPeARUjJslBvAz17mh8PG/9L2M=
+		</data>
+		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/e2eeOn_frCA.opus</key>
+		<data>
+		+KgqJAAS5r68wS+9gHESLc50Iow=
+		</data>
+		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/glog_privacy.bundle/Info.plist</key>
+		<data>
+		EH+EkTNHMkexBo5831rEbjhUJLo=
 		</data>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/image-resize@2x.png</key>
 		<data>
@@ -1398,6 +1660,22 @@
 		<data>
 		kK1MzhPKkqHYTASzLFqDezmWJQY=
 		</data>
+		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/liveStreamingOff_fr.mp3</key>
+		<data>
+		QrWLiJXHyAWIMFognlXPd8H1Z9o=
+		</data>
+		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/liveStreamingOff_fr.opus</key>
+		<data>
+		nFx7FRO6oXslputQ3prQATGd76c=
+		</data>
+		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/liveStreamingOff_frCA.mp3</key>
+		<data>
+		QrWLiJXHyAWIMFognlXPd8H1Z9o=
+		</data>
+		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/liveStreamingOff_frCA.opus</key>
+		<data>
+		nFx7FRO6oXslputQ3prQATGd76c=
+		</data>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/liveStreamingOn.mp3</key>
 		<data>
 		xjd6Z0ElMLthzzCfw5OsZIj0JO4=
@@ -1406,9 +1684,25 @@
 		<data>
 		ES2j1+nMfJWKumQN3G2hyEHzhkw=
 		</data>
+		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/liveStreamingOn_fr.mp3</key>
+		<data>
+		cPy/LKlVtSFTOLnkn6fuBtrExkA=
+		</data>
+		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/liveStreamingOn_fr.opus</key>
+		<data>
+		t7ONHqdMSKLDV7FrGnA//CcJpLg=
+		</data>
+		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/liveStreamingOn_frCA.mp3</key>
+		<data>
+		cPy/LKlVtSFTOLnkn6fuBtrExkA=
+		</data>
+		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/liveStreamingOn_frCA.opus</key>
+		<data>
+		t7ONHqdMSKLDV7FrGnA//CcJpLg=
+		</data>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/main.jsbundle</key>
 		<data>
-		PBKdpfahSYjwAjf1wsxxOazvlNE=
+		s8ZbpdUOp+67NZFqJMiqn9JLbKY=
 		</data>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/noAudioSignal.mp3</key>
 		<data>
@@ -1482,6 +1776,14 @@
 		<data>
 		daagpK4Dh/Zg79OD/TvhWJCVi2o=
 		</data>
+		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/reactions-love.mp3</key>
+		<data>
+		Ato+8w55OunZiQzXhFWMhrWFps8=
+		</data>
+		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/reactions-love.opus</key>
+		<data>
+		tiqDmaQDTa6TIXFe9TXzwX0wlHE=
+		</data>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/reactions-raised-hand.mp3</key>
 		<data>
 		9Z9tv5uYHIhZNFr1ApU4ZNTF4nc=
@@ -1514,6 +1816,22 @@
 		<data>
 		8DbnHNMXUlgmxWzZVJ99xlsCxiY=
 		</data>
+		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/recordingOff_fr.mp3</key>
+		<data>
+		hwsnAguuNQxzzKvmNcu2qEaaW9o=
+		</data>
+		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/recordingOff_fr.opus</key>
+		<data>
+		QOpU8oxfrRxHQjQxkDYZcCkDkgs=
+		</data>
+		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/recordingOff_frCA.mp3</key>
+		<data>
+		hwsnAguuNQxzzKvmNcu2qEaaW9o=
+		</data>
+		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/recordingOff_frCA.opus</key>
+		<data>
+		QOpU8oxfrRxHQjQxkDYZcCkDkgs=
+		</data>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/recordingOn.mp3</key>
 		<data>
 		KPp2jEzKD9nL4R/c6GY3RGafGBk=
@@ -1521,6 +1839,22 @@
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/recordingOn.opus</key>
 		<data>
 		8bo3fQGV+/gcngckWX+rHVSq5bM=
+		</data>
+		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/recordingOn_fr.mp3</key>
+		<data>
+		AzBCiTaya/nvTIfBAK3BNR8MQss=
+		</data>
+		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/recordingOn_fr.opus</key>
+		<data>
+		PSQMwMHA3VK2razBAp3IegyOJoo=
+		</data>
+		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/recordingOn_frCA.mp3</key>
+		<data>
+		AzBCiTaya/nvTIfBAK3BNR8MQss=
+		</data>
+		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/recordingOn_frCA.opus</key>
+		<data>
+		PSQMwMHA3VK2razBAp3IegyOJoo=
 		</data>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/rejected.mp3</key>
 		<data>
@@ -1557,69 +1891,71 @@
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>ios-arm64/JitsiMeetSDK.framework/AccessibilityResources.bundle/Info.plist</key>
+		<key>ios-arm64/JitsiMeetSDK.framework/AppAuthCore_Privacy.bundle/Info.plist</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ROeu8RJxJLo/WEZmSZnrwtVsHpY=
-			</data>
 			<key>hash2</key>
 			<data>
-			fjceBCRqp/fHEhZISSlrEpfaUE1IgLUJCfQo2EiY64k=
+			UUe7sU3blLywPewwrg3t5Wwr5meQK6v5UQxm2AFuEx4=
 			</data>
 		</dict>
-		<key>ios-arm64/JitsiMeetSDK.framework/AccessibilityResources.bundle/en.lproj/Localizable.strings</key>
+		<key>ios-arm64/JitsiMeetSDK.framework/AppAuthCore_Privacy.bundle/PrivacyInfo.xcprivacy</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ha91OZw4TOgWUxuUT5BbsiwqaW0=
-			</data>
 			<key>hash2</key>
 			<data>
-			rM6zbBjCwQ4kWKt7KvhUq272nxb33Bj0GDkxdLuGekE=
+			Wt6WL6rqHt273QbEz4qHLOxVT2TFWgDgATYATTeOHO0=
 			</data>
-			<key>optional</key>
-			<true/>
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/CallKitIcon.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			qU7OsCaFMpm2j24h/zSvv3VMZGY=
-			</data>
 			<key>hash2</key>
 			<data>
 			vlGGlNTQbYekZxUcdQvF8AYVe85O+PiMDQRnuHRlTjw=
 			</data>
 		</dict>
-		<key>ios-arm64/JitsiMeetSDK.framework/ComodoRsaDomainValidationCA.der</key>
+		<key>ios-arm64/JitsiMeetSDK.framework/GTMAppAuth_Privacy.bundle/Info.plist</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			M5zdV8/VsUEWm2Ff8xQoeC0dpjk=
-			</data>
 			<key>hash2</key>
 			<data>
-			AqtX5OZ6DLSN0v80gw6KxA9EdvsIymvj9c2Eb2RoQPA=
+			Cl89jGhvTXUa1sEbha0+2jpd8K+viS0KyGpW0XNv608=
+			</data>
+		</dict>
+		<key>ios-arm64/JitsiMeetSDK.framework/GTMAppAuth_Privacy.bundle/PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			WpuPwM3bECAbtHzCgEs/AExyUUdmItJb/E61TtRuEIQ=
+			</data>
+		</dict>
+		<key>ios-arm64/JitsiMeetSDK.framework/GTMSessionFetcher_Core_Privacy.bundle/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			UkWP42akdn1gVvaHDwRdl2NOBx/mQAzF6Y4479W0rBI=
+			</data>
+		</dict>
+		<key>ios-arm64/JitsiMeetSDK.framework/GTMSessionFetcher_Core_Privacy.bundle/PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			PkqTy+hqzvfdfgY6KMhJmS9Vbn9SytxfN8HosOG1RoY=
 			</data>
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/GoogleSignIn.bundle/Info.plist</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			VfAD5xBqJYevVSrRacIuAkU+zOY=
-			</data>
 			<key>hash2</key>
 			<data>
-			Ic0/6Vc3nfDwuvW6SL0ECiEI3kDQrO3y79vjvpBqSmo=
+			AUWEMxgcMiGSVLucYsbEBGOLrYYjZm97e5OI0br/kFU=
+			</data>
+		</dict>
+		<key>ios-arm64/JitsiMeetSDK.framework/GoogleSignIn.bundle/PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			kwCXKFMJb31XDWxKS/cVKjbHmOicTw2B07TGtd+t39A=
 			</data>
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/GoogleSignIn.bundle/Roboto-Bold.ttf</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			RzJ98PNefNfIZFh0iXp0SWl1RK4=
-			</data>
 			<key>hash2</key>
 			<data>
 			WU10pJ4we+fMnh7l8QI2hOaCDPEbzJaL7lkDkeGtWlo=
@@ -1627,10 +1963,6 @@
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/GoogleSignIn.bundle/ar.lproj/GoogleSignIn.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			1U4RM14vSknB5uPRHwbBf2P3L9k=
-			</data>
 			<key>hash2</key>
 			<data>
 			ss+ejZ/IrQ+WELPlTvC4tJTwIbf6I6zvYJSyIFq+jHI=
@@ -1640,10 +1972,6 @@
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/GoogleSignIn.bundle/ca.lproj/GoogleSignIn.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			GWFStbBzSsozR8ndnlnCGWrVgIE=
-			</data>
 			<key>hash2</key>
 			<data>
 			M+iP9QDcPbJGLirJM8EcKJKfrTUfV7Pm1irERhCtYao=
@@ -1653,10 +1981,6 @@
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/GoogleSignIn.bundle/cs.lproj/GoogleSignIn.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			rkKd2a1WbhspF12uj7jbNaxdcsw=
-			</data>
 			<key>hash2</key>
 			<data>
 			UdoIYkwqed5HyBaDsp6KE0SkeIdWO+JW4ad6Z/a+NUQ=
@@ -1666,10 +1990,6 @@
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/GoogleSignIn.bundle/da.lproj/GoogleSignIn.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			CH8u4ji0ph6g0lWmwFmjuWeHjcQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			6CYblkbY6on3v3phpzrtzjD+UfaKqUfsvf6Mx+BNt9o=
@@ -1679,10 +1999,6 @@
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/GoogleSignIn.bundle/de.lproj/GoogleSignIn.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			h9KGBhz6GBwN3U8va+ZhDVBbEsk=
-			</data>
 			<key>hash2</key>
 			<data>
 			Fs1BPfGrd+UJ33b4c6Wmh//PNgsfFQdD2TTFqzN3wig=
@@ -1692,10 +2008,6 @@
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/GoogleSignIn.bundle/el.lproj/GoogleSignIn.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Sa1DzFvme+rejqFjRGh0R8Wvi2U=
-			</data>
 			<key>hash2</key>
 			<data>
 			nMDBNJz2Zfx3MzDTGiYo9gCkPKqLXIgLA0pWZ/jw+rw=
@@ -1705,10 +2017,6 @@
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/GoogleSignIn.bundle/en.lproj/GoogleSignIn.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			abhi3BU5/ZWaUMKlntWlHWqGpfk=
-			</data>
 			<key>hash2</key>
 			<data>
 			xyajnDguPxp8H1js9HD4EtomN0n5MNqH98DDqg7GSMI=
@@ -1718,10 +2026,6 @@
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/GoogleSignIn.bundle/en_GB.lproj/GoogleSignIn.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			iMO9o55MsPkZZzMfqxaQRohEIEs=
-			</data>
 			<key>hash2</key>
 			<data>
 			or14KgUbGgs8Q37Gox6b9/Z3iZWnKswyoOtKY5mtGsI=
@@ -1731,10 +2035,6 @@
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/GoogleSignIn.bundle/es.lproj/GoogleSignIn.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			M6+vCrtORDxDSYRfCs0EQa/NF7E=
-			</data>
 			<key>hash2</key>
 			<data>
 			UB5ExPO7nAWxMpfGAkD9Dhbnn4pj5vslGYII3LlCHKY=
@@ -1744,10 +2044,6 @@
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/GoogleSignIn.bundle/es_MX.lproj/GoogleSignIn.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			rOsbQGNRZKkOBW4HhfQBTWwEQyI=
-			</data>
 			<key>hash2</key>
 			<data>
 			hNMnxxl7flSaHp6Ni7PhywLgKCxjI+X7Pd4KRzla9jQ=
@@ -1757,10 +2053,6 @@
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/GoogleSignIn.bundle/fi.lproj/GoogleSignIn.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			gWfyNCqhd30Y2+42oIuL/HWmczg=
-			</data>
 			<key>hash2</key>
 			<data>
 			DpnzGonq2MwPxyrWq9zISr0m9pkmXu/2GoibNznadzs=
@@ -1770,10 +2062,6 @@
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/GoogleSignIn.bundle/fr.lproj/GoogleSignIn.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			uazilWliTrW6MuAL6umfC/8JA2w=
-			</data>
 			<key>hash2</key>
 			<data>
 			tVE4d6zy15yPDq/3/N5KoWXzq7AWEbYGESYC/UQ3d7o=
@@ -1783,10 +2071,6 @@
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/GoogleSignIn.bundle/fr_CA.lproj/GoogleSignIn.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Esz3mlwnuaEJRGq9Kux4r37SBuQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			9xCSzz/bp+PgPQ2ZdIN4sRGUfKd6mRgw3dJMOZIrCG4=
@@ -1796,10 +2080,6 @@
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/GoogleSignIn.bundle/google.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			aRs/zX73YrSGLLTP8EMEDJQGeTs=
-			</data>
 			<key>hash2</key>
 			<data>
 			KZYAxsP5lgvGgLduEjF901DWOgDsv13keDEb2UPphvY=
@@ -1807,10 +2087,6 @@
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/GoogleSignIn.bundle/google@2x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			xu0SOLMY2id0HRzRihn0qsuFhAc=
-			</data>
 			<key>hash2</key>
 			<data>
 			YIMFDG4vd9yXjg4T1wcAtDC7Vreja1pcgKJzOsZgcqY=
@@ -1818,10 +2094,6 @@
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/GoogleSignIn.bundle/google@3x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			xbEbn7T4aiYsnIp0S2SVilad3d0=
-			</data>
 			<key>hash2</key>
 			<data>
 			VqPZ1AQqGKWVpnftZGTeoQXx6Noy4Hw8XIQErzqqh4w=
@@ -1829,10 +2101,6 @@
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/GoogleSignIn.bundle/he.lproj/GoogleSignIn.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ui2oaT67k0R8hevxOaYRPvkBncY=
-			</data>
 			<key>hash2</key>
 			<data>
 			KtB1FmX6YQB2EQfECgjfBJBnQA7X2NP7QuPuxFZ6YLA=
@@ -1842,10 +2110,6 @@
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/GoogleSignIn.bundle/hi.lproj/GoogleSignIn.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			kZvr7XJerhHMM69PkXbnvBFp03o=
-			</data>
 			<key>hash2</key>
 			<data>
 			3UHXJzarX0qX0J3bFMSADuQLm+0jadZPDF/6uWpiRh4=
@@ -1855,10 +2119,6 @@
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/GoogleSignIn.bundle/hr.lproj/GoogleSignIn.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			f1AChdyqugygMHLDk8gT3Dci+JI=
-			</data>
 			<key>hash2</key>
 			<data>
 			JA+ymYzp46eWqXkG/G+WClYRwHhNxzsWyukU+u0KW/4=
@@ -1868,10 +2128,6 @@
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/GoogleSignIn.bundle/hu.lproj/GoogleSignIn.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			BSoNTBIf4kWxwJJhk3j4LqTytTQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			GoRF+Zxo+7BfNxT4D3DtCIpiNxtbmIXjErRRbwfYnk8=
@@ -1881,10 +2137,6 @@
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/GoogleSignIn.bundle/id.lproj/GoogleSignIn.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Frdz7EAjoTfEGLrt45QOxezjzXY=
-			</data>
 			<key>hash2</key>
 			<data>
 			PyRv43MvgTyToElSNlECqWWiJIriTlBPGVMTmFiLK/k=
@@ -1894,10 +2146,6 @@
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/GoogleSignIn.bundle/it.lproj/GoogleSignIn.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ip22TOlHApPdL0R4Op+px9lnPt4=
-			</data>
 			<key>hash2</key>
 			<data>
 			TtxpfPqTYA6LaQTYcihANVBXvLLpxiQmqXzstkL2M8g=
@@ -1907,10 +2155,6 @@
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/GoogleSignIn.bundle/ja.lproj/GoogleSignIn.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			sX0ftdSQz9WqdXlSCYZn0tktc/0=
-			</data>
 			<key>hash2</key>
 			<data>
 			hk3OYj6xqZvup+cqHbkAhhDEA8l1hXBMH3gLIIk4ERQ=
@@ -1920,10 +2164,6 @@
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/GoogleSignIn.bundle/ko.lproj/GoogleSignIn.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			MXfc9JCBsSmgxmJ3xfMpVntvLfE=
-			</data>
 			<key>hash2</key>
 			<data>
 			AhqCmUXH5He26Jp82dpoP1opwP/AwBLug5uvUO96wBM=
@@ -1933,10 +2173,6 @@
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/GoogleSignIn.bundle/ms.lproj/GoogleSignIn.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ZjmLydbxaQLSdIBGmX5LQQXMfhQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			y2wRSAv0XEuZrBwtz9tnpfgqeZkXomMNT7PpYTV7XJM=
@@ -1946,10 +2182,6 @@
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/GoogleSignIn.bundle/nb.lproj/GoogleSignIn.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			8kbG/vzCsprxXEBLWQPjsZYsmSM=
-			</data>
 			<key>hash2</key>
 			<data>
 			AqDORhPvDCPsPxYdWdXEk+neYmyBsEvpMYChGkLK6rA=
@@ -1959,10 +2191,6 @@
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/GoogleSignIn.bundle/nl.lproj/GoogleSignIn.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			/CN7CHAVyaosf4bXVc5GxzC2Zbc=
-			</data>
 			<key>hash2</key>
 			<data>
 			SQUYZcAGQO3tTDWbHoIOEdHxkQVdu0gFkfk5fTerXg0=
@@ -1972,10 +2200,6 @@
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/GoogleSignIn.bundle/pl.lproj/GoogleSignIn.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			IBrsi/T3mBKZccejeg+eKu+eLC8=
-			</data>
 			<key>hash2</key>
 			<data>
 			zB70RS/MmKy+7SKVC9fwoipXngJaj1DHj9u2AO045V0=
@@ -1985,10 +2209,6 @@
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/GoogleSignIn.bundle/pt.lproj/GoogleSignIn.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			a2Crth0x+hSdaEGM4YAiNqZxYKg=
-			</data>
 			<key>hash2</key>
 			<data>
 			h4m5LhoUwf1F8mYZJzxXPRsQnjz0AOVugKWHC6rrzO4=
@@ -1998,10 +2218,6 @@
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/GoogleSignIn.bundle/pt_BR.lproj/GoogleSignIn.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			a2Crth0x+hSdaEGM4YAiNqZxYKg=
-			</data>
 			<key>hash2</key>
 			<data>
 			h4m5LhoUwf1F8mYZJzxXPRsQnjz0AOVugKWHC6rrzO4=
@@ -2011,10 +2227,6 @@
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/GoogleSignIn.bundle/pt_PT.lproj/GoogleSignIn.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			d90ZsiztKcH6gT0M2GNhS9budLg=
-			</data>
 			<key>hash2</key>
 			<data>
 			VgBP67jGl9/ChEtJOy0f2pT31xiBxen0V91QtDRgDpk=
@@ -2024,10 +2236,6 @@
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/GoogleSignIn.bundle/ro.lproj/GoogleSignIn.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			wH6Vf08sJ8KKd++qPXetaXtSSEg=
-			</data>
 			<key>hash2</key>
 			<data>
 			r4dFHw1YRkncNtW9F0rb86p6SQ53QicvL33YbiJi490=
@@ -2037,10 +2245,6 @@
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/GoogleSignIn.bundle/ru.lproj/GoogleSignIn.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			dzPNIKMH551ZsL1tfx25Qj7g2fs=
-			</data>
 			<key>hash2</key>
 			<data>
 			HTeXAqlR7PmIQ9lXCSqMSv7j7v6GamABZD47d3Vdxdw=
@@ -2050,10 +2254,6 @@
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/GoogleSignIn.bundle/sk.lproj/GoogleSignIn.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ltpfHSCCPpO3bQBP56jjt96+d90=
-			</data>
 			<key>hash2</key>
 			<data>
 			P/cihlo8LmENm4TLBV2TYyC4PWbK+iTI64GTaNQdXaw=
@@ -2063,10 +2263,6 @@
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/GoogleSignIn.bundle/sv.lproj/GoogleSignIn.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			6zdaseAWNL3CgzM6rhievkeYLBY=
-			</data>
 			<key>hash2</key>
 			<data>
 			EB6TqcbOigHnqGM3qiEvaIEEVBHW5FJwF5/vJhhhQx4=
@@ -2076,10 +2272,6 @@
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/GoogleSignIn.bundle/th.lproj/GoogleSignIn.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			jVVTwNkGABxQFM8h9aPRJ1fS2Pk=
-			</data>
 			<key>hash2</key>
 			<data>
 			87AIPzi3JhCduSGnkEqY3kpQF7l4xbCahIDFRHo8T8c=
@@ -2089,10 +2281,6 @@
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/GoogleSignIn.bundle/tr.lproj/GoogleSignIn.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			4d5pvCFyTpDBY/o+3RsxJ8zqLdI=
-			</data>
 			<key>hash2</key>
 			<data>
 			DUnrVChJprfGiaclYvcgTKdFHOG+K+qtB0NSDZurgNI=
@@ -2102,10 +2290,6 @@
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/GoogleSignIn.bundle/uk.lproj/GoogleSignIn.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			7AbLARiohKfq0KKpDOoXJxq3L38=
-			</data>
 			<key>hash2</key>
 			<data>
 			Jhxu6B2f/rMv7vqp4r9JDKbb+lbniEMqlbSjM+LHru8=
@@ -2115,10 +2299,6 @@
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/GoogleSignIn.bundle/vi.lproj/GoogleSignIn.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			QTbqZVk6kNI316gFQkdgXuOnQpw=
-			</data>
 			<key>hash2</key>
 			<data>
 			XdgQI6jed2yICWt5Lgc2Nmjlld6tS+jlIZu73Yg5j+A=
@@ -2128,10 +2308,6 @@
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/GoogleSignIn.bundle/zh_CN.lproj/GoogleSignIn.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Sf0rT0s1gLnj2sAnAlTyCH4vbP0=
-			</data>
 			<key>hash2</key>
 			<data>
 			UnRDQSf3cJY9kq+HAKK4OMrkkbt2CGQtT/KlF/uB1nc=
@@ -2141,10 +2317,6 @@
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/GoogleSignIn.bundle/zh_TW.lproj/GoogleSignIn.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			lC5m5fk6gdtQtz8GphGC/3aPagU=
-			</data>
 			<key>hash2</key>
 			<data>
 			8K9LpcAznoYMsbk4Z5+PTNH5EEAbvqGHz7sjmrE7t+U=
@@ -2154,10 +2326,6 @@
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/Headers/InfoPlistUtil.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			r3u7/ewHSZDotFQPN5HcB2BUgnM=
-			</data>
 			<key>hash2</key>
 			<data>
 			6J3U1CN3ByxC1Mhtru/9i5kvhjbdMttDgZMifVJCLgE=
@@ -2165,10 +2333,6 @@
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/Headers/JMCallKitListener.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			EKxwaJRsoJKMlvsJvCzTUP7/PzY=
-			</data>
 			<key>hash2</key>
 			<data>
 			b7KtaPRV4Raz6ZM6NfJjzXgphQHLFJLphvKdV7JI1to=
@@ -2176,10 +2340,6 @@
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/Headers/JMCallKitProxy.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			3adPJ2kgjY88E2AJDJcIfLQ6+Ok=
-			</data>
 			<key>hash2</key>
 			<data>
 			KpS1GMCE32M3gUw0T7rJkGipe1pgQPnbl1BYOKOZ4Ws=
@@ -2187,10 +2347,6 @@
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/Headers/JitsiAudioSession.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			jTBUCM35eQ49CSdOK6xzP4aScF4=
-			</data>
 			<key>hash2</key>
 			<data>
 			eeUPLiSsjwzs8NDKV1kYk4miYk48PfczLQYw+tm2aYc=
@@ -2198,21 +2354,13 @@
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/Headers/JitsiMeet.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			pyCc533UjktYDvU4R0JnZnPc4l8=
-			</data>
 			<key>hash2</key>
 			<data>
-			OTuFBjDV5w0bbu1rU31L2yQRewty+M/fTZRuppnPJMo=
+			OvYwVywd4wYmfO1Tf2pPOtZ+qyL+x8DiLHb9jOP08SU=
 			</data>
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/Headers/JitsiMeetBaseLogHandler.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			oz/2E8a0m6DcMjedTxGx8/Y96DQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			GImGXU0lfSYt0q40lg00/Yd+UOjAHbSU1RbpSNd6BdI=
@@ -2220,10 +2368,6 @@
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/Headers/JitsiMeetConferenceOptions.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			rXLHCsVID9nMg1Gg/fxQpnTtQuU=
-			</data>
 			<key>hash2</key>
 			<data>
 			WotOLli1OtoTEMSMODJidNhRfOIF1ReytZZ8WlItUBo=
@@ -2231,21 +2375,20 @@
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/Headers/JitsiMeetLogger.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			WwKeJCkm5XEcVUkq7O1te9iU1gQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			AvRQW0hstvQvYV73z2vI+UrH/+iYN9th5QtzRSs1tTA=
 			</data>
 		</dict>
+		<key>ios-arm64/JitsiMeetSDK.framework/Headers/JitsiMeetSDK-Swift.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			KNBAW+AvYlv0fpXI4RWZst411joXp74DJ44lsEJfRdg=
+			</data>
+		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/Headers/JitsiMeetSDK.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			W7tTj8SY6XXATSHr993DnPNtnws=
-			</data>
 			<key>hash2</key>
 			<data>
 			cchFMfny8w7rbgMo1luRO5BNqpZRYrOkf5V+Ap1NPdY=
@@ -2253,10 +2396,6 @@
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/Headers/JitsiMeetUserInfo.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			vJwMFV3HML09uvWXtOHZ8MN7lso=
-			</data>
 			<key>hash2</key>
 			<data>
 			w30+W0JrEYUdHM2RvdJw9rn+4tkevuHsEH06g7tBSoA=
@@ -2264,120 +2403,160 @@
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/Headers/JitsiMeetView.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ohgfCLP68iy8Z1T7UrjXNZ0mYB4=
-			</data>
 			<key>hash2</key>
 			<data>
-			tzoKpAA3oNqa+8PXuBxkc9l4RIwny6u94nXZeTsZXsk=
+			S6hGUO9o3NRBSiIEKfb4IzV93s0k3JDP1PZOnQGh7HA=
 			</data>
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/Headers/JitsiMeetViewDelegate.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			6YFSDcZCOmyU5MpLeZEF6O4kQnE=
-			</data>
 			<key>hash2</key>
 			<data>
-			TECY1sks7ATK6r1qr18gtTJTEkrUjWkWyH9bpGvSLo4=
+			lWkDy+9aq4RpkJ9cCAo9DqFP0x+FL0J1dQ1vaC8X/9w=
 			</data>
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/Info.plist</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			tfaKI/zggg4eZBZbV0EEvVmUMpk=
-			</data>
 			<key>hash2</key>
 			<data>
-			Vg1OBluYWDiMpqSFEVEP7PrKVD1m+N+uzvrz2EVKh1o=
+			7brmdihja2EJJwfKX3KH64RgLD8ygyItQcSrTNfQM/Q=
 			</data>
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/JitsiMeetSDK</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			vlNhG43eYPoSi7Djjop95e2GaFQ=
-			</data>
 			<key>hash2</key>
 			<data>
-			RXQ/XLmSekgzCxL9MTp/06hH0EMzrBjAt7ar9y3YX94=
+			nw1eQQpHGuyJoivN7Z2Vi7b2DSxaVrxYO4ZHk53oLPo=
 			</data>
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/Modules/JitsiMeetSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			uVPjtE5tTqGvuGffTjLo5S1VEcA=
-			</data>
 			<key>hash2</key>
 			<data>
-			Z4uJwvXGmCmHJWon5kvJLiB0gRjFQRJxC9CViY7iwGI=
+			/SWErMvhZWwku3NcnTCjuZvPCHruah1/X0njC2Vo8mI=
 			</data>
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/Modules/JitsiMeetSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Wah7/u1bOeAenZjI1FvLvkpbcHM=
-			</data>
 			<key>hash2</key>
 			<data>
-			plw+N82PPEZl9SH0HWTQA1He9zOvNVsCbSb3rTxwyM8=
+			V4s6EF/Yu3XXd14/N2gZ9TQ3YDtXJkgoE4+tjiM5gWY=
 			</data>
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/Modules/JitsiMeetSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			kcbfoGiyWIRNMw9sJCsjHc6t+F0=
-			</data>
 			<key>hash2</key>
 			<data>
-			I4mV5JuYwdhFjXfndLQONLvjgfVSJzEHZC2iUUkJ+/s=
+			6FBw51/+KccN8keBBteWMwSjN9z8xnsrfOow74CBe1s=
 			</data>
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/Modules/JitsiMeetSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Wah7/u1bOeAenZjI1FvLvkpbcHM=
-			</data>
 			<key>hash2</key>
 			<data>
-			plw+N82PPEZl9SH0HWTQA1He9zOvNVsCbSb3rTxwyM8=
+			V4s6EF/Yu3XXd14/N2gZ9TQ3YDtXJkgoE4+tjiM5gWY=
 			</data>
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/Modules/module.modulemap</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			AQWoEreXXmrAdz/vCZTQYIfi6Fw=
-			</data>
 			<key>hash2</key>
 			<data>
-			MPhxIi68eCJOR+PHSWcWowJIiyKz6gH1hnIe6N2Agyc=
+			2y38ncwaeNspj1sO7JG0Lqnux7t51/2RZi+4apSrE+w=
+			</data>
+		</dict>
+		<key>ios-arm64/JitsiMeetSDK.framework/RCT-Folly_privacy.bundle/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			qSY07tBk848GFlGWU5fd7EDluwlPiOTH/Kqe03Yu/i0=
 			</data>
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/README.md</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			hY/A0DqJnBqZgTgmITcGIvJrk28=
-			</data>
 			<key>hash2</key>
 			<data>
 			EXAMkT8n5JbzZ6dJbLbyxjZGJfJN2XRV3zXZArmO60w=
 			</data>
 		</dict>
+		<key>ios-arm64/JitsiMeetSDK.framework/RNCAsyncStorage_resources.bundle/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			V9iSJTm5TGKEqWB0OekNS5w5iZuvM894hPko3StogwM=
+			</data>
+		</dict>
+		<key>ios-arm64/JitsiMeetSDK.framework/RNCAsyncStorage_resources.bundle/PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			CxKH0OaGz4Z9ONl8yl3GlLMCnyfE/kJw3UvS/VRYovA=
+			</data>
+		</dict>
+		<key>ios-arm64/JitsiMeetSDK.framework/RNDeviceInfoPrivacyInfo.bundle/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			MXehd0QUcEJS9MBFF+vBMKFpyfmWnYWqTzrPIrWLMcY=
+			</data>
+		</dict>
+		<key>ios-arm64/JitsiMeetSDK.framework/RNDeviceInfoPrivacyInfo.bundle/PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			4Ye67kwWytlqe/PE3iAZKFQmf1/L4XhtOgUgWAH3aeY=
+			</data>
+		</dict>
+		<key>ios-arm64/JitsiMeetSDK.framework/RNSVGFilters.bundle/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			HYpMTNA5yQwwjnnZ3ucKKzreZuH+yaTLMkL6X263AmI=
+			</data>
+		</dict>
+		<key>ios-arm64/JitsiMeetSDK.framework/RNSVGFilters.bundle/RNSVGArithmeticFilter.iphoneos.metallib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			aRRl/fIr4pQqkGSCmYRAyw0/aGOTcpNrit0zlcC0Dtk=
+			</data>
+		</dict>
+		<key>ios-arm64/JitsiMeetSDK.framework/RNSVGFilters.bundle/RNSVGCompositeXor.iphoneos.metallib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			IjeoZNeITsXaqYQpPXdb5hrqaJk+s2Qqy5e5V5lT//I=
+			</data>
+		</dict>
+		<key>ios-arm64/JitsiMeetSDK.framework/React-Core_privacy.bundle/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			bLpnmiLqwKzs2WiPpnH4w6jDnmTilHXp1j6121r9414=
+			</data>
+		</dict>
+		<key>ios-arm64/JitsiMeetSDK.framework/React-Core_privacy.bundle/PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			fAiWnkWWIabs7AQ8zbkBJlHxhYEZRfdVF8Yj2uLhFic=
+			</data>
+		</dict>
+		<key>ios-arm64/JitsiMeetSDK.framework/React-cxxreact_privacy.bundle/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			FWz3cQ0EF8jCwWpGASp5npfAy+y4cPVBr3be7KMPW84=
+			</data>
+		</dict>
+		<key>ios-arm64/JitsiMeetSDK.framework/React-cxxreact_privacy.bundle/PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			BYfRVcVqb08GR+vGtqC9AmYVzWEO6PIJqXhrealq0zU=
+			</data>
+		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/asked-unmute.mp3</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			wD5cpN7nXY26hNsK8K9vWJHpH1I=
-			</data>
 			<key>hash2</key>
 			<data>
 			iiNGrgiu6EW2KxswUYOluFpM/1NN2XIs8p7ItEzM/U8=
@@ -2385,10 +2564,6 @@
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/asked-unmute.opus</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			k/Sqan4X/5M4MMqEPr2KDDmDoek=
-			</data>
 			<key>hash2</key>
 			<data>
 			YQ28YthQ+ZGOl/ibIiYsrfEmWYonWPkFBpad5PGw/Hw=
@@ -2396,10 +2571,6 @@
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/assets/images/GIPHY_icon.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			RXtKCVwkY1q5/n35PdqCjEWJ02Y=
-			</data>
 			<key>hash2</key>
 			<data>
 			LcipexprGKbI/q7luoaUwTowk5LpQUBZVUzejtkE9qU=
@@ -2407,10 +2578,6 @@
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/assets/images/GIPHY_logo.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			34ZlX66tVsjue/mb6cIczASQ9+c=
-			</data>
 			<key>hash2</key>
 			<data>
 			/OdoA0mz7LY+6ZmdFy/MiNF6UDdKCACryxap0Xd3uDU=
@@ -2418,10 +2585,6 @@
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/assets/images/avatar.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			QsFt583jiLwp+v9FUtGo1Zm+EuY=
-			</data>
 			<key>hash2</key>
 			<data>
 			KQenLeiIDdEMjFLpMcfvnyKSJooCsqFhGczlDUmwrrQ=
@@ -2429,10 +2592,6 @@
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/assets/images/btn_google_signin_dark_normal.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			vDLJVTKYDrduPRKle4QHleywrhY=
-			</data>
 			<key>hash2</key>
 			<data>
 			3Q+a7AKeU9OvJLLc3xnL+8q0ax8aZxHGFivTsZL/y0I=
@@ -2440,10 +2599,6 @@
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/assets/images/downloadLocalRecording.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			IILPKDzitBOrc+/oMU+rsAckMKk=
-			</data>
 			<key>hash2</key>
 			<data>
 			tPU+yDUzC3hSKNpZoz0DT91eoyF2lg1215P+2DilB7Q=
@@ -2451,10 +2606,6 @@
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/assets/images/dropboxLogo_square.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			963TSklylFlSHuQZSvBcFw8eDEg=
-			</data>
 			<key>hash2</key>
 			<data>
 			ddO0dckyW06cKOo1+01VeakgleVraFrRv3dbalArIFQ=
@@ -2462,10 +2613,6 @@
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/assets/images/icon-cloud.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Xj55zLA5UpTv8DjsooTmpDxUPss=
-			</data>
 			<key>hash2</key>
 			<data>
 			QK+XYtg7g/FSwmIKLsY7ak62+8X8AAFeRtTFaBWmBHI=
@@ -2473,10 +2620,6 @@
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/assets/images/icon-info.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			rgd/naxY8tHJs3iyto5+0nctDbw=
-			</data>
 			<key>hash2</key>
 			<data>
 			+b+Xr+4KrWjjBCEstqahFVhwvYlLL92ftO/X7oZkAV4=
@@ -2484,10 +2627,6 @@
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/assets/images/icon-users.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			i5KKHxhNhQ39jzaLKQTpiyBHp48=
-			</data>
 			<key>hash2</key>
 			<data>
 			u+XQsDMSOwXb8FGalnlx4IUbKhloeln1bNi6KIkrMmA=
@@ -2495,10 +2634,6 @@
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/assets/node_modules/@react-navigation/elements/src/assets/back-icon-mask.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			/9xO1HOyvigG6Z0PaA0dLp/gDlY=
-			</data>
 			<key>hash2</key>
 			<data>
 			LJXowmdeeZM1/QBGuwfb2gbLfs/1HtN5IsYwnWGcxNM=
@@ -2506,10 +2641,6 @@
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/assets/node_modules/@react-navigation/elements/src/assets/back-icon.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			keLOi1inJdXs0IRSKnXqyhW57Aw=
-			</data>
 			<key>hash2</key>
 			<data>
 			LN/rjlzN55dvcBL7jM5zryIpAp7iHU8VCf7RFIccbNg=
@@ -2517,10 +2648,6 @@
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/assets/node_modules/@react-navigation/elements/src/assets/back-icon@2x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			rSvG8m4uPMSItIcsIF+N2tDJD8U=
-			</data>
 			<key>hash2</key>
 			<data>
 			K3RDqaWOksoRpXW9wRWYYVpX3eMFzYznDWAmBrMCzZg=
@@ -2528,21 +2655,20 @@
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/assets/node_modules/@react-navigation/elements/src/assets/back-icon@3x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			8kFG8Vv7Hfrw4yVcFrhUhbHieBA=
-			</data>
 			<key>hash2</key>
 			<data>
 			Pd0Hc+0n4j0leJ8wFzGzrEVa2L5aonoKG4OPicbSciU=
 			</data>
 		</dict>
+		<key>ios-arm64/JitsiMeetSDK.framework/boost_privacy.bundle/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			MF+dUhm8pS2E3cgGTwM02OuATeBgAvIGy7wIrRku2jw=
+			</data>
+		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/e2eeOff.mp3</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			vX0Vb0leIMyc1gcniQ56G8w+3Tc=
-			</data>
 			<key>hash2</key>
 			<data>
 			2d+sX6YjWWDbiJBbVe5O/I68ZO1WzX4wna5Au8AMcyk=
@@ -2550,21 +2676,41 @@
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/e2eeOff.opus</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			jqkhj9h3UOZw0cnIDtsHdfIBENs=
-			</data>
 			<key>hash2</key>
 			<data>
 			vO5dx93vb3Arz5bRVgg7+6ttWgv3vEPmMFgPryR+ApQ=
 			</data>
 		</dict>
+		<key>ios-arm64/JitsiMeetSDK.framework/e2eeOff_fr.mp3</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			q47V/kI8EXeMv+xzbGg8Wa9gDmtKYOCjqZqiHiTDPDo=
+			</data>
+		</dict>
+		<key>ios-arm64/JitsiMeetSDK.framework/e2eeOff_fr.opus</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ESSVwMwwdPkyEjp+qggbGKlZmb7zq0jy/JdM7p2TnHA=
+			</data>
+		</dict>
+		<key>ios-arm64/JitsiMeetSDK.framework/e2eeOff_frCA.mp3</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			q47V/kI8EXeMv+xzbGg8Wa9gDmtKYOCjqZqiHiTDPDo=
+			</data>
+		</dict>
+		<key>ios-arm64/JitsiMeetSDK.framework/e2eeOff_frCA.opus</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ESSVwMwwdPkyEjp+qggbGKlZmb7zq0jy/JdM7p2TnHA=
+			</data>
+		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/e2eeOn.mp3</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			YaKS1bYLIKH3zJwWy/CbCMeUVEQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			fRZjW9O1z46ablrxbzUIF39V0T3MXncPbRyyC1dTLX8=
@@ -2572,21 +2718,48 @@
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/e2eeOn.opus</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			sIY64oZqZ+Bsbjkmijud3TJnRQo=
-			</data>
 			<key>hash2</key>
 			<data>
 			keni/n3jf1WPyl9Ne3tqtjY3ayqI4NzZazUKX42+S7U=
 			</data>
 		</dict>
+		<key>ios-arm64/JitsiMeetSDK.framework/e2eeOn_fr.mp3</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			1aGAAgOVq6aKS2nQvTSrqBbl784vW8sye4/X8HPK9ig=
+			</data>
+		</dict>
+		<key>ios-arm64/JitsiMeetSDK.framework/e2eeOn_fr.opus</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			lpGPZ6tPfU7wJgWCDpTGGtb5VcbrlPUPDx8vdbSdUSA=
+			</data>
+		</dict>
+		<key>ios-arm64/JitsiMeetSDK.framework/e2eeOn_frCA.mp3</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			1aGAAgOVq6aKS2nQvTSrqBbl784vW8sye4/X8HPK9ig=
+			</data>
+		</dict>
+		<key>ios-arm64/JitsiMeetSDK.framework/e2eeOn_frCA.opus</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			lpGPZ6tPfU7wJgWCDpTGGtb5VcbrlPUPDx8vdbSdUSA=
+			</data>
+		</dict>
+		<key>ios-arm64/JitsiMeetSDK.framework/glog_privacy.bundle/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Sl66Jb8/mvzlZjxSodOqG909LvKI4zii2Xx/IkAquZY=
+			</data>
+		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/image-resize@2x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			fpJVwJDMfzGKpCkKXn6v05rCfqY=
-			</data>
 			<key>hash2</key>
 			<data>
 			O9uBujyJyqD5vgPoHFtzOlvzuAFKc4KeGVbkL5yxTNE=
@@ -2594,10 +2767,6 @@
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/image-resize@3x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			jOgxm7AWvjeym7+HofcMy1MkZJ8=
-			</data>
 			<key>hash2</key>
 			<data>
 			1FxTrC33HRYNyIfOP1UBib1fIGe9rKCAnn7IS2jCT/o=
@@ -2605,10 +2774,6 @@
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/incomingMessage.mp3</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			OP6Rih5PsonzPTO2+RwAhuChPr0=
-			</data>
 			<key>hash2</key>
 			<data>
 			FCFf6HvXC+EIhrHycR2htfH045wzdki75NEPyKXfTmg=
@@ -2616,10 +2781,6 @@
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/incomingMessage.opus</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			wfhNGBmGNx9IOlKj1UcgkFk1m/4=
-			</data>
 			<key>hash2</key>
 			<data>
 			LiWuBrFyNjua303qXGiM5m0OdSEiLVU10raXjOLJzeU=
@@ -2627,10 +2788,6 @@
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/incomingMessage.wav</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			DjgfRkshtpmv+XZYvDXCmbSogVQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			4LFCJE+iKaQfCRWW03MdFiApf8K32dGhTpoVgz24nvE=
@@ -2638,10 +2795,6 @@
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/joined.mp3</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			/Kcnkk1hgUtTEU9ppOlLPaD1xGg=
-			</data>
 			<key>hash2</key>
 			<data>
 			rEH1z9ZwN4EQYRCC5wf++idFAS9hN8Y/C2qkdc2cHjk=
@@ -2649,10 +2802,6 @@
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/joined.opus</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			hjTvIgJf6BvHOi99VeJqjAuE6zc=
-			</data>
 			<key>hash2</key>
 			<data>
 			OiiCMZ8cWnKYP/ooJBNbtlA209iMU9tGAPUwwcQEzd8=
@@ -2660,10 +2809,6 @@
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/joined.wav</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			x5acwPpL4xsKYcjxtFLZjCqj04A=
-			</data>
 			<key>hash2</key>
 			<data>
 			+3m6WsQW8WxE1tirOR2bTco1R1pwCCuGAEZeQsYeCMU=
@@ -2671,10 +2816,6 @@
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/knock.mp3</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			YkOx0xb1KFLOMYa2ymGOIlcLCY0=
-			</data>
 			<key>hash2</key>
 			<data>
 			W3tbwT2dbp6h4ZLO3Jpetnrdd6jHgn8mayd+FDk9/D8=
@@ -2682,10 +2823,6 @@
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/knock.opus</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			R4GnIdc9J9p/VhxI8vIM0wIe45k=
-			</data>
 			<key>hash2</key>
 			<data>
 			/SonutdIHOU6rinoh5NCrX15su1LiT81JngWibRRZJM=
@@ -2693,10 +2830,6 @@
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/left.mp3</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			qkvGWarXCSYjuFDeXkHfQgLNCvU=
-			</data>
 			<key>hash2</key>
 			<data>
 			E+FyfFffwC+EI5dOlOxQ9JoPcMQUGqJ+fS2vwg3aZas=
@@ -2704,10 +2837,6 @@
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/left.opus</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			AJPRY9pWe9JymqNN0BqpnXMhVP8=
-			</data>
 			<key>hash2</key>
 			<data>
 			ztdUWcH064gzJQn+KE0RHnQhrN9qBmgaqaBw43JQiz8=
@@ -2715,10 +2844,6 @@
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/left.wav</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			eIQKBt0QIYvkw8/8cTsN7cE3btw=
-			</data>
 			<key>hash2</key>
 			<data>
 			Hr4+CW8U7fnEsUad2uJAf1O483iLALGz921tXJ8ul/U=
@@ -2726,10 +2851,6 @@
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/liveStreamingOff.mp3</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			QQDTmclxsXaam8KIlrftsHOKcss=
-			</data>
 			<key>hash2</key>
 			<data>
 			C4KhjNqOWbAijRZVySOg0t+E7qHu7AMil5lxxxCr6zI=
@@ -2737,21 +2858,41 @@
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/liveStreamingOff.opus</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			kK1MzhPKkqHYTASzLFqDezmWJQY=
-			</data>
 			<key>hash2</key>
 			<data>
 			HIuwQqTvORbvxTs+xegP8H5WRYKPi+HZW7OFkKx9XBY=
 			</data>
 		</dict>
+		<key>ios-arm64/JitsiMeetSDK.framework/liveStreamingOff_fr.mp3</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			pDzQTrIYzzc2G4iauRb0lAfEJLdccofEftLyHVUasZY=
+			</data>
+		</dict>
+		<key>ios-arm64/JitsiMeetSDK.framework/liveStreamingOff_fr.opus</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			mfQ3qZxZYUWaqO+fSI+EklsbwXDcxXi2Xv1rv2j2Bdw=
+			</data>
+		</dict>
+		<key>ios-arm64/JitsiMeetSDK.framework/liveStreamingOff_frCA.mp3</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			pDzQTrIYzzc2G4iauRb0lAfEJLdccofEftLyHVUasZY=
+			</data>
+		</dict>
+		<key>ios-arm64/JitsiMeetSDK.framework/liveStreamingOff_frCA.opus</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			mfQ3qZxZYUWaqO+fSI+EklsbwXDcxXi2Xv1rv2j2Bdw=
+			</data>
+		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/liveStreamingOn.mp3</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			xjd6Z0ElMLthzzCfw5OsZIj0JO4=
-			</data>
 			<key>hash2</key>
 			<data>
 			e0i9IyydNKfYfoO5nk+RSav8WVB2HIV+5/pknK4TeeY=
@@ -2759,32 +2900,48 @@
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/liveStreamingOn.opus</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ES2j1+nMfJWKumQN3G2hyEHzhkw=
-			</data>
 			<key>hash2</key>
 			<data>
 			0PRSJc2IrweBBPhz2Nq1Xf+5u62QUiN1jNe1n/YHuJs=
 			</data>
 		</dict>
-		<key>ios-arm64/JitsiMeetSDK.framework/main.jsbundle</key>
+		<key>ios-arm64/JitsiMeetSDK.framework/liveStreamingOn_fr.mp3</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			PBKdpfahSYjwAjf1wsxxOazvlNE=
-			</data>
 			<key>hash2</key>
 			<data>
-			7L7bxrEfPcfxG+m6utUu2cmXchddW/952uoP/nOBXCw=
+			ZVX+e3f4JCrTmJj08+EhbK2dTHa8F0LIBTEGggpv4oE=
+			</data>
+		</dict>
+		<key>ios-arm64/JitsiMeetSDK.framework/liveStreamingOn_fr.opus</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			gcgbiJjHjdtEtPBZ2xFYXa7lheyeqsFeU7+utShIZkY=
+			</data>
+		</dict>
+		<key>ios-arm64/JitsiMeetSDK.framework/liveStreamingOn_frCA.mp3</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ZVX+e3f4JCrTmJj08+EhbK2dTHa8F0LIBTEGggpv4oE=
+			</data>
+		</dict>
+		<key>ios-arm64/JitsiMeetSDK.framework/liveStreamingOn_frCA.opus</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			gcgbiJjHjdtEtPBZ2xFYXa7lheyeqsFeU7+utShIZkY=
+			</data>
+		</dict>
+		<key>ios-arm64/JitsiMeetSDK.framework/main.jsbundle</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			DTI6HhnvThZbf7O2DuVY2MxdudwJ8YQn2/sNMvqYMgk=
 			</data>
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/noAudioSignal.mp3</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			yuXCVdqTMdRcW5ZknsZkyuDwwks=
-			</data>
 			<key>hash2</key>
 			<data>
 			hhRLFcOnxVjYP/hqEJC9E9ymXnp1KnwgUG/2E1Vo0fc=
@@ -2792,10 +2949,6 @@
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/noAudioSignal.opus</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			/4qQ6S94P0qHm4vBf2KzEQSciLU=
-			</data>
 			<key>hash2</key>
 			<data>
 			L/t2JzxalKNdbWc5f1Rsd5Yl9hlvwsm05A/mSn1mmuI=
@@ -2803,10 +2956,6 @@
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/noisyAudioInput.mp3</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			yuXCVdqTMdRcW5ZknsZkyuDwwks=
-			</data>
 			<key>hash2</key>
 			<data>
 			hhRLFcOnxVjYP/hqEJC9E9ymXnp1KnwgUG/2E1Vo0fc=
@@ -2814,10 +2963,6 @@
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/noisyAudioInput.opus</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			hqGj97UmGfa50qT6HvJJyaTS/4I=
-			</data>
 			<key>hash2</key>
 			<data>
 			pcsPo+6uHgD+qHqtA9/CiFe2/ptipIYiPi0i/tBMqnk=
@@ -2825,10 +2970,6 @@
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/outgoingRinging.mp3</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			NfybRtSdGXznKE7od9hfiFEc85E=
-			</data>
 			<key>hash2</key>
 			<data>
 			ahIUkdNFybB+ngvIkNHsu+rPdKNQUFTiXrLOOoR4ekQ=
@@ -2836,10 +2977,6 @@
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/outgoingRinging.opus</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Cw5sLfNg4tEwnOtN4KmyTbQt+XU=
-			</data>
 			<key>hash2</key>
 			<data>
 			quouGBmUnss8IfkdZnEe4AwVeqykSHe9AyFGIRDueQQ=
@@ -2847,10 +2984,6 @@
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/outgoingRinging.wav</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			d6uIyHBXCOsT0esieScsvX5O2XE=
-			</data>
 			<key>hash2</key>
 			<data>
 			XAOBddA+V+0VEDKJyvNn8apUF3O5gmBAj7JfLnpLPBE=
@@ -2858,10 +2991,6 @@
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/outgoingStart.mp3</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Vg2axHk2O/FhsNB0kb6rSGdqbDo=
-			</data>
 			<key>hash2</key>
 			<data>
 			jtqevI3y/xh8rvWPquh94YLSedSBZPXWcbuSGaJo8No=
@@ -2869,10 +2998,6 @@
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/outgoingStart.opus</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			bsWId049kivsKtbRO+43Fon9oN0=
-			</data>
 			<key>hash2</key>
 			<data>
 			xQT3toEBJ5ngc37co8QMGAm6hoXrs07UYIKNu87VNwc=
@@ -2880,10 +3005,6 @@
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/outgoingStart.wav</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			P5BB9NApgN+OrOs/iOq9RDqR6TM=
-			</data>
 			<key>hash2</key>
 			<data>
 			Ayr3NByzTZzhI3fRukuINKRNm2VGy/BoXbi5zY7DJw8=
@@ -2891,10 +3012,6 @@
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/reactions-applause.mp3</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			0HxCuLx1JH8nwlA+zhP9LsgGSbo=
-			</data>
 			<key>hash2</key>
 			<data>
 			UsBFRiLLlmSzGbBQJTgZkBbXf9z1ayvIVH5YT21Pwoo=
@@ -2902,10 +3019,6 @@
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/reactions-applause.opus</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			DMHrdpNsd2git3hb88ZEUQdOIsM=
-			</data>
 			<key>hash2</key>
 			<data>
 			2bTG0oxNVDIPEP0naMTTpJB7Sv3x13U56JzOcmtWZEs=
@@ -2913,10 +3026,6 @@
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/reactions-boo.mp3</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			YAW3WvKOZwD4rbgrMmitByZauFI=
-			</data>
 			<key>hash2</key>
 			<data>
 			K1gDTZQPz1BzSVEkmXO9P8l6xdmvChhFfKYLJUHn84M=
@@ -2924,10 +3033,6 @@
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/reactions-boo.opus</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			wTr8iwRRh6izqUaah3vPm/pwOGk=
-			</data>
 			<key>hash2</key>
 			<data>
 			JLlMRe3hdcypvMkeT4c3h5AUNN/gw4KiI4rAQauf2nA=
@@ -2935,10 +3040,6 @@
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/reactions-crickets.mp3</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			fFxUfkq4X6w1UMr2wrwx/dZFhfA=
-			</data>
 			<key>hash2</key>
 			<data>
 			/HC8tNr7ilYvZ6Ey3rG3Wc3kvex2l89Kw87aEJw9PJg=
@@ -2946,10 +3047,6 @@
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/reactions-crickets.opus</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			N7RE5/CbTme0P5EhIGtbtE5tbEg=
-			</data>
 			<key>hash2</key>
 			<data>
 			yCzJdJ/AnBDCN1pIIn4Z2YEPPdFTcobyIR36XNerj5c=
@@ -2957,10 +3054,6 @@
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/reactions-laughter.mp3</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			+gjLe3YNPRUb8ceVxGSUPKq/Uss=
-			</data>
 			<key>hash2</key>
 			<data>
 			RMVEHiQS3C4tD1fSmvI6R6AUfBBtkdPpIARFkAvN8qI=
@@ -2968,21 +3061,27 @@
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/reactions-laughter.opus</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			daagpK4Dh/Zg79OD/TvhWJCVi2o=
-			</data>
 			<key>hash2</key>
 			<data>
 			mU59mwtVu7n1roflnfTbkjc3ZWCeUa+H9DugLyzEYAI=
 			</data>
 		</dict>
+		<key>ios-arm64/JitsiMeetSDK.framework/reactions-love.mp3</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Ky/wkKrgWedHpTAZcEmMIVQo7wthunQPstltY1ytz6w=
+			</data>
+		</dict>
+		<key>ios-arm64/JitsiMeetSDK.framework/reactions-love.opus</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			GjY62mkuFjk9WQhUpdG86der/scCSWo57zsnVYYQdS4=
+			</data>
+		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/reactions-raised-hand.mp3</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			9Z9tv5uYHIhZNFr1ApU4ZNTF4nc=
-			</data>
 			<key>hash2</key>
 			<data>
 			E33GwlM3yUnxYUu8SYIPQd3p86z/EGVDzVrWqaF3FUE=
@@ -2990,10 +3089,6 @@
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/reactions-raised-hand.opus</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			hypfDy/28hnts3LpeCv8s70KdE8=
-			</data>
 			<key>hash2</key>
 			<data>
 			P/s0kOnA+lMnHhNKTLj8oOiThADjcct/6GUX7GJOVCk=
@@ -3001,10 +3096,6 @@
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/reactions-surprise.mp3</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			cbdsAE6QbQMyA2wybujfr0OVH1o=
-			</data>
 			<key>hash2</key>
 			<data>
 			M4v7KitOHBhTy7dgd2qJTDwJJIODPB1dLRTNfZwzv5w=
@@ -3012,10 +3103,6 @@
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/reactions-surprise.opus</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			KKnH7kEGNCGkptXh+B7bfKNZGnM=
-			</data>
 			<key>hash2</key>
 			<data>
 			WLhF5SC6DS/xFc14BhTupOUpW7Gmyhhv3sxozumvkjo=
@@ -3023,10 +3110,6 @@
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/reactions-thumbs-up.mp3</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			GpHo2wz+F0Krs8HfNE5PsRbKcXU=
-			</data>
 			<key>hash2</key>
 			<data>
 			Jr54QTly7SMrdu6VunKw8y/XUy6rKPDAYgInUpUJIjI=
@@ -3034,10 +3117,6 @@
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/reactions-thumbs-up.opus</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Xa1t4vON6nX5syo1lZR2cVFHZ3M=
-			</data>
 			<key>hash2</key>
 			<data>
 			Lh+sJpCGWYImSgkbfVqYCC8tt0JxVQmMQhiaWHrOTH0=
@@ -3045,10 +3124,6 @@
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/recordingOff.mp3</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			qXPvRHo5SBhRG0hBb/3EDl7+dBM=
-			</data>
 			<key>hash2</key>
 			<data>
 			h+w4iVYoVLicZgD2g76BJXv+IplQRY1N8S7/6Mw2L2A=
@@ -3056,21 +3131,41 @@
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/recordingOff.opus</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			8DbnHNMXUlgmxWzZVJ99xlsCxiY=
-			</data>
 			<key>hash2</key>
 			<data>
 			8ZX8yYmlHkDC9dtOv0j70BCF/aX6cgoZcCOAtw+yzuM=
 			</data>
 		</dict>
+		<key>ios-arm64/JitsiMeetSDK.framework/recordingOff_fr.mp3</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			bLM8YLmSFILst2noaDYIDu8/iKfw28uLm1FxlvXltF4=
+			</data>
+		</dict>
+		<key>ios-arm64/JitsiMeetSDK.framework/recordingOff_fr.opus</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			jZvnToDwuoAryPFcY02+o8o6/te8XI/1dMDbYRuWEhk=
+			</data>
+		</dict>
+		<key>ios-arm64/JitsiMeetSDK.framework/recordingOff_frCA.mp3</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			bLM8YLmSFILst2noaDYIDu8/iKfw28uLm1FxlvXltF4=
+			</data>
+		</dict>
+		<key>ios-arm64/JitsiMeetSDK.framework/recordingOff_frCA.opus</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			jZvnToDwuoAryPFcY02+o8o6/te8XI/1dMDbYRuWEhk=
+			</data>
+		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/recordingOn.mp3</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			KPp2jEzKD9nL4R/c6GY3RGafGBk=
-			</data>
 			<key>hash2</key>
 			<data>
 			KV7YLNMe6q6NOVRnZwdh+cTbjRlZltpViIw0QIkdtoI=
@@ -3078,21 +3173,41 @@
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/recordingOn.opus</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			8bo3fQGV+/gcngckWX+rHVSq5bM=
-			</data>
 			<key>hash2</key>
 			<data>
 			Da2Txd66aJAnIlhCJVMC0UeyBb9BrbS+LTPEx/jqjLw=
 			</data>
 		</dict>
+		<key>ios-arm64/JitsiMeetSDK.framework/recordingOn_fr.mp3</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			/yVx4eOlkzXOBDjo9z8zbhA6RYLKLl61x9v7fMPqHJ4=
+			</data>
+		</dict>
+		<key>ios-arm64/JitsiMeetSDK.framework/recordingOn_fr.opus</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			5L3pketVbKY9wqr9ss9yV98jLnbb0XpF/R+H4BSoXMc=
+			</data>
+		</dict>
+		<key>ios-arm64/JitsiMeetSDK.framework/recordingOn_frCA.mp3</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			/yVx4eOlkzXOBDjo9z8zbhA6RYLKLl61x9v7fMPqHJ4=
+			</data>
+		</dict>
+		<key>ios-arm64/JitsiMeetSDK.framework/recordingOn_frCA.opus</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			5L3pketVbKY9wqr9ss9yV98jLnbb0XpF/R+H4BSoXMc=
+			</data>
+		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/rejected.mp3</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			gQjdmPjN1qgXx3jUZf6cgSlKHUE=
-			</data>
 			<key>hash2</key>
 			<data>
 			u8NKf7/NOBB5x3QgEqtDAAC3KLnJ6pnkq0nXSASUWxI=
@@ -3100,10 +3215,6 @@
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/rejected.opus</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ZQIDwRsKKVnxqNynJOC9RL3oBRk=
-			</data>
 			<key>hash2</key>
 			<data>
 			3LQV2y24+Bm9UZnN09/eAbJ6bCDu2FjzSUtjR1r4uO8=
@@ -3111,10 +3222,6 @@
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/rejected.wav</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			m4GVNFynKDfhVppM1vc7OfIwOSQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			mr6fLyl8mg0jSEaG+DF3uM4G22CuPMP7zWD7amaUNVo=
@@ -3122,10 +3229,6 @@
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/ring.mp3</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ktyn7jfgIITZQKCSe0WXnxyqmDQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			tlbavmhLZ7S6kXCMHaQ0yFx4wqlFS/SCU1Id2POIjYw=
@@ -3133,10 +3236,6 @@
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/ring.opus</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			9D42kr0XTmKZiRZe+21iN8D06lA=
-			</data>
 			<key>hash2</key>
 			<data>
 			bAWQ0nXlhbemJMB5BK95uastXJ/1Y3xbYfS0u4Z5/S8=
@@ -3144,10 +3243,6 @@
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/ring.wav</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ht5IyzdZ+KTa5cPdFtnffFx94sU=
-			</data>
 			<key>hash2</key>
 			<data>
 			yW6zgmHQlezTx/QyC/oXW9yn3Zg2GxuqPGBZMwmTEtc=
@@ -3155,10 +3250,6 @@
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/talkWhileMuted.mp3</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			yuXCVdqTMdRcW5ZknsZkyuDwwks=
-			</data>
 			<key>hash2</key>
 			<data>
 			hhRLFcOnxVjYP/hqEJC9E9ymXnp1KnwgUG/2E1Vo0fc=
@@ -3166,78 +3257,76 @@
 		</dict>
 		<key>ios-arm64/JitsiMeetSDK.framework/talkWhileMuted.opus</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			f080SaeV5boZEqynWfZfldv/b2g=
-			</data>
 			<key>hash2</key>
 			<data>
 			qeIe9m2S+0fXuk/wtx7o4IiYfZbhW7mT9hWZ6Am+KO0=
 			</data>
 		</dict>
-		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/AccessibilityResources.bundle/Info.plist</key>
+		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/AppAuthCore_Privacy.bundle/Info.plist</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			hRbwH6pzVhgxKj5Br4WrVcn+RN8=
-			</data>
 			<key>hash2</key>
 			<data>
-			2wLuDNzjTkmUDyiugXQvPpZBl77xS4TZvDpfkobItEc=
+			SWxQGhMfwgEspHPnT9L/q7/Z2Q0SInH4ycpI/Lyzjj0=
 			</data>
 		</dict>
-		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/AccessibilityResources.bundle/en.lproj/Localizable.strings</key>
+		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/AppAuthCore_Privacy.bundle/PrivacyInfo.xcprivacy</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ha91OZw4TOgWUxuUT5BbsiwqaW0=
-			</data>
 			<key>hash2</key>
 			<data>
-			rM6zbBjCwQ4kWKt7KvhUq272nxb33Bj0GDkxdLuGekE=
+			Wt6WL6rqHt273QbEz4qHLOxVT2TFWgDgATYATTeOHO0=
 			</data>
-			<key>optional</key>
-			<true/>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/CallKitIcon.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			qU7OsCaFMpm2j24h/zSvv3VMZGY=
-			</data>
 			<key>hash2</key>
 			<data>
 			vlGGlNTQbYekZxUcdQvF8AYVe85O+PiMDQRnuHRlTjw=
 			</data>
 		</dict>
-		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/ComodoRsaDomainValidationCA.der</key>
+		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/GTMAppAuth_Privacy.bundle/Info.plist</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			M5zdV8/VsUEWm2Ff8xQoeC0dpjk=
-			</data>
 			<key>hash2</key>
 			<data>
-			AqtX5OZ6DLSN0v80gw6KxA9EdvsIymvj9c2Eb2RoQPA=
+			yrvDhBOBGt1bwU9hpubcrJSTOaxddeuUlRe+1AtW5Rw=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/GTMAppAuth_Privacy.bundle/PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			WpuPwM3bECAbtHzCgEs/AExyUUdmItJb/E61TtRuEIQ=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/GTMSessionFetcher_Core_Privacy.bundle/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			NpoJQZ7bljmiAQ8JKF/ibl6Uj8zIUphFPv8FKo4k1O8=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/GTMSessionFetcher_Core_Privacy.bundle/PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			PkqTy+hqzvfdfgY6KMhJmS9Vbn9SytxfN8HosOG1RoY=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/GoogleSignIn.bundle/Info.plist</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			y+hZ1JJdh8okrlKhlXtbZ+pmkWs=
-			</data>
 			<key>hash2</key>
 			<data>
-			sKXyxmz1SDQY9q/3Uhy+8iaA/w3sZ56feMK7htAzW+k=
+			qTiYZc7O8kasR5hH2P/AahmJRX5HmTzCS2egyIoUZn8=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/GoogleSignIn.bundle/PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			kwCXKFMJb31XDWxKS/cVKjbHmOicTw2B07TGtd+t39A=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/GoogleSignIn.bundle/Roboto-Bold.ttf</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			RzJ98PNefNfIZFh0iXp0SWl1RK4=
-			</data>
 			<key>hash2</key>
 			<data>
 			WU10pJ4we+fMnh7l8QI2hOaCDPEbzJaL7lkDkeGtWlo=
@@ -3245,10 +3334,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/GoogleSignIn.bundle/ar.lproj/GoogleSignIn.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			1U4RM14vSknB5uPRHwbBf2P3L9k=
-			</data>
 			<key>hash2</key>
 			<data>
 			ss+ejZ/IrQ+WELPlTvC4tJTwIbf6I6zvYJSyIFq+jHI=
@@ -3258,10 +3343,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/GoogleSignIn.bundle/ca.lproj/GoogleSignIn.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			GWFStbBzSsozR8ndnlnCGWrVgIE=
-			</data>
 			<key>hash2</key>
 			<data>
 			M+iP9QDcPbJGLirJM8EcKJKfrTUfV7Pm1irERhCtYao=
@@ -3271,10 +3352,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/GoogleSignIn.bundle/cs.lproj/GoogleSignIn.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			rkKd2a1WbhspF12uj7jbNaxdcsw=
-			</data>
 			<key>hash2</key>
 			<data>
 			UdoIYkwqed5HyBaDsp6KE0SkeIdWO+JW4ad6Z/a+NUQ=
@@ -3284,10 +3361,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/GoogleSignIn.bundle/da.lproj/GoogleSignIn.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			CH8u4ji0ph6g0lWmwFmjuWeHjcQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			6CYblkbY6on3v3phpzrtzjD+UfaKqUfsvf6Mx+BNt9o=
@@ -3297,10 +3370,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/GoogleSignIn.bundle/de.lproj/GoogleSignIn.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			h9KGBhz6GBwN3U8va+ZhDVBbEsk=
-			</data>
 			<key>hash2</key>
 			<data>
 			Fs1BPfGrd+UJ33b4c6Wmh//PNgsfFQdD2TTFqzN3wig=
@@ -3310,10 +3379,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/GoogleSignIn.bundle/el.lproj/GoogleSignIn.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Sa1DzFvme+rejqFjRGh0R8Wvi2U=
-			</data>
 			<key>hash2</key>
 			<data>
 			nMDBNJz2Zfx3MzDTGiYo9gCkPKqLXIgLA0pWZ/jw+rw=
@@ -3323,10 +3388,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/GoogleSignIn.bundle/en.lproj/GoogleSignIn.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			abhi3BU5/ZWaUMKlntWlHWqGpfk=
-			</data>
 			<key>hash2</key>
 			<data>
 			xyajnDguPxp8H1js9HD4EtomN0n5MNqH98DDqg7GSMI=
@@ -3336,10 +3397,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/GoogleSignIn.bundle/en_GB.lproj/GoogleSignIn.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			iMO9o55MsPkZZzMfqxaQRohEIEs=
-			</data>
 			<key>hash2</key>
 			<data>
 			or14KgUbGgs8Q37Gox6b9/Z3iZWnKswyoOtKY5mtGsI=
@@ -3349,10 +3406,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/GoogleSignIn.bundle/es.lproj/GoogleSignIn.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			M6+vCrtORDxDSYRfCs0EQa/NF7E=
-			</data>
 			<key>hash2</key>
 			<data>
 			UB5ExPO7nAWxMpfGAkD9Dhbnn4pj5vslGYII3LlCHKY=
@@ -3362,10 +3415,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/GoogleSignIn.bundle/es_MX.lproj/GoogleSignIn.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			rOsbQGNRZKkOBW4HhfQBTWwEQyI=
-			</data>
 			<key>hash2</key>
 			<data>
 			hNMnxxl7flSaHp6Ni7PhywLgKCxjI+X7Pd4KRzla9jQ=
@@ -3375,10 +3424,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/GoogleSignIn.bundle/fi.lproj/GoogleSignIn.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			gWfyNCqhd30Y2+42oIuL/HWmczg=
-			</data>
 			<key>hash2</key>
 			<data>
 			DpnzGonq2MwPxyrWq9zISr0m9pkmXu/2GoibNznadzs=
@@ -3388,10 +3433,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/GoogleSignIn.bundle/fr.lproj/GoogleSignIn.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			uazilWliTrW6MuAL6umfC/8JA2w=
-			</data>
 			<key>hash2</key>
 			<data>
 			tVE4d6zy15yPDq/3/N5KoWXzq7AWEbYGESYC/UQ3d7o=
@@ -3401,10 +3442,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/GoogleSignIn.bundle/fr_CA.lproj/GoogleSignIn.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Esz3mlwnuaEJRGq9Kux4r37SBuQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			9xCSzz/bp+PgPQ2ZdIN4sRGUfKd6mRgw3dJMOZIrCG4=
@@ -3414,10 +3451,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/GoogleSignIn.bundle/google.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			aRs/zX73YrSGLLTP8EMEDJQGeTs=
-			</data>
 			<key>hash2</key>
 			<data>
 			KZYAxsP5lgvGgLduEjF901DWOgDsv13keDEb2UPphvY=
@@ -3425,10 +3458,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/GoogleSignIn.bundle/google@2x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			xu0SOLMY2id0HRzRihn0qsuFhAc=
-			</data>
 			<key>hash2</key>
 			<data>
 			YIMFDG4vd9yXjg4T1wcAtDC7Vreja1pcgKJzOsZgcqY=
@@ -3436,10 +3465,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/GoogleSignIn.bundle/google@3x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			xbEbn7T4aiYsnIp0S2SVilad3d0=
-			</data>
 			<key>hash2</key>
 			<data>
 			VqPZ1AQqGKWVpnftZGTeoQXx6Noy4Hw8XIQErzqqh4w=
@@ -3447,10 +3472,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/GoogleSignIn.bundle/he.lproj/GoogleSignIn.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ui2oaT67k0R8hevxOaYRPvkBncY=
-			</data>
 			<key>hash2</key>
 			<data>
 			KtB1FmX6YQB2EQfECgjfBJBnQA7X2NP7QuPuxFZ6YLA=
@@ -3460,10 +3481,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/GoogleSignIn.bundle/hi.lproj/GoogleSignIn.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			kZvr7XJerhHMM69PkXbnvBFp03o=
-			</data>
 			<key>hash2</key>
 			<data>
 			3UHXJzarX0qX0J3bFMSADuQLm+0jadZPDF/6uWpiRh4=
@@ -3473,10 +3490,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/GoogleSignIn.bundle/hr.lproj/GoogleSignIn.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			f1AChdyqugygMHLDk8gT3Dci+JI=
-			</data>
 			<key>hash2</key>
 			<data>
 			JA+ymYzp46eWqXkG/G+WClYRwHhNxzsWyukU+u0KW/4=
@@ -3486,10 +3499,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/GoogleSignIn.bundle/hu.lproj/GoogleSignIn.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			BSoNTBIf4kWxwJJhk3j4LqTytTQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			GoRF+Zxo+7BfNxT4D3DtCIpiNxtbmIXjErRRbwfYnk8=
@@ -3499,10 +3508,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/GoogleSignIn.bundle/id.lproj/GoogleSignIn.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Frdz7EAjoTfEGLrt45QOxezjzXY=
-			</data>
 			<key>hash2</key>
 			<data>
 			PyRv43MvgTyToElSNlECqWWiJIriTlBPGVMTmFiLK/k=
@@ -3512,10 +3517,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/GoogleSignIn.bundle/it.lproj/GoogleSignIn.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ip22TOlHApPdL0R4Op+px9lnPt4=
-			</data>
 			<key>hash2</key>
 			<data>
 			TtxpfPqTYA6LaQTYcihANVBXvLLpxiQmqXzstkL2M8g=
@@ -3525,10 +3526,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/GoogleSignIn.bundle/ja.lproj/GoogleSignIn.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			sX0ftdSQz9WqdXlSCYZn0tktc/0=
-			</data>
 			<key>hash2</key>
 			<data>
 			hk3OYj6xqZvup+cqHbkAhhDEA8l1hXBMH3gLIIk4ERQ=
@@ -3538,10 +3535,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/GoogleSignIn.bundle/ko.lproj/GoogleSignIn.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			MXfc9JCBsSmgxmJ3xfMpVntvLfE=
-			</data>
 			<key>hash2</key>
 			<data>
 			AhqCmUXH5He26Jp82dpoP1opwP/AwBLug5uvUO96wBM=
@@ -3551,10 +3544,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/GoogleSignIn.bundle/ms.lproj/GoogleSignIn.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ZjmLydbxaQLSdIBGmX5LQQXMfhQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			y2wRSAv0XEuZrBwtz9tnpfgqeZkXomMNT7PpYTV7XJM=
@@ -3564,10 +3553,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/GoogleSignIn.bundle/nb.lproj/GoogleSignIn.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			8kbG/vzCsprxXEBLWQPjsZYsmSM=
-			</data>
 			<key>hash2</key>
 			<data>
 			AqDORhPvDCPsPxYdWdXEk+neYmyBsEvpMYChGkLK6rA=
@@ -3577,10 +3562,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/GoogleSignIn.bundle/nl.lproj/GoogleSignIn.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			/CN7CHAVyaosf4bXVc5GxzC2Zbc=
-			</data>
 			<key>hash2</key>
 			<data>
 			SQUYZcAGQO3tTDWbHoIOEdHxkQVdu0gFkfk5fTerXg0=
@@ -3590,10 +3571,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/GoogleSignIn.bundle/pl.lproj/GoogleSignIn.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			IBrsi/T3mBKZccejeg+eKu+eLC8=
-			</data>
 			<key>hash2</key>
 			<data>
 			zB70RS/MmKy+7SKVC9fwoipXngJaj1DHj9u2AO045V0=
@@ -3603,10 +3580,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/GoogleSignIn.bundle/pt.lproj/GoogleSignIn.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			a2Crth0x+hSdaEGM4YAiNqZxYKg=
-			</data>
 			<key>hash2</key>
 			<data>
 			h4m5LhoUwf1F8mYZJzxXPRsQnjz0AOVugKWHC6rrzO4=
@@ -3616,10 +3589,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/GoogleSignIn.bundle/pt_BR.lproj/GoogleSignIn.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			a2Crth0x+hSdaEGM4YAiNqZxYKg=
-			</data>
 			<key>hash2</key>
 			<data>
 			h4m5LhoUwf1F8mYZJzxXPRsQnjz0AOVugKWHC6rrzO4=
@@ -3629,10 +3598,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/GoogleSignIn.bundle/pt_PT.lproj/GoogleSignIn.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			d90ZsiztKcH6gT0M2GNhS9budLg=
-			</data>
 			<key>hash2</key>
 			<data>
 			VgBP67jGl9/ChEtJOy0f2pT31xiBxen0V91QtDRgDpk=
@@ -3642,10 +3607,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/GoogleSignIn.bundle/ro.lproj/GoogleSignIn.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			wH6Vf08sJ8KKd++qPXetaXtSSEg=
-			</data>
 			<key>hash2</key>
 			<data>
 			r4dFHw1YRkncNtW9F0rb86p6SQ53QicvL33YbiJi490=
@@ -3655,10 +3616,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/GoogleSignIn.bundle/ru.lproj/GoogleSignIn.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			dzPNIKMH551ZsL1tfx25Qj7g2fs=
-			</data>
 			<key>hash2</key>
 			<data>
 			HTeXAqlR7PmIQ9lXCSqMSv7j7v6GamABZD47d3Vdxdw=
@@ -3668,10 +3625,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/GoogleSignIn.bundle/sk.lproj/GoogleSignIn.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ltpfHSCCPpO3bQBP56jjt96+d90=
-			</data>
 			<key>hash2</key>
 			<data>
 			P/cihlo8LmENm4TLBV2TYyC4PWbK+iTI64GTaNQdXaw=
@@ -3681,10 +3634,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/GoogleSignIn.bundle/sv.lproj/GoogleSignIn.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			6zdaseAWNL3CgzM6rhievkeYLBY=
-			</data>
 			<key>hash2</key>
 			<data>
 			EB6TqcbOigHnqGM3qiEvaIEEVBHW5FJwF5/vJhhhQx4=
@@ -3694,10 +3643,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/GoogleSignIn.bundle/th.lproj/GoogleSignIn.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			jVVTwNkGABxQFM8h9aPRJ1fS2Pk=
-			</data>
 			<key>hash2</key>
 			<data>
 			87AIPzi3JhCduSGnkEqY3kpQF7l4xbCahIDFRHo8T8c=
@@ -3707,10 +3652,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/GoogleSignIn.bundle/tr.lproj/GoogleSignIn.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			4d5pvCFyTpDBY/o+3RsxJ8zqLdI=
-			</data>
 			<key>hash2</key>
 			<data>
 			DUnrVChJprfGiaclYvcgTKdFHOG+K+qtB0NSDZurgNI=
@@ -3720,10 +3661,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/GoogleSignIn.bundle/uk.lproj/GoogleSignIn.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			7AbLARiohKfq0KKpDOoXJxq3L38=
-			</data>
 			<key>hash2</key>
 			<data>
 			Jhxu6B2f/rMv7vqp4r9JDKbb+lbniEMqlbSjM+LHru8=
@@ -3733,10 +3670,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/GoogleSignIn.bundle/vi.lproj/GoogleSignIn.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			QTbqZVk6kNI316gFQkdgXuOnQpw=
-			</data>
 			<key>hash2</key>
 			<data>
 			XdgQI6jed2yICWt5Lgc2Nmjlld6tS+jlIZu73Yg5j+A=
@@ -3746,10 +3679,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/GoogleSignIn.bundle/zh_CN.lproj/GoogleSignIn.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Sf0rT0s1gLnj2sAnAlTyCH4vbP0=
-			</data>
 			<key>hash2</key>
 			<data>
 			UnRDQSf3cJY9kq+HAKK4OMrkkbt2CGQtT/KlF/uB1nc=
@@ -3759,10 +3688,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/GoogleSignIn.bundle/zh_TW.lproj/GoogleSignIn.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			lC5m5fk6gdtQtz8GphGC/3aPagU=
-			</data>
 			<key>hash2</key>
 			<data>
 			8K9LpcAznoYMsbk4Z5+PTNH5EEAbvqGHz7sjmrE7t+U=
@@ -3772,10 +3697,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/Headers/InfoPlistUtil.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			r3u7/ewHSZDotFQPN5HcB2BUgnM=
-			</data>
 			<key>hash2</key>
 			<data>
 			6J3U1CN3ByxC1Mhtru/9i5kvhjbdMttDgZMifVJCLgE=
@@ -3783,10 +3704,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/Headers/JMCallKitListener.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			EKxwaJRsoJKMlvsJvCzTUP7/PzY=
-			</data>
 			<key>hash2</key>
 			<data>
 			b7KtaPRV4Raz6ZM6NfJjzXgphQHLFJLphvKdV7JI1to=
@@ -3794,10 +3711,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/Headers/JMCallKitProxy.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			3adPJ2kgjY88E2AJDJcIfLQ6+Ok=
-			</data>
 			<key>hash2</key>
 			<data>
 			KpS1GMCE32M3gUw0T7rJkGipe1pgQPnbl1BYOKOZ4Ws=
@@ -3805,10 +3718,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/Headers/JitsiAudioSession.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			jTBUCM35eQ49CSdOK6xzP4aScF4=
-			</data>
 			<key>hash2</key>
 			<data>
 			eeUPLiSsjwzs8NDKV1kYk4miYk48PfczLQYw+tm2aYc=
@@ -3816,21 +3725,13 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/Headers/JitsiMeet.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			pyCc533UjktYDvU4R0JnZnPc4l8=
-			</data>
 			<key>hash2</key>
 			<data>
-			OTuFBjDV5w0bbu1rU31L2yQRewty+M/fTZRuppnPJMo=
+			OvYwVywd4wYmfO1Tf2pPOtZ+qyL+x8DiLHb9jOP08SU=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/Headers/JitsiMeetBaseLogHandler.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			oz/2E8a0m6DcMjedTxGx8/Y96DQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			GImGXU0lfSYt0q40lg00/Yd+UOjAHbSU1RbpSNd6BdI=
@@ -3838,10 +3739,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/Headers/JitsiMeetConferenceOptions.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			rXLHCsVID9nMg1Gg/fxQpnTtQuU=
-			</data>
 			<key>hash2</key>
 			<data>
 			WotOLli1OtoTEMSMODJidNhRfOIF1ReytZZ8WlItUBo=
@@ -3849,21 +3746,20 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/Headers/JitsiMeetLogger.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			WwKeJCkm5XEcVUkq7O1te9iU1gQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			AvRQW0hstvQvYV73z2vI+UrH/+iYN9th5QtzRSs1tTA=
 			</data>
 		</dict>
+		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/Headers/JitsiMeetSDK-Swift.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			3Q2xVvlXuPRhhJRS1KXIhhk40kHdb97+Psyqe4VSuTk=
+			</data>
+		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/Headers/JitsiMeetSDK.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			W7tTj8SY6XXATSHr993DnPNtnws=
-			</data>
 			<key>hash2</key>
 			<data>
 			cchFMfny8w7rbgMo1luRO5BNqpZRYrOkf5V+Ap1NPdY=
@@ -3871,10 +3767,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/Headers/JitsiMeetUserInfo.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			vJwMFV3HML09uvWXtOHZ8MN7lso=
-			</data>
 			<key>hash2</key>
 			<data>
 			w30+W0JrEYUdHM2RvdJw9rn+4tkevuHsEH06g7tBSoA=
@@ -3882,175 +3774,195 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/Headers/JitsiMeetView.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ohgfCLP68iy8Z1T7UrjXNZ0mYB4=
-			</data>
 			<key>hash2</key>
 			<data>
-			tzoKpAA3oNqa+8PXuBxkc9l4RIwny6u94nXZeTsZXsk=
+			S6hGUO9o3NRBSiIEKfb4IzV93s0k3JDP1PZOnQGh7HA=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/Headers/JitsiMeetViewDelegate.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			6YFSDcZCOmyU5MpLeZEF6O4kQnE=
-			</data>
 			<key>hash2</key>
 			<data>
-			TECY1sks7ATK6r1qr18gtTJTEkrUjWkWyH9bpGvSLo4=
+			lWkDy+9aq4RpkJ9cCAo9DqFP0x+FL0J1dQ1vaC8X/9w=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/Info.plist</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			5nZj2k7ZrWTsu+JY+U27hWISHFA=
-			</data>
 			<key>hash2</key>
 			<data>
-			DyiN993RRHYxWugpzLD35XcwOMU59rtSoOlky1nMxw4=
+			jWITT4b3vM171OmqbcHU6NfwyeMx7YrXmKPN8iw+yK0=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/JitsiMeetSDK</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			7CKKg3BT5Mf/38z712kuDBNzKtI=
-			</data>
 			<key>hash2</key>
 			<data>
-			ItM01M8oO5RFDQ1wi0P5vAJiOmy4RxHdeYl19SJ6o/Q=
+			H3KJVez5GXBtex86qnk0teqmv5hZCVdmrvY8xiklusk=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/Modules/JitsiMeetSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			uVPjtE5tTqGvuGffTjLo5S1VEcA=
-			</data>
 			<key>hash2</key>
 			<data>
-			Z4uJwvXGmCmHJWon5kvJLiB0gRjFQRJxC9CViY7iwGI=
+			/SWErMvhZWwku3NcnTCjuZvPCHruah1/X0njC2Vo8mI=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/Modules/JitsiMeetSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			p3Bq6VRWunF+aOe0GBhQU0KJJ2A=
-			</data>
 			<key>hash2</key>
 			<data>
-			Ti8xn6Y+LAxDjXIBSgRbRTyIF0g12+5m6R+POTJZ9dM=
+			qfLvaNFWLs7QRIaqU9wo/sqGLAotwyzOnkhb2tnn9XI=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/Modules/JitsiMeetSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			OoNZECyBLEfBHj7b3WWBpVfanw0=
-			</data>
 			<key>hash2</key>
 			<data>
-			wQGIWzr5rExiAxMDg9o0z20+urW0cd9OzpzlWPygpcs=
+			SCebcvvG28vGkbSpp/CG+3EfXHZPB2XT/MhUtsnb55k=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/Modules/JitsiMeetSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			p3Bq6VRWunF+aOe0GBhQU0KJJ2A=
-			</data>
 			<key>hash2</key>
 			<data>
-			Ti8xn6Y+LAxDjXIBSgRbRTyIF0g12+5m6R+POTJZ9dM=
+			qfLvaNFWLs7QRIaqU9wo/sqGLAotwyzOnkhb2tnn9XI=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/Modules/JitsiMeetSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			uVPjtE5tTqGvuGffTjLo5S1VEcA=
-			</data>
 			<key>hash2</key>
 			<data>
-			Z4uJwvXGmCmHJWon5kvJLiB0gRjFQRJxC9CViY7iwGI=
+			/SWErMvhZWwku3NcnTCjuZvPCHruah1/X0njC2Vo8mI=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/Modules/JitsiMeetSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			jnxPhNaNuMxAQw74AjK13QnKdQc=
-			</data>
 			<key>hash2</key>
 			<data>
-			jRKcAzK/BdrRO2iHzGomb5waTJExw1evk+nEmPNvb1c=
+			zkam3rM+zoeLP/cf1jXCl6w72N/reSFyn/DXwyRe1a4=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/Modules/JitsiMeetSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			SH5UXVSOvvlk5Oit6WlBNQmW5qk=
-			</data>
 			<key>hash2</key>
 			<data>
-			QSWRO37SF7yemiPq3alzMpo5Q5rebMiOa5sNB9ASgSA=
+			uxwVswC/fnUrvrg8G+agsylLTokckGwYbywsocZUCp8=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/Modules/JitsiMeetSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			jnxPhNaNuMxAQw74AjK13QnKdQc=
-			</data>
 			<key>hash2</key>
 			<data>
-			jRKcAzK/BdrRO2iHzGomb5waTJExw1evk+nEmPNvb1c=
+			zkam3rM+zoeLP/cf1jXCl6w72N/reSFyn/DXwyRe1a4=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/Modules/module.modulemap</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			AQWoEreXXmrAdz/vCZTQYIfi6Fw=
-			</data>
 			<key>hash2</key>
 			<data>
-			MPhxIi68eCJOR+PHSWcWowJIiyKz6gH1hnIe6N2Agyc=
+			2y38ncwaeNspj1sO7JG0Lqnux7t51/2RZi+4apSrE+w=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/RCT-Folly_privacy.bundle/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			R1PQ7r8rHf9rC08nsptYFG70gJcWRvnwjYl+id8+p1w=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/README.md</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			hY/A0DqJnBqZgTgmITcGIvJrk28=
-			</data>
 			<key>hash2</key>
 			<data>
 			EXAMkT8n5JbzZ6dJbLbyxjZGJfJN2XRV3zXZArmO60w=
 			</data>
 		</dict>
-		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/_CodeSignature/CodeResources</key>
+		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/RNCAsyncStorage_resources.bundle/Info.plist</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			86v6jI8D7x1/o84vtsuLRzLHYMc=
-			</data>
 			<key>hash2</key>
 			<data>
-			INqWyhKPWXuJZy3G8Uo8YzgE/LKPqXMlHyItxYLiVT4=
+			IgURQ5Fjvoi1FRGnFdNnEesq3WJvVxlg9gzUsGcm5Lg=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/RNCAsyncStorage_resources.bundle/PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			CxKH0OaGz4Z9ONl8yl3GlLMCnyfE/kJw3UvS/VRYovA=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/RNDeviceInfoPrivacyInfo.bundle/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			UXTzBg6x6lelyaaZqZWMrt+7Ms9NzoWEido6FNTEqus=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/RNDeviceInfoPrivacyInfo.bundle/PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			4Ye67kwWytlqe/PE3iAZKFQmf1/L4XhtOgUgWAH3aeY=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/RNSVGFilters.bundle/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			190j3/CGVLb4dt6gv0/KpZbR+aQr2CaVNdqYI/7ubNs=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/RNSVGFilters.bundle/RNSVGArithmeticFilter.iphoneos.metallib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			aRRl/fIr4pQqkGSCmYRAyw0/aGOTcpNrit0zlcC0Dtk=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/RNSVGFilters.bundle/RNSVGCompositeXor.iphoneos.metallib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			IjeoZNeITsXaqYQpPXdb5hrqaJk+s2Qqy5e5V5lT//I=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/React-Core_privacy.bundle/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			XEPiqLRnqAqgLotI439B7/IdOMYlptekgP26/r/FsOs=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/React-Core_privacy.bundle/PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			fAiWnkWWIabs7AQ8zbkBJlHxhYEZRfdVF8Yj2uLhFic=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/React-cxxreact_privacy.bundle/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			/XuBMFv/4Mq/gsaxi+ykZr56T/sJOixzZBEcAKEfOio=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/React-cxxreact_privacy.bundle/PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			BYfRVcVqb08GR+vGtqC9AmYVzWEO6PIJqXhrealq0zU=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			GMXS5W0i0YKn/ySFUILTSvICqBUHh3U6SWjofETWGZw=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/asked-unmute.mp3</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			wD5cpN7nXY26hNsK8K9vWJHpH1I=
-			</data>
 			<key>hash2</key>
 			<data>
 			iiNGrgiu6EW2KxswUYOluFpM/1NN2XIs8p7ItEzM/U8=
@@ -4058,10 +3970,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/asked-unmute.opus</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			k/Sqan4X/5M4MMqEPr2KDDmDoek=
-			</data>
 			<key>hash2</key>
 			<data>
 			YQ28YthQ+ZGOl/ibIiYsrfEmWYonWPkFBpad5PGw/Hw=
@@ -4069,10 +3977,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/assets/images/GIPHY_icon.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			RXtKCVwkY1q5/n35PdqCjEWJ02Y=
-			</data>
 			<key>hash2</key>
 			<data>
 			LcipexprGKbI/q7luoaUwTowk5LpQUBZVUzejtkE9qU=
@@ -4080,10 +3984,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/assets/images/GIPHY_logo.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			34ZlX66tVsjue/mb6cIczASQ9+c=
-			</data>
 			<key>hash2</key>
 			<data>
 			/OdoA0mz7LY+6ZmdFy/MiNF6UDdKCACryxap0Xd3uDU=
@@ -4091,10 +3991,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/assets/images/avatar.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			QsFt583jiLwp+v9FUtGo1Zm+EuY=
-			</data>
 			<key>hash2</key>
 			<data>
 			KQenLeiIDdEMjFLpMcfvnyKSJooCsqFhGczlDUmwrrQ=
@@ -4102,10 +3998,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/assets/images/btn_google_signin_dark_normal.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			vDLJVTKYDrduPRKle4QHleywrhY=
-			</data>
 			<key>hash2</key>
 			<data>
 			3Q+a7AKeU9OvJLLc3xnL+8q0ax8aZxHGFivTsZL/y0I=
@@ -4113,10 +4005,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/assets/images/downloadLocalRecording.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			IILPKDzitBOrc+/oMU+rsAckMKk=
-			</data>
 			<key>hash2</key>
 			<data>
 			tPU+yDUzC3hSKNpZoz0DT91eoyF2lg1215P+2DilB7Q=
@@ -4124,10 +4012,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/assets/images/dropboxLogo_square.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			963TSklylFlSHuQZSvBcFw8eDEg=
-			</data>
 			<key>hash2</key>
 			<data>
 			ddO0dckyW06cKOo1+01VeakgleVraFrRv3dbalArIFQ=
@@ -4135,10 +4019,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/assets/images/icon-cloud.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Xj55zLA5UpTv8DjsooTmpDxUPss=
-			</data>
 			<key>hash2</key>
 			<data>
 			QK+XYtg7g/FSwmIKLsY7ak62+8X8AAFeRtTFaBWmBHI=
@@ -4146,10 +4026,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/assets/images/icon-info.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			rgd/naxY8tHJs3iyto5+0nctDbw=
-			</data>
 			<key>hash2</key>
 			<data>
 			+b+Xr+4KrWjjBCEstqahFVhwvYlLL92ftO/X7oZkAV4=
@@ -4157,10 +4033,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/assets/images/icon-users.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			i5KKHxhNhQ39jzaLKQTpiyBHp48=
-			</data>
 			<key>hash2</key>
 			<data>
 			u+XQsDMSOwXb8FGalnlx4IUbKhloeln1bNi6KIkrMmA=
@@ -4168,10 +4040,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/assets/node_modules/@react-navigation/elements/src/assets/back-icon-mask.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			/9xO1HOyvigG6Z0PaA0dLp/gDlY=
-			</data>
 			<key>hash2</key>
 			<data>
 			LJXowmdeeZM1/QBGuwfb2gbLfs/1HtN5IsYwnWGcxNM=
@@ -4179,10 +4047,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/assets/node_modules/@react-navigation/elements/src/assets/back-icon.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			keLOi1inJdXs0IRSKnXqyhW57Aw=
-			</data>
 			<key>hash2</key>
 			<data>
 			LN/rjlzN55dvcBL7jM5zryIpAp7iHU8VCf7RFIccbNg=
@@ -4190,10 +4054,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/assets/node_modules/@react-navigation/elements/src/assets/back-icon@2x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			rSvG8m4uPMSItIcsIF+N2tDJD8U=
-			</data>
 			<key>hash2</key>
 			<data>
 			K3RDqaWOksoRpXW9wRWYYVpX3eMFzYznDWAmBrMCzZg=
@@ -4201,21 +4061,20 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/assets/node_modules/@react-navigation/elements/src/assets/back-icon@3x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			8kFG8Vv7Hfrw4yVcFrhUhbHieBA=
-			</data>
 			<key>hash2</key>
 			<data>
 			Pd0Hc+0n4j0leJ8wFzGzrEVa2L5aonoKG4OPicbSciU=
 			</data>
 		</dict>
+		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/boost_privacy.bundle/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			L3m5QlGIQ8LTlTQVhKbNTxifGZ7IzA5j8Asp/o+dTGM=
+			</data>
+		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/e2eeOff.mp3</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			vX0Vb0leIMyc1gcniQ56G8w+3Tc=
-			</data>
 			<key>hash2</key>
 			<data>
 			2d+sX6YjWWDbiJBbVe5O/I68ZO1WzX4wna5Au8AMcyk=
@@ -4223,21 +4082,41 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/e2eeOff.opus</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			jqkhj9h3UOZw0cnIDtsHdfIBENs=
-			</data>
 			<key>hash2</key>
 			<data>
 			vO5dx93vb3Arz5bRVgg7+6ttWgv3vEPmMFgPryR+ApQ=
 			</data>
 		</dict>
+		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/e2eeOff_fr.mp3</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			q47V/kI8EXeMv+xzbGg8Wa9gDmtKYOCjqZqiHiTDPDo=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/e2eeOff_fr.opus</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ESSVwMwwdPkyEjp+qggbGKlZmb7zq0jy/JdM7p2TnHA=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/e2eeOff_frCA.mp3</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			q47V/kI8EXeMv+xzbGg8Wa9gDmtKYOCjqZqiHiTDPDo=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/e2eeOff_frCA.opus</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ESSVwMwwdPkyEjp+qggbGKlZmb7zq0jy/JdM7p2TnHA=
+			</data>
+		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/e2eeOn.mp3</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			YaKS1bYLIKH3zJwWy/CbCMeUVEQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			fRZjW9O1z46ablrxbzUIF39V0T3MXncPbRyyC1dTLX8=
@@ -4245,21 +4124,48 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/e2eeOn.opus</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			sIY64oZqZ+Bsbjkmijud3TJnRQo=
-			</data>
 			<key>hash2</key>
 			<data>
 			keni/n3jf1WPyl9Ne3tqtjY3ayqI4NzZazUKX42+S7U=
 			</data>
 		</dict>
+		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/e2eeOn_fr.mp3</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			1aGAAgOVq6aKS2nQvTSrqBbl784vW8sye4/X8HPK9ig=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/e2eeOn_fr.opus</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			lpGPZ6tPfU7wJgWCDpTGGtb5VcbrlPUPDx8vdbSdUSA=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/e2eeOn_frCA.mp3</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			1aGAAgOVq6aKS2nQvTSrqBbl784vW8sye4/X8HPK9ig=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/e2eeOn_frCA.opus</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			lpGPZ6tPfU7wJgWCDpTGGtb5VcbrlPUPDx8vdbSdUSA=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/glog_privacy.bundle/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Q5vo6XqbhoeGEM1LdEaYe9tEp5JG6IICsObEIJ6LN48=
+			</data>
+		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/image-resize@2x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			fpJVwJDMfzGKpCkKXn6v05rCfqY=
-			</data>
 			<key>hash2</key>
 			<data>
 			O9uBujyJyqD5vgPoHFtzOlvzuAFKc4KeGVbkL5yxTNE=
@@ -4267,10 +4173,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/image-resize@3x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			jOgxm7AWvjeym7+HofcMy1MkZJ8=
-			</data>
 			<key>hash2</key>
 			<data>
 			1FxTrC33HRYNyIfOP1UBib1fIGe9rKCAnn7IS2jCT/o=
@@ -4278,10 +4180,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/incomingMessage.mp3</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			OP6Rih5PsonzPTO2+RwAhuChPr0=
-			</data>
 			<key>hash2</key>
 			<data>
 			FCFf6HvXC+EIhrHycR2htfH045wzdki75NEPyKXfTmg=
@@ -4289,10 +4187,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/incomingMessage.opus</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			wfhNGBmGNx9IOlKj1UcgkFk1m/4=
-			</data>
 			<key>hash2</key>
 			<data>
 			LiWuBrFyNjua303qXGiM5m0OdSEiLVU10raXjOLJzeU=
@@ -4300,10 +4194,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/incomingMessage.wav</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			DjgfRkshtpmv+XZYvDXCmbSogVQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			4LFCJE+iKaQfCRWW03MdFiApf8K32dGhTpoVgz24nvE=
@@ -4311,10 +4201,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/joined.mp3</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			/Kcnkk1hgUtTEU9ppOlLPaD1xGg=
-			</data>
 			<key>hash2</key>
 			<data>
 			rEH1z9ZwN4EQYRCC5wf++idFAS9hN8Y/C2qkdc2cHjk=
@@ -4322,10 +4208,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/joined.opus</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			hjTvIgJf6BvHOi99VeJqjAuE6zc=
-			</data>
 			<key>hash2</key>
 			<data>
 			OiiCMZ8cWnKYP/ooJBNbtlA209iMU9tGAPUwwcQEzd8=
@@ -4333,10 +4215,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/joined.wav</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			x5acwPpL4xsKYcjxtFLZjCqj04A=
-			</data>
 			<key>hash2</key>
 			<data>
 			+3m6WsQW8WxE1tirOR2bTco1R1pwCCuGAEZeQsYeCMU=
@@ -4344,10 +4222,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/knock.mp3</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			YkOx0xb1KFLOMYa2ymGOIlcLCY0=
-			</data>
 			<key>hash2</key>
 			<data>
 			W3tbwT2dbp6h4ZLO3Jpetnrdd6jHgn8mayd+FDk9/D8=
@@ -4355,10 +4229,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/knock.opus</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			R4GnIdc9J9p/VhxI8vIM0wIe45k=
-			</data>
 			<key>hash2</key>
 			<data>
 			/SonutdIHOU6rinoh5NCrX15su1LiT81JngWibRRZJM=
@@ -4366,10 +4236,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/left.mp3</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			qkvGWarXCSYjuFDeXkHfQgLNCvU=
-			</data>
 			<key>hash2</key>
 			<data>
 			E+FyfFffwC+EI5dOlOxQ9JoPcMQUGqJ+fS2vwg3aZas=
@@ -4377,10 +4243,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/left.opus</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			AJPRY9pWe9JymqNN0BqpnXMhVP8=
-			</data>
 			<key>hash2</key>
 			<data>
 			ztdUWcH064gzJQn+KE0RHnQhrN9qBmgaqaBw43JQiz8=
@@ -4388,10 +4250,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/left.wav</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			eIQKBt0QIYvkw8/8cTsN7cE3btw=
-			</data>
 			<key>hash2</key>
 			<data>
 			Hr4+CW8U7fnEsUad2uJAf1O483iLALGz921tXJ8ul/U=
@@ -4399,10 +4257,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/liveStreamingOff.mp3</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			QQDTmclxsXaam8KIlrftsHOKcss=
-			</data>
 			<key>hash2</key>
 			<data>
 			C4KhjNqOWbAijRZVySOg0t+E7qHu7AMil5lxxxCr6zI=
@@ -4410,21 +4264,41 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/liveStreamingOff.opus</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			kK1MzhPKkqHYTASzLFqDezmWJQY=
-			</data>
 			<key>hash2</key>
 			<data>
 			HIuwQqTvORbvxTs+xegP8H5WRYKPi+HZW7OFkKx9XBY=
 			</data>
 		</dict>
+		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/liveStreamingOff_fr.mp3</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			pDzQTrIYzzc2G4iauRb0lAfEJLdccofEftLyHVUasZY=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/liveStreamingOff_fr.opus</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			mfQ3qZxZYUWaqO+fSI+EklsbwXDcxXi2Xv1rv2j2Bdw=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/liveStreamingOff_frCA.mp3</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			pDzQTrIYzzc2G4iauRb0lAfEJLdccofEftLyHVUasZY=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/liveStreamingOff_frCA.opus</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			mfQ3qZxZYUWaqO+fSI+EklsbwXDcxXi2Xv1rv2j2Bdw=
+			</data>
+		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/liveStreamingOn.mp3</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			xjd6Z0ElMLthzzCfw5OsZIj0JO4=
-			</data>
 			<key>hash2</key>
 			<data>
 			e0i9IyydNKfYfoO5nk+RSav8WVB2HIV+5/pknK4TeeY=
@@ -4432,32 +4306,48 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/liveStreamingOn.opus</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ES2j1+nMfJWKumQN3G2hyEHzhkw=
-			</data>
 			<key>hash2</key>
 			<data>
 			0PRSJc2IrweBBPhz2Nq1Xf+5u62QUiN1jNe1n/YHuJs=
 			</data>
 		</dict>
-		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/main.jsbundle</key>
+		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/liveStreamingOn_fr.mp3</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			PBKdpfahSYjwAjf1wsxxOazvlNE=
-			</data>
 			<key>hash2</key>
 			<data>
-			7L7bxrEfPcfxG+m6utUu2cmXchddW/952uoP/nOBXCw=
+			ZVX+e3f4JCrTmJj08+EhbK2dTHa8F0LIBTEGggpv4oE=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/liveStreamingOn_fr.opus</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			gcgbiJjHjdtEtPBZ2xFYXa7lheyeqsFeU7+utShIZkY=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/liveStreamingOn_frCA.mp3</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ZVX+e3f4JCrTmJj08+EhbK2dTHa8F0LIBTEGggpv4oE=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/liveStreamingOn_frCA.opus</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			gcgbiJjHjdtEtPBZ2xFYXa7lheyeqsFeU7+utShIZkY=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/main.jsbundle</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ShrzzYoCrRIBLzL4cMTOR1FZFUB7wzbtX5ZcQ6isWH8=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/noAudioSignal.mp3</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			yuXCVdqTMdRcW5ZknsZkyuDwwks=
-			</data>
 			<key>hash2</key>
 			<data>
 			hhRLFcOnxVjYP/hqEJC9E9ymXnp1KnwgUG/2E1Vo0fc=
@@ -4465,10 +4355,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/noAudioSignal.opus</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			/4qQ6S94P0qHm4vBf2KzEQSciLU=
-			</data>
 			<key>hash2</key>
 			<data>
 			L/t2JzxalKNdbWc5f1Rsd5Yl9hlvwsm05A/mSn1mmuI=
@@ -4476,10 +4362,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/noisyAudioInput.mp3</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			yuXCVdqTMdRcW5ZknsZkyuDwwks=
-			</data>
 			<key>hash2</key>
 			<data>
 			hhRLFcOnxVjYP/hqEJC9E9ymXnp1KnwgUG/2E1Vo0fc=
@@ -4487,10 +4369,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/noisyAudioInput.opus</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			hqGj97UmGfa50qT6HvJJyaTS/4I=
-			</data>
 			<key>hash2</key>
 			<data>
 			pcsPo+6uHgD+qHqtA9/CiFe2/ptipIYiPi0i/tBMqnk=
@@ -4498,10 +4376,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/outgoingRinging.mp3</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			NfybRtSdGXznKE7od9hfiFEc85E=
-			</data>
 			<key>hash2</key>
 			<data>
 			ahIUkdNFybB+ngvIkNHsu+rPdKNQUFTiXrLOOoR4ekQ=
@@ -4509,10 +4383,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/outgoingRinging.opus</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Cw5sLfNg4tEwnOtN4KmyTbQt+XU=
-			</data>
 			<key>hash2</key>
 			<data>
 			quouGBmUnss8IfkdZnEe4AwVeqykSHe9AyFGIRDueQQ=
@@ -4520,10 +4390,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/outgoingRinging.wav</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			d6uIyHBXCOsT0esieScsvX5O2XE=
-			</data>
 			<key>hash2</key>
 			<data>
 			XAOBddA+V+0VEDKJyvNn8apUF3O5gmBAj7JfLnpLPBE=
@@ -4531,10 +4397,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/outgoingStart.mp3</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Vg2axHk2O/FhsNB0kb6rSGdqbDo=
-			</data>
 			<key>hash2</key>
 			<data>
 			jtqevI3y/xh8rvWPquh94YLSedSBZPXWcbuSGaJo8No=
@@ -4542,10 +4404,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/outgoingStart.opus</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			bsWId049kivsKtbRO+43Fon9oN0=
-			</data>
 			<key>hash2</key>
 			<data>
 			xQT3toEBJ5ngc37co8QMGAm6hoXrs07UYIKNu87VNwc=
@@ -4553,10 +4411,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/outgoingStart.wav</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			P5BB9NApgN+OrOs/iOq9RDqR6TM=
-			</data>
 			<key>hash2</key>
 			<data>
 			Ayr3NByzTZzhI3fRukuINKRNm2VGy/BoXbi5zY7DJw8=
@@ -4564,10 +4418,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/reactions-applause.mp3</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			0HxCuLx1JH8nwlA+zhP9LsgGSbo=
-			</data>
 			<key>hash2</key>
 			<data>
 			UsBFRiLLlmSzGbBQJTgZkBbXf9z1ayvIVH5YT21Pwoo=
@@ -4575,10 +4425,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/reactions-applause.opus</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			DMHrdpNsd2git3hb88ZEUQdOIsM=
-			</data>
 			<key>hash2</key>
 			<data>
 			2bTG0oxNVDIPEP0naMTTpJB7Sv3x13U56JzOcmtWZEs=
@@ -4586,10 +4432,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/reactions-boo.mp3</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			YAW3WvKOZwD4rbgrMmitByZauFI=
-			</data>
 			<key>hash2</key>
 			<data>
 			K1gDTZQPz1BzSVEkmXO9P8l6xdmvChhFfKYLJUHn84M=
@@ -4597,10 +4439,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/reactions-boo.opus</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			wTr8iwRRh6izqUaah3vPm/pwOGk=
-			</data>
 			<key>hash2</key>
 			<data>
 			JLlMRe3hdcypvMkeT4c3h5AUNN/gw4KiI4rAQauf2nA=
@@ -4608,10 +4446,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/reactions-crickets.mp3</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			fFxUfkq4X6w1UMr2wrwx/dZFhfA=
-			</data>
 			<key>hash2</key>
 			<data>
 			/HC8tNr7ilYvZ6Ey3rG3Wc3kvex2l89Kw87aEJw9PJg=
@@ -4619,10 +4453,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/reactions-crickets.opus</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			N7RE5/CbTme0P5EhIGtbtE5tbEg=
-			</data>
 			<key>hash2</key>
 			<data>
 			yCzJdJ/AnBDCN1pIIn4Z2YEPPdFTcobyIR36XNerj5c=
@@ -4630,10 +4460,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/reactions-laughter.mp3</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			+gjLe3YNPRUb8ceVxGSUPKq/Uss=
-			</data>
 			<key>hash2</key>
 			<data>
 			RMVEHiQS3C4tD1fSmvI6R6AUfBBtkdPpIARFkAvN8qI=
@@ -4641,21 +4467,27 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/reactions-laughter.opus</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			daagpK4Dh/Zg79OD/TvhWJCVi2o=
-			</data>
 			<key>hash2</key>
 			<data>
 			mU59mwtVu7n1roflnfTbkjc3ZWCeUa+H9DugLyzEYAI=
 			</data>
 		</dict>
+		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/reactions-love.mp3</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Ky/wkKrgWedHpTAZcEmMIVQo7wthunQPstltY1ytz6w=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/reactions-love.opus</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			GjY62mkuFjk9WQhUpdG86der/scCSWo57zsnVYYQdS4=
+			</data>
+		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/reactions-raised-hand.mp3</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			9Z9tv5uYHIhZNFr1ApU4ZNTF4nc=
-			</data>
 			<key>hash2</key>
 			<data>
 			E33GwlM3yUnxYUu8SYIPQd3p86z/EGVDzVrWqaF3FUE=
@@ -4663,10 +4495,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/reactions-raised-hand.opus</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			hypfDy/28hnts3LpeCv8s70KdE8=
-			</data>
 			<key>hash2</key>
 			<data>
 			P/s0kOnA+lMnHhNKTLj8oOiThADjcct/6GUX7GJOVCk=
@@ -4674,10 +4502,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/reactions-surprise.mp3</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			cbdsAE6QbQMyA2wybujfr0OVH1o=
-			</data>
 			<key>hash2</key>
 			<data>
 			M4v7KitOHBhTy7dgd2qJTDwJJIODPB1dLRTNfZwzv5w=
@@ -4685,10 +4509,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/reactions-surprise.opus</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			KKnH7kEGNCGkptXh+B7bfKNZGnM=
-			</data>
 			<key>hash2</key>
 			<data>
 			WLhF5SC6DS/xFc14BhTupOUpW7Gmyhhv3sxozumvkjo=
@@ -4696,10 +4516,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/reactions-thumbs-up.mp3</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			GpHo2wz+F0Krs8HfNE5PsRbKcXU=
-			</data>
 			<key>hash2</key>
 			<data>
 			Jr54QTly7SMrdu6VunKw8y/XUy6rKPDAYgInUpUJIjI=
@@ -4707,10 +4523,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/reactions-thumbs-up.opus</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Xa1t4vON6nX5syo1lZR2cVFHZ3M=
-			</data>
 			<key>hash2</key>
 			<data>
 			Lh+sJpCGWYImSgkbfVqYCC8tt0JxVQmMQhiaWHrOTH0=
@@ -4718,10 +4530,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/recordingOff.mp3</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			qXPvRHo5SBhRG0hBb/3EDl7+dBM=
-			</data>
 			<key>hash2</key>
 			<data>
 			h+w4iVYoVLicZgD2g76BJXv+IplQRY1N8S7/6Mw2L2A=
@@ -4729,21 +4537,41 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/recordingOff.opus</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			8DbnHNMXUlgmxWzZVJ99xlsCxiY=
-			</data>
 			<key>hash2</key>
 			<data>
 			8ZX8yYmlHkDC9dtOv0j70BCF/aX6cgoZcCOAtw+yzuM=
 			</data>
 		</dict>
+		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/recordingOff_fr.mp3</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			bLM8YLmSFILst2noaDYIDu8/iKfw28uLm1FxlvXltF4=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/recordingOff_fr.opus</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			jZvnToDwuoAryPFcY02+o8o6/te8XI/1dMDbYRuWEhk=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/recordingOff_frCA.mp3</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			bLM8YLmSFILst2noaDYIDu8/iKfw28uLm1FxlvXltF4=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/recordingOff_frCA.opus</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			jZvnToDwuoAryPFcY02+o8o6/te8XI/1dMDbYRuWEhk=
+			</data>
+		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/recordingOn.mp3</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			KPp2jEzKD9nL4R/c6GY3RGafGBk=
-			</data>
 			<key>hash2</key>
 			<data>
 			KV7YLNMe6q6NOVRnZwdh+cTbjRlZltpViIw0QIkdtoI=
@@ -4751,21 +4579,41 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/recordingOn.opus</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			8bo3fQGV+/gcngckWX+rHVSq5bM=
-			</data>
 			<key>hash2</key>
 			<data>
 			Da2Txd66aJAnIlhCJVMC0UeyBb9BrbS+LTPEx/jqjLw=
 			</data>
 		</dict>
+		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/recordingOn_fr.mp3</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			/yVx4eOlkzXOBDjo9z8zbhA6RYLKLl61x9v7fMPqHJ4=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/recordingOn_fr.opus</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			5L3pketVbKY9wqr9ss9yV98jLnbb0XpF/R+H4BSoXMc=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/recordingOn_frCA.mp3</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			/yVx4eOlkzXOBDjo9z8zbhA6RYLKLl61x9v7fMPqHJ4=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/recordingOn_frCA.opus</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			5L3pketVbKY9wqr9ss9yV98jLnbb0XpF/R+H4BSoXMc=
+			</data>
+		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/rejected.mp3</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			gQjdmPjN1qgXx3jUZf6cgSlKHUE=
-			</data>
 			<key>hash2</key>
 			<data>
 			u8NKf7/NOBB5x3QgEqtDAAC3KLnJ6pnkq0nXSASUWxI=
@@ -4773,10 +4621,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/rejected.opus</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ZQIDwRsKKVnxqNynJOC9RL3oBRk=
-			</data>
 			<key>hash2</key>
 			<data>
 			3LQV2y24+Bm9UZnN09/eAbJ6bCDu2FjzSUtjR1r4uO8=
@@ -4784,10 +4628,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/rejected.wav</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			m4GVNFynKDfhVppM1vc7OfIwOSQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			mr6fLyl8mg0jSEaG+DF3uM4G22CuPMP7zWD7amaUNVo=
@@ -4795,10 +4635,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/ring.mp3</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ktyn7jfgIITZQKCSe0WXnxyqmDQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			tlbavmhLZ7S6kXCMHaQ0yFx4wqlFS/SCU1Id2POIjYw=
@@ -4806,10 +4642,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/ring.opus</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			9D42kr0XTmKZiRZe+21iN8D06lA=
-			</data>
 			<key>hash2</key>
 			<data>
 			bAWQ0nXlhbemJMB5BK95uastXJ/1Y3xbYfS0u4Z5/S8=
@@ -4817,10 +4649,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/ring.wav</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ht5IyzdZ+KTa5cPdFtnffFx94sU=
-			</data>
 			<key>hash2</key>
 			<data>
 			yW6zgmHQlezTx/QyC/oXW9yn3Zg2GxuqPGBZMwmTEtc=
@@ -4828,10 +4656,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/talkWhileMuted.mp3</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			yuXCVdqTMdRcW5ZknsZkyuDwwks=
-			</data>
 			<key>hash2</key>
 			<data>
 			hhRLFcOnxVjYP/hqEJC9E9ymXnp1KnwgUG/2E1Vo0fc=
@@ -4839,10 +4663,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/JitsiMeetSDK.framework/talkWhileMuted.opus</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			f080SaeV5boZEqynWfZfldv/b2g=
-			</data>
 			<key>hash2</key>
 			<data>
 			qeIe9m2S+0fXuk/wtx7o4IiYfZbhW7mT9hWZ6Am+KO0=

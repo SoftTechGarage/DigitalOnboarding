@@ -1,7 +1,7 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 6.0.3 effective-5.10 (swiftlang-6.0.3.1.10 clang-1600.0.30.1)
-// swift-module-flags: -target arm64-apple-ios13.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-bare-slash-regex -module-name onboarding
-// swift-module-flags-ignorable: -no-verify-emitted-module-interface
+// swift-compiler-version: Apple Swift version 6.2.3 effective-5.10 (swiftlang-6.2.3.3.21 clang-1700.6.3.2)
+// swift-module-flags: -target arm64-apple-ios15.1-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-experimental-feature DebugDescriptionMacro -enable-bare-slash-regex -module-name onboarding
+// swift-module-flags-ignorable: -no-verify-emitted-module-interface -formal-cxx-interoperability-mode=off -interface-compiler-version 6.2.3
 import AVFoundation
 import CoreNFC
 import CoreText
@@ -43,22 +43,32 @@ public protocol OnboardingBottomSheetDialogDelegate {
   @objc deinit
 }
 public class OnboardingTheme {
+  #if compiler(>=5.3) && $NonescapableTypes
   public init(titleColor: UIKit.UIColor? = nil, borderColor: UIKit.UIColor? = nil, boxEmptyColor: UIKit.UIColor? = nil, boxFillColor: UIKit.UIColor? = nil, mainTextColor: UIKit.UIColor? = nil, revertTextColor: UIKit.UIColor? = nil, warningTextColor: UIKit.UIColor? = nil, backgroundColor: UIKit.UIColor? = nil, dialogBackgroundColor: UIKit.UIColor? = nil, buttonColor: UIKit.UIColor? = nil, buttonTextColor: UIKit.UIColor? = nil, loadingBackgroundColor: UIKit.UIColor? = nil, dialogButtonColor: UIKit.UIColor? = nil, dialogButtonTextColor: UIKit.UIColor? = nil, boxHintFillColor: UIKit.UIColor? = nil)
+  #endif
   @objc deinit
 }
 public protocol OnboardingWarningDelegate {
   func onOnboardingWarningClosed()
 }
 extension UIKit.UIView {
+  #if compiler(>=5.3) && $NonescapableTypes
   @_Concurrency.MainActor @preconcurrency public func loadViewFromNib() -> UIKit.UIView?
+  #endif
   @_Concurrency.MainActor @preconcurrency public func fillSuperview(with equalPadding: CoreFoundation.CGFloat)
   @_Concurrency.MainActor @preconcurrency public func fillSuperview(horizontalPadding: CoreFoundation.CGFloat, verticalPadding: CoreFoundation.CGFloat)
   @_Concurrency.MainActor @preconcurrency public func fillSuperview(with padding: UIKit.UIEdgeInsets = .zero)
   @_Concurrency.MainActor @preconcurrency public func fillSafeArea(with padding: UIKit.UIEdgeInsets = .zero)
+  #if compiler(>=5.3) && $NonescapableTypes
   @_Concurrency.MainActor @preconcurrency public func anchor(top: UIKit.NSLayoutYAxisAnchor? = nil, leading: UIKit.NSLayoutXAxisAnchor? = nil, bottom: UIKit.NSLayoutYAxisAnchor? = nil, trailing: UIKit.NSLayoutXAxisAnchor? = nil, topPadding: CoreFoundation.CGFloat = 0, leadingPadding: CoreFoundation.CGFloat = 0, bottomPadding: CoreFoundation.CGFloat = 0, trailingPadding: CoreFoundation.CGFloat = 0, size: CoreFoundation.CGSize = .zero)
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
   @_Concurrency.MainActor @preconcurrency public func sizeAnchor(width: CoreFoundation.CGFloat? = nil, height: CoreFoundation.CGFloat? = nil)
+  #endif
   @_Concurrency.MainActor @preconcurrency public func aspect(ratio: CoreFoundation.CGFloat)
+  #if compiler(>=5.3) && $NonescapableTypes
   @_Concurrency.MainActor @preconcurrency public func centerAnchor(centerY: UIKit.NSLayoutYAxisAnchor? = nil, centerX: UIKit.NSLayoutXAxisAnchor? = nil, x: CoreFoundation.CGFloat = 0, y: CoreFoundation.CGFloat = 0)
+  #endif
   @_Concurrency.MainActor @preconcurrency public func centerYAnchor(to item: UIKit.UIView, multiplier: CoreFoundation.CGFloat = 0, constant: CoreFoundation.CGFloat = 0)
   @_Concurrency.MainActor @preconcurrency public func centerXAnchor(to item: UIKit.UIView, multiplier: CoreFoundation.CGFloat = 0, constant: CoreFoundation.CGFloat = 0)
   @_Concurrency.MainActor @preconcurrency public func alignCenterToSuperView()
@@ -102,17 +112,37 @@ public enum OnboardingResult {
 public class Onboarding {
   public static var delegate: (any onboarding.OnboardingDelegate)?
   public static var language: Swift.String?
+  #if compiler(>=5.3) && $NonescapableTypes
   public static func start(vc: UIKit.UINavigationController?, process: Swift.String, lng: Swift.String)
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
   public static func start(vc: UIKit.UINavigationController?, language: Swift.String? = nil, process: Swift.String? = nil, initialParameters: Swift.String? = nil, externalKey: Swift.String? = nil)
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
   public static func test(vc: UIKit.UINavigationController, parameters: Swift.String, resource: Swift.String, theme: onboarding.OnboardingTheme? = nil, endPoint: Swift.String? = nil)
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
   public init(vc: UIKit.UINavigationController?)
+  #endif
   public func setEndpoint(endPoint: Swift.String) -> onboarding.Onboarding
+  #if compiler(>=5.3) && $NonescapableTypes
   public func setLanguage(language: Swift.String?) -> onboarding.Onboarding
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
   public func setTenant(tenant: Swift.String?) -> onboarding.Onboarding
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
   public func setProcess(process: Swift.String?) -> onboarding.Onboarding
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
   public func setJson(json: Swift.String?) -> onboarding.Onboarding
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
   public func setPredefined(predefined: Swift.String?) -> onboarding.Onboarding
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
   public func setExternalKey(externalKey: Swift.String?) -> onboarding.Onboarding
+  #endif
   public func setTheme(theme: onboarding.OnboardingTheme) -> onboarding.Onboarding
   public func start()
   @objc deinit
