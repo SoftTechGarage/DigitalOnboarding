@@ -28,13 +28,13 @@ let package = Package(
                 "onboarding",
                 "OpenSSL",
                 "libtesseract",
-                "hermes",
+                "hermesvm",
                 .product(name: "GiphyUISDK", package: "giphy-ios-sdk"),
                 .product(name: "WebRTC", package: "webrtc"),
             ]),
         .binaryTarget(
-            name: "hermes",
-            path: "Sources/hermes.xcframework"),
+            name: "hermesvm",
+            path: "Sources/hermesvm.xcframework"),
         .binaryTarget(
             name: "JitsiMeetSDK",
             path: "Sources/JitsiMeetSDK.xcframework"),

@@ -4626,7 +4626,14 @@
     {
       "filePath": "\/Users\/salih.kir\/SofttechProjects\/Onboarding\/onboardingios-demo\/SDK\/onboarding\/ui\/OnboardingFormItem.swift",
       "kind": "BooleanLiteral",
-      "offset": 2837,
+      "offset": 324,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/salih.kir\/SofttechProjects\/Onboarding\/onboardingios-demo\/SDK\/onboarding\/ui\/OnboardingFormItem.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3076,
       "length": 4,
       "value": "true"
     },
